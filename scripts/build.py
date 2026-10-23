@@ -109,7 +109,7 @@ featured=[rmap[n.lower()] for n in featured_names if n.lower() in rmap]
 gallery=json.loads((ROOT/'data/featured-gallery.json').read_text(encoding='utf-8'))
 promptmap={p['id']:p for p in prompts}
 for zh,name in [(False,'README.md'),(True,'README.zh-CN.md')]:
- text='# Awesome AI Creative Skills\n\n'
+ text='![awesome-ai-creative-skills — Curated skills & prompts for AI image and video generation](assets/banner.png)\n\n# Awesome AI Creative Skills\n\n'
  text+='[English](README.md) · [简体中文](README.zh-CN.md)\n\n'
  text+='> '+('把想法变成视频、图像、动效和三维世界的 Skill、Prompt、工具与作品资料库。' if zh else 'Skills, prompts, tools and examples that turn ideas into videos, images, motion graphics and 3D worlds.')+'\n\n'
  text+='[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Stars](https://img.shields.io/github/stars/'+DATA['repository']+'?style=flat)](https://github.com/'+DATA['repository']+'/stargazers)\n\n'

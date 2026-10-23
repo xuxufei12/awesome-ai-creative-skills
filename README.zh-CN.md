@@ -1,3 +1,5 @@
+![awesome-ai-creative-skills — Curated skills & prompts for AI image and video generation](assets/banner.png)
+
 # Awesome AI Creative Skills
 
 [English](README.md) · [简体中文](README.zh-CN.md)
