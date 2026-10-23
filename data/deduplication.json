@@ -1,0 +1,649 @@
+[
+  {
+    "kind": "prompt",
+    "title": "15 秒动态设计作品集（Max effort）",
+    "kept_id": "48310ffc9e96f244",
+    "source": {
+      "repo": "joeseesun/opus-video-prompts",
+      "url": "https://github.com/joeseesun/opus-video-prompts/blob/7977c807781d4ba7c235247b8899a72575a30d00/prompts/02-motion-showreel-15s.md",
+      "original_url": "https://x.com/stephanlivera/status/2103315922098470926"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "用一句话介绍推理服务",
+    "kept_id": "b886432061694505",
+    "source": {
+      "repo": "guanmo-ai/awesome-ai-motion",
+      "url": "https://github.com/guanmo-ai/awesome-ai-motion/blob/8560da8f7e1b5cea4ee50cf835545222d057fac8/data/cases.json",
+      "original_url": "https://x.com/deedydas/status/2102787937482252537",
+      "record": "2102787937482252537"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "15 秒动态设计自由发挥",
+    "kept_id": "48310ffc9e96f244",
+    "source": {
+      "repo": "guanmo-ai/awesome-ai-motion",
+      "url": "https://github.com/guanmo-ai/awesome-ai-motion/blob/8560da8f7e1b5cea4ee50cf835545222d057fac8/data/cases.json",
+      "original_url": "https://x.com/stephanlivera/status/2103315922098470926",
+      "record": "2103315922098470926"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "一个形状串起整套 UI",
+    "kept_id": "99861a38d4fc0d95",
+    "source": {
+      "repo": "guanmo-ai/awesome-ai-motion",
+      "url": "https://github.com/guanmo-ai/awesome-ai-motion/blob/8560da8f7e1b5cea4ee50cf835545222d057fac8/data/cases.json",
+      "original_url": "https://x.com/twoclipping/status/2103273003555402193",
+      "record": "2103273003555402193"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "用线稿回顾中华五千年",
+    "kept_id": "b96b0e7a1909a5fd",
+    "source": {
+      "repo": "guanmo-ai/awesome-ai-motion",
+      "url": "https://github.com/guanmo-ai/awesome-ai-motion/blob/8560da8f7e1b5cea4ee50cf835545222d057fac8/data/cases.json",
+      "original_url": "https://x.com/akokoi1/status/2102583898865873225",
+      "record": "2102583898865873225"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "把大气环流讲成动画",
+    "kept_id": "702d32c634e11fcd",
+    "source": {
+      "repo": "guanmo-ai/awesome-ai-motion",
+      "url": "https://github.com/guanmo-ai/awesome-ai-motion/blob/8560da8f7e1b5cea4ee50cf835545222d057fac8/data/cases.json",
+      "original_url": "https://x.com/akokoi1/status/2102606609574941028",
+      "record": "2102606609574941028"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "让鸡尾酒配方动起来",
+    "kept_id": "a4d075ff15cf5d06",
+    "source": {
+      "repo": "guanmo-ai/awesome-ai-motion",
+      "url": "https://github.com/guanmo-ai/awesome-ai-motion/blob/8560da8f7e1b5cea4ee50cf835545222d057fac8/data/cases.json",
+      "original_url": "https://x.com/Ror_Fly/status/2102853258582880547",
+      "record": "2102853258582880547"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "用代码讲述奥斯特里茨战役",
+    "kept_id": "aeb844cd1c093d80",
+    "source": {
+      "repo": "guanmo-ai/awesome-ai-motion",
+      "url": "https://github.com/guanmo-ai/awesome-ai-motion/blob/8560da8f7e1b5cea4ee50cf835545222d057fac8/data/cases.json",
+      "original_url": "https://x.com/WinterArc2125/status/2103116235009347650",
+      "record": "2103116235009347650"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "像素巫师的施法循环",
+    "kept_id": "17cd6d2a90495f95",
+    "source": {
+      "repo": "guanmo-ai/awesome-ai-motion",
+      "url": "https://github.com/guanmo-ai/awesome-ai-motion/blob/8560da8f7e1b5cea4ee50cf835545222d057fac8/data/cases.json",
+      "original_url": "https://x.com/majidmanzarpour/status/2102476258948927543",
+      "record": "2102476258948927543"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "五个场景讲清一门生意",
+    "kept_id": "eba14f8a437e909f",
+    "source": {
+      "repo": "guanmo-ai/awesome-ai-motion",
+      "url": "https://github.com/guanmo-ai/awesome-ai-motion/blob/8560da8f7e1b5cea4ee50cf835545222d057fac8/data/cases.json",
+      "original_url": "https://x.com/alex_prompter/status/2103499977632997524",
+      "record": "2103499977632997524"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "Leon 的 15 秒动效作品集",
+    "kept_id": "48310ffc9e96f244",
+    "source": {
+      "repo": "guanmo-ai/awesome-ai-motion",
+      "url": "https://github.com/guanmo-ai/awesome-ai-motion/blob/8560da8f7e1b5cea4ee50cf835545222d057fac8/data/cases.json",
+      "original_url": "https://x.com/leonabboud/status/2103576084499358051",
+      "record": "2103576084499358051"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "十五秒动态图形作品集",
+    "kept_id": "48310ffc9e96f244",
+    "source": {
+      "repo": "guanmo-ai/awesome-ai-motion",
+      "url": "https://github.com/guanmo-ai/awesome-ai-motion/blob/8560da8f7e1b5cea4ee50cf835545222d057fac8/data/cases.json",
+      "original_url": "https://x.com/ajith_io/status/2103449416325890146",
+      "record": "2103449416325890146"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "explainer · @Ror_Fly · 880547",
+    "kept_id": "a4d075ff15cf5d06",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/Ror_Fly/status/2102853258582880547",
+      "record": "ror-fly-880547"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "motion · @twoclipping · 402193",
+    "kept_id": "99861a38d4fc0d95",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/twoclipping/status/2103273003555402193",
+      "record": "twoclipping-402193"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "explainer · @deedydas · 252537",
+    "kept_id": "b886432061694505",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/deedydas/status/2102787937482252537",
+      "record": "deedydas-252537"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "explainer · @sudo_kiran · 335993",
+    "kept_id": "901176172bc6b3a0",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/sudo_kiran/status/2103761658745335993",
+      "record": "sudo-kiran-335993"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "3d · @twoclipping · 000267",
+    "kept_id": "d3ddad37a0494460",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/twoclipping/status/2102554209166000267",
+      "record": "twoclipping-000267"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "3d · @__morse · 369333",
+    "kept_id": "99861a38d4fc0d95",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/__morse/status/2103485566570369333",
+      "record": "morse-369333"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "motion · @pankajkumar_dev · 718609",
+    "kept_id": "be2a5be0f8e86c5d",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/pankajkumar_dev/status/2103502614134718609",
+      "record": "pankajkumar-dev-718609"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "3d · @lukasersil · 726495",
+    "kept_id": "157c48ef3c6df46a",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/lukasersil/status/2103742861971726495",
+      "record": "lukasersil-726495"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "interactive · @zacxbt · 944604",
+    "kept_id": "17cd6d2a90495f95",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/zacxbt/status/2103808699466944604",
+      "record": "zacxbt-944604"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "motion · @itisRazak · 332386",
+    "kept_id": "52d7c392489bd43b",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/itisRazak/status/2103517930424332386",
+      "record": "itisrazak-332386"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "motion · @majidmanzarpour · 927543",
+    "kept_id": "17cd6d2a90495f95",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/majidmanzarpour/status/2102476258948927543",
+      "record": "majidmanzarpour-927543"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "3d · @AxtonLiu · 290566",
+    "kept_id": "103e165a8d2587e3",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/AxtonLiu/status/2103119648271290566",
+      "record": "axtonliu-290566"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "motion · @demonugc · 525162",
+    "kept_id": "99861a38d4fc0d95",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/demonugc/status/2103526713208525162",
+      "record": "demonugc-525162"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "explainer · @alex_prompter · 997524",
+    "kept_id": "eba14f8a437e909f",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/alex_prompter/status/2103499977632997524",
+      "record": "alex-prompter-997524"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "3d · @Sayan_shanky · 868515",
+    "kept_id": "f82dfb3be718b7aa",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/Sayan_shanky/status/2103736579449868515",
+      "record": "sayan-shanky-868515"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "motion · @sahilvermaai · 189237",
+    "kept_id": "be2a5be0f8e86c5d",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/sahilvermaai/status/2103725292095189237",
+      "record": "sahilvermaai-189237"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "motion · @dzhohola · 249003",
+    "kept_id": "99861a38d4fc0d95",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/dzhohola/status/2103605737595249003",
+      "record": "dzhohola-249003"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "motion · @hiCallMeChai · 878304",
+    "kept_id": "99861a38d4fc0d95",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/hiCallMeChai/status/2103600312296878304",
+      "record": "hicallmechai-878304"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "motion · @1littlecoder · 914649",
+    "kept_id": "379c1a93cd94a01b",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/1littlecoder/status/2103587706999914649",
+      "record": "1littlecoder-914649"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "motion · @LeanZubrezki · 766171",
+    "kept_id": "7bb51ec068139783",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/LeanZubrezki/status/2103502063950766171",
+      "record": "leanzubrezki-766171"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "motion · @nezbuilds · 294391",
+    "kept_id": "99861a38d4fc0d95",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/nezbuilds/status/2103487427365294391",
+      "record": "nezbuilds-294391"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "motion · @sanjeevn72 · 457691",
+    "kept_id": "99861a38d4fc0d95",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/sanjeevn72/status/2103456358125457691",
+      "record": "sanjeevn72-457691"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "explainer · @Sarut0biSasuke · 069973",
+    "kept_id": "d1a0ae05981c026f",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/Sarut0biSasuke/status/2103418429248069973",
+      "record": "sarut0bisasuke-069973"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "3d · @RaphaelAubryy · 687877",
+    "kept_id": "d3ddad37a0494460",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/RaphaelAubryy/status/2103413596822687877",
+      "record": "raphaelaubryy-687877"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "motion · @hSanat · 012699",
+    "kept_id": "7bb51ec068139783",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/hSanat/status/2103358205091012699",
+      "record": "hsanat-012699"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "motion · @drrickio · 009558",
+    "kept_id": "7bb51ec068139783",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/drrickio/status/2103333836130009558",
+      "record": "drrickio-009558"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "motion · @pbteja1998 · 651644",
+    "kept_id": "7bb51ec068139783",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/pbteja1998/status/2103176101497651644",
+      "record": "pbteja1998-651644"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "motion · @SuryaRajendhran · 730437",
+    "kept_id": "f59667599d2ea44d",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/SuryaRajendhran/status/2103122292343730437",
+      "record": "suryarajendhran-730437"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "motion · @KamStudioLabs · 440893",
+    "kept_id": "87c9259cc1295d9d",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/KamStudioLabs/status/2102899866762440893",
+      "record": "kamstudiolabs-440893"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "motion · @KamStudioLabs · 877996",
+    "kept_id": "3b496c6832667b84",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/KamStudioLabs/status/2102903173161877996",
+      "record": "kamstudiolabs-877996"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "motion · @KamStudioLabs · 100086",
+    "kept_id": "ae901ca253741f14",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/KamStudioLabs/status/2102908742518100086",
+      "record": "kamstudiolabs-100086"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "motion · @x4b47x · 034026",
+    "kept_id": "e74eba2ba04382e2",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/x4b47x/status/2103019799614034026",
+      "record": "x4b47x-034026"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "interactive · @op7418 · 818226",
+    "kept_id": "ee1f7a02c2a6db88",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/op7418/status/2104085484347818226",
+      "record": "op7418-818226"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "Startup Promo Video",
+    "kept_id": "b886432061694505",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/q970270495/status/2105233470574497923",
+      "record": "q970270495-497923"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "Hoplite Feature Launch",
+    "kept_id": "1020116b61e557cc",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/ryan_morr/status/2104249941136666741",
+      "record": "ryan-morr-666741"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "Git Explainer",
+    "kept_id": "4ec7876aa4ebe646",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/Yunn260414/status/2104044910769016888",
+      "record": "yunn260414-016888"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "YouTube Transcript Ad Motion",
+    "kept_id": "31b666d96d4ab390",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/tstfully/status/2104033772949680192",
+      "record": "tstfully-680192"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "What is Transformer Explainer",
+    "kept_id": "c1b7a2510d6c862f",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/dotey/status/2103683057689522564",
+      "record": "dotey-522564"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "PayBox Logo Motion Design",
+    "kept_id": "30b2303593c8087e",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/0xValure/status/2103603029224354245",
+      "record": "0xvalure-354245"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "Opus 5.5 Self-Personification Motion Graphics",
+    "kept_id": "b47fbc581cf3c5b4",
+    "source": {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json",
+      "original_url": "https://x.com/mtvneo_/status/2103407813355819281",
+      "record": "mtvneo-819281"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "15 秒动效作品集(全网最火的一句话)",
+    "kept_id": "48310ffc9e96f244",
+    "source": {
+      "url": "https://x.com/suroorwijdan/status/2103955408385908956",
+      "type": "User-provided PDF transcription",
+      "document": "opus-deepseek-video-prompts.pdf",
+      "pages": [
+        2
+      ],
+      "author": "@suroorwijdan(2026-09-26,0 赞)",
+      "verification": "PDF text checked; original post not independently verified"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "变体:给网站做 15 秒动效",
+    "kept_id": "270b2800720668fa",
+    "source": {
+      "url": "https://x.com/robvjourney/status/2103768390322237474",
+      "type": "User-provided PDF transcription",
+      "document": "opus-deepseek-video-prompts.pdf",
+      "pages": [
+        3
+      ],
+      "author": "@robvjourney(2026-09-26,1 赞)",
+      "verification": "PDF text checked; original post not independently verified"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "变体:让 Opus 自己选风格“炫技”",
+    "kept_id": "b933952dfe78acd8",
+    "source": {
+      "url": "https://x.com/nolkeeg/status/2103841917603635633",
+      "type": "User-provided PDF transcription",
+      "document": "opus-deepseek-video-prompts.pdf",
+      "pages": [
+        3
+      ],
+      "author": "@nolkeeg(2026-09-26,0 赞)",
+      "verification": "PDF text checked; original post not independently verified"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "产品介绍动画(JS + Canvas + 代码配乐)",
+    "kept_id": "05e2b6efca31842a",
+    "source": {
+      "url": "https://x.com/yatudou14/status/2107092673005822057",
+      "type": "User-provided PDF transcription",
+      "document": "opus-deepseek-video-prompts.pdf",
+      "pages": [
+        10,
+        11
+      ],
+      "author": "@yatudou14(2026-10-05,0 赞)",
+      "verification": "PDF text checked; original post not independently verified"
+    }
+  },
+  {
+    "kind": "prompt",
+    "title": "同一句 showreel 提示词跑 DeepSeek($0.08)",
+    "kept_id": "48310ffc9e96f244",
+    "source": {
+      "url": "https://x.com/Livvux/status/2111429487971975555",
+      "type": "User-provided PDF transcription",
+      "document": "opus-deepseek-video-prompts.pdf",
+      "pages": [
+        22
+      ],
+      "author": "@Livvux(2026-10-17,3 赞)",
+      "verification": "PDF text checked; original post not independently verified"
+    }
+  }
+]

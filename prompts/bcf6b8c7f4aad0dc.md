@@ -1,0 +1,43 @@
+[Home / 首页](../README.md) · [中文](../README.zh-CN.md) · [Full catalogue / 完整目录](../catalog/README.md)
+
+# motion · @0xRapzz · 433554
+
+**Category / 分类:** SVG 与动态图形  
+**Text status / 文本状态:** Partial prompt / original post text  
+**Origin / 收录方式:** Upstream structured prompt / post text
+
+Project / 项目: [yihui-dev/awesome-opus5-5-videos](../projects/yihui-dev--awesome-opus5-5-videos.md)
+
+Model labels in source / 来源模型标签: Claude / Opus
+
+## Sources / 来源
+
+- [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json)
+  - [Creator’s post / 作者原帖](https://x.com/0xRapzz/status/2106062139920433554)
+
+**Source note / 来源备注:** prompt_partial=True
+
+## Prompt / 提示词
+
+````text
+Remotion 
+Opus 5.5
+````
+
+## Effects / 对应效果
+
+<img src="https://media.skillry.dev/opus-5-5/0xrapzz-433554/original.e80f03b1f4.webp" alt="Original result poster" width="640" loading="lazy">
+
+[Open image / 查看原图](https://media.skillry.dev/opus-5-5/0xrapzz-433554/original.e80f03b1f4.webp)
+
+[↗ Watch original / remake](https://skillry.dev/ai-videos/opus-5-5/0xrapzz-433554)
+
+<img src="https://raw.githubusercontent.com/guanmo-ai/awesome-ai-motion/8560da8f7e1b5cea4ee50cf835545222d057fac8/assets/covers/2106062139920433554.jpg" alt="Upstream result frame" width="640" loading="lazy">
+
+[Open image / 查看原图](https://raw.githubusercontent.com/guanmo-ai/awesome-ai-motion/8560da8f7e1b5cea4ee50cf835545222d057fac8/assets/covers/2106062139920433554.jpg)
+
+[▶ Watch video / 播放视频](https://video.twimg.com/amplify_video/2106062069347074050/vid/avc1/1280x720/hbJpgsNfi7-H1Cw6.mp4?tag=14)
+
+https://video.twimg.com/amplify_video/2106062069347074050/vid/avc1/1280x720/hbJpgsNfi7-H1Cw6.mp4?tag=14
+
+*Upstream examples, not generated or reproduced by this catalogue. Some sections include input/reference images. / 上游示例，本项目未复现；部分示例同时含输入参考图。*

@@ -1,0 +1,36 @@
+[Home / 首页](../README.md) · [中文](../README.zh-CN.md) · [Full catalogue / 完整目录](../catalog/README.md)
+
+# 3D 细胞教学视频
+
+**Category / 分类:** 知识讲解  
+**Text status / 文本状态:** Upstream prompt status: brief  
+**Origin / 收录方式:** Upstream structured record
+
+Project / 项目: [guanmo-ai/awesome-ai-motion](../projects/guanmo-ai--awesome-ai-motion.md)
+
+Model labels in source / 来源模型标签: Claude Opus 5.5
+
+## Sources / 来源
+
+- [guanmo-ai/awesome-ai-motion](https://github.com/guanmo-ai/awesome-ai-motion/blob/8560da8f7e1b5cea4ee50cf835545222d057fac8/data/cases.json)
+  - [Creator’s post / 作者原帖](https://x.com/akokoi1/status/2104105016235860050)
+
+**Source note / 来源备注:** Upstream evidence labels are attributed, not independent validation by this catalogue.
+
+## Prompt / 提示词
+
+````text
+让Opus 5.5根据3D资产做一个适合中学生的教学视频。
+````
+
+## Effects / 对应效果
+
+<img src="https://raw.githubusercontent.com/guanmo-ai/awesome-ai-motion/8560da8f7e1b5cea4ee50cf835545222d057fac8/assets/covers/2104105016235860050.jpg" alt="Upstream result frame" width="640" loading="lazy">
+
+[Open image / 查看原图](https://raw.githubusercontent.com/guanmo-ai/awesome-ai-motion/8560da8f7e1b5cea4ee50cf835545222d057fac8/assets/covers/2104105016235860050.jpg)
+
+[▶ Watch video / 播放视频](https://video.twimg.com/amplify_video/2104104389426487297/vid/avc1/1920x1080/_j1HfD84Q6oiXQCD.mp4?tag=29)
+
+https://video.twimg.com/amplify_video/2104104389426487297/vid/avc1/1920x1080/_j1HfD84Q6oiXQCD.mp4?tag=29
+
+*Upstream examples, not generated or reproduced by this catalogue. Some sections include input/reference images. / 上游示例，本项目未复现；部分示例同时含输入参考图。*

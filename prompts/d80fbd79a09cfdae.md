@@ -1,0 +1,34 @@
+[Home / 首页](../README.md) · [中文](../README.zh-CN.md) · [Full catalogue / 完整目录](../catalog/README.md)
+
+# Minimal Yellow, Maximum Confidence
+
+**Category / 分类:** poster-graphic  
+**Text status / 文本状态:** Public text as recorded upstream; completeness not independently verified  
+**Origin / 收录方式:** 源仓库字段／代码块原文
+
+Project / 项目: [ych-chen/awesome-nano-banana-prompts](../projects/ych-chen--awesome-nano-banana-prompts.md)
+
+Model labels in source / 来源模型标签: Nano Banana Pro
+
+## Sources / 来源
+
+- [ych-chen/awesome-nano-banana-prompts](https://github.com/ych-chen/awesome-nano-banana-prompts/blob/b1eed2cbcae986860a448819a5146382090571ba/data/prompts.json)
+  - [Creator’s post / 作者原帖](https://x.com/SadiaMalik182/status/2073984278963335636)
+
+**Source note / 来源备注:** 可能含宣传文案或制作说明，不一定是完整生成提示词
+
+## Prompt / 提示词
+
+````text
+Minimal yellow Maximum confidence.
+Created with Gemini Nano Banana Pro on @Lart_AI.
+Full step-by-step tutorial below 👇
+````
+
+## Effects / 对应效果
+
+<img src="https://pbs.twimg.com/media/HMhFssZaUAAyTox.jpg?format=jpg&amp;name=large" alt="Upstream example" width="640" loading="lazy">
+
+[Open image / 查看原图](https://pbs.twimg.com/media/HMhFssZaUAAyTox.jpg?format=jpg&name=large)
+
+*Upstream examples, not generated or reproduced by this catalogue. Some sections include input/reference images. / 上游示例，本项目未复现；部分示例同时含输入参考图。*

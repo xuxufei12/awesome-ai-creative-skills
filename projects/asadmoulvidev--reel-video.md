@@ -1,0 +1,57 @@
+[Home / 首页](../README.md) · [中文](../README.zh-CN.md) · [Full catalogue / 完整目录](../catalog/README.md)
+
+# AsadMoulviDev/reel-video
+
+Create AI videos with Claude Code, Codex, Cursor, and Grok Build, with no extra generation fees beyond the plans you already pay for
+
+| Field / 字段 | Value / 内容 |
+|---|---|
+| Category / 分类 | 叙事动画与音乐视频 |
+| Type / 类型 | 工程／工具／待细分 |
+| Hosts mentioned / 提及宿主 | Claude / Opus, Codex |
+| Source status / 来源状态 | 已存 README |
+| Stars at snapshot / 采集时 Stars | 29 |
+| Snapshot / 来源快照 | 2026-10-22T05:57:36.608381+00:00 |
+| Pinned commit / 固定提交 | 39a5ea97e81994bbaa0a546fc85fd7668f012890 |
+| Upstream license / 上游许可证 | MIT 类许可（见原文） |
+| Archived upstream / 上游归档 | No |
+
+**Scope / 范围:** Host names are README mentions, not compatibility tests. / 宿主标签来自 README，不代表跨模型实测。
+
+## Sources / 来源
+
+- [GitHub snapshot](https://github.com/AsadMoulviDev/reel-video/blob/39a5ea97e81994bbaa0a546fc85fd7668f012890/README.md)
+
+## Setup & limits / 依赖与限制
+
+依赖与安装方式见固定提交的 README；本次未部署。
+
+扩展条目已收集来源说明；功能和效果未逐项运行复验。
+
+## Effects / 效果展示
+
+<img src="https://raw.githubusercontent.com/AsadMoulviDev/reel-video/39a5ea97e81994bbaa0a546fc85fd7668f012890/docs/media/hero.gif" alt="Upstream example" width="640" loading="lazy">
+
+[Open image / 查看原图](https://raw.githubusercontent.com/AsadMoulviDev/reel-video/39a5ea97e81994bbaa0a546fc85fd7668f012890/docs/media/hero.gif)
+
+<img src="https://raw.githubusercontent.com/AsadMoulviDev/reel-video/39a5ea97e81994bbaa0a546fc85fd7668f012890/docs/media/ui.gif" alt="Upstream example" width="640" loading="lazy">
+
+[Open image / 查看原图](https://raw.githubusercontent.com/AsadMoulviDev/reel-video/39a5ea97e81994bbaa0a546fc85fd7668f012890/docs/media/ui.gif)
+
+*Upstream examples, not generated or reproduced by this catalogue. Some sections include input/reference images. / 上游示例，本项目未复现；部分示例同时含输入参考图。*
+
+## Skills (0)
+
+No standalone SKILL.md was indexed / 未索引到独立 SKILL.md。
+
+## Prompts (0)
+
+No prompt text indexed / 未索引到可展示的提示词正文。
+
+## Cases (0)
+
+No separate case records / 未索引独立案例。
+
+## Star history / Star 趋势
+
+[View this upstream repository’s history / 查看上游趋势](https://www.star-history.com/#AsadMoulviDev/reel-video&Date)

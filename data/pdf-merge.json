@@ -1,0 +1,787 @@
+{
+  "document": "opus-deepseek-video-prompts.pdf",
+  "sha256": "107c7c92488a206e0cc6a097437725423f7a0c2a1299096fd9289a0ffb0dcd49",
+  "page_count": 45,
+  "repository_references": [
+    {
+      "repo": "Kianzzz/xilo-opus-video",
+      "existing": true,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "alchaincyf/huashu-motion",
+      "existing": false,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "alchaincyf/huashu-art-motion",
+      "existing": false,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "lemomo-ai/lemo-opuscar",
+      "existing": true,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "op7418/guizang-product-video-skill",
+      "existing": true,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "Azure12355/weilanx-claude-videos",
+      "existing": false,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "threerocks/sweety-handdraw-video",
+      "existing": true,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "cth9191/animate",
+      "existing": false,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "existing": true,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "remotion-dev/skills",
+      "existing": true,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "whaleyxbt/claude-motion",
+      "existing": true,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "howseen-ai/claude-motion-design",
+      "existing": true,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "charlie947/motion-graphics-skills",
+      "existing": true,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "haidrrrry/claude-remotion-skill",
+      "existing": false,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "AbubakrChan/product-launch-motion",
+      "existing": true,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "feitangyuan/onetake",
+      "existing": true,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "makevoid/motion-graphics-music-video-skill",
+      "existing": false,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "tuzhechen2005/opus-video-skills",
+      "existing": true,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "JohnHeibel/ClaudeAnimationBase",
+      "existing": true,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "diggerhq/shipvideo",
+      "existing": false,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "browser-use/video-use",
+      "existing": false,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "Agentchengfeng/chengfeng-videocut-skills",
+      "existing": true,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "dexhunter/seedance2-skill",
+      "existing": true,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "eternityspring/shuohao-skills",
+      "existing": false,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "oil-oil/dsh-oil-ui",
+      "existing": false,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "existing": false,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "joeseesun/opus-video-prompts",
+      "existing": false,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "Vincentwei1021/mg-styles-15",
+      "existing": false,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "zhuyansen/awesome-claude-video-skills",
+      "existing": true,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "guanmo-ai/awesome-ai-motion",
+      "existing": false,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "JohnHeibel/PDoomVideo",
+      "existing": true,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "Moh4696/refresh-yoghurt",
+      "existing": false,
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "repo": "WinterArc21/Battle-of-Austerlitz-Film",
+      "existing": false,
+      "pdf_pages": [
+        35,
+        21
+      ]
+    },
+    {
+      "repo": "remotion-dev/claude-code-plugin",
+      "existing": false,
+      "pdf_pages": [
+        35,
+        21
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "title": "15 秒动效作品集(全网最火的一句话)",
+      "pages": [
+        2
+      ],
+      "source": "https://x.com/suroorwijdan/status/2103955408385908956",
+      "kind": "prompt",
+      "prompt_ids": [
+        "48310ffc9e96f244"
+      ],
+      "guide_id": null
+    },
+    {
+      "title": "变体:印度文明 showreel + three.js",
+      "pages": [
+        2
+      ],
+      "source": "https://x.com/rashem48/status/2104078755987873880",
+      "kind": "prompt",
+      "prompt_ids": [
+        "07cc1fd5ea3cd2f7"
+      ],
+      "guide_id": null
+    },
+    {
+      "title": "变体:给自家 SaaS 做 15 秒宣传",
+      "pages": [
+        2
+      ],
+      "source": "https://x.com/justarieldotcom/status/2107066029549482420",
+      "kind": "prompt",
+      "prompt_ids": [
+        "9686b6af412b0ee8"
+      ],
+      "guide_id": null
+    },
+    {
+      "title": "变体:给网站做 15 秒动效",
+      "pages": [
+        3
+      ],
+      "source": "https://x.com/robvjourney/status/2103768390322237474",
+      "kind": "prompt",
+      "prompt_ids": [
+        "270b2800720668fa"
+      ],
+      "guide_id": null
+    },
+    {
+      "title": "变体:让 Opus 自己选风格“炫技”",
+      "pages": [
+        3
+      ],
+      "source": "https://x.com/nolkeeg/status/2103841917603635633",
+      "kind": "prompt",
+      "prompt_ids": [
+        "b933952dfe78acd8"
+      ],
+      "guide_id": null
+    },
+    {
+      "title": "Opus 家族史(Remotion,一句话)",
+      "pages": [
+        3
+      ],
+      "source": "https://x.com/alu1337/status/2103660849055547730",
+      "kind": "prompt",
+      "prompt_ids": [
+        "89aa5ad3d7a27585"
+      ],
+      "guide_id": null
+    },
+    {
+      "title": "中华五千年历史(线稿风)",
+      "pages": [
+        3,
+        4
+      ],
+      "source": "https://x.com/denziideng/status/2107337936207553004",
+      "kind": "prompt",
+      "prompt_ids": [
+        "e6466dac504d4a40"
+      ],
+      "guide_id": null
+    },
+    {
+      "title": "你问 AI 一句话之后的 3 秒钟(公众号作者实战)",
+      "pages": [
+        4
+      ],
+      "source": "https://x.com/River_Twain/status/2109222136128663894",
+      "kind": "prompt",
+      "prompt_ids": [
+        "1509d2058f571475"
+      ],
+      "guide_id": null
+    },
+    {
+      "title": "讲解任意主题(线稿 + Canvas + Playwright/ffmpeg)",
+      "pages": [
+        4
+      ],
+      "source": "https://x.com/grok/status/2104781300414443525",
+      "kind": "prompt",
+      "prompt_ids": [
+        "8d458d3cf134a2da"
+      ],
+      "guide_id": null
+    },
+    {
+      "title": "8 个可直接复制的提示词([ ] 换成你的内容)",
+      "pages": [
+        5
+      ],
+      "source": "https://x.com/CY160909/status/2107777705617830188",
+      "kind": "prompt",
+      "prompt_ids": [
+        "dcda502f2bcca1ed",
+        "4129f71858488ba2",
+        "836294356ada42c0",
+        "2d265ffa3642bea2",
+        "86a16f1df2144897",
+        "e60e4168c22c56f4",
+        "0a85cf7b594d4c3c",
+        "03d35e7ffc291479"
+      ],
+      "guide_id": null
+    },
+    {
+      "title": "3 个提示词技巧:反向提问、先出故事板、喂真实数据",
+      "pages": [
+        5,
+        6
+      ],
+      "source": "https://x.com/kongtoulierenLM/status/2109083489492742532",
+      "kind": "framework",
+      "prompt_ids": [],
+      "guide_id": "d99097f619767765"
+    },
+    {
+      "title": "硬约束补丁(防止编数字)",
+      "pages": [
+        6
+      ],
+      "source": "https://x.com/lovejing0306/status/2112038330263060550",
+      "kind": "prompt",
+      "prompt_ids": [
+        "76f3c07354664e0f"
+      ],
+      "guide_id": null
+    },
+    {
+      "title": "让 Opus 先上网研究做法、再做一部教学动画",
+      "pages": [
+        6,
+        7
+      ],
+      "source": "https://x.com/king1818888/status/2104764925478642123",
+      "kind": "prompt",
+      "prompt_ids": [
+        "e453242d1957eaef"
+      ],
+      "guide_id": null
+    },
+    {
+      "title": "XML 7 段式提示词框架(xilo 万字长文)",
+      "pages": [
+        7
+      ],
+      "source": "https://x.com/xilo2991/status/2104912748794589515",
+      "kind": "framework",
+      "prompt_ids": [],
+      "guide_id": "69f948b6881fd93c"
+    },
+    {
+      "title": "reFresh 酸奶 20 秒卡点广告(完整工程级提示词)",
+      "pages": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "source": "https://x.com/exploraX_/status/2108182727966998587",
+      "kind": "prompt",
+      "prompt_ids": [
+        "29db43fdef3fe1a4"
+      ],
+      "guide_id": null
+    },
+    {
+      "title": "Opus 做动效 + Runway MCP 出画面",
+      "pages": [
+        10
+      ],
+      "source": "https://x.com/notiansans/status/2104676565829505527",
+      "kind": "prompt",
+      "prompt_ids": [
+        "9a281d1584e6059d"
+      ],
+      "guide_id": null
+    },
+    {
+      "title": "产品介绍动画(JS + Canvas + 代码配乐)",
+      "pages": [
+        10,
+        11
+      ],
+      "source": "https://x.com/yatudou14/status/2107092673005822057",
+      "kind": "prompt",
+      "prompt_ids": [
+        "05e2b6efca31842a"
+      ],
+      "guide_id": null
+    },
+    {
+      "title": "15 秒产品需求单模板(通用,模型无关)",
+      "pages": [
+        11
+      ],
+      "source": "https://x.com/growaiskills/status/2112374271221563625",
+      "kind": "prompt",
+      "prompt_ids": [
+        "3d5495da649fcfec"
+      ],
+      "guide_id": null
+    },
+    {
+      "title": "一个人 + Claude 开“动效视频工作室”(五个部门 + 7 段提示词)",
+      "pages": [
+        11,
+        12,
+        13
+      ],
+      "source": "https://x.com/swordBluesy/status/2112349341826335052",
+      "kind": "workflow",
+      "prompt_ids": [],
+      "guide_id": "e47664d5eb1e379a"
+    },
+    {
+      "title": "提示词只占 10%,90% 靠“挽具”(Lukas Margerie)",
+      "pages": [
+        13,
+        14
+      ],
+      "source": "https://x.com/swordBluesy/status/2112741309123334439",
+      "kind": "workflow",
+      "prompt_ids": [],
+      "guide_id": "f7d59ddad9b31b76"
+    },
+    {
+      "title": "Claude 不用视频工具也能做视频(Chase AI)",
+      "pages": [
+        14
+      ],
+      "source": "https://x.com/swordBluesy/status/2112201805874581810",
+      "kind": "workflow",
+      "prompt_ids": [],
+      "guide_id": "52b1a0b8368d86e0"
+    },
+    {
+      "title": "三条视频 130 万播放的自动化系统(Jay E)",
+      "pages": [
+        14,
+        15
+      ],
+      "source": "https://x.com/swordBluesy/status/2112832028836086127",
+      "kind": "workflow",
+      "prompt_ids": [],
+      "guide_id": "fdc0828fea4fab39"
+    },
+    {
+      "title": "别让 AI 一条提示词出成片,一次只给一个岗位(Duncan Rogoff)",
+      "pages": [
+        15
+      ],
+      "source": "https://x.com/swordBluesy/status/2112861981136896433",
+      "kind": "workflow",
+      "prompt_ids": [],
+      "guide_id": "5c48e420b9a5d59b"
+    },
+    {
+      "title": "Opus 5.5 剪口播 + 加动画 + 导回剪映草稿(8 步)",
+      "pages": [
+        15,
+        16
+      ],
+      "source": "https://x.com/cheery9998/status/2107284687039467575",
+      "kind": "workflow",
+      "prompt_ids": [],
+      "guide_id": "d42b135c1c500b42"
+    },
+    {
+      "title": "基于 Claude Code 的视频自动化剪辑指南(交付清单式指令)",
+      "pages": [
+        16
+      ],
+      "source": "https://x.com/leo_xiaolei/status/2111409511798079876",
+      "kind": "prompt",
+      "prompt_ids": [
+        "19906e953784d3c7"
+      ],
+      "guide_id": null
+    },
+    {
+      "title": "Opus 5.5 + 即梦 CLI 做故事片",
+      "pages": [
+        16,
+        17
+      ],
+      "source": "https://x.com/op7418/status/2109515395749310821",
+      "kind": "case",
+      "prompt_ids": [],
+      "guide_id": null
+    },
+    {
+      "title": "Seedance 2.5 中文提示词:长城武打喜剧 30 秒(25 个镜头)",
+      "pages": [
+        17,
+        18,
+        19
+      ],
+      "source": "https://x.com/byaiden_vu/status/2110592110802120963",
+      "kind": "prompt",
+      "prompt_ids": [
+        "abb7cf454f9ca056"
+      ],
+      "guide_id": null
+    },
+    {
+      "title": "Claude Motion + Higgsfield MCP 做广告片",
+      "pages": [
+        19,
+        20
+      ],
+      "source": "https://x.com/swordBluesy/status/2112194103320449454",
+      "kind": "workflow",
+      "prompt_ids": [],
+      "guide_id": "50831cc82fbf99c8"
+    },
+    {
+      "title": "Claude Motion:一句话出动画(Tristen O'Brien 教程编译)",
+      "pages": [
+        20,
+        21
+      ],
+      "source": "https://x.com/swordBluesy/status/2111755463112925403",
+      "kind": "workflow",
+      "prompt_ids": [],
+      "guide_id": "395fe9174bcb12f2"
+    },
+    {
+      "title": "Claude Motion vs 专业设计师实测(kaye.creatives)",
+      "pages": [
+        21,
+        22
+      ],
+      "source": "https://x.com/swordBluesy/status/2112469943471976521",
+      "kind": "workflow",
+      "prompt_ids": [],
+      "guide_id": "bfe52edd53d97118"
+    },
+    {
+      "title": "同一句 showreel 提示词跑 DeepSeek($0.08)",
+      "pages": [
+        22
+      ],
+      "source": "https://x.com/Livvux/status/2111429487971975555",
+      "kind": "prompt",
+      "prompt_ids": [
+        "48310ffc9e96f244"
+      ],
+      "guide_id": null
+    },
+    {
+      "title": "10 秒“自我介绍” MG 动画(13 美分,21 分钟)",
+      "pages": [
+        22
+      ],
+      "source": "https://x.com/Charliechpn/status/2111495015612461081",
+      "kind": "prompt",
+      "prompt_ids": [
+        "ca2456c5ec3d5069"
+      ],
+      "guide_id": null
+    },
+    {
+      "title": "仿 Ray Dalio《经济机器》风格讲关系型数据库(5-10 分钟)",
+      "pages": [
+        22,
+        23
+      ],
+      "source": "https://x.com/pisfoc/status/2113125345100722290",
+      "kind": "prompt",
+      "prompt_ids": [
+        "58d9b672e3d20064"
+      ],
+      "guide_id": null
+    },
+    {
+      "title": "忒修斯之船科普(Claude CLI 接 DeepSeek)",
+      "pages": [
+        23
+      ],
+      "source": "https://x.com/yang0001/status/2111555824728588650",
+      "kind": "prompt",
+      "prompt_ids": [
+        "8589e6f3b13f496e"
+      ],
+      "guide_id": null
+    },
+    {
+      "title": "DeepSeek 鲸鱼宣传片",
+      "pages": [
+        23
+      ],
+      "source": "https://x.com/LNX0326/status/2111626461631369409",
+      "kind": "prompt",
+      "prompt_ids": [
+        "6c719761282f509d"
+      ],
+      "guide_id": null
+    },
+    {
+      "title": "3D 过山车视频(DSH 自己调用 Blender)",
+      "pages": [
+        23
+      ],
+      "source": "https://x.com/Yunn260414/status/2111450021849944508",
+      "kind": "prompt",
+      "prompt_ids": [
+        "c02bf60436ba7c55"
+      ],
+      "guide_id": null
+    },
+    {
+      "title": "北京天坛祈年殿写实 3D 网页(three.js)",
+      "pages": [
+        23,
+        24
+      ],
+      "source": "https://x.com/aia_kaka/status/2111815574254756268",
+      "kind": "prompt",
+      "prompt_ids": [
+        "c3755e84d5b2951b"
+      ],
+      "guide_id": null
+    },
+    {
+      "title": "把 Opus 5.5 的 Skill 交给 DeepSeek Harness 跑",
+      "pages": [
+        24
+      ],
+      "source": "https://x.com/Bytec99/status/2112898865112183294",
+      "kind": "case",
+      "prompt_ids": [],
+      "guide_id": null
+    },
+    {
+      "title": "huashu-motion skill + Grok Bot 做 DeepSeek 宣传片(0 花销)",
+      "pages": [
+        24
+      ],
+      "source": "https://x.com/Jiamiyuchuhai/status/2112458317230666068",
+      "kind": "case",
+      "prompt_ids": [],
+      "guide_id": null
+    },
+    {
+      "title": "AI 猫咪短片全套提示词(选题 → 角色卡 → 分镜 → 图片提示词 → 图生视频提示词 → 声音 → 发布)",
+      "pages": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "source": "https://x.com/daodao166888/status/2103087132080500977",
+      "kind": "prompt",
+      "prompt_ids": [
+        "b95029a06e7d3f9a"
+      ],
+      "guide_id": null
+    },
+    {
+      "title": "小说改 AI 短剧:改编大纲 + 分镜表提示词",
+      "pages": [
+        27,
+        28
+      ],
+      "source": "https://x.com/lingyesj/status/2111069332902125622",
+      "kind": "prompt",
+      "prompt_ids": [
+        "a6c9fc8d08175c67",
+        "3a7fdabc5c530a4b"
+      ],
+      "guide_id": null
+    },
+    {
+      "title": "AI 漫剧 7 步 SOP(剧本用 DeepSeek/豆包/Kimi)",
+      "pages": [
+        28,
+        29
+      ],
+      "source": "https://x.com/otto3d2/status/2109632839457132593",
+      "kind": "workflow",
+      "prompt_ids": [],
+      "guide_id": "c0b88da2c6194ff0"
+    },
+    {
+      "title": "AI 古诗词动画:DeepSeek 写提示词 → 海螺出视频 → 剪映加字幕",
+      "pages": [
+        29
+      ],
+      "source": "https://x.com/JunCoi7d/status/2108033601673769093",
+      "kind": "case",
+      "prompt_ids": [],
+      "guide_id": null
+    },
+    {
+      "title": "DeepSeek 设计场景和歌词 → Grok Imagine 出 MV",
+      "pages": [
+        29
+      ],
+      "source": "https://x.com/DavidLi36143625/status/2106287947100434462",
+      "kind": "case",
+      "prompt_ids": [],
+      "guide_id": null
+    },
+    {
+      "title": "DeepSeek 1017 一条提示词出 7 个机位 → 8 镜分镜 → 渲染",
+      "pages": [
+        29
+      ],
+      "source": "https://x.com/cocoviral_ai/status/2111986438078173606",
+      "kind": "case",
+      "prompt_ids": [],
+      "guide_id": null
+    }
+  ],
+  "note": "Appendix prompts are indexed from joeseesun/opus-video-prompts; PDF pages 33–41. Original PDF kept private; no workstation paths are published."
+}

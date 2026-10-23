@@ -1,0 +1,515 @@
+{
+  "checked_at": "2026-10-23T06:17:39.249186+00:00",
+  "scope": "Deterministic sample of README gallery, prompt-source repositories and media hosts; not all URLs or visual content. No media files downloaded.",
+  "total": 63,
+  "reachable": 54,
+  "results": [
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/b5e8ef93930b6d828f352055a689320f138237b1/styles/archive-lighttable/poster.jpg",
+      "readme_gallery": true,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cms-assets.youmind.com/media/1763886933714_5zqn1e_G6QBjQHbgAE3Yt_.jpg",
+      "readme_gallery": true,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/2558bf0bb825be150c5d1aeab918cd90004882d3/images/pro_case1/output.jpg",
+      "readme_gallery": true,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/100/creative-ad-real-object-hand-drawn-doodle.png",
+      "readme_gallery": true,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/LichAmnesia/awesome-ad-video-prompts/ac5b61177a81343e958f63212c4df7f25dc4c265/images/frost-glass-serum-condensation-macro.png",
+      "readme_gallery": true,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://media.skillry.dev/opus-5-5/anabology-491441/original.be0a03ecf7.webp",
+      "readme_gallery": true,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://agentskillshub.top/best-runs/video/films.jpg",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://api.hellogithub.com/v1/widgets/recommend.svg?rid=fb457793a87e4bdab9c4f5ca26451a7f&claim_uid=4QpcNTrHEAg3O8n&theme=small",
+      "readme_gallery": false,
+      "method": "GET headers only",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "url": "https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1201995&theme=light&t=1784645557617",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "url": "https://ashish-random-videos.s3.amazonaws.com/exponential-curve/convex-lens-object-to-infinity.mp4",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "video/mp4"
+    },
+    {
+      "url": "https://assets.mangodisk.app/images/screenshots/zh/light-01-deep-cleanup.jpg?ver=1.1.0",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://camo.githubusercontent.com/8b22ff8d237c53314817cc6946c29999ae2c90b9bd10a962f34883eb75d2d368/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f713235333539353432322f6473682d696d61676567656e2d766964656f3f636f6c6f723d636233383337266c6162656c3d72656c65617365",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": null,
+      "reachable": false,
+      "error": "SSLError"
+    },
+    {
+      "url": "https://cdn.claudeimagine.com/uploads/opus-5-5-video/01-launch-paper.mp4",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "video/mp4"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Dancan254/shenghua@v2.11.1/docs/demo.mp4",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "video/mp4"
+    },
+    {
+      "url": "https://cdn.undsky.com/img/gh.jpg",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Cappadocia_4K_-_TURKEY.webm",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 403,
+      "reachable": false,
+      "content_type": "text/plain"
+    },
+    {
+      "url": "https://contrib.rocks/image?repo=jaccen/Awesome-Gaussian-Skills&max=24&columns=8",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "url": "https://cursor.com/deeplink/mcp-install-dark.svg",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "url": "https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7f63ad253175a9ad1dac53de490efac8/thumbnails/thumbnail.jpg",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://demos.digitalsamba.com/video/ds-release-649.mp4",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "video/mp4"
+    },
+    {
+      "url": "https://flydean-1301049335.cos.ap-guangzhou.myqcloud.com/img/202406281530983.png",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://gentle-starburst-99bd99.netlify.app/hand-drawn/examples/14-nordic-storybook.png",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 503,
+      "reachable": false,
+      "error": "ProxyError",
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://gitee.com/da-qiang-classmate/typora/raw/master/image/未命名的设计（2）.webp",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1402.mp4",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "application/octet-stream"
+    },
+    {
+      "url": "https://hahadu4520.github.io/newcut-video-clipping-skill/examples/01-transferable-skills.mp4",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "video/mp4"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/chK_pnV1wqQ/maxresdefault.jpg",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://image-url-2-feature-1251524319.cos.ap-shanghai.myqcloud.com/openstoryline/web/static/brand_white.png",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://img.axtonliu.com/video-illustrator/samples/1-cut-paper-v05.mp4",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "video/mp4"
+    },
+    {
+      "url": "https://img.laosunwendao.com/skill-uploads/3dbc047456374640bd00a078e22a5008.gif",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/gif"
+    },
+    {
+      "url": "https://img.youtube.com/vi/oX-KnoRbAM0/maxresdefault.jpg",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://marketing-assets.youmind.com/campaigns/gpt-image-2/og-hq.png",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://media.skillry.dev/opus-5-5/_prompts/gigabit-million-959719/poster.b9905643cf.webp",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://motion.orca-studio.ai/examples/sieve/preview.gif",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/gif"
+    },
+    {
+      "url": "https://openflowmcp.com/v1/showcase/4c37da6f-bbcc-4ad9-9774-f1a1e68b6976.jpg",
+      "readme_gallery": false,
+      "method": "GET headers only",
+      "status": 404,
+      "reachable": false,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://opus-lab.cdn.opuslab.ai/labs/launch-videos/readme/v1/film-teaser-r5.gif",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "error": "SSLError",
+      "content_type": "image/gif"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2112552471901908993/img/5j__fsJ13nRuZngH.jpg",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://premiere-pro-mcp.com/marketing/premiere-pro-mcp-campaign-hero-v1.png",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://shieldcn.dev/npm/v/cursorcam.svg?variant=secondary&size=xs&theme=zinc",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "url": "https://shorturl.at/ggSqS",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 403,
+      "reachable": false,
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://skillry.dev/ai-videos/opus-5-5/emollick-019567",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://skills.sh/b/anthropics/skills",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/svg+xml;charset=utf-8"
+    },
+    {
+      "url": "https://static.heygen.ai/hyperframes-oss/docs/images/design-templates/biennale-yellow.png",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://vawe.dev/examples/showcase.mp4",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "video/mp4"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2104067824255913984/vid/avc1/1920x1080/P59b-ZpLi5fMhqI0.mp4?tag=29",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": null,
+      "reachable": false,
+      "error": "SSLError"
+    },
+    {
+      "url": "https://vincentwei1021.github.io/mg-styles-15/#08-morph",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://zenstory.ai/brand/zenstory-ai-mark.svg",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/LichAmnesia/awesome-ad-video-prompts/ac5b61177a81343e958f63212c4df7f25dc4c265/images/sneaker-360-turntable-studio.png",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/2558bf0bb825be150c5d1aeab918cd90004882d3/images/pro_case2/output.jpg",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": null,
+      "reachable": false,
+      "error": "SSLError"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Vincentwei1021/mg-styles-15/49052d80bfaf9fa8412cc9710530e5e95a3b8d8c/docs/readme/films/08-morph.webp",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cms-assets.youmind.com/media/1776658772018_lukyfw_HGSUfldbIAEiMWZ.jpg",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cms-assets.youmind.com/media/1776662673014_nf0taw_HGRMNDybsAAGG88.jpg",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://cms-assets.youmind.com/media/1763886938314_wbcfc7_G6QBiiracAInQ8z.jpg",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://github.com/user-attachments/assets/bceb5521-6956-4398-8777-9972af1feee9",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 403,
+      "reachable": false,
+      "content_type": "application/xml"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/guanmo-ai/awesome-ai-motion/8560da8f7e1b5cea4ee50cf835545222d057fac8/assets/covers/2104068536041959719.jpg",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/guanmo-ai/awesome-ai-motion/8560da8f7e1b5cea4ee50cf835545222d057fac8/assets/covers/2104181266459644283.jpg",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "error": "ReadTimeout",
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2104181210532749312/vid/avc1/1920x1080/cfwvuh1h1elMj0Q2.mp4?tag=29",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "video/mp4"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/99/harry-potter-black-white-portrait-art.png",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/guanmo-ai/awesome-ai-motion/8560da8f7e1b5cea4ee50cf835545222d057fac8/assets/covers/2102476258948927543.jpg",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://video.twimg.com/amplify_video/2102476231740399616/vid/avc1/872x720/ZO3UBdkkQQmtyAeH.mp4?tag=29",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": null,
+      "reachable": false,
+      "error": "SSLError"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/b5e8ef93930b6d828f352055a689320f138237b1/styles/art-deco/poster.jpg",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HJkGnxJbwAADdwC.jpg?format=jpg&name=large",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HJkGn38bgAAfohY.jpg?format=jpg&name=large",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "url": "https://skillry.dev/ai-videos/opus-5-5/anabology-491441",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "text/html; charset=utf-8"
+    }
+  ]
+}
