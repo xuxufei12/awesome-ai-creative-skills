@@ -124,9 +124,10 @@ def effect_record(item):
  return r,p,media,f"prompts/{p['id']}.md",p['sources'][0]['url'],watch
 
 def effect_table(items,zh,prefix=''):
+ columns=2 if any('.gif' in effect_record(i)[2].lower() for i in items) else 3
  text='<table>\n'
  for i,item in enumerate(items):
-  if i%3==0:text+='<tr>\n'
+  if i%columns==0:text+='<tr>\n'
   r,p,media,target,source,watch=effect_record(item);label=item.get('title_zh' if zh else 'title_en') or (p['title'] if p else r['title'])
   links=[]
   if p:links.append((prefix+target,'提示词' if zh else 'Prompt'))
@@ -139,8 +140,8 @@ def effect_table(items,zh,prefix=''):
   if not p and r:links.append((prefix+target,'制作方法' if zh else 'How to make it'))
   footer=' · '.join(f'<a href="{html.escape(url,quote=True)}">{name}</a>' for url,name in links)
   credit=r['repo'] if r else 'Original creator'
-  text+=f'<td width="33%" valign="top" align="center"><a href="{prefix+target}"><img src="{html.escape(media,quote=True)}" width="{item.get("width",300)}" alt="{html.escape(label,quote=True)}" loading="lazy"></a><br><a href="{prefix+target}"><b>{html.escape(label)}</b></a><br><sub>{footer}</sub><br><sub><a href="{html.escape(source,quote=True)}">{html.escape(credit)}</a></sub></td>\n'
-  if i%3==2 or i==len(items)-1:text+='</tr>\n'
+  text+=f'<td width="{100//columns}%" valign="top" align="center"><a href="{prefix+target}"><img src="{html.escape(media,quote=True)}" width="{item.get("width",300)}" alt="{html.escape(label,quote=True)}" loading="lazy"></a><br><a href="{prefix+target}"><b>{html.escape(label)}</b></a><br><sub>{footer}</sub><br><sub><a href="{html.escape(source,quote=True)}">{html.escape(credit)}</a></sub></td>\n'
+  if i%columns==columns-1 or i==len(items)-1:text+='</tr>\n'
  return text+'</table>\n\n'
 
 # Visual browsing continues beyond the featured README selections.
