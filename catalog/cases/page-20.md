@@ -4,6 +4,7 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [Wordfeel 美剧学英语宣传片](../../cases/5cc48ad3827299e3.md) | 品牌与产品 | chuspeeism/awesome-opus-5-5-videos |
 | [X 个人主页动态预告片](../../cases/b018fc0d289e98d3.md) | 品牌与产品 | chuspeeism/awesome-opus-5-5-videos |
 | [Xomarket 30 秒动效宣传片](../../cases/a8bdda6e5dc4ed2f.md) | 品牌与产品 | chuspeeism/awesome-opus-5-5-videos |
 | [YouTube 字幕提取产品广告](../../cases/2c5b5eddaa8e96b1.md) | 品牌与产品 | chuspeeism/awesome-opus-5-5-videos |
@@ -83,6 +84,5 @@
 | [搜索历史主题视频](../../cases/5af652f3d823cf8b.md) | 知识与教学 | chuspeeism/awesome-opus-5-5-videos |
 | [旋转轴工程史动画](../../cases/4b07183e13724d87.md) | 知识与教学 | chuspeeism/awesome-opus-5-5-videos |
 | [根据 note 文章制作的动画](../../cases/4d80f387e3c9870d.md) | 知识与教学 | chuspeeism/awesome-opus-5-5-videos |
-| [模型评测结果介绍视频](../../cases/a6dba6ad2ff5c6cc.md) | 知识与教学 | chuspeeism/awesome-opus-5-5-videos |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md) · [Page 25](page-25.md) · [Page 26](page-26.md) · [Page 27](page-27.md) · [Page 28](page-28.md)

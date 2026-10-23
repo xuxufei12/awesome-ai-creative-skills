@@ -4,6 +4,14 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [No. 53: YouTube Thumbnail - Koshien Baseball Broadcast Screen](../../prompts/76f411afea0304e0.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
+| [No. 54: YouTube Thumbnail - Cinematic Fried Chicken Food Advertisement](../../prompts/873e54e09cd47629.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
+| [No. 54: YouTube Thumbnail - Typographic Emergence Movie Poster Grid](../../prompts/ec6d5c7e1e035063.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
+| [No. 55: YouTube Thumbnail - Miniature Pop-up Book Diorama](../../prompts/c8f7c2be75209cb4.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
+| [No. 55: YouTube Thumbnail - Sister of Battle Rising](../../prompts/a049fae33aee9d03.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
+| [No. 56: YouTube Thumbnail - Horus Heresy Final Duel Scene](../../prompts/fae9e80180bf0f9c.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
+| [No. 56: YouTube Thumbnail - Sci-Fi Coffee Machine Boss Battle](../../prompts/456308aa0007fb19.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
+| [No. 57: YouTube Thumbnail - Lady Death Fighting Demons](../../prompts/2f246b80025b8c70.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
 | [No. 57: YouTube Thumbnail - Surreal Giant Woman in Venice](../../prompts/e22a0f83a0b00adf.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
 | [No. 58: YouTube Thumbnail - Cinematic Sports Documentary Key Art](../../prompts/1c83d058bdebd8c4.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
 | [No. 58: YouTube Thumbnail - Silhouette on Mountain Peak at Cosmic Sunset](../../prompts/57399e51dbc785a9.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
@@ -76,13 +84,5 @@
 | [No. 86: Product Marketing - Surreal Candy Doll Character Prompt](../../prompts/a34426d17d13dd76.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
 | [No. 87: Comic / Storyboard - Transparent Rose Court Lady](../../prompts/f4e9ce07dd66c03f.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
 | [No. 87: Product Marketing - Luxury Bathtub Fashion Portrait](../../prompts/26884be053ef7f3a.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
-| [No. 88: Comic / Storyboard - Anime Train at Dusk with Mount Fuji](../../prompts/ed7b07510a7947c6.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
-| [No. 88: Product Marketing - Luxury Fashion Editorial with Sports Sedan](../../prompts/7c5206ee184f8be7.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
-| [No. 89: Comic / Storyboard - Cloud Friend Scrapbook Poster](../../prompts/d07356153f365ade.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
-| [No. 89: Product Marketing - Cinematic Luxury Evening Portrait by Infinity Pool](../../prompts/7e608047482508ff.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
-| [No. 8: Profile / Avatar - Halloween Candy Pocket Dress Prompt](../../prompts/a347ca5ed67aad0d.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
-| [No. 8: Profile / Avatar - Ponytail Portrait Prompt](../../prompts/f8b6d535af2f20b8.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
-| [No. 90: Comic / Storyboard - Museum of Lost Tomorrows conceptual scene](../../prompts/fc429025d05ef398.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
-| [No. 90: Product Marketing - Cheetos Snack Ad Portrait](../../prompts/96d6d1716c08009c.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
 
-[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md)
+[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

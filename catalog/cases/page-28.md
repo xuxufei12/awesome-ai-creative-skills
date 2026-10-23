@@ -4,6 +4,7 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [卡拉 OK 字幕与卡通音乐 MV](../../cases/3d36d89053ca7bfe.md) | 音乐与歌词 | guanmo-ai/awesome-ai-motion |
 | [卡通 IP 与歌曲的竖屏动效](../../cases/e4fc188ee6539e06.md) | 音乐与歌词 | guanmo-ai/awesome-ai-motion |
 | [卡通角色与动态歌词 MV](../../cases/69ab99fd865fc824.md) | 音乐与歌词 | guanmo-ai/awesome-ai-motion |
 | [发光核心与空间隧道演出](../../cases/bf4a4b3fc50ea203.md) | 音乐与歌词 | guanmo-ai/awesome-ai-motion |

@@ -4,6 +4,7 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [V8 发动机的运转与爆炸图](../../cases/e163612869993967.md) | 知识讲解 | guanmo-ai/awesome-ai-motion |
 | [VarMQ：队列架构 SVG 动画](../../cases/1fb67f7f82a6c4bf.md) | 知识讲解 | guanmo-ai/awesome-ai-motion |
 | [YouMind 里的历史动画风格试验](../../cases/c33a7a90c917905d.md) | 知识讲解 | guanmo-ai/awesome-ai-motion |
 | [decompwlj：整数序列的三维图解](../../cases/61f35283c1e46b1d.md) | 知识讲解 | guanmo-ai/awesome-ai-motion |
@@ -83,6 +84,5 @@
 | [变分自编码器数学讲解](../../cases/fe498ed6291bcfeb.md) | 知识讲解 | guanmo-ai/awesome-ai-motion |
 | [可拆解的 Raptor 3 火箭发动机](../../cases/bed455be158d2ef6.md) | 知识讲解 | guanmo-ai/awesome-ai-motion |
 | [可拆解的三维机械表](../../cases/3b5fe0f6543ab6de.md) | 知识讲解 | guanmo-ai/awesome-ai-motion |
-| [吉萨金字塔的三维导览](../../cases/5d4c9bf6ed704a44.md) | 知识讲解 | guanmo-ai/awesome-ai-motion |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md) · [Page 25](page-25.md) · [Page 26](page-26.md) · [Page 27](page-27.md) · [Page 28](page-28.md)

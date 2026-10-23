@@ -4,6 +4,14 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [No. 88: Comic / Storyboard - Anime Train at Dusk with Mount Fuji](../../prompts/ed7b07510a7947c6.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
+| [No. 88: Product Marketing - Luxury Fashion Editorial with Sports Sedan](../../prompts/7c5206ee184f8be7.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
+| [No. 89: Comic / Storyboard - Cloud Friend Scrapbook Poster](../../prompts/d07356153f365ade.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
+| [No. 89: Product Marketing - Cinematic Luxury Evening Portrait by Infinity Pool](../../prompts/7e608047482508ff.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
+| [No. 8: Profile / Avatar - Halloween Candy Pocket Dress Prompt](../../prompts/a347ca5ed67aad0d.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
+| [No. 8: Profile / Avatar - Ponytail Portrait Prompt](../../prompts/f8b6d535af2f20b8.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
+| [No. 90: Comic / Storyboard - Museum of Lost Tomorrows conceptual scene](../../prompts/fc429025d05ef398.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
+| [No. 90: Product Marketing - Cheetos Snack Ad Portrait](../../prompts/96d6d1716c08009c.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
 | [No. 91: Product Marketing - High-End Beauty Portrait with Reference](../../prompts/6777440be89679e7.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
 | [No. 91: Product Marketing - Oriental Tea Commercial Poster Design](../../prompts/e3637ef10d5e51c0.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
 | [No. 92: Product Marketing - Mineral Water Contour Refraction Poster](../../prompts/d3fcd4a9ebb0d39f.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
@@ -76,13 +84,5 @@
 | [例 28: 知识推理生成图像（by @icreatelife）](../../prompts/4dfdcaaf4a19709f.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 | [例 28: 黑板粉笔画（by @TlanoAI）](../../prompts/2ad3f7d9ba621915.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 | [例 29: 微型自画像（by @TechieBySA）](../../prompts/8105492bfdec4438.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 29: 红笔批注（by @AiMachete）](../../prompts/1f45167c02516c56.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 2: 根据地图箭头生成地面视角图片（by @tokumin）](../../prompts/7c1c8326b7b77f6c.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 2: 生成对应坐标的图片（by @TechieBySA）](../../prompts/ad40637c799587a3.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 30: 根据Wikipedia生成生平经历（by @chrisfirst）](../../prompts/c1bad3be9ace684a.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 30: 爆炸的食物（by @icreatelife）](../../prompts/5425fe15982ad110.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 31: 制作漫画书（by @icreatelife）](../../prompts/ef97a4a07534f488.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 31: 风格化地图（by @Mr_AllenT）](../../prompts/056d0c98a98f2d00.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 32: 动作人偶（by @icreatelife）](../../prompts/bd16c621a255eb73.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 
-[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md)
+[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

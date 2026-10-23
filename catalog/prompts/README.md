@@ -2,7 +2,7 @@
 
 # Prompts & style recipes / 提示词与风格配方
 
-1834 records / 条记录。每条提供独立详情和来源。
+1843 records / 条记录。每条提供独立详情和来源。
 
 - [Page 1 · 1–80](page-01.md)
 - [Page 2 · 81–160](page-02.md)
@@ -26,4 +26,5 @@
 - [Page 20 · 1521–1600](page-20.md)
 - [Page 21 · 1601–1680](page-21.md)
 - [Page 22 · 1681–1760](page-22.md)
-- [Page 23 · 1761–1834](page-23.md)
+- [Page 23 · 1761–1840](page-23.md)
+- [Page 24 · 1841–1843](page-24.md)

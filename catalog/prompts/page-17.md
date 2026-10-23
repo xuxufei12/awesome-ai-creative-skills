@@ -4,6 +4,14 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [例 29: 红笔批注（by @AiMachete）](../../prompts/1f45167c02516c56.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例 2: 根据地图箭头生成地面视角图片（by @tokumin）](../../prompts/7c1c8326b7b77f6c.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例 2: 生成对应坐标的图片（by @TechieBySA）](../../prompts/ad40637c799587a3.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例 30: 根据Wikipedia生成生平经历（by @chrisfirst）](../../prompts/c1bad3be9ace684a.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例 30: 爆炸的食物（by @icreatelife）](../../prompts/5425fe15982ad110.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例 31: 制作漫画书（by @icreatelife）](../../prompts/ef97a4a07534f488.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例 31: 风格化地图（by @Mr_AllenT）](../../prompts/056d0c98a98f2d00.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例 32: 动作人偶（by @icreatelife）](../../prompts/bd16c621a255eb73.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 | [例 32: 赛博风格名片（by @dotey）](../../prompts/0ab157e13cc348c0.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 | [例 33: 地图生成等距建筑（by @demishassabis）](../../prompts/42eed17d78052f74.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 | [例 33: 精美亚克力板（by @MatoToushi）](../../prompts/fd03d4c61267162c.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
@@ -76,13 +84,5 @@
 | [例 94: 卡通人物主题火车（by @tokyo_Valentine）](../../prompts/7ff5d67c41b3b470.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 | [例 95: 自定义主题公园（by @AI_Kei75）](../../prompts/5a3b4fdce7372651.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 | [例 96: 创建星座图（by @AI_Kei75）](../../prompts/d10bd033254247ed.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 97: 图片变手机壁纸（by @ZHO_ZHO_ZHO）](../../prompts/9c4c7649e3b01f59.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 98: 制作电影海报（by @aiehon_aya）](../../prompts/7b9c6bb7942f41b1.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 99: 将X账户变成软盘（by @icreatelife）](../../prompts/9b93ec20eaf62947.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 9: 生成材质贴图（by @someidesign）](../../prompts/7597933e3d228549.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 9: 跨视角图像生成（by @op7418）](../../prompts/3d0de7b963a5a5bd.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例69：模型全息投影（by @UNIBRACITY）](../../prompts/fa16bc0bb1c665a4.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例70： 巨型人物脚手架（by @songguoxiansen）](../../prompts/1d9392f846c04a4c.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例71： 遥感影像建筑物提取（by @lehua555）](../../prompts/ac55e8d8415a3b42.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 
-[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md)
+[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

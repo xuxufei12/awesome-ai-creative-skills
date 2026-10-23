@@ -6,7 +6,7 @@
 |---|---|---:|---:|
 | [anthropics/skills](../projects/anthropics--skills.md) | algorithmic-art、canvas-design、slack-gif-creator、frontend-design 等。 | 5 | 0 |
 | [chuspeeism/awesome-opus-5-5-videos](../projects/chuspeeism--awesome-opus-5-5-videos.md) | 按用途整理案例、作者、原帖和公开制作说明。 | 0 | 34 |
-| [lemomo-ai/lemo-opuscar](../projects/lemomo-ai--lemo-opuscar.md) | 按风格挑选 STYLE 文档、示例及可复用短片创作方法。 | 2 | 51 |
+| [lemomo-ai/lemo-opuscar](../projects/lemomo-ai--lemo-opuscar.md) | 59 种代码影片风格，新增 8 种剪辑与纪实；支持改编现有风格、从空白设计并保存个人风格库。 | 2 | 60 |
 | [openai/skills](../projects/openai--skills.md) | 官方目录中的 imagegen、speech、transcribe 等创作配套技能。 | 3 | 0 |
 | [qisthidev/awesome-opus-5-5-videos](../projects/qisthidev--awesome-opus-5-5-videos.md) | 区分代码绘制、外部模型、素材剪辑、应用录屏等制作路径。 | 0 | 0 |
 | [cccakeee/awesome-dsh-plugins](../projects/cccakeee--awesome-dsh-plugins.md) | A curated, evidence-led directory of DeepSeek Harness (DSH) plugins: verified loadable extensions, skills, and permission-aware installation guidance. | 1 | 0 |

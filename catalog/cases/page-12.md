@@ -4,6 +4,7 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [Gemini 灵感与 Remotion 编排的软件广告](../../cases/37948ff007dabe0d.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
 | [Glaido 产品演示与原创音效试验](../../cases/61e628ca46b0bfbe.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
 | [Grok Bot：X 集成发布动效](../../cases/21e1f9f90946d7ba.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
 | [HTML 与 GSAP 的60秒产品发布片](../../cases/78a06c8cc9a6d8f0.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
@@ -83,6 +84,5 @@
 | [Shotbase 产品发布动效](../../cases/1971c3570fcacad2.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
 | [Skills Manager：查找与安装演示](../../cases/5d6c6d92c6e95df1.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
 | [Sonnet 概念车：代码生成的面板与机械](../../cases/2aec368d04d7b336.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
-| [Sorank 产品发布动效](../../cases/7a400b1ad3c46bcd.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md) · [Page 25](page-25.md) · [Page 26](page-26.md) · [Page 27](page-27.md) · [Page 28](page-28.md)

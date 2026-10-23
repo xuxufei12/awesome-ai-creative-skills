@@ -4,6 +4,7 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [Sorank 产品发布动效](../../cases/7a400b1ad3c46bcd.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
 | [Stream 发布片：手工版与代码复刻对照](../../cases/f9861a3cf2c91fd6.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
 | [Studio1 的动态文字开场](../../cases/45dfcc1ffcdc2873.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
 | [Supasito：对话卡片到文件夹](../../cases/bce3f902d1bc8b85.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
@@ -83,6 +84,5 @@
 | [旁白驱动的 AE 广告](../../cases/0207b6540e952995.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
 | [无好即好：一分钟播客宣传试片](../../cases/61eee7db5f10f3e1.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
 | [日文产品广告的双版本合集](../../cases/a4e1cbdf9784b05c.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
-| [早茶店的 HyperFrames 宣传片](../../cases/0967e9d11edc4b54.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md) · [Page 25](page-25.md) · [Page 26](page-26.md) · [Page 27](page-27.md) · [Page 28](page-28.md)

@@ -2,9 +2,9 @@
 
 [Home / 首页](../README.md)
 
-Checked / 检查时间: 2026-10-23T06:29:56.223627+00:00
+Checked / 检查时间: 2026-10-23T08:17:57.198993+00:00
 
-- Local navigation links checked / 已检查本地链接: **32323**
+- Local navigation links checked / 已检查本地链接: **32462**
 - PDF main entries / PDF 正文条目: **45**
 - Appendix prompt files / 附录提示词文件: **18**
 - Structural / link / publication-hygiene errors: **0**
@@ -13,8 +13,8 @@ Checked / 检查时间: 2026-10-23T06:29:56.223627+00:00
 |---|---:|
 | projects | 441 |
 | skills | 772 |
-| prompts | 1834 |
-| cases | 2203 |
+| prompts | 1843 |
+| cases | 2204 |
 | guides | 12 |
 | templates | 16 |
 

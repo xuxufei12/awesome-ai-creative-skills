@@ -4,6 +4,14 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [例 97: 图片变手机壁纸（by @ZHO_ZHO_ZHO）](../../prompts/9c4c7649e3b01f59.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例 98: 制作电影海报（by @aiehon_aya）](../../prompts/7b9c6bb7942f41b1.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例 99: 将X账户变成软盘（by @icreatelife）](../../prompts/9b93ec20eaf62947.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例 9: 生成材质贴图（by @someidesign）](../../prompts/7597933e3d228549.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例 9: 跨视角图像生成（by @op7418）](../../prompts/3d0de7b963a5a5bd.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例69：模型全息投影（by @UNIBRACITY）](../../prompts/fa16bc0bb1c665a4.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例70： 巨型人物脚手架（by @songguoxiansen）](../../prompts/1d9392f846c04a4c.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例71： 遥感影像建筑物提取（by @lehua555）](../../prompts/ac55e8d8415a3b42.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 | [例72： 部件提取（by @tetumemo）](../../prompts/1cf8ac05f8aabd48.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 | [例73： 移除汉堡的配料（by @bind_lux，本案例由@jeanlucaslima提供）](../../prompts/8b1bbe866261add2.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 | [例74：图像高清修复（by @op7418）](../../prompts/903087fb6ff4ac1a.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
@@ -76,13 +84,5 @@
 | [案例 54：“极其平凡”的iPhone自拍 (by @jiamimaodashu)](../../prompts/9f22b40cb241608e.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
 | [案例 55：创意绿植花盆 (by @azed_ai)](../../prompts/de13b9866df6d182.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
 | [案例 56：迷你 3D 建筑 (by @dotey)](../../prompts/5952846d57e64b16.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
-| [案例 57：8位像素图标 (by @egeberkina)](../../prompts/e0eeef3b97533547.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
-| [案例 58：云彩艺术 (by @umesh_ai)](../../prompts/49f2cebb5d51fdad.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
-| [案例 59：彩色矢量艺术海报 (by @michaelrabone)](../../prompts/bda78d0826a44d78.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
-| [案例 5：吉卜力风格 (by AnimeAI)](../../prompts/03dbd05da6b14c33.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
-| [案例 60：Emoji 簇绒地毯 (by @gizakdag)](../../prompts/639238eb6da1d842.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
-| [案例 61：虚构推文截图 (爱因斯坦) (by @egeberkina)](../../prompts/fffa5c691183f873.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
-| [案例 62：可爱珐琅别针 (by @gnrlyxyz)](../../prompts/8b5eba99f97340f3.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
-| [案例 63：Emoji 奶油雪糕 (by @ZHO_ZHO_ZHO)](../../prompts/f2742239ffaaf1ad.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
 
-[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md)
+[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

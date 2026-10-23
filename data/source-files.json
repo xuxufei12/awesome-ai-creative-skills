@@ -81702,5 +81702,277 @@
     "sha256": "1c307487eca4e56957f4f7de4c72efcd482017f54d77495e3a88ddbcc9b4f30d",
     "bytes": 813423,
     "retrieved_at": "2026-10-23T06:16:28.564700+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "DIRECTOR.md",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/DIRECTOR.md",
+    "sha256": "3b8b0c40011a0cea796bb1afe6dae0f212115b57e2aa4c9a976b1994a923d564",
+    "bytes": 11356,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "MY-STYLES.md",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/MY-STYLES.md",
+    "sha256": "02102b5a2983a5ee7a8841b10e52e561ddca4a28fad7de0b71a34bda776f1630",
+    "bytes": 16143,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "README.md",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/README.md",
+    "sha256": "c7988c67fab6491e206fd5af4e4efaa6042fdedabf461a461783ad2a03ee8867",
+    "bytes": 34017,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "README.zh-CN.md",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/README.zh-CN.md",
+    "sha256": "7262ed627b64b0e9b7c3e8791492b8e81405e0b8b83d0b2006dd0c4f0014d6a4",
+    "bytes": 33864,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "TECHNIQUE.md",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/TECHNIQUE.md",
+    "sha256": "8790803f846846032cba16c11c6f1c477625460e9df74f32d1c650717ea8526b",
+    "bytes": 13269,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "plugin/skills/lemo-opuscar/SKILL.md",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/plugin/skills/lemo-opuscar/SKILL.md",
+    "sha256": "9036c5fd58ac3c3acc30b9183ed3a415829755a59d66b259a2b13a9fde5dd7c4",
+    "bytes": 3452,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "styles/backrooms/STYLE.md",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/backrooms/STYLE.md",
+    "sha256": "2a3697a1ce37d0fbae3281220ae6154eeb9789233f1fae472d55ac169ba26fb4",
+    "bytes": 12620,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "styles/caption-news/style.json",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/caption-news/style.json",
+    "sha256": "efa7d8e1dd42d11301dd5e7f1a4f66968c7b8d0259292153454a7926b6a52a0f",
+    "bytes": 517,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "styles/caption-news/STYLE.md",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/caption-news/STYLE.md",
+    "sha256": "ba4c0bb5dd13e49c2c2b520af5e42a28112b36354dc445d0f6ade3727b458fd2",
+    "bytes": 17153,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "styles/city-symphony/style.json",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/city-symphony/style.json",
+    "sha256": "4ad353d02e858d16534179ed39eaa05761225865dc818e0544529e2fff2fcd4b",
+    "bytes": 515,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "styles/city-symphony/STYLE.md",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/city-symphony/STYLE.md",
+    "sha256": "8b78d2b08cadb045ac1649cade1e5274fba935b1177c64c176e7567c6e8b31e1",
+    "bytes": 18474,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "styles/countdown/style.json",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/countdown/style.json",
+    "sha256": "d30ae465e30a1576cd08d2357e488209d5042cfde16d85dc6452562400c12e61",
+    "bytes": 551,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "styles/countdown/STYLE.md",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/countdown/STYLE.md",
+    "sha256": "867cca6e0c9bb0d6fb914cc4e9a2e295623ecd345fda9bd00bc362ff233f220f",
+    "bytes": 17032,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "styles/game-show/STYLE.md",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/game-show/STYLE.md",
+    "sha256": "cadee8f0ff8cfc206b49d852e5a0b15d7da432ad497fa8b19ac568ce386ff8e3",
+    "bytes": 12485,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "styles/halftone-dossier/STYLE.md",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/halftone-dossier/STYLE.md",
+    "sha256": "71b4b8f089836d95f6bd8fc3719ae184cbf2be4a04ecd935c6d55d89a5bb558d",
+    "bytes": 12415,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "styles/hd-2d/STYLE.md",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/hd-2d/STYLE.md",
+    "sha256": "bdc5ef4f60d8ba9ff6e5151391a6a62d8da4685d393c242699fd5c6188f0551a",
+    "bytes": 12356,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "styles/iso-infographic/STYLE.md",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/iso-infographic/STYLE.md",
+    "sha256": "a3bf89913255043ff2c8616bff9be9f9536efe1eb7a3b98c755cb4189bd7dff1",
+    "bytes": 11989,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "styles/kino-montage/style.json",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/kino-montage/style.json",
+    "sha256": "57ffe5f5aabf16c010ea0ae8c96de5b265ab744307e76a473023b8b9008a7f6a",
+    "bytes": 547,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "styles/kino-montage/STYLE.md",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/kino-montage/STYLE.md",
+    "sha256": "8c63deefda22d4677d286ddfffb243ce6385dfa7ab56fbc493705fe13908f204",
+    "bytes": 20124,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "styles/living-screencast/STYLE.md",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/living-screencast/STYLE.md",
+    "sha256": "02e8e5521fe1f553b0e58dacc2a556aea361dd5823e2ca0996963839d3c7d5c7",
+    "bytes": 11503,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "styles/lowpoly-island/STYLE.md",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/lowpoly-island/STYLE.md",
+    "sha256": "1ae7bcd6aa3d521f563d8905f8109842fd7252ff8b70c1bd18265105a8a450f9",
+    "bytes": 12310,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "styles/microgame/STYLE.md",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/microgame/STYLE.md",
+    "sha256": "ad13d34bd06a65bef81b04f531c4f256bcc0bff4f229f976d52e07d5beef9dd5",
+    "bytes": 12563,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "styles/news-package/style.json",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/news-package/style.json",
+    "sha256": "7b399ecf0a748e4f4b3dab016fda9eed2167a1c707aed6c8b0d2eee896bd7965",
+    "bytes": 546,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "styles/news-package/STYLE.md",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/news-package/STYLE.md",
+    "sha256": "6f9d1b6a04878229260ea542fe71f2b77c560ed8e40df68b68e80ac4e21710ce",
+    "bytes": 20556,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "styles/newsreel/style.json",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/newsreel/style.json",
+    "sha256": "d20ae96a49893f17a46b4d549bd9324d6129e76392376b6089673f72a2a2339f",
+    "bytes": 532,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "styles/newsreel/STYLE.md",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/newsreel/STYLE.md",
+    "sha256": "0f82c1423d2463dfc2700b23dff9ec183f596724a4820757e189c6fa5225e600",
+    "bytes": 17715,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "styles/pixel-rpg/STYLE.md",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/pixel-rpg/STYLE.md",
+    "sha256": "f79fac0d9aed03d2a69f17a50b37adca2da84156b3fa525537761c507bcaea8e",
+    "bytes": 11284,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "styles/telestrator/style.json",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/telestrator/style.json",
+    "sha256": "e9eb4d0796252b34b6eb5042f943258dcaeacf32e4ee8dc02b1c985cf99821ee",
+    "bytes": 523,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "styles/telestrator/STYLE.md",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/telestrator/STYLE.md",
+    "sha256": "7289027728dc5e1b6d095b7c7bc7806790bb579934c81682265c0c1b4897a3d0",
+    "bytes": 16954,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "styles/ukiyoe/STYLE.md",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/ukiyoe/STYLE.md",
+    "sha256": "218c48a204f9034d1c2fb7f11698b4834f1faee1ca68c9e336f3d6ab992ff2e4",
+    "bytes": 12441,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "styles/visual-investigation/style.json",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/visual-investigation/style.json",
+    "sha256": "4c07d9fdf3c14c7ceb375c65933b7de9fba4d5b1aef788a73ddbc43596e39d8b",
+    "bytes": 562,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "styles/visual-investigation/STYLE.md",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/visual-investigation/STYLE.md",
+    "sha256": "9b39ebaa00c3d77ae544d7453e99b79caf4dfaae1d37798b1f995a5578aac30b",
+    "bytes": 18977,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "styles/whiteboard/STYLE.md",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/whiteboard/STYLE.md",
+    "sha256": "19f66326257bcafb8aca18af3e209d1fee31d9e23902ce1708bbb606cbf4b718",
+    "bytes": 11676,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "path": "tools/directory/SKILL.md",
+    "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/tools/directory/SKILL.md",
+    "sha256": "6b5948c594dd9fdb1c544e19fd0d0ecafefd9fb86bbee125299a5fd865c6c9cc",
+    "bytes": 4139,
+    "retrieved_at": "2026-10-23T08:16:19.610573+00:00"
   }
 ]

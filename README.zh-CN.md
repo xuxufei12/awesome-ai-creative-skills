@@ -10,7 +10,43 @@
 
 这里收录了一些用 AI 制作创意图片、视频、动效和 3D 场景的方法，包括可直接参考的提示词、可复用的 Skill，以及对应的作品效果。从一张有趣的图片到一段完整的动画，希望你能在这里找到灵感，也找到动手创作的起点。
 
-**资料快照: 2026-10-23** · **441** 项目 · **772** Skills · **1834** 提示词／风格文本 · **2203** 案例
+**资料快照: 2026-10-23** · **441** 项目 · **772** Skills · **1843** 提示词／风格文本 · **2204** 案例
+
+## 新玩法 · 把喜欢的风格，变成自己的
+
+Lemo-Opuscar 已更新到 **59 种影片风格**，新增 **8 种剪辑与纪实**。还可以改编现有风格，或从空白设计一套自己的视觉语言，确认后保存，接着用来做下一支片。
+
+下面是作者的改编示例。保留瑞士风格的网格、节拍和排版，把平面图形变成黏土、毛毡、玻璃和镀铬物件。**俯视是一张海报，镜头一转，就是一个立体世界。**
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top"><a href="https://github.com/lemomo-ai/lemo-opuscar/releases/download/films/swiss-motion.mp4"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/my-style-before.jpg" width="480" alt="原风格 · Swiss Motion"></a><br><a href="https://github.com/lemomo-ai/lemo-opuscar/releases/download/films/swiss-motion.mp4"><b>▶ 原风格 · Swiss Motion</b></a></td>
+<td width="50%" align="center" valign="top"><a href="https://github.com/lemomo-ai/lemo-opuscar/releases/download/films/my-style-material-grid.mp4"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/my-style-after.jpg" width="480" alt="我的风格 · Material Grid · 31 秒"></a><br><a href="https://github.com/lemomo-ai/lemo-opuscar/releases/download/films/my-style-material-grid.mp4"><b>▶ 我的风格 · Material Grid · 31 秒</b></a></td>
+</tr>
+</table>
+
+[制作流程与更新说明](docs/updates/lemo-opuscar-20261022.md) · [自定义风格完整指令](prompts/f84d2595fed3fce8.md) · [作者原帖](https://x.com/lemomo_ai/status/2113195080517562646)
+
+### 8 种新风格，点图看片
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top"><a href="https://github.com/lemomo-ai/lemo-opuscar/releases/download/films/caption-news.mp4"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/frames/caption-news.jpg" width="300" alt="字幕新闻"></a><br><b>字幕新闻</b><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/releases/download/films/caption-news.mp4">▶ 样片</a> · <a href="prompts/d2d98bb775f1ded5.md">风格提示词</a></sub></td>
+<td width="33%" align="center" valign="top"><a href="https://github.com/lemomo-ai/lemo-opuscar/releases/download/films/newsreel.mp4"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/frames/newsreel.jpg" width="300" alt="1920s 新闻影片"></a><br><b>1920s 新闻影片</b><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/releases/download/films/newsreel.mp4">▶ 样片</a> · <a href="prompts/13762156918b1753.md">风格提示词</a></sub></td>
+<td width="33%" align="center" valign="top"><a href="https://github.com/lemomo-ai/lemo-opuscar/releases/download/films/countdown.mp4"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/frames/countdown.jpg" width="300" alt="实时倒计时分屏"></a><br><b>实时倒计时分屏</b><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/releases/download/films/countdown.mp4">▶ 样片</a> · <a href="prompts/001acc34b17fbc9d.md">风格提示词</a></sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="https://github.com/lemomo-ai/lemo-opuscar/releases/download/films/city-symphony.mp4"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/frames/city-symphony.jpg" width="300" alt="延时交响"></a><br><b>延时交响</b><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/releases/download/films/city-symphony.mp4">▶ 样片</a> · <a href="prompts/6a22542ef7e65065.md">风格提示词</a></sub></td>
+<td width="33%" align="center" valign="top"><a href="https://github.com/lemomo-ai/lemo-opuscar/releases/download/films/visual-investigation.mp4"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/frames/visual-investigation.jpg" width="300" alt="视觉调查"></a><br><b>视觉调查</b><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/releases/download/films/visual-investigation.mp4">▶ 样片</a> · <a href="prompts/4ac817305beec172.md">风格提示词</a></sub></td>
+<td width="33%" align="center" valign="top"><a href="https://github.com/lemomo-ai/lemo-opuscar/releases/download/films/kino-montage.mp4"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/frames/kino-montage.jpg" width="300" alt="构成主义蒙太奇"></a><br><b>构成主义蒙太奇</b><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/releases/download/films/kino-montage.mp4">▶ 样片</a> · <a href="prompts/5b6a2f2b57301ea2.md">风格提示词</a></sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="https://github.com/lemomo-ai/lemo-opuscar/releases/download/films/telestrator.mp4"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/frames/telestrator.jpg" width="300" alt="体育战术板"></a><br><b>体育战术板</b><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/releases/download/films/telestrator.mp4">▶ 样片</a> · <a href="prompts/22ed500026640df7.md">风格提示词</a></sub></td>
+<td width="33%" align="center" valign="top"><a href="https://github.com/lemomo-ai/lemo-opuscar/releases/download/films/news-package.mp4"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/frames/news-package.jpg" width="300" alt="电视新闻包装"></a><br><b>电视新闻包装</b><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/releases/download/films/news-package.mp4">▶ 样片</a> · <a href="prompts/1e31455b7f91ce83.md">风格提示词</a></sub></td>
+</tr>
+</table>
+
+<sub>示例与画面 © LemoLab / Lemomo · CC BY 4.0 · <a href="https://github.com/lemomo-ai/lemo-opuscar">lemo-opuscar</a></sub>
 
 ## 开始浏览
 
@@ -51,13 +87,13 @@
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center"><a href="prompts/439b80af58d8a21c.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/b5e8ef93930b6d828f352055a689320f138237b1/styles/ink-wash/poster.jpg" width="300" alt="水墨动画"></a><br><a href="prompts/439b80af58d8a21c.md"><b>水墨动画</b></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/blob/b5e8ef93930b6d828f352055a689320f138237b1/styles/ink-wash/STYLE.md">lemomo-ai/lemo-opuscar</a></sub></td>
-<td width="33%" valign="top" align="center"><a href="prompts/7dc5461235480db1.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/b5e8ef93930b6d828f352055a689320f138237b1/styles/papercut-red/poster.jpg" width="300" alt="红色剪纸"></a><br><a href="prompts/7dc5461235480db1.md"><b>红色剪纸</b></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/blob/b5e8ef93930b6d828f352055a689320f138237b1/styles/papercut-red/STYLE.md">lemomo-ai/lemo-opuscar</a></sub></td>
-<td width="33%" valign="top" align="center"><a href="prompts/1bcdae4068414785.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/b5e8ef93930b6d828f352055a689320f138237b1/styles/stained-glass/poster.jpg" width="300" alt="彩色玻璃"></a><br><a href="prompts/1bcdae4068414785.md"><b>彩色玻璃</b></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/blob/b5e8ef93930b6d828f352055a689320f138237b1/styles/stained-glass/STYLE.md">lemomo-ai/lemo-opuscar</a></sub></td>
+<td width="33%" valign="top" align="center"><a href="prompts/439b80af58d8a21c.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/ink-wash/poster.jpg" width="300" alt="水墨动画"></a><br><a href="prompts/439b80af58d8a21c.md"><b>水墨动画</b></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/blob/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/ink-wash/STYLE.md">lemomo-ai/lemo-opuscar</a></sub></td>
+<td width="33%" valign="top" align="center"><a href="prompts/7dc5461235480db1.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/papercut-red/poster.jpg" width="300" alt="红色剪纸"></a><br><a href="prompts/7dc5461235480db1.md"><b>红色剪纸</b></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/blob/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/papercut-red/STYLE.md">lemomo-ai/lemo-opuscar</a></sub></td>
+<td width="33%" valign="top" align="center"><a href="prompts/1bcdae4068414785.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/stained-glass/poster.jpg" width="300" alt="彩色玻璃"></a><br><a href="prompts/1bcdae4068414785.md"><b>彩色玻璃</b></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/blob/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/stained-glass/STYLE.md">lemomo-ai/lemo-opuscar</a></sub></td>
 </tr>
 <tr>
-<td width="33%" valign="top" align="center"><a href="prompts/0fea92b82962c4cf.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/b5e8ef93930b6d828f352055a689320f138237b1/styles/pixel-rpg/poster.jpg" width="300" alt="像素 RPG"></a><br><a href="prompts/0fea92b82962c4cf.md"><b>像素 RPG</b></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/blob/b5e8ef93930b6d828f352055a689320f138237b1/styles/pixel-rpg/STYLE.md">lemomo-ai/lemo-opuscar</a></sub></td>
-<td width="33%" valign="top" align="center"><a href="prompts/263c12d283578967.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/b5e8ef93930b6d828f352055a689320f138237b1/styles/cel-anime-80s/poster.jpg" width="300" alt="80 年代赛璐璐动画"></a><br><a href="prompts/263c12d283578967.md"><b>80 年代赛璐璐动画</b></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/blob/b5e8ef93930b6d828f352055a689320f138237b1/styles/cel-anime-80s/STYLE.md">lemomo-ai/lemo-opuscar</a></sub></td>
+<td width="33%" valign="top" align="center"><a href="prompts/0fea92b82962c4cf.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/pixel-rpg/poster.jpg" width="300" alt="像素 RPG"></a><br><a href="prompts/0fea92b82962c4cf.md"><b>像素 RPG</b></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/blob/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/pixel-rpg/STYLE.md">lemomo-ai/lemo-opuscar</a></sub></td>
+<td width="33%" valign="top" align="center"><a href="prompts/263c12d283578967.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/cel-anime-80s/poster.jpg" width="300" alt="80 年代赛璐璐动画"></a><br><a href="prompts/263c12d283578967.md"><b>80 年代赛璐璐动画</b></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/blob/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/cel-anime-80s/STYLE.md">lemomo-ai/lemo-opuscar</a></sub></td>
 <td width="33%" valign="top" align="center"><a href="prompts/983c7c261e3a2fa6.md"><img src="https://raw.githubusercontent.com/Vincentwei1021/mg-styles-15/49052d80bfaf9fa8412cc9710530e5e95a3b8d8c/docs/readme/films/07-liquid.webp" width="300" alt="流体动效"></a><br><a href="prompts/983c7c261e3a2fa6.md"><b>流体动效</b></a><br><sub><a href="https://github.com/Vincentwei1021/mg-styles-15/blob/49052d80bfaf9fa8412cc9710530e5e95a3b8d8c/prompts/07-liquid.md">Vincentwei1021/mg-styles-15</a></sub></td>
 </tr>
 <tr>
@@ -71,12 +107,12 @@
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center"><a href="prompts/4c3d0578ad2c9a67.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/b5e8ef93930b6d828f352055a689320f138237b1/styles/lowpoly-island/poster.jpg" width="300" alt="低多边形岛屿"></a><br><a href="prompts/4c3d0578ad2c9a67.md"><b>低多边形岛屿</b></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/blob/b5e8ef93930b6d828f352055a689320f138237b1/styles/lowpoly-island/STYLE.md">lemomo-ai/lemo-opuscar</a></sub></td>
-<td width="33%" valign="top" align="center"><a href="prompts/2835b8b29667bdc4.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/b5e8ef93930b6d828f352055a689320f138237b1/styles/brick-toy/poster.jpg" width="300" alt="积木玩具世界"></a><br><a href="prompts/2835b8b29667bdc4.md"><b>积木玩具世界</b></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/blob/b5e8ef93930b6d828f352055a689320f138237b1/styles/brick-toy/STYLE.md">lemomo-ai/lemo-opuscar</a></sub></td>
-<td width="33%" valign="top" align="center"><a href="prompts/06f4c5f7855f2517.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/b5e8ef93930b6d828f352055a689320f138237b1/styles/iso-infographic/poster.jpg" width="300" alt="等距信息图"></a><br><a href="prompts/06f4c5f7855f2517.md"><b>等距信息图</b></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/blob/b5e8ef93930b6d828f352055a689320f138237b1/styles/iso-infographic/STYLE.md">lemomo-ai/lemo-opuscar</a></sub></td>
+<td width="33%" valign="top" align="center"><a href="prompts/4c3d0578ad2c9a67.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/lowpoly-island/poster.jpg" width="300" alt="低多边形岛屿"></a><br><a href="prompts/4c3d0578ad2c9a67.md"><b>低多边形岛屿</b></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/blob/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/lowpoly-island/STYLE.md">lemomo-ai/lemo-opuscar</a></sub></td>
+<td width="33%" valign="top" align="center"><a href="prompts/2835b8b29667bdc4.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/brick-toy/poster.jpg" width="300" alt="积木玩具世界"></a><br><a href="prompts/2835b8b29667bdc4.md"><b>积木玩具世界</b></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/blob/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/brick-toy/STYLE.md">lemomo-ai/lemo-opuscar</a></sub></td>
+<td width="33%" valign="top" align="center"><a href="prompts/06f4c5f7855f2517.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/iso-infographic/poster.jpg" width="300" alt="等距信息图"></a><br><a href="prompts/06f4c5f7855f2517.md"><b>等距信息图</b></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/blob/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/iso-infographic/STYLE.md">lemomo-ai/lemo-opuscar</a></sub></td>
 </tr>
 <tr>
-<td width="33%" valign="top" align="center"><a href="prompts/13f6af1730ea3945.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/b5e8ef93930b6d828f352055a689320f138237b1/styles/glass-product/poster.jpg" width="300" alt="玻璃产品视觉"></a><br><a href="prompts/13f6af1730ea3945.md"><b>玻璃产品视觉</b></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/blob/b5e8ef93930b6d828f352055a689320f138237b1/styles/glass-product/STYLE.md">lemomo-ai/lemo-opuscar</a></sub></td>
+<td width="33%" valign="top" align="center"><a href="prompts/13f6af1730ea3945.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/glass-product/poster.jpg" width="300" alt="玻璃产品视觉"></a><br><a href="prompts/13f6af1730ea3945.md"><b>玻璃产品视觉</b></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/blob/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/glass-product/STYLE.md">lemomo-ai/lemo-opuscar</a></sub></td>
 <td width="33%" valign="top" align="center"><a href="prompts/d36c4e7f3c8effa1.md"><img src="https://cms-assets.youmind.com/media/1776658772018_lukyfw_HGSUfldbIAEiMWZ.jpg" width="300" alt="VR 头显爆炸图"></a><br><a href="prompts/d36c4e7f3c8effa1.md"><b>VR 头显爆炸图</b></a><br><sub><a href="https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/e370b74e0d465dd72607b19ca0590735a08f927d/README.md#L167">YouMind-OpenLab/awesome-gpt-image-2</a></sub></td>
 <td width="33%" valign="top" align="center"><a href="prompts/94c4c40dc1cb70fa.md"><img src="https://cms-assets.youmind.com/media/1776661968404_8a5flm_HGQc_KOaMAA2vt0.jpg" width="300" alt="3D 石阶演化"></a><br><a href="prompts/94c4c40dc1cb70fa.md"><b>3D 石阶演化</b></a><br><sub><a href="https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/e370b74e0d465dd72607b19ca0590735a08f927d/README.md#L462">YouMind-OpenLab/awesome-gpt-image-2</a></sub></td>
 </tr>

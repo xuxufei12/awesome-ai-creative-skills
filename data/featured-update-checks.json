@@ -1,0 +1,68 @@
+{
+  "style_texts_matched_to_upstream": 59,
+  "skill_texts_matched_to_upstream": 2,
+  "feature_images": [
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/my-style-before.jpg",
+      "status": 200,
+      "reachable": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/my-style-after.jpg",
+      "status": 200,
+      "reachable": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/frames/caption-news.jpg",
+      "status": 200,
+      "reachable": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/frames/newsreel.jpg",
+      "status": 200,
+      "reachable": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/frames/countdown.jpg",
+      "status": 200,
+      "reachable": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/frames/city-symphony.jpg",
+      "status": 200,
+      "reachable": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/frames/visual-investigation.jpg",
+      "status": 200,
+      "reachable": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/frames/kino-montage.jpg",
+      "status": 200,
+      "reachable": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/frames/telestrator.jpg",
+      "status": 200,
+      "reachable": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/frames/news-package.jpg",
+      "status": 200,
+      "reachable": true
+    }
+  ],
+  "official_release_assets": [
+    "my-style-material-grid.mp4",
+    "swiss-motion.mp4",
+    "caption-news.mp4",
+    "newsreel.mp4",
+    "countdown.mp4",
+    "city-symphony.mp4",
+    "visual-investigation.mp4",
+    "kino-montage.mp4",
+    "telestrator.mp4",
+    "news-package.mp4"
+  ]
+}

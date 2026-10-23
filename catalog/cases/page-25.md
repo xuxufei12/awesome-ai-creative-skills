@@ -4,6 +4,7 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [DESIGN / WEIGHT：字体与故障动效](../../cases/216f2b08b2d52cb0.md) | 短动效 | guanmo-ai/awesome-ai-motion |
 | [Design Builder 入职短片](../../cases/a2dd47594ad8c8d0.md) | 短动效 | guanmo-ai/awesome-ai-motion |
 | [DesignLoop、HyperFrames 与语音协作实验](../../cases/1078ec08a47e7d5a.md) | 短动效 | guanmo-ai/awesome-ai-motion |
 | [Excel 图形组成的逐格短片](../../cases/7ccf66d24f4e3ff5.md) | 短动效 | guanmo-ai/awesome-ai-motion |
@@ -83,6 +84,5 @@
 | [印地文字的图形化演绎](../../cases/ea22fc323fa29fdf.md) | 短动效 | guanmo-ai/awesome-ai-motion |
 | [危险权限开关的卡通特技片](../../cases/a464d40a8043e55c.md) | 短动效 | guanmo-ai/awesome-ai-motion |
 | [参考影片视觉节奏程序化复现](../../cases/bc6dba795d33cf9c.md) | 短动效 | guanmo-ai/awesome-ai-motion |
-| [可以给你百分之十的我吗](../../cases/b634df1dfec5c978.md) | 短动效 | guanmo-ai/awesome-ai-motion |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md) · [Page 25](page-25.md) · [Page 26](page-26.md) · [Page 27](page-27.md) · [Page 28](page-28.md)

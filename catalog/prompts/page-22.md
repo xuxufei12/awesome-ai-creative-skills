@@ -4,6 +4,15 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [Cinematic Fantasy Video with Pink Dragon and Woman in Cabin](../../prompts/4efb282484ab3385.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Cinematic Martial Arts Training in Japanese Dojo](../../prompts/93299f9316b1d386.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Cinematic Railway Platform Story Scene](../../prompts/4e906e55de92907f.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Cinematic Tiger Warrior Action Scene](../../prompts/bfc9349813e7ecb2.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Cluttered Desk Candle Reset](../../prompts/fa8eea35b5874f82.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
+| [Coconut Floor Terrazzo Transformation Video](../../prompts/c673ae1121a129fb.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Coffee Bloom Resurrection](../../prompts/57a3367d3203a421.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
+| [Cold Brew Pour Cascade](../../prompts/fd0fe8fc24b3edf6.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
+| [Conservatory Serum Calm](../../prompts/6309be8097d703b0.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
 | [Cracked Heels, Glass Floor](../../prompts/0d2ff8e039805bcf.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
 | [Cross-Section Cutaway: Cold-Brew Filter](../../prompts/04c3e6a1fb99fae1.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
 | [Cucumber Floor Renovation Time-lapse](../../prompts/7ee01401f778d32b.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
@@ -75,14 +84,5 @@
 | [Pink Supercar Transformation Action](../../prompts/2bc0dffe1149827e.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [Pixar Style Mango Orchard Short Film Prompt](../../prompts/b275469a8214ffb9.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [Playful Basketball Scene with Dog Mascot](../../prompts/76888664a0b262fe.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [Product Presentation Video with AI Dialogue](../../prompts/254bbfbd19ff98af.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [Rain-Slick City Run At Dusk](../../prompts/95f0e4d8da5f58f3.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
-| [Ramen Steam Ritual](../../prompts/205a805b8194786d.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
-| [Realistic Fitness Vlog with DV Aesthetic](../../prompts/ed60779301749d1b.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [Samurai Castle Assault One-Take](../../prompts/d4074f69a49dc1cb.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [Samurai Night Hunt with Dynamic Camera](../../prompts/b74b07471a02b5d8.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [School Cafeteria Lunch Scene](../../prompts/29af35707b1e135d.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [Sci-Fi Horror Lab Experiment Video Prompt](../../prompts/553b92189d08f041.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [Sci-Fi Ocean Rising Fleet Battle Prompt](../../prompts/045ff02e3a5c0fcd.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 
-[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md)
+[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

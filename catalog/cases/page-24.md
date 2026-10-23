@@ -4,6 +4,7 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [用动态图表介绍 Opus 5.5](../../cases/5a9efc70a9662c0c.md) | 知识讲解 | guanmo-ai/awesome-ai-motion |
 | [用动画解释 UX 设计决策](../../cases/1e281efd7f140f92.md) | 知识讲解 | guanmo-ai/awesome-ai-motion |
 | [用动画解释嵌入向量](../../cases/10cf1cd177aef17c.md) | 知识讲解 | guanmo-ai/awesome-ai-motion |
 | [用卡通动画讲板块漂移](../../cases/2bf3119f5434c82c.md) | 知识讲解 | guanmo-ai/awesome-ai-motion |
@@ -83,6 +84,5 @@
 | [Clawd 角色的彩色螺旋循环](../../cases/7c7ff08150c26326.md) | 短动效 | guanmo-ai/awesome-ai-motion |
 | [Clawd 遨游五十六个品牌 Logo](../../cases/a448852c9d5f1c37.md) | 短动效 | guanmo-ai/awesome-ai-motion |
 | [Codex动效复刻的双栏对照](../../cases/d7393205bdd89493.md) | 短动效 | guanmo-ai/awesome-ai-motion |
-| [DESIGN / WEIGHT：字体与故障动效](../../cases/216f2b08b2d52cb0.md) | 短动效 | guanmo-ai/awesome-ai-motion |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md) · [Page 25](page-25.md) · [Page 26](page-26.md) · [Page 27](page-27.md) · [Page 28](page-28.md)

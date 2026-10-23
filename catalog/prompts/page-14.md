@@ -4,6 +4,14 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [No. 1: Wide quote card with portrait and Chinese/English customization](../../prompts/3c7e3c87ee2c25b3.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
+| [No. 20: Profile / Avatar - Geometric Cartoon Two-Person Interaction Illustration](../../prompts/cf68ced8edb85ef1.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
+| [No. 20: Social Media Post - Train-ad style book advertisement image](../../prompts/77ad2eb86b5164b6.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
+| [No. 21: Social Media Post - Comical Wanted Poster Character Prompt](../../prompts/4664d69390a2d5f4.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
+| [No. 21: Social Media Post - Surreal Voyeuristic Portrait of Dua Lipa](../../prompts/f9061d78f0cec7ee.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
+| [No. 22: Social Media Post - GPT Image 2 Prompt: Experimental Texture Diptych](../../prompts/1824513df4c693a7.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
+| [No. 22: Social Media Post - Photo to Hand-drawn Illustration Poster Prompt](../../prompts/2a50619475ce66c8.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
+| [No. 23: Social Media Post - Halloween Zombie Girl Outfit Prompt](../../prompts/14215c4a84b72673.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
 | [No. 23: Social Media Post - High-Fashion Urban Night Editorial](../../prompts/585326c9839480e8.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
 | [No. 24: Social Media Post - Serene Good Morning Watercolor Poster](../../prompts/b4b828ab84d1e88f.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
 | [No. 24: Social Media Post - Whimsical Miniature Baroque Staircase Hall](../../prompts/f1de2d5c3bcce9eb.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
@@ -76,13 +84,5 @@
 | [No. 52: Infographic / Edu Visual - Folk Art Cafe Study Illustration Prompt](../../prompts/6c3e986a52fc7392.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
 | [No. 52: YouTube Thumbnail - Premium Dark Fantasy Anime Cinematic](../../prompts/748d5be47ce655c7.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
 | [No. 53: Infographic / Edu Visual - Mid-Autumn Festival Typography Poster Prompt](../../prompts/f4395dc725bb283e.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
-| [No. 53: YouTube Thumbnail - Koshien Baseball Broadcast Screen](../../prompts/76f411afea0304e0.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
-| [No. 54: YouTube Thumbnail - Cinematic Fried Chicken Food Advertisement](../../prompts/873e54e09cd47629.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
-| [No. 54: YouTube Thumbnail - Typographic Emergence Movie Poster Grid](../../prompts/ec6d5c7e1e035063.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
-| [No. 55: YouTube Thumbnail - Miniature Pop-up Book Diorama](../../prompts/c8f7c2be75209cb4.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
-| [No. 55: YouTube Thumbnail - Sister of Battle Rising](../../prompts/a049fae33aee9d03.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
-| [No. 56: YouTube Thumbnail - Horus Heresy Final Duel Scene](../../prompts/fae9e80180bf0f9c.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
-| [No. 56: YouTube Thumbnail - Sci-Fi Coffee Machine Boss Battle](../../prompts/456308aa0007fb19.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
-| [No. 57: YouTube Thumbnail - Lady Death Fighting Demons](../../prompts/2f246b80025b8c70.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
 
-[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md)
+[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

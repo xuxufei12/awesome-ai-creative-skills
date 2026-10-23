@@ -4,6 +4,7 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [NEO CRASH：横版动作游戏](../../cases/101afaec48942c90.md) | 像素与角色 | guanmo-ai/awesome-ai-motion |
 | [Oh, the Places：交互式故事书](../../cases/d30be19f0317d8bc.md) | 像素与角色 | guanmo-ai/awesome-ai-motion |
 | [OmaCRT：从关节曲线到像素步态](../../cases/afd87f57c54256a2.md) | 像素与角色 | guanmo-ai/awesome-ai-motion |
 | [Opus 的 Blender 角色动画测试](../../cases/a075781d9fa3a4bd.md) | 像素与角色 | guanmo-ai/awesome-ai-motion |
@@ -83,6 +84,5 @@
 | [铃兰小岛上的野餐与炊烟](../../cases/58dc5a03e592ac0f.md) | 像素与角色 | guanmo-ai/awesome-ai-motion |
 | [阿拉伯文与卡通角色的竖屏动效](../../cases/b5e3382903b1febc.md) | 像素与角色 | guanmo-ai/awesome-ai-motion |
 | [院子里的 JavaScript 卡通狗](../../cases/780f0695b331db1c.md) | 像素与角色 | guanmo-ai/awesome-ai-motion |
-| [雨夜像素岛](../../cases/6141d5cc95532caf.md) | 像素与角色 | guanmo-ai/awesome-ai-motion |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md) · [Page 25](page-25.md) · [Page 26](page-26.md) · [Page 27](page-27.md) · [Page 28](page-28.md)

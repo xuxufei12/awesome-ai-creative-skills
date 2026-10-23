@@ -2,7 +2,7 @@
 
 # Cases & effects / 案例与效果
 
-2203 records / 条记录。每条提供独立详情和来源。
+2204 records / 条记录。每条提供独立详情和来源。
 
 - [Page 1 · 1–80](page-01.md)
 - [Page 2 · 81–160](page-02.md)
@@ -31,4 +31,4 @@
 - [Page 25 · 1921–2000](page-25.md)
 - [Page 26 · 2001–2080](page-26.md)
 - [Page 27 · 2081–2160](page-27.md)
-- [Page 28 · 2161–2203](page-28.md)
+- [Page 28 · 2161–2204](page-28.md)

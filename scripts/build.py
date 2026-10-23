@@ -46,6 +46,7 @@ for r in projects:
  for k,v in [('Category / 分类',r['category']),('Type / 类型',r['type']),('Hosts mentioned / 提及宿主',', '.join(r['hosts'])),('Source status / 来源状态',r['status']),('Stars at snapshot / 采集时 Stars',r['stars']),('Snapshot / 来源快照',r['checked_at']),('Pinned commit / 固定提交',r['commit'] or 'Unavailable'),('Upstream license / 上游许可证',r['license']),('Archived upstream / 上游归档','Yes' if r['archived'] else 'No')]:text+=f'| {k} | {esc(v)} |\n'
  text+=f"\n**Scope / 范围:** Host names are README mentions, not compatibility tests. / 宿主标签来自 README，不代表跨模型实测。\n\n## Sources / 来源\n\n{sources(r['sources'])}\n\n"
  if len(set(r['aliases']))>1:text+='Aliases / 旧名与别名: '+', '.join(f'`{x}`' for x in sorted(set(r['aliases'])))+'\n\n'
+ for update in r.get('updates',[]):text+=f"## Update / 更新 · {update['date']}\n\n[{update['title']}](../{update['path']})\n\n"
  text+='## Setup & limits / 依赖与限制\n\n'+r['requirements']+'\n\n'+r['limits']+'\n\n'
  text+='## Effects / 效果展示\n\n'+preview(r['preview_assets'],6)+'\n'
  text+=f'## Skills ({len(ss)})\n\n'
@@ -108,6 +109,27 @@ featured_names=['alchaincyf/huashu-motion','alchaincyf/huashu-art-motion','Kianz
 featured=[rmap[n.lower()] for n in featured_names if n.lower() in rmap]
 gallery=json.loads((ROOT/'data/featured-gallery.json').read_text(encoding='utf-8'))
 promptmap={p['id']:p for p in prompts}
+def featured_update(zh):
+ path=ROOT/'data/featured-update.json'
+ if not path.exists():return ''
+ f=json.loads(path.read_text(encoding='utf-8'))
+ text='## '+('新玩法 · 把喜欢的风格，变成自己的' if zh else 'New · Make a style your own')+'\n\n'
+ text+=('Lemo-Opuscar 已更新到 **59 种影片风格**，新增 **8 种剪辑与纪实**。还可以改编现有风格，或从空白设计一套自己的视觉语言，确认后保存，接着用来做下一支片。' if zh else 'Lemo-Opuscar now offers **59 film styles**, including **8 new editing and documentary styles**. Adapt a library style or design your own, preview it, and save it for your next film.')+'\n\n'
+ text+=('下面是作者的改编示例。保留瑞士风格的网格、节拍和排版，把平面图形变成黏土、毛毡、玻璃和镀铬物件。**俯视是一张海报，镜头一转，就是一个立体世界。**' if zh else 'The creator’s example keeps the Swiss grid, beat and typography, turning flat shapes into clay, felt, glass and chrome objects. **From above it reads as a poster; tilt the camera and it becomes a 3D world.**')+'\n\n'
+ text+='<table>\n<tr>\n'
+ for image,video,label in [(f['before'],f['before_video'],'原风格 · Swiss Motion' if zh else 'Original · Swiss Motion'),(f['after'],f['after_video'],'我的风格 · Material Grid · 31 秒' if zh else 'Custom · Material Grid · 31 seconds')]:
+  text+=f'<td width="50%" align="center" valign="top"><a href="{video}"><img src="{image}" width="480" alt="{label}"></a><br><a href="{video}"><b>▶ {label}</b></a></td>\n'
+ text+='</tr>\n</table>\n\n'
+ text+=f"[{'制作流程与更新说明' if zh else 'Workflow & update notes'}]({f['detail_path']}) · [{'自定义风格完整指令' if zh else 'Complete custom-style instructions'}](prompts/{f['custom_workflow_prompt_id']}.md) · [{'作者原帖' if zh else 'Creator’s announcement'}]({f['source_post']})\n\n"
+ text+='### '+('8 种新风格，点图看片' if zh else '8 new styles · click a frame to watch')+'\n\n<table>\n'
+ for i,s in enumerate(f['added_styles']):
+  if i%3==0:text+='<tr>\n'
+  label=s['title_zh' if zh else 'title_en']
+  text+=f'<td width="33%" align="center" valign="top"><a href="{s["video"]}"><img src="{s["image"]}" width="300" alt="{html.escape(label)}"></a><br><b>{html.escape(label)}</b><br><sub><a href="{s["video"]}">▶ {"样片" if zh else "Film"}</a> · <a href="prompts/{s["prompt_id"]}.md">{"风格提示词" if zh else "Style prompt"}</a></sub></td>\n'
+  if i%3==2 or i==len(f['added_styles'])-1:text+='</tr>\n'
+ text+='</table>\n\n'
+ text+=f"<sub>{'示例与画面' if zh else 'Films & frames'} © LemoLab / Lemomo · CC BY 4.0 · <a href=\"https://github.com/{f['upstream_repo']}\">lemo-opuscar</a></sub>\n\n"
+ return text
 for zh,name in [(False,'README.md'),(True,'README.zh-CN.md')]:
  text='![awesome-ai-creative-skills — Curated skills & prompts for AI image and video generation](assets/banner.png)\n\n# Awesome AI Creative Skills\n\n'
  text+='[English](README.md) · [简体中文](README.zh-CN.md)\n\n'
@@ -115,6 +137,7 @@ for zh,name in [(False,'README.md'),(True,'README.zh-CN.md')]:
  text+='[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Stars](https://img.shields.io/github/stars/'+DATA['repository']+'?style=flat)](https://github.com/'+DATA['repository']+'/stargazers)\n\n'
  text+=('这里收录了一些用 AI 制作创意图片、视频、动效和 3D 场景的方法，包括可直接参考的提示词、可复用的 Skill，以及对应的作品效果。从一张有趣的图片到一段完整的动画，希望你能在这里找到灵感，也找到动手创作的起点。' if zh else 'Explore ways to create imaginative images, videos, motion graphics and 3D scenes with AI. This collection brings together prompts, reusable Skills and examples of what they can make—from a playful image to a complete animation, with inspiration and practical starting points for your own creations.')+'\n\n'
  text+=f"**{'资料快照' if zh else 'Snapshot'}: {DATA['snapshot_date']}** · **{len(projects)}** {'项目' if zh else 'projects'} · **{len(skills)}** Skills · **{len(prompts)}** {'提示词／风格文本' if zh else 'prompt / style texts'} · **{len(cases)}** {'案例' if zh else 'cases'}\n\n"
+ text+=featured_update(zh)
  text+='## '+('开始浏览' if zh else 'Explore')+'\n\n'
  text+='| '+('入口 | 内容' if zh else 'Entry | Contents')+' |\n|---|---|\n'
  links=[('完整分类目录','Complete catalogue','catalog/README.md','14 个创作方向','14 creative categories'),('提示词正文','Prompt text','catalog/prompts/README.md','可复制正文、来源与对应效果','Copyable text, sources and corresponding effects'),('Skill 原文','Skill text','catalog/skills/README.md','独立 Skill 页面与上游安装依赖','Individual Skill pages and upstream dependencies'),('案例与效果','Cases & effects','catalog/cases/README.md','预览图、视频与公开提示词状态','Posters, videos and prompt availability'),('工作流与原创模板','Workflows & templates','catalog/guides.md','社区教程与原创模板分别标注','Community guides distinguished from original templates'),('PDF 合并记录','PDF merge report','docs/PDF-MERGE.md','页码、去重映射与新增仓库','Page references, deduplication and added repositories')]

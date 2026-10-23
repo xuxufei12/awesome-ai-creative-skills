@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-10-23T06:29:56.223627+00:00",
+  "checked_at": "2026-10-23T08:17:57.198993+00:00",
   "counts": {
     "projects": 441,
     "skills": 772,
-    "prompts": 1834,
-    "cases": 2203,
+    "prompts": 1843,
+    "cases": 2204,
     "guides": 12,
     "templates": 16
   },
-  "local_links_checked": 32323,
+  "local_links_checked": 32462,
   "pdf_main_entries": 45,
   "pdf_appendix_files": 18,
   "errors": [],

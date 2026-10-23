@@ -4,6 +4,15 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [Color Wheel Motion Graphics](../../prompts/073f4ce132b01cd7.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
+| [Colored-Pencil Explainer](../../prompts/6b3ce1953179f2e2.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
+| [Dark Mode Kinetic Typography](../../prompts/48e6d948186ebb57.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
+| [Distilbook Product Motion Graphic](../../prompts/496d947ebac082ad.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
+| [Educational Animated Explainer](../../prompts/e67a868a8f9ceb55.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
+| [Epic History Chronology](../../prompts/78619d5f41bfe992.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
+| [Evolution of Eye Explainer](../../prompts/d841fcec7e0232c5.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
+| [Explainer Video Prompt for Opus 5.5](../../prompts/d9855cfe5ae4527d.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
+| [GSAP Timeline with Frame Checking](../../prompts/eea10dfbf13cd4d9.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [History of AI Motion Video](../../prompts/ee88ce17654961a5.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [Indian Civilization History Video](../../prompts/3d8fcfbf9d71216b.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [Kinetic Typography Speech Visualization](../../prompts/68adc2c955a5127f.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
@@ -75,14 +84,5 @@
 | [explainer · @itsyashf · 692347](../../prompts/cb754939dc0f0146.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [explainer · @kgonia7 · 746268](../../prompts/2b6c0abaaa1efe7f.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [explainer · @kloss_xyz · 067876](../../prompts/e7d0abdc3a0b1e2d.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [explainer · @konstantinsaifo · 501736](../../prompts/d91a3572168fd7f9.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [explainer · @konstantinsaifo · 587629](../../prompts/0daf6cb2ea038a0e.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [explainer · @kureshirfan · 386691](../../prompts/9b60a414a89832f2.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [explainer · @moguzbulbul · 215591](../../prompts/8e56da949cf7488b.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [explainer · @ninjaswebcom · 684126](../../prompts/daefb5ef14c22bed.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [explainer · @nybobs · 680050](../../prompts/0d1db7fdd79edd89.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [explainer · @rpa_dake · 593915](../../prompts/e8046e6e0efa8bc0.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [explainer · @salmanr2d2 · 661615](../../prompts/6a9e05f13d246387.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [explainer · @samissudo · 927179](../../prompts/91a62891944b5b8e.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 
-[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md)
+[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

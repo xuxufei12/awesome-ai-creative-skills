@@ -4,6 +4,7 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [设计与代码错位的等距动画](../../cases/84f9d28439d24e1b.md) | 短动效 | guanmo-ai/awesome-ai-motion |
 | [逐笔生长的水墨宣纸](../../cases/f6db959f081e00cd.md) | 短动效 | guanmo-ai/awesome-ai-motion |
 | [酒吧故事：竖屏动态文字](../../cases/919d18533f9517b1.md) | 短动效 | guanmo-ai/awesome-ai-motion |
 | [金粉振动板：克拉尼图形动画](../../cases/3ce0625d93852c9b.md) | 短动效 | guanmo-ai/awesome-ai-motion |
@@ -83,6 +84,5 @@
 | [十三分钟乐队歌曲影像](../../cases/80287017716ae51b.md) | 音乐与歌词 | guanmo-ai/awesome-ai-motion |
 | [单图驱动的复古电视音乐影像](../../cases/ab19b7c04d32151f.md) | 音乐与歌词 | guanmo-ai/awesome-ai-motion |
 | [卡农的手绘程序化音乐影像](../../cases/ba1d06a19c6c9e2b.md) | 音乐与歌词 | guanmo-ai/awesome-ai-motion |
-| [卡拉 OK 字幕与卡通音乐 MV](../../cases/3d36d89053ca7bfe.md) | 音乐与歌词 | guanmo-ai/awesome-ai-motion |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md) · [Page 25](page-25.md) · [Page 26](page-26.md) · [Page 27](page-27.md) · [Page 28](page-28.md)

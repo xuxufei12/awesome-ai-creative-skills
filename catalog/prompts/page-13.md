@@ -4,6 +4,14 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [小说改 AI 短剧:改编大纲 + 分镜表提示词 · 2](../../prompts/3a7fdabc5c530a4b.md) | 叙事动画与音乐视频 | PDF / community |
+| [一句话讲 Anthropic 的发家史](../../prompts/a47a0868f17196b4.md) | 叙事短片 | guanmo-ai/awesome-ai-motion |
+| [一滴雨的故事动画](../../prompts/b4593c89318e35d6.md) | 叙事短片 | guanmo-ai/awesome-ai-motion |
+| [不想被修好的程序错误](../../prompts/3b496c6832667b84.md) | 叙事短片 | guanmo-ai/awesome-ai-motion |
+| [九十年代风格三维故事](../../prompts/800802fbaf4d3846.md) | 叙事短片 | guanmo-ai/awesome-ai-motion |
+| [关于家的剪影纸戏](../../prompts/e74eba2ba04382e2.md) | 叙事短片 | guanmo-ai/awesome-ai-motion |
+| [夜班邮局的猫头鹰](../../prompts/59fd1c80fedd5b2f.md) | 叙事短片 | guanmo-ai/awesome-ai-motion |
+| [无人世界的未来寓言](../../prompts/a0f9dd54c39e3e7c.md) | 叙事短片 | guanmo-ai/awesome-ai-motion |
 | [无法阅读的书本动画故事](../../prompts/bfa260db2febc940.md) | 叙事短片 | guanmo-ai/awesome-ai-motion |
 | [星星与猫的程序化动画](../../prompts/dfd68647b271bf2f.md) | 叙事短片 | guanmo-ai/awesome-ai-motion |
 | [火柴人闯迷宫动画](../../prompts/ea9b0edea69a1224.md) | 叙事短片 | guanmo-ai/awesome-ai-motion |
@@ -76,13 +84,5 @@
 | [No. 1: Profile / Avatar - Cinematic Portrait of Woman in Crimson Dress](../../prompts/5662aa2db5decd89.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
 | [No. 1: Profile / Avatar - Dramatic Portrait with Red Light on Eyes](../../prompts/8970bffb72f8cc15.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
 | [No. 1: VR Headset Exploded View Poster](../../prompts/d36c4e7f3c8effa1.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
-| [No. 1: Wide quote card with portrait and Chinese/English customization](../../prompts/3c7e3c87ee2c25b3.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
-| [No. 20: Profile / Avatar - Geometric Cartoon Two-Person Interaction Illustration](../../prompts/cf68ced8edb85ef1.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
-| [No. 20: Social Media Post - Train-ad style book advertisement image](../../prompts/77ad2eb86b5164b6.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
-| [No. 21: Social Media Post - Comical Wanted Poster Character Prompt](../../prompts/4664d69390a2d5f4.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
-| [No. 21: Social Media Post - Surreal Voyeuristic Portrait of Dua Lipa](../../prompts/f9061d78f0cec7ee.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
-| [No. 22: Social Media Post - GPT Image 2 Prompt: Experimental Texture Diptych](../../prompts/1824513df4c693a7.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
-| [No. 22: Social Media Post - Photo to Hand-drawn Illustration Poster Prompt](../../prompts/2a50619475ce66c8.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
-| [No. 23: Social Media Post - Halloween Zombie Girl Outfit Prompt](../../prompts/14215c4a84b72673.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
 
-[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md)
+[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

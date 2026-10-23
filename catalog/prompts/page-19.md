@@ -4,6 +4,14 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [案例 57：8位像素图标 (by @egeberkina)](../../prompts/e0eeef3b97533547.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
+| [案例 58：云彩艺术 (by @umesh_ai)](../../prompts/49f2cebb5d51fdad.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
+| [案例 59：彩色矢量艺术海报 (by @michaelrabone)](../../prompts/bda78d0826a44d78.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
+| [案例 5：吉卜力风格 (by AnimeAI)](../../prompts/03dbd05da6b14c33.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
+| [案例 60：Emoji 簇绒地毯 (by @gizakdag)](../../prompts/639238eb6da1d842.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
+| [案例 61：虚构推文截图 (爱因斯坦) (by @egeberkina)](../../prompts/fffa5c691183f873.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
+| [案例 62：可爱珐琅别针 (by @gnrlyxyz)](../../prompts/8b5eba99f97340f3.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
+| [案例 63：Emoji 奶油雪糕 (by @ZHO_ZHO_ZHO)](../../prompts/f2742239ffaaf1ad.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
 | [案例 64：蒸汽朋克机械鱼 (by @f-is-h)](../../prompts/e24095a21fad2a6e.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
 | [案例 65：奇幻水下场景冰棒 (by @madpencil_)](../../prompts/7b0f59ebdaae14ea.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
 | [案例 66：创意丝绸宇宙 (by @ZHO_ZHO_ZHO)](../../prompts/651e78dab7a4f399.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
@@ -60,6 +68,7 @@
 | [8 个可直接复制的提示词(&#91; &#93; 换成你的内容) · 7](../../prompts/0a85cf7b594d4c3c.md) | 提示词与导演方法 | PDF / community |
 | [8 个可直接复制的提示词(&#91; &#93; 换成你的内容) · 8](../../prompts/03d35e7ffc291479.md) | 提示词与导演方法 | PDF / community |
 | [AI 猫咪短片全套提示词(选题 → 角色卡 → 分镜 → 图片提示词 → 图生视频提示词 → 声音 → 发布)](../../prompts/b95029a06e7d3f9a.md) | 提示词与导演方法 | PDF / community |
+| [Make a style your own / 创建并保存个人风格](../../prompts/f84d2595fed3fce8.md) | 提示词与导演方法 | lemomo-ai/lemo-opuscar |
 | [Seedance 2.5 中文提示词:长城武打喜剧 30 秒(25 个镜头)](../../prompts/abb7cf454f9ca056.md) | 提示词与导演方法 | PDF / community |
 | [Across Product Demo Video](../../prompts/03d66bdd07af479f.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [After Effect Style Kinetic Text Explainer](../../prompts/991c77707e903a7c.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
@@ -75,14 +84,5 @@
 | [Claude Code Explainer Animation](../../prompts/4bf4f6a7333f77d8.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [Claude Opus 5.5 Animation Workflow Tutorial](../../prompts/b9c86770c48c2a60.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [Code-Only Psychology Explainer Video](../../prompts/c955430457b626b1.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [Color Wheel Motion Graphics](../../prompts/073f4ce132b01cd7.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [Colored-Pencil Explainer](../../prompts/6b3ce1953179f2e2.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [Dark Mode Kinetic Typography](../../prompts/48e6d948186ebb57.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [Distilbook Product Motion Graphic](../../prompts/496d947ebac082ad.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [Educational Animated Explainer](../../prompts/e67a868a8f9ceb55.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [Epic History Chronology](../../prompts/78619d5f41bfe992.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [Evolution of Eye Explainer](../../prompts/d841fcec7e0232c5.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [Explainer Video Prompt for Opus 5.5](../../prompts/d9855cfe5ae4527d.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [GSAP Timeline with Frame Checking](../../prompts/eea10dfbf13cd4d9.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 
-[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md)
+[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

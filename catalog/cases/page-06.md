@@ -6,6 +6,7 @@
 |---|---|---|
 | [群论之美宣传片](../../cases/92d6e45e540dfc9e.md) | B 站合集 | joeseesun/opus-video-prompts |
 | [3D 过山车视频(DSH 自己调用 Blender)](../../cases/4106a8b4fe6106a3.md) | Blender 与三维建模 | PDF / community |
+| [Swiss Motion → Material Grid / 从平面网格到立体材质](../../cases/5a801244f1e4954b.md) | SVG 与动态图形 | lemomo-ai/lemo-opuscar |
 | [北京天坛祈年殿写实 3D 网页(three.js)](../../cases/d862192cd043d4ce.md) | Three.js 与 WebGPU | PDF / community |
 | [变体:印度文明 showreel + three.js](../../cases/33180f49da30a901.md) | Three.js 与 WebGPU | PDF / community |
 | [Across Product Demo Video](../../cases/10d3d365f3b41315.md) | explainer | yihui-dev/awesome-opus5-5-videos |
@@ -83,6 +84,5 @@
 | [Motion Design Comparison: Sol vs Opus 5.5](../../cases/f74ce8eab9cd4c08.md) | interactive | yihui-dev/awesome-opus5-5-videos |
 | [Motion Design System](../../cases/f98e6b257dd1f6bf.md) | interactive | yihui-dev/awesome-opus5-5-videos |
 | [Neuroscience Friendship Study Film](../../cases/0619a23f18a63ccd.md) | interactive | yihui-dev/awesome-opus5-5-videos |
-| [Opus 5.5 Code-Generated Pixel Short Film](../../cases/af6eafe2cd0a27a5.md) | interactive | yihui-dev/awesome-opus5-5-videos |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md) · [Page 25](page-25.md) · [Page 26](page-26.md) · [Page 27](page-27.md) · [Page 28](page-28.md)

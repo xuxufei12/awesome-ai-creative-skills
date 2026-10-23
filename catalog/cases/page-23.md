@@ -4,6 +4,7 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [吉萨金字塔的三维导览](../../cases/5d4c9bf6ed704a44.md) | 知识讲解 | guanmo-ai/awesome-ai-motion |
 | [吊桥施工过程示意动画](../../cases/9160ef8a695be0f4.md) | 知识讲解 | guanmo-ai/awesome-ai-motion |
 | [同一提示词为何需要不同视觉风格](../../cases/018feeb7c9ae0ece.md) | 知识讲解 | guanmo-ai/awesome-ai-motion |
 | [咖啡之路](../../cases/4ad5fab406fbdbb4.md) | 知识讲解 | guanmo-ai/awesome-ai-motion |
@@ -83,6 +84,5 @@
 | [用 3D 动画解释 AI 量化](../../cases/7596238c71972a44.md) | 知识讲解 | guanmo-ai/awesome-ai-motion |
 | [用 HTML 解释缓存 PR](../../cases/8fcdbec5f290c459.md) | 知识讲解 | guanmo-ai/awesome-ai-motion |
 | [用 Manim 解释指针和地址](../../cases/b63c194847652354.md) | 知识讲解 | guanmo-ai/awesome-ai-motion |
-| [用动态图表介绍 Opus 5.5](../../cases/5a9efc70a9662c0c.md) | 知识讲解 | guanmo-ai/awesome-ai-motion |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md) · [Page 25](page-25.md) · [Page 26](page-26.md) · [Page 27](page-27.md) · [Page 28](page-28.md)

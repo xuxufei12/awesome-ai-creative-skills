@@ -4,6 +4,7 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [motion · @chrisjdimarco · 808196](../../cases/31b96c51de790265.md) | motion | yihui-dev/awesome-opus5-5-videos |
 | [motion · @daniel_haida · 636937](../../cases/519bc2ebacaab6b7.md) | motion | yihui-dev/awesome-opus5-5-videos |
 | [motion · @daniel_mac8 · 306214](../../cases/b67527a9d0c01cb5.md) | motion | yihui-dev/awesome-opus5-5-videos |
 | [motion · @davidmarcus · 686217](../../cases/d05d01c253d86a9a.md) | motion | yihui-dev/awesome-opus5-5-videos |
@@ -83,6 +84,5 @@
 | [motion · @sachaarbonel · 673648](../../cases/e6edab600fa7b582.md) | motion | yihui-dev/awesome-opus5-5-videos |
 | [motion · @sahilvermaai · 189237](../../cases/bb1ae9a301933f96.md) | motion | yihui-dev/awesome-opus5-5-videos |
 | [motion · @samaote · 124569](../../cases/fcbdb76b8a1711bb.md) | motion | yihui-dev/awesome-opus5-5-videos |
-| [motion · @samuel_spitz · 503053](../../cases/01c13b56969cc895.md) | motion | yihui-dev/awesome-opus5-5-videos |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md) · [Page 25](page-25.md) · [Page 26](page-26.md) · [Page 27](page-27.md) · [Page 28](page-28.md)

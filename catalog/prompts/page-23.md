@@ -4,6 +4,15 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [Product Presentation Video with AI Dialogue](../../prompts/254bbfbd19ff98af.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Rain-Slick City Run At Dusk](../../prompts/95f0e4d8da5f58f3.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
+| [Ramen Steam Ritual](../../prompts/205a805b8194786d.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
+| [Realistic Fitness Vlog with DV Aesthetic](../../prompts/ed60779301749d1b.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Samurai Castle Assault One-Take](../../prompts/d4074f69a49dc1cb.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Samurai Night Hunt with Dynamic Camera](../../prompts/b74b07471a02b5d8.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [School Cafeteria Lunch Scene](../../prompts/29af35707b1e135d.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Sci-Fi Horror Lab Experiment Video Prompt](../../prompts/553b92189d08f041.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Sci-Fi Ocean Rising Fleet Battle Prompt](../../prompts/045ff02e3a5c0fcd.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [Sci-Fi Warrior Corridor Sprint](../../prompts/e983cecbd42e1acb.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [Scuffed Soles, Clean Strike](../../prompts/ab6e9c20ec0cd3b1.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
 | [Seamless Loop Product Video Prompt](../../prompts/219df2560008ea2a.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
@@ -75,8 +84,5 @@
 | [碰撞触发音符的机械装置](../../prompts/87c9259cc1295d9d.md) | 音乐与歌词 | guanmo-ai/awesome-ai-motion |
 | [角色设定驱动的动画歌曲](../../prompts/49ca4f86ef2126bd.md) | 音乐与歌词 | guanmo-ai/awesome-ai-motion |
 | [让歌词成为竖屏视频主角](../../prompts/0d9448691a40d903.md) | 音乐与歌词 | guanmo-ai/awesome-ai-motion |
-| [货币史主题音乐影像](../../prompts/03f086c692e47fe8.md) | 音乐与歌词 | guanmo-ai/awesome-ai-motion |
-| [逐帧代码生成的音乐视频](../../prompts/6515cddadbe62bd5.md) | 音乐与歌词 | guanmo-ai/awesome-ai-motion |
-| [钢琴作曲与 JavaScript 动画](../../prompts/de0ead0cdf400021.md) | 音乐与歌词 | guanmo-ai/awesome-ai-motion |
 
-[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md)
+[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

@@ -2,7 +2,7 @@
 
 # lemomo-ai/lemo-opuscar
 
-按风格挑选 STYLE 文档、示例及可复用短片创作方法。
+59 种代码影片风格，新增 8 种剪辑与纪实；支持改编现有风格、从空白设计并保存个人风格库。
 
 | Field / 字段 | Value / 内容 |
 |---|---|
@@ -10,26 +10,40 @@
 | Type / 类型 | Skill／技能包 |
 | Hosts mentioned / 提及宿主 | Claude / Opus |
 | Source status / 来源状态 | 已存 README 与 Skill |
-| Stars at snapshot / 采集时 Stars |  |
-| Snapshot / 来源快照 | 2026-10-22T05:50:56.214501+00:00 |
-| Pinned commit / 固定提交 | b5e8ef93930b6d828f352055a689320f138237b1 |
-| Upstream license / 上游许可证 | MIT 类许可（见原文） |
+| Stars at snapshot / 采集时 Stars | 5854 |
+| Snapshot / 来源快照 | 2026-10-23T08:16:19.610573+00:00 |
+| Pinned commit / 固定提交 | 3961ddb3d24d8876e0e2754f7790d66908acee51 |
+| Upstream license / 上游许可证 | Code/docs: MIT; demo films/stills: CC BY 4.0, with specified voice/third-party asset exceptions. |
 | Archived upstream / 上游归档 | No |
 
 **Scope / 范围:** Host names are README mentions, not compatibility tests. / 宿主标签来自 README，不代表跨模型实测。
 
 ## Sources / 来源
 
+- [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar/blob/3961ddb3d24d8876e0e2754f7790d66908acee51/README.md)
+- [Author update announcement](https://x.com/lemomo_ai/status/2113195080517562646)
 - [GitHub snapshot](https://github.com/lemomo-ai/lemo-opuscar/blob/b5e8ef93930b6d828f352055a689320f138237b1/README.md)
   - PDF: `opus-deepseek-video-prompts.pdf`, pp. 45; original post not independently verified / 未独立核验原帖。
 
+## Update / 更新 · 2026-10-22
+
+[59 styles, Edit & Documentary, and personal style creation / 59 种风格、剪辑与纪实、自定义风格](../docs/updates/lemo-opuscar-20261022.md)
+
 ## Setup & limits / 依赖与限制
 
-编码代理与风格所需的本地渲染链。
+Node.js 20+、FFmpeg、Python 3.11+（或 uv）；Claude Code 插件或按上游说明使用。
 
-示例成片是参考；风格数量和可复现性不能仅看宣传数字。
+自定义风格先出风格图，再制作短片并确认保存；个人风格与公共风格库分别存储。
 
 ## Effects / 效果展示
+
+<img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/my-style-after.jpg" alt="Material Grid: custom style" width="640" loading="lazy">
+
+[Open image / 查看原图](https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/my-style-after.jpg)
+
+<img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/my-style-before.jpg" alt="Swiss Motion Graphics: original style" width="640" loading="lazy">
+
+[Open image / 查看原图](https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/my-style-before.jpg)
 
 <img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/b5e8ef93930b6d828f352055a689320f138237b1/docs/cover.jpg" alt="All styles" width="640" loading="lazy">
 
@@ -47,22 +61,14 @@
 
 [Open image / 查看原图](https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/b5e8ef93930b6d828f352055a689320f138237b1/docs/frames/satellite-briefing.jpg)
 
-<img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/b5e8ef93930b6d828f352055a689320f138237b1/docs/frames/briefing-board.jpg" alt="Upstream example" width="640" loading="lazy">
-
-[Open image / 查看原图](https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/b5e8ef93930b6d828f352055a689320f138237b1/docs/frames/briefing-board.jpg)
-
-<img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/b5e8ef93930b6d828f352055a689320f138237b1/docs/frames/lidar-survey.jpg" alt="Upstream example" width="640" loading="lazy">
-
-[Open image / 查看原图](https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/b5e8ef93930b6d828f352055a689320f138237b1/docs/frames/lidar-survey.jpg)
-
 *Upstream examples, not generated or reproduced by this catalogue. Some sections include input/reference images. / 上游示例，本项目未复现；部分示例同时含输入参考图。*
 
 ## Skills (2)
 
-- [lemo-opuscar](../skills/2c226ea9fca29dce.md) — Direct and produce a short film made entirely in code, in one of the styles of the Lemo-Opuscar library (e.g. Impasto Oil Painting 油画厚涂, Watercolor Brush 水彩笔刷, 
+- [lemo-opuscar](../skills/2c226ea9fca29dce.md) — Create films in 59 library styles, adapt a library style or design and save a personal style for reuse.
 - [lemo-opuscar](../skills/28a62250bbac6221.md) — Direct and produce a short film made entirely in code, in one of the styles of the Lemo-Opuscar library (e.g. Impasto Oil Painting 油画厚涂, Watercolor Brush 水彩笔刷, 
 
-## Prompts (51)
+## Prompts (60)
 
 - [archive-lighttable](../prompts/ea790b0d3671566d.md)
 - [art-deco](../prompts/ec021497bb2bd1fe.md)
@@ -115,10 +121,19 @@
 - [white-model](../prompts/60e787d2b5d41e2b.md)
 - [whiteboard](../prompts/da2af79a89865153.md)
 - [woodcut](../prompts/05d912bfba386cc2.md)
+- [caption-news](../prompts/d2d98bb775f1ded5.md)
+- [city-symphony](../prompts/6a22542ef7e65065.md)
+- [countdown](../prompts/001acc34b17fbc9d.md)
+- [kino-montage](../prompts/5b6a2f2b57301ea2.md)
+- [news-package](../prompts/1e31455b7f91ce83.md)
+- [newsreel](../prompts/13762156918b1753.md)
+- [telestrator](../prompts/22ed500026640df7.md)
+- [visual-investigation](../prompts/4ac817305beec172.md)
+- [Make a style your own / 创建并保存个人风格](../prompts/f84d2595fed3fce8.md)
 
-## Cases (0)
+## Cases (1)
 
-No separate case records / 未索引独立案例。
+- [Swiss Motion → Material Grid / 从平面网格到立体材质](../cases/5a801244f1e4954b.md)
 
 ## Star history / Star 趋势
 

@@ -4,6 +4,7 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [我不知道自己是否还好](../../cases/ca425b811784aed3.md) | 叙事短片 | guanmo-ai/awesome-ai-motion |
 | [我们见过吗：粒子叙事短片](../../cases/216f91f96a31355f.md) | 叙事短片 | guanmo-ai/awesome-ai-motion |
 | [手绘水彩感短片](../../cases/cb31fb56309349d5.md) | 叙事短片 | guanmo-ai/awesome-ai-motion |
 | [批评与辱骂：小灯角色的故事](../../cases/0bc3cb55c0115c3c.md) | 叙事短片 | guanmo-ai/awesome-ai-motion |
@@ -83,6 +84,5 @@
 | [Tycho 功能动态图形介绍片](../../cases/fd46e8c23a8f791a.md) | 品牌与产品 | chuspeeism/awesome-opus-5-5-videos |
 | [Ultracode 产品介绍片](../../cases/ba964656bae6c5a0.md) | 品牌与产品 | chuspeeism/awesome-opus-5-5-videos |
 | [Weddy 功能动态图形片](../../cases/64a17e94a8e800fb.md) | 品牌与产品 | chuspeeism/awesome-opus-5-5-videos |
-| [Wordfeel 美剧学英语宣传片](../../cases/5cc48ad3827299e3.md) | 品牌与产品 | chuspeeism/awesome-opus-5-5-videos |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md) · [Page 25](page-25.md) · [Page 26](page-26.md) · [Page 27](page-27.md) · [Page 28](page-28.md)
