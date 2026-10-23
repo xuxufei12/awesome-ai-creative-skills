@@ -1,0 +1,155 @@
+[
+  {
+    "title_zh": "创意图片与视觉想象",
+    "title_en": "Creative images & visual imagination",
+    "items": [
+      {
+        "prompt_id": "bbb05d8c5c1fd2f7",
+        "title_zh": "城市美食地图",
+        "title_en": "Illustrated city food map"
+      },
+      {
+        "prompt_id": "82b5eeb6e0f590d3",
+        "title_zh": "蓬松毛绒玩具",
+        "title_en": "Fluffy plush toys"
+      },
+      {
+        "prompt_id": "02656caaa655f456",
+        "title_zh": "浮世绘闪卡",
+        "title_en": "Ukiyo-e flashcards"
+      },
+      {
+        "prompt_id": "651e78dab7a4f399",
+        "title_zh": "丝绸宇宙",
+        "title_en": "A universe of silk"
+      },
+      {
+        "prompt_id": "7b0f59ebdaae14ea",
+        "title_zh": "冰棒里的水下世界",
+        "title_en": "An underwater world in a popsicle"
+      },
+      {
+        "prompt_id": "e24095a21fad2a6e",
+        "title_zh": "蒸汽朋克机械鱼",
+        "title_en": "Steampunk mechanical fish"
+      },
+      {
+        "prompt_id": "c59d105455d72b08",
+        "title_zh": "城市冰箱贴",
+        "title_en": "Miniature city magnets"
+      },
+      {
+        "prompt_id": "1866c6c531688d17",
+        "title_zh": "Q 版微缩概念店",
+        "title_en": "Tiny concept stores"
+      },
+      {
+        "prompt_id": "95e4062ca861fd15",
+        "title_zh": "水晶质感 Emoji",
+        "title_en": "Crystal emoji"
+      }
+    ]
+  },
+  {
+    "title_zh": "视频动效与艺术风格",
+    "title_en": "Motion graphics & artistic styles",
+    "items": [
+      {
+        "prompt_id": "439b80af58d8a21c",
+        "title_zh": "水墨动画",
+        "title_en": "Ink-wash animation"
+      },
+      {
+        "prompt_id": "7dc5461235480db1",
+        "title_zh": "红色剪纸",
+        "title_en": "Red papercut"
+      },
+      {
+        "prompt_id": "1bcdae4068414785",
+        "title_zh": "彩色玻璃",
+        "title_en": "Stained glass"
+      },
+      {
+        "prompt_id": "0fea92b82962c4cf",
+        "title_zh": "像素 RPG",
+        "title_en": "Pixel RPG"
+      },
+      {
+        "prompt_id": "263c12d283578967",
+        "title_zh": "80 年代赛璐璐动画",
+        "title_en": "80s cel animation"
+      },
+      {
+        "prompt_id": "983c7c261e3a2fa6",
+        "title_zh": "流体动效",
+        "title_en": "Liquid motion"
+      },
+      {
+        "prompt_id": "e265b24054768d7c",
+        "title_zh": "合成波霓虹",
+        "title_en": "Synthwave neon"
+      },
+      {
+        "prompt_id": "eae464bef64d2152",
+        "title_zh": "包豪斯几何",
+        "title_en": "Bauhaus geometry"
+      },
+      {
+        "prompt_id": "c2f7e801155baaca",
+        "title_zh": "拼贴动画",
+        "title_en": "Cut-out collage"
+      }
+    ]
+  },
+  {
+    "title_zh": "3D 世界与产品视觉",
+    "title_en": "3D worlds & product visuals",
+    "items": [
+      {
+        "prompt_id": "4c3d0578ad2c9a67",
+        "title_zh": "低多边形岛屿",
+        "title_en": "Low-poly island"
+      },
+      {
+        "prompt_id": "2835b8b29667bdc4",
+        "title_zh": "积木玩具世界",
+        "title_en": "Brick-toy worlds"
+      },
+      {
+        "prompt_id": "06f4c5f7855f2517",
+        "title_zh": "等距信息图",
+        "title_en": "Isometric infographics"
+      },
+      {
+        "prompt_id": "13f6af1730ea3945",
+        "title_zh": "玻璃产品视觉",
+        "title_en": "Glass product visuals"
+      },
+      {
+        "prompt_id": "d36c4e7f3c8effa1",
+        "title_zh": "VR 头显爆炸图",
+        "title_en": "Exploded-view VR headset"
+      },
+      {
+        "prompt_id": "94c4c40dc1cb70fa",
+        "title_zh": "3D 石阶演化",
+        "title_en": "3D staircase evolution"
+      },
+      {
+        "prompt_id": "66e353f9ceb6bb06",
+        "title_zh": "3D 产品动效",
+        "title_en": "3D product motion"
+      },
+      {
+        "prompt_id": "08fb0f0ea3d83e3a",
+        "title_zh": "等距微缩城市",
+        "title_en": "Isometric miniature city"
+      },
+      {
+        "prompt_id": "5952846d57e64b16",
+        "title_zh": "迷你 3D 建筑",
+        "title_en": "Miniature 3D architecture"
+      }
+    ]
+  }
+]

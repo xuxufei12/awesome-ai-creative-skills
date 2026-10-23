@@ -2,9 +2,9 @@
 
 [Home / 首页](../README.md)
 
-Checked / 检查时间: 2026-10-23T06:19:24.647207+00:00
+Checked / 检查时间: 2026-10-23T06:29:56.223627+00:00
 
-- Local navigation links checked / 已检查本地链接: **32238**
+- Local navigation links checked / 已检查本地链接: **32323**
 - PDF main entries / PDF 正文条目: **45**
 - Appendix prompt files / 附录提示词文件: **18**
 - Structural / link / publication-hygiene errors: **0**

@@ -106,27 +106,29 @@ write('catalog/README.md','[English home](../README.md) · [中文首页](../REA
 
 featured_names=['alchaincyf/huashu-motion','alchaincyf/huashu-art-motion','Kianzzz/xilo-opus-video','threerocks/sweety-handdraw-video','remotion-dev/skills','heygen-com/hyperframes','lemomo-ai/lemo-opuscar','cth9191/animate','op7418/guizang-product-video-skill','dexhunter/seedance2-skill','eternityspring/shuohao-skills','ahujasid/mcp-for-blender','MCKRUZ/ComfyUI-Expert','yihui-dev/awesome-opus5-5-videos','joeseesun/opus-video-prompts','Vincentwei1021/mg-styles-15']
 featured=[rmap[n.lower()] for n in featured_names if n.lower() in rmap]
-gallery=[]
-for repo in ['lemomo-ai/lemo-opuscar','YouMind-OpenLab/awesome-nano-banana-pro-prompts','PicoTrex/Awesome-Nano-Banana-images','jamez-bondos/awesome-gpt4o-images','LichAmnesia/awesome-ad-video-prompts','yihui-dev/awesome-opus5-5-videos']:
- p=next((p for p in prompts if p.get('repo')==repo and any(a['type']=='image' for a in p['preview_assets']) and not re.search('raycast|integration',p['title'],re.I)),None)
- if p:gallery.append(p)
+gallery=json.loads((ROOT/'data/featured-gallery.json').read_text(encoding='utf-8'))
+promptmap={p['id']:p for p in prompts}
 for zh,name in [(False,'README.md'),(True,'README.zh-CN.md')]:
  text='# Awesome AI Creative Skills\n\n'
  text+='[English](README.md) · [简体中文](README.zh-CN.md)\n\n'
  text+='> '+('把想法变成视频、图像、动效和三维世界的 Skill、Prompt、工具与作品资料库。' if zh else 'Skills, prompts, tools and examples that turn ideas into videos, images, motion graphics and 3D worlds.')+'\n\n'
  text+='[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Stars](https://img.shields.io/github/stars/'+DATA['repository']+'?style=flat)](https://github.com/'+DATA['repository']+'/stargazers)\n\n'
- text+=('面向 Claude / Opus、Codex、DeepSeek 及可迁移的创意工作流。以广泛收录为目标；这是有明确范围的来源快照，不宣称穷尽 GitHub，也不代表所有条目已实测。' if zh else 'For Claude / Opus, Codex, DeepSeek and portable creative workflows. A broad, source-attributed snapshot—not an exhaustive census of GitHub or a claim that every entry has been tested.')+'\n\n'
+ text+=('这里收录了一些用 AI 制作创意图片、视频、动效和 3D 场景的方法，包括可直接参考的提示词、可复用的 Skill，以及对应的作品效果。从一张有趣的图片到一段完整的动画，希望你能在这里找到灵感，也找到动手创作的起点。' if zh else 'Explore ways to create imaginative images, videos, motion graphics and 3D scenes with AI. This collection brings together prompts, reusable Skills and examples of what they can make—from a playful image to a complete animation, with inspiration and practical starting points for your own creations.')+'\n\n'
  text+=f"**{'资料快照' if zh else 'Snapshot'}: {DATA['snapshot_date']}** · **{len(projects)}** {'项目' if zh else 'projects'} · **{len(skills)}** Skills · **{len(prompts)}** {'提示词／风格文本' if zh else 'prompt / style texts'} · **{len(cases)}** {'案例' if zh else 'cases'}\n\n"
  text+='## '+('开始浏览' if zh else 'Explore')+'\n\n'
  text+='| '+('入口 | 内容' if zh else 'Entry | Contents')+' |\n|---|---|\n'
  links=[('完整分类目录','Complete catalogue','catalog/README.md','14 个创作方向','14 creative categories'),('提示词正文','Prompt text','catalog/prompts/README.md','可复制正文、来源与对应效果','Copyable text, sources and corresponding effects'),('Skill 原文','Skill text','catalog/skills/README.md','独立 Skill 页面与上游安装依赖','Individual Skill pages and upstream dependencies'),('案例与效果','Cases & effects','catalog/cases/README.md','预览图、视频与公开提示词状态','Posters, videos and prompt availability'),('工作流与原创模板','Workflows & templates','catalog/guides.md','社区教程与原创模板分别标注','Community guides distinguished from original templates'),('PDF 合并记录','PDF merge report','docs/PDF-MERGE.md','页码、去重映射与新增仓库','Page references, deduplication and added repositories')]
  for cn,en,url,cnd,end in links:text+=f'| [{cn if zh else en}]({url}) | {cnd if zh else end} |\n'
  text+='\n## '+('效果画廊' if zh else 'Effect gallery')+'\n\n'
- text+=('点击标题查看完整提示词及来源。以下均为上游作品，未声称由本项目复现。' if zh else 'Open a title for its prompt and attribution. These are upstream examples, not reproductions by this project.')+'\n\n'
- for p in gallery:
-  a=next(a for a in p['preview_assets'] if a['type']=='image')
-  text+=f"### [{esc(p['title'])}](prompts/{p['id']}.md)\n\n<a href=\"prompts/{p['id']}.md\"><img src=\"{html.escape(a['url'],quote=True)}\" width=\"480\" alt=\"{html.escape(esc(p['title']),quote=True)}\"></a>\n\n"
-  text+=f"{'来源' if zh else 'Source'}: [{esc(p['repo'])}]({p['sources'][0]['url']})\n\n"
+ text+=('先看看这些创意能做成什么样。点击图片或标题，查看提示词、制作方法和作者来源；视频案例的详情页还提供播放入口。' if zh else 'See what these ideas can become. Open an image or title for its prompt, creative method and creator credits. Video entries also link to the films.')+'\n\n'
+ for group in gallery:
+  text+='### '+group['title_zh' if zh else 'title_en']+'\n\n<table>\n'
+  for i,item in enumerate(group['items']):
+   if i%3==0:text+='<tr>\n'
+   p=promptmap[item['prompt_id']];a=next(a for a in p['preview_assets'] if a['type']=='image');label=item['title_zh' if zh else 'title_en'];target=f"prompts/{p['id']}.md"
+   text+=f'<td width="33%" valign="top" align="center"><a href="{target}"><img src="{html.escape(a["url"],quote=True)}" width="300" alt="{html.escape(label,quote=True)}"></a><br><a href="{target}"><b>{html.escape(label)}</b></a><br><sub><a href="{html.escape(p["sources"][0]["url"],quote=True)}">{html.escape(p["repo"])}</a></sub></td>\n'
+   if i%3==2 or i==len(group['items'])-1:text+='</tr>\n'
+  text+='</table>\n\n'
  text+='## '+('重点项目' if zh else 'Featured projects')+'\n\n| Project | '+('方向' if zh else 'Category')+' |\n|---|---|\n'
  for r in featured:
   label=r['category'] if zh else catmap.get(r['category'],('',r['category']))[1]

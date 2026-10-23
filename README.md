@@ -6,7 +6,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Stars](https://img.shields.io/github/stars/xuxufei12/awesome-ai-creative-skills?style=flat)](https://github.com/xuxufei12/awesome-ai-creative-skills/stargazers)
 
-For Claude / Opus, Codex, DeepSeek and portable creative workflows. A broad, source-attributed snapshot—not an exhaustive census of GitHub or a claim that every entry has been tested.
+Explore ways to create imaginative images, videos, motion graphics and 3D scenes with AI. This collection brings together prompts, reusable Skills and examples of what they can make—from a playful image to a complete animation, with inspiration and practical starting points for your own creations.
 
 **Snapshot: 2026-10-23** · **441** projects · **772** Skills · **1834** prompt / style texts · **2203** cases
 
@@ -23,43 +23,67 @@ For Claude / Opus, Codex, DeepSeek and portable creative workflows. A broad, sou
 
 ## Effect gallery
 
-Open a title for its prompt and attribution. These are upstream examples, not reproductions by this project.
+See what these ideas can become. Open an image or title for its prompt, creative method and creator credits. Video entries also link to the films.
 
-### [archive-lighttable](prompts/ea790b0d3671566d.md)
+### Creative images & visual imagination
 
-<a href="prompts/ea790b0d3671566d.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/b5e8ef93930b6d828f352055a689320f138237b1/styles/archive-lighttable/poster.jpg" width="480" alt="archive-lighttable"></a>
+<table>
+<tr>
+<td width="33%" valign="top" align="center"><a href="prompts/bbb05d8c5c1fd2f7.md"><img src="https://cms-assets.youmind.com/media/1776662673014_nf0taw_HGRMNDybsAAGG88.jpg" width="300" alt="Illustrated city food map"></a><br><a href="prompts/bbb05d8c5c1fd2f7.md"><b>Illustrated city food map</b></a><br><sub><a href="https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/e370b74e0d465dd72607b19ca0590735a08f927d/README.md#L236">YouMind-OpenLab/awesome-gpt-image-2</a></sub></td>
+<td width="33%" valign="top" align="center"><a href="prompts/82b5eeb6e0f590d3.md"><img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/2558bf0bb825be150c5d1aeab918cd90004882d3/images/pro_case12/output.jpg" width="300" alt="Fluffy plush toys"></a><br><a href="prompts/82b5eeb6e0f590d3.md"><b>Fluffy plush toys</b></a><br><sub><a href="https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/2558bf0bb825be150c5d1aeab918cd90004882d3/README.md#L513">PicoTrex/Awesome-Nano-Banana-images</a></sub></td>
+<td width="33%" valign="top" align="center"><a href="prompts/02656caaa655f456.md"><img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/2558bf0bb825be150c5d1aeab918cd90004882d3/images/pro_case1/output.jpg" width="300" alt="Ukiyo-e flashcards"></a><br><a href="prompts/02656caaa655f456.md"><b>Ukiyo-e flashcards</b></a><br><sub><a href="https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/2558bf0bb825be150c5d1aeab918cd90004882d3/README.md#L224">PicoTrex/Awesome-Nano-Banana-images</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="prompts/651e78dab7a4f399.md"><img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/66/example_silk_creation_universe.png" width="300" alt="A universe of silk"></a><br><a href="prompts/651e78dab7a4f399.md"><b>A universe of silk</b></a><br><sub><a href="https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/README.md#L1043">jamez-bondos/awesome-gpt4o-images</a></sub></td>
+<td width="33%" valign="top" align="center"><a href="prompts/7b0f59ebdaae14ea.md"><img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/65/surreal-underwater-scene-popsicle.png" width="300" alt="An underwater world in a popsicle"></a><br><a href="prompts/7b0f59ebdaae14ea.md"><b>An underwater world in a popsicle</b></a><br><sub><a href="https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/README.md#L1066">jamez-bondos/awesome-gpt4o-images</a></sub></td>
+<td width="33%" valign="top" align="center"><a href="prompts/e24095a21fad2a6e.md"><img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/64/example_steampunk_fish.jpg" width="300" alt="Steampunk mechanical fish"></a><br><a href="prompts/e24095a21fad2a6e.md"><b>Steampunk mechanical fish</b></a><br><sub><a href="https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/README.md#L1087">jamez-bondos/awesome-gpt4o-images</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="prompts/c59d105455d72b08.md"><img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/2558bf0bb825be150c5d1aeab918cd90004882d3/images/pro_case35/output.jpg" width="300" alt="Miniature city magnets"></a><br><a href="prompts/c59d105455d72b08.md"><b>Miniature city magnets</b></a><br><sub><a href="https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/2558bf0bb825be150c5d1aeab918cd90004882d3/README.md#L1004">PicoTrex/Awesome-Nano-Banana-images</a></sub></td>
+<td width="33%" valign="top" align="center"><a href="prompts/1866c6c531688d17.md"><img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/2558bf0bb825be150c5d1aeab918cd90004882d3/images/pro_case38/output.jpg" width="300" alt="Tiny concept stores"></a><br><a href="prompts/1866c6c531688d17.md"><b>Tiny concept stores</b></a><br><sub><a href="https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/2558bf0bb825be150c5d1aeab918cd90004882d3/README.md#L1064">PicoTrex/Awesome-Nano-Banana-images</a></sub></td>
+<td width="33%" valign="top" align="center"><a href="prompts/95e4062ca861fd15.md"><img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/2558bf0bb825be150c5d1aeab918cd90004882d3/images/pro_case13/output.jpg" width="300" alt="Crystal emoji"></a><br><a href="prompts/95e4062ca861fd15.md"><b>Crystal emoji</b></a><br><sub><a href="https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/2558bf0bb825be150c5d1aeab918cd90004882d3/README.md#L526">PicoTrex/Awesome-Nano-Banana-images</a></sub></td>
+</tr>
+</table>
 
-Source: [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar/blob/b5e8ef93930b6d828f352055a689320f138237b1/styles/archive-lighttable/STYLE.md)
+### Motion graphics & artistic styles
 
-### [No. 1: Wide quote card with portrait and Chinese/English customization](prompts/3c7e3c87ee2c25b3.md)
+<table>
+<tr>
+<td width="33%" valign="top" align="center"><a href="prompts/439b80af58d8a21c.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/b5e8ef93930b6d828f352055a689320f138237b1/styles/ink-wash/poster.jpg" width="300" alt="Ink-wash animation"></a><br><a href="prompts/439b80af58d8a21c.md"><b>Ink-wash animation</b></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/blob/b5e8ef93930b6d828f352055a689320f138237b1/styles/ink-wash/STYLE.md">lemomo-ai/lemo-opuscar</a></sub></td>
+<td width="33%" valign="top" align="center"><a href="prompts/7dc5461235480db1.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/b5e8ef93930b6d828f352055a689320f138237b1/styles/papercut-red/poster.jpg" width="300" alt="Red papercut"></a><br><a href="prompts/7dc5461235480db1.md"><b>Red papercut</b></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/blob/b5e8ef93930b6d828f352055a689320f138237b1/styles/papercut-red/STYLE.md">lemomo-ai/lemo-opuscar</a></sub></td>
+<td width="33%" valign="top" align="center"><a href="prompts/1bcdae4068414785.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/b5e8ef93930b6d828f352055a689320f138237b1/styles/stained-glass/poster.jpg" width="300" alt="Stained glass"></a><br><a href="prompts/1bcdae4068414785.md"><b>Stained glass</b></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/blob/b5e8ef93930b6d828f352055a689320f138237b1/styles/stained-glass/STYLE.md">lemomo-ai/lemo-opuscar</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="prompts/0fea92b82962c4cf.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/b5e8ef93930b6d828f352055a689320f138237b1/styles/pixel-rpg/poster.jpg" width="300" alt="Pixel RPG"></a><br><a href="prompts/0fea92b82962c4cf.md"><b>Pixel RPG</b></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/blob/b5e8ef93930b6d828f352055a689320f138237b1/styles/pixel-rpg/STYLE.md">lemomo-ai/lemo-opuscar</a></sub></td>
+<td width="33%" valign="top" align="center"><a href="prompts/263c12d283578967.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/b5e8ef93930b6d828f352055a689320f138237b1/styles/cel-anime-80s/poster.jpg" width="300" alt="80s cel animation"></a><br><a href="prompts/263c12d283578967.md"><b>80s cel animation</b></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/blob/b5e8ef93930b6d828f352055a689320f138237b1/styles/cel-anime-80s/STYLE.md">lemomo-ai/lemo-opuscar</a></sub></td>
+<td width="33%" valign="top" align="center"><a href="prompts/983c7c261e3a2fa6.md"><img src="https://raw.githubusercontent.com/Vincentwei1021/mg-styles-15/49052d80bfaf9fa8412cc9710530e5e95a3b8d8c/docs/readme/films/07-liquid.webp" width="300" alt="Liquid motion"></a><br><a href="prompts/983c7c261e3a2fa6.md"><b>Liquid motion</b></a><br><sub><a href="https://github.com/Vincentwei1021/mg-styles-15/blob/49052d80bfaf9fa8412cc9710530e5e95a3b8d8c/prompts/07-liquid.md">Vincentwei1021/mg-styles-15</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="prompts/e265b24054768d7c.md"><img src="https://raw.githubusercontent.com/Vincentwei1021/mg-styles-15/49052d80bfaf9fa8412cc9710530e5e95a3b8d8c/docs/readme/films/10-synthwave.webp" width="300" alt="Synthwave neon"></a><br><a href="prompts/e265b24054768d7c.md"><b>Synthwave neon</b></a><br><sub><a href="https://github.com/Vincentwei1021/mg-styles-15/blob/49052d80bfaf9fa8412cc9710530e5e95a3b8d8c/prompts/10-synthwave.md">Vincentwei1021/mg-styles-15</a></sub></td>
+<td width="33%" valign="top" align="center"><a href="prompts/eae464bef64d2152.md"><img src="https://raw.githubusercontent.com/Vincentwei1021/mg-styles-15/49052d80bfaf9fa8412cc9710530e5e95a3b8d8c/docs/readme/films/09-bauhaus.webp" width="300" alt="Bauhaus geometry"></a><br><a href="prompts/eae464bef64d2152.md"><b>Bauhaus geometry</b></a><br><sub><a href="https://github.com/Vincentwei1021/mg-styles-15/blob/49052d80bfaf9fa8412cc9710530e5e95a3b8d8c/prompts/09-bauhaus.md">Vincentwei1021/mg-styles-15</a></sub></td>
+<td width="33%" valign="top" align="center"><a href="prompts/c2f7e801155baaca.md"><img src="https://raw.githubusercontent.com/Vincentwei1021/mg-styles-15/49052d80bfaf9fa8412cc9710530e5e95a3b8d8c/docs/readme/films/06-collage.webp" width="300" alt="Cut-out collage"></a><br><a href="prompts/c2f7e801155baaca.md"><b>Cut-out collage</b></a><br><sub><a href="https://github.com/Vincentwei1021/mg-styles-15/blob/49052d80bfaf9fa8412cc9710530e5e95a3b8d8c/prompts/06-collage.md">Vincentwei1021/mg-styles-15</a></sub></td>
+</tr>
+</table>
 
-<a href="prompts/3c7e3c87ee2c25b3.md"><img src="https://cms-assets.youmind.com/media/1763886933714_5zqn1e_G6QBjQHbgAE3Yt_.jpg" width="480" alt="No. 1: Wide quote card with portrait and Chinese/English customization"></a>
+### 3D worlds & product visuals
 
-Source: [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/64eb95c0ee73465d7ec36a7fc5c9564dc1dfe0bb/README.md#L171)
-
-### [例 1: 浮世绘闪卡（by @MANISH1027512）](prompts/02656caaa655f456.md)
-
-<a href="prompts/02656caaa655f456.md"><img src="https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/2558bf0bb825be150c5d1aeab918cd90004882d3/images/pro_case1/output.jpg" width="480" alt="例 1: 浮世绘闪卡（by @MANISH1027512）"></a>
-
-Source: [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/2558bf0bb825be150c5d1aeab918cd90004882d3/README.md#L224)
-
-### [案例 100：实物与手绘涂鸦创意广告 (by @azed_ai)](prompts/f01a33e87ea935c0.md)
-
-<a href="prompts/f01a33e87ea935c0.md"><img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/100/creative-ad-real-object-hand-drawn-doodle.png" width="480" alt="案例 100：实物与手绘涂鸦创意广告 (by @azed_ai)"></a>
-
-Source: [jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/README.md#L177)
-
-### [Frost-Glass Serum, Condensation Macro](prompts/7db989feb4e300ca.md)
-
-<a href="prompts/7db989feb4e300ca.md"><img src="https://raw.githubusercontent.com/LichAmnesia/awesome-ad-video-prompts/ac5b61177a81343e958f63212c4df7f25dc4c265/images/frost-glass-serum-condensation-macro.png" width="480" alt="Frost-Glass Serum, Condensation Macro"></a>
-
-Source: [LichAmnesia/awesome-ad-video-prompts](https://github.com/LichAmnesia/awesome-ad-video-prompts/blob/ac5b61177a81343e958f63212c4df7f25dc4c265/README.md#L39)
-
-### [motion · @anabology · 491441](prompts/e3366e08cb3a6bc9.md)
-
-<a href="prompts/e3366e08cb3a6bc9.md"><img src="https://media.skillry.dev/opus-5-5/anabology-491441/original.be0a03ecf7.webp" width="480" alt="motion · @anabology · 491441"></a>
-
-Source: [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos/blob/92aee2f586ac0715cb3cbcb6384834f98a33383d/data/videos.json)
+<table>
+<tr>
+<td width="33%" valign="top" align="center"><a href="prompts/4c3d0578ad2c9a67.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/b5e8ef93930b6d828f352055a689320f138237b1/styles/lowpoly-island/poster.jpg" width="300" alt="Low-poly island"></a><br><a href="prompts/4c3d0578ad2c9a67.md"><b>Low-poly island</b></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/blob/b5e8ef93930b6d828f352055a689320f138237b1/styles/lowpoly-island/STYLE.md">lemomo-ai/lemo-opuscar</a></sub></td>
+<td width="33%" valign="top" align="center"><a href="prompts/2835b8b29667bdc4.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/b5e8ef93930b6d828f352055a689320f138237b1/styles/brick-toy/poster.jpg" width="300" alt="Brick-toy worlds"></a><br><a href="prompts/2835b8b29667bdc4.md"><b>Brick-toy worlds</b></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/blob/b5e8ef93930b6d828f352055a689320f138237b1/styles/brick-toy/STYLE.md">lemomo-ai/lemo-opuscar</a></sub></td>
+<td width="33%" valign="top" align="center"><a href="prompts/06f4c5f7855f2517.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/b5e8ef93930b6d828f352055a689320f138237b1/styles/iso-infographic/poster.jpg" width="300" alt="Isometric infographics"></a><br><a href="prompts/06f4c5f7855f2517.md"><b>Isometric infographics</b></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/blob/b5e8ef93930b6d828f352055a689320f138237b1/styles/iso-infographic/STYLE.md">lemomo-ai/lemo-opuscar</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="prompts/13f6af1730ea3945.md"><img src="https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/b5e8ef93930b6d828f352055a689320f138237b1/styles/glass-product/poster.jpg" width="300" alt="Glass product visuals"></a><br><a href="prompts/13f6af1730ea3945.md"><b>Glass product visuals</b></a><br><sub><a href="https://github.com/lemomo-ai/lemo-opuscar/blob/b5e8ef93930b6d828f352055a689320f138237b1/styles/glass-product/STYLE.md">lemomo-ai/lemo-opuscar</a></sub></td>
+<td width="33%" valign="top" align="center"><a href="prompts/d36c4e7f3c8effa1.md"><img src="https://cms-assets.youmind.com/media/1776658772018_lukyfw_HGSUfldbIAEiMWZ.jpg" width="300" alt="Exploded-view VR headset"></a><br><a href="prompts/d36c4e7f3c8effa1.md"><b>Exploded-view VR headset</b></a><br><sub><a href="https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/e370b74e0d465dd72607b19ca0590735a08f927d/README.md#L167">YouMind-OpenLab/awesome-gpt-image-2</a></sub></td>
+<td width="33%" valign="top" align="center"><a href="prompts/94c4c40dc1cb70fa.md"><img src="https://cms-assets.youmind.com/media/1776661968404_8a5flm_HGQc_KOaMAA2vt0.jpg" width="300" alt="3D staircase evolution"></a><br><a href="prompts/94c4c40dc1cb70fa.md"><b>3D staircase evolution</b></a><br><sub><a href="https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/e370b74e0d465dd72607b19ca0590735a08f927d/README.md#L462">YouMind-OpenLab/awesome-gpt-image-2</a></sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="prompts/66e353f9ceb6bb06.md"><img src="https://raw.githubusercontent.com/Vincentwei1021/mg-styles-15/49052d80bfaf9fa8412cc9710530e5e95a3b8d8c/docs/readme/films/04-3d-render.webp" width="300" alt="3D product motion"></a><br><a href="prompts/66e353f9ceb6bb06.md"><b>3D product motion</b></a><br><sub><a href="https://github.com/Vincentwei1021/mg-styles-15/blob/49052d80bfaf9fa8412cc9710530e5e95a3b8d8c/prompts/04-3d-render.md">Vincentwei1021/mg-styles-15</a></sub></td>
+<td width="33%" valign="top" align="center"><a href="prompts/08fb0f0ea3d83e3a.md"><img src="https://raw.githubusercontent.com/Vincentwei1021/mg-styles-15/49052d80bfaf9fa8412cc9710530e5e95a3b8d8c/docs/readme/films/03-isometric.webp" width="300" alt="Isometric miniature city"></a><br><a href="prompts/08fb0f0ea3d83e3a.md"><b>Isometric miniature city</b></a><br><sub><a href="https://github.com/Vincentwei1021/mg-styles-15/blob/49052d80bfaf9fa8412cc9710530e5e95a3b8d8c/prompts/03-isometric.md">Vincentwei1021/mg-styles-15</a></sub></td>
+<td width="33%" valign="top" align="center"><a href="prompts/5952846d57e64b16.md"><img src="https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/56/example_miniature_starbucks_cup_building.png" width="300" alt="Miniature 3D architecture"></a><br><a href="prompts/5952846d57e64b16.md"><b>Miniature 3D architecture</b></a><br><sub><a href="https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/README.md#L1270">jamez-bondos/awesome-gpt4o-images</a></sub></td>
+</tr>
+</table>
 
 ## Featured projects
 
