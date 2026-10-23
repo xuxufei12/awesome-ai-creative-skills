@@ -109,6 +109,66 @@ featured_names=['alchaincyf/huashu-motion','alchaincyf/huashu-art-motion','Kianz
 featured=[rmap[n.lower()] for n in featured_names if n.lower() in rmap]
 gallery=json.loads((ROOT/'data/featured-gallery.json').read_text(encoding='utf-8'))
 promptmap={p['id']:p for p in prompts}
+projectmap={r['id']:r for r in projects}
+skillmap=collections.defaultdict(list)
+for skill in skills:skillmap[skill['repo'].lower()].append(skill)
+
+def effect_record(item):
+ if item.get('kind','prompt')=='project':
+  r=projectmap[item['project_id']]
+  media=item.get('media_url') or next(a['url'] for a in r['preview_assets'] if a['type']=='image')
+  return r, None, media, f"projects/{r['id']}.md", r['sources'][0]['url'], None
+ p=promptmap[item['prompt_id']];r=rmap.get((p.get('repo') or '').lower())
+ media=item.get('media_url') or next(a['url'] for a in p['preview_assets'] if a['type']=='image')
+ watch=next((a['url'] for a in p['preview_assets'] if a['type']=='page'),None) or next((a['url'] for a in p['preview_assets'] if a['type']=='video'),None)
+ return r,p,media,f"prompts/{p['id']}.md",p['sources'][0]['url'],watch
+
+def effect_table(items,zh,prefix=''):
+ text='<table>\n'
+ for i,item in enumerate(items):
+  if i%3==0:text+='<tr>\n'
+  r,p,media,target,source,watch=effect_record(item);label=item.get('title_zh' if zh else 'title_en') or (p['title'] if p else r['title'])
+  links=[]
+  if p:links.append((prefix+target,'提示词' if zh else 'Prompt'))
+  ss=skillmap.get(r['repo'].lower(),[]) if r else []
+  primary=next((s for s in ss if s['name']=='lemo-opuscar'),ss[0] if len(ss)==1 else None)
+  if primary:links.append((prefix+f"skills/{primary['id']}.md",'Skill'))
+  elif ss:links.append((prefix+f"projects/{r['id']}.md",'Skill 包' if zh else 'Skill pack'))
+  if watch:links.append((watch,'▶ 视频' if zh else '▶ Film'))
+  elif '.gif' in media.lower():links.append((media,'原动图' if zh else 'GIF'))
+  if not p and r:links.append((prefix+target,'制作方法' if zh else 'How to make it'))
+  footer=' · '.join(f'<a href="{html.escape(url,quote=True)}">{name}</a>' for url,name in links)
+  credit=r['repo'] if r else 'Original creator'
+  text+=f'<td width="33%" valign="top" align="center"><a href="{prefix+target}"><img src="{html.escape(media,quote=True)}" width="{item.get("width",300)}" alt="{html.escape(label,quote=True)}" loading="lazy"></a><br><a href="{prefix+target}"><b>{html.escape(label)}</b></a><br><sub>{footer}</sub><br><sub><a href="{html.escape(source,quote=True)}">{html.escape(credit)}</a></sub></td>\n'
+  if i%3==2 or i==len(items)-1:text+='</tr>\n'
+ return text+'</table>\n\n'
+
+# Visual browsing continues beyond the featured README selections.
+visual_groups=[('images','创意图片','Creative images',[]),('films','视频与动画','Videos & animation',[]),('tools','Skill 与工具效果','Skill & tool demos',[])]
+image_repos={'YouMind-OpenLab/awesome-nano-banana-pro-prompts','YouMind-OpenLab/awesome-gpt-image-2','ych-chen/awesome-nano-banana-prompts','PicoTrex/Awesome-Nano-Banana-images','jamez-bondos/awesome-gpt4o-images'}
+seen_media=set()
+for p in prompts:
+ a=next((a for a in p['preview_assets'] if a['type']=='image'),None)
+ if not a or a['url'] in seen_media:continue
+ seen_media.add(a['url']);idx=0 if p.get('repo') in image_repos else 1
+ visual_groups[idx][3].append({'kind':'prompt','prompt_id':p['id']})
+for r in projects:
+ a=next((a for a in r['preview_assets'] if a['type']=='image'),None)
+ if not a or a['url'] in seen_media:continue
+ seen_media.add(a['url']);visual_groups[2][3].append({'kind':'project','project_id':r['id'],'media_url':a['url']})
+visual_index='[English home](../README.md) · [中文首页](../README.zh-CN.md)\n\n# 看效果，找做法 / Browse effects, find the method\n\n每张卡片都能直接打开提示词、Skill 或制作方法。按画面挑选，遇到喜欢的效果再继续研究。\n\nOpen any card for its prompt, Skill or production method. Each page shows up to 24 previews.\n\n'
+for slug,cn,en,items in visual_groups:
+ visual_index+=f'## {cn} / {en} · {len(items)}\n\n'
+ count=(len(items)+23)//24
+ for offset in range(0,len(items),24):
+  n=offset//24+1;filename=f'{slug}-{n:02}.md'
+  navigation=' · '.join(f'[Page {j}]({slug}-{j:02}.md)' for j in range(1,count+1))
+  page=f'[全部效果 / All effects](README.md) · [首页 / Home](../README.zh-CN.md)\n\n# {cn} / {en} · {n}/{count}\n\n'
+  page+=effect_table(items[offset:offset+24],True,'../')+navigation+'\n'
+  write('gallery/'+filename,page)
+  visual_index+=f'- [第 {n} 页 / Page {n} · {offset+1}–{min(offset+24,len(items))}]({filename})\n'
+ visual_index+='\n'
+write('gallery/README.md',visual_index)
 def featured_update(zh):
  path=ROOT/'data/featured-update.json'
  if not path.exists():return ''
@@ -136,22 +196,22 @@ for zh,name in [(False,'README.md'),(True,'README.zh-CN.md')]:
  text+='> '+('把想法变成视频、图像、动效和三维世界的 Skill、Prompt、工具与作品资料库。' if zh else 'Skills, prompts, tools and examples that turn ideas into videos, images, motion graphics and 3D worlds.')+'\n\n'
  text+='[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Stars](https://img.shields.io/github/stars/'+DATA['repository']+'?style=flat)](https://github.com/'+DATA['repository']+'/stargazers)\n\n'
  text+=('这里收录了一些用 AI 制作创意图片、视频、动效和 3D 场景的方法，包括可直接参考的提示词、可复用的 Skill，以及对应的作品效果。从一张有趣的图片到一段完整的动画，希望你能在这里找到灵感，也找到动手创作的起点。' if zh else 'Explore ways to create imaginative images, videos, motion graphics and 3D scenes with AI. This collection brings together prompts, reusable Skills and examples of what they can make—from a playful image to a complete animation, with inspiration and practical starting points for your own creations.')+'\n\n'
- text+=f"**{'资料快照' if zh else 'Snapshot'}: {DATA['snapshot_date']}** · **{len(projects)}** {'项目' if zh else 'projects'} · **{len(skills)}** Skills · **{len(prompts)}** {'提示词／风格文本' if zh else 'prompt / style texts'} · **{len(cases)}** {'案例' if zh else 'cases'}\n\n"
- text+=featured_update(zh)
- text+='## '+('开始浏览' if zh else 'Explore')+'\n\n'
- text+='| '+('入口 | 内容' if zh else 'Entry | Contents')+' |\n|---|---|\n'
+ stats_line=f"**{'收录概览' if zh else 'In the collection'}** · **{len(projects)}** {'项目' if zh else 'projects'} · **{len(skills)}** Skills · **{len(prompts)}** {'提示词／风格文本' if zh else 'prompt / style texts'} · **{len(cases)}** {'案例' if zh else 'cases'}\n\n"
+ text+=('**先看效果，再找做法。** 动图直接播放；点击喜欢的画面或卡片下方的「Skill」「提示词」，就能找到对应方法。' if zh else '**See the effect, then find the method.** GIFs play inline. Open any preview or its Skill / Prompt link to see how it is made.')+'\n\n'
+ text+=' · '.join(f"[{g['title_zh' if zh else 'title_en']}](#{g['slug']})" for g in gallery)+'\n\n'
+ visual_count=sum(len(g[3]) for g in visual_groups)
+ text+=(f'[浏览全部 {visual_count:,} 个效果预览 →](gallery/README.md) · [按工具检索](#find-tools) · [自定义风格新玩法](#custom-styles)' if zh else f'[Browse all {visual_count:,} visual previews →](gallery/README.md) · [Find tools](#find-tools) · [Make a style your own](#custom-styles)')+'\n\n'
  links=[('完整分类目录','Complete catalogue','catalog/README.md','14 个创作方向','14 creative categories'),('提示词正文','Prompt text','catalog/prompts/README.md','可复制正文、来源与对应效果','Copyable text, sources and corresponding effects'),('Skill 原文','Skill text','catalog/skills/README.md','独立 Skill 页面与上游安装依赖','Individual Skill pages and upstream dependencies'),('案例与效果','Cases & effects','catalog/cases/README.md','预览图、视频与公开提示词状态','Posters, videos and prompt availability'),('工作流与原创模板','Workflows & templates','catalog/guides.md','社区教程与原创模板分别标注','Community guides distinguished from original templates'),('PDF 合并记录','PDF merge report','docs/PDF-MERGE.md','页码、去重映射与新增仓库','Page references, deduplication and added repositories')]
- for cn,en,url,cnd,end in links:text+=f'| [{cn if zh else en}]({url}) | {cnd if zh else end} |\n'
- text+='\n## '+('效果画廊' if zh else 'Effect gallery')+'\n\n'
- text+=('先看看这些创意能做成什么样。点击图片或标题，查看提示词、制作方法和作者来源；视频案例的详情页还提供播放入口。' if zh else 'See what these ideas can become. Open an image or title for its prompt, creative method and creator credits. Video entries also link to the films.')+'\n\n'
  for group in gallery:
-  text+='### '+group['title_zh' if zh else 'title_en']+'\n\n<table>\n'
-  for i,item in enumerate(group['items']):
-   if i%3==0:text+='<tr>\n'
-   p=promptmap[item['prompt_id']];a=next(a for a in p['preview_assets'] if a['type']=='image');label=item['title_zh' if zh else 'title_en'];target=f"prompts/{p['id']}.md"
-   text+=f'<td width="33%" valign="top" align="center"><a href="{target}"><img src="{html.escape(a["url"],quote=True)}" width="300" alt="{html.escape(label,quote=True)}"></a><br><a href="{target}"><b>{html.escape(label)}</b></a><br><sub><a href="{html.escape(p["sources"][0]["url"],quote=True)}">{html.escape(p["repo"])}</a></sub></td>\n'
-   if i%3==2 or i==len(group['items'])-1:text+='</tr>\n'
-  text+='</table>\n\n'
+  text+=f'<a id="{group["slug"]}"></a>\n\n## '+group['title_zh' if zh else 'title_en']+'\n\n'
+  text+=effect_table(group['items'],zh)
+  text+=('[继续按效果挑选 →](gallery/README.md)' if zh else '[Keep exploring visually →](gallery/README.md)')+'\n\n'
+ text+='<a id="custom-styles"></a>\n\n'+featured_update(zh)
+ text+='<a id="find-tools"></a>\n\n## '+('找到喜欢的效果，开始制作' if zh else 'Found an effect you like? Start creating')+'\n\n'+stats_line
+ text+='| '+('入口 | 内容' if zh else 'Entry | Contents')+' |\n|---|---|\n'
+ text+=('| [视觉目录](gallery/README.md) | 分页浏览更多图片、视频与工具效果 |\n' if zh else '| [Visual catalogue](gallery/README.md) | Browse more image, video and tool previews |\n')
+ for cn,en,url,cnd,end in links:text+=f'| [{cn if zh else en}]({url}) | {cnd if zh else end} |\n'
+ text+='\n'
  text+='## '+('重点项目' if zh else 'Featured projects')+'\n\n| Project | '+('方向' if zh else 'Category')+' |\n|---|---|\n'
  for r in featured:
   label=r['category'] if zh else catmap.get(r['category'],('',r['category']))[1]
@@ -159,7 +219,7 @@ for zh,name in [(False,'README.md'),(True,'README.zh-CN.md')]:
  text+='\n## '+('按方向查找' if zh else 'Browse by category')+'\n\n| '+('方向 | 项目数' if zh else 'Category | Projects')+' |\n|---|---:|\n'
  for cn,s,en,n in category_counts:text+=f'| [{cn if zh else en}](catalog/{s}.md) | {n} |\n'
  text+='\n## '+('如何使用' if zh else 'How to use')+'\n\n'
- text+=('1. 先按用途选项目，再打开对应的 Skill 或提示词。\n2. 核对原始来源、许可证、依赖和输入素材；宿主标签只表示来源提及。\n3. 先做静帧或 5–10 秒小样，再扩大到完整作品。\n4. 作品效果属于上游作者；缺少公开正文、效果或复现证据的条目会明确说明。\n' if zh else '1. Pick a category, then open a project, Skill or prompt.\n2. Check the original source, license, dependencies and required inputs. Host labels reflect upstream mentions only.\n3. Start with still frames or a 5–10 second draft before rendering a complete piece.\n4. Results belong to upstream creators. Missing text, media or reproduction evidence is explicitly labelled.\n')
+ text+=('1. 先看动图和图片，挑一个你想做的效果。\n2. 点击卡片下方的「提示词」或「Skill」，查看正文、用法与所需素材。\n3. 换成自己的主题，先做静帧或 5–10 秒小样，再制作完整作品。\n4. 想继续找灵感，就打开视觉目录逐页浏览；需要特定工具时再查分类目录。\n' if zh else '1. Browse the GIFs and images; pick an effect you want to create.\n2. Open the card’s Prompt or Skill link for the text, instructions and required inputs.\n3. Bring your own topic and start with still frames or a 5–10 second draft.\n4. Continue through the visual catalogue for inspiration, or use the tool categories for a specific workflow.\n')
  text+='\n## '+('来源与维护' if zh else 'Sources & maintenance')+'\n\n'
  text+='- [Methodology / 收录方法](docs/METHODOLOGY.md)\n- [Attribution & licenses / 来源与许可](THIRD_PARTY_NOTICES.md)\n- [Contribute / 参与贡献](CONTRIBUTING.md)\n- [Machine-readable catalogue / 结构化数据](data/catalog.json)\n- [Validation report / 检查报告](docs/VALIDATION.md)\n\n'
  text+='## Star History / Star 趋势\n\n'
@@ -183,6 +243,7 @@ text+='\n\n## PDF bibliography / PDF 原帖索引\n\n'+'\n'.join(f"- [{s['url']}
 write('docs/PDF-MERGE.md',text)
 stats={k:len(DATA[k]) for k in ['projects','skills','prompts','cases','guides','templates']}
 stats.update({'prompt_records_with_media':sum(bool(p['preview_assets']) for p in prompts),'case_records_with_media':sum(bool(c['preview_assets']) for c in cases),'project_records_with_media':sum(bool(r['preview_assets']) for r in projects),'snapshot_date':DATA['snapshot_date']})
+stats.update({'featured_effect_cards':sum(len(g['items']) for g in gallery),'featured_gif_cards':sum('.gif' in effect_record(i)[2].lower() for g in gallery for i in g['items']),'visual_gallery_previews':sum(len(g[3]) for g in visual_groups),'visual_gallery_pages':sum((len(g[3])+23)//24 for g in visual_groups)})
 write('data/statistics.json',json.dumps(stats,ensure_ascii=False,indent=2))
 write('data/generated-files.json',json.dumps(generated,ensure_ascii=False,indent=2))
 print(json.dumps(stats,ensure_ascii=False))

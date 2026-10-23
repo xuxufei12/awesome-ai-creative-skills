@@ -17,6 +17,10 @@ Add interesting, actionable creative Skills, prompts, workflows and examples. Vi
 
 The source of truth is `data/catalog.json`. Add or update a record there, then regenerate the Markdown:
 
+For the visual homepage, curate `data/featured-gallery.json`. Each card references an existing prompt or project ID; a project card may select one of that project's source GIFs. Preserve the relationship between the example, its source and the actual Skill or prompt. The full paginated `gallery/` is generated from records that have images.
+
+首页案例在 `data/featured-gallery.json` 中选取，引用已有的提示词或项目 ID。项目卡片可指定同一项目的来源动图。保持示例、出处和实际 Skill／提示词的对应关系；分页视觉目录由带图片的资料自动生成。
+
 ```sh
 python scripts/build.py
 python scripts/validate.py

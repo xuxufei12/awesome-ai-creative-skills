@@ -1,154 +1,427 @@
 [
   {
-    "title_zh": "创意图片与视觉想象",
-    "title_en": "Creative images & visual imagination",
+    "slug": "animated",
+    "title_zh": "直接看动图",
+    "title_en": "Animated previews",
     "items": [
       {
+        "kind": "project",
+        "project_id": "alchaincyf--huashu-motion",
+        "title_zh": "产品宣传片",
+        "title_en": "Product launch film",
+        "media_url": "https://raw.githubusercontent.com/alchaincyf/huashu-motion/52467f99c602b76ba86d511d37acdfe93fa1e16e/docs/media/hero.gif",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "haidrrrry--claude-remotion-skill",
+        "title_zh": "Remotion 动效",
+        "title_en": "Remotion motion graphics",
+        "media_url": "https://raw.githubusercontent.com/haidrrrry/claude-remotion-skill/1dcbe5e3fc6cf970bd10d3cc05f0a8a5d19d0383/demo.gif",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "alentodorov--create-promo-video",
+        "title_zh": "宣传短片",
+        "title_en": "Promo film",
+        "media_url": "https://raw.githubusercontent.com/alentodorov/create-promo-video/3e7689fb09cd67633c352dc1bbca5cb35bd602a2/promo.gif",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "alchaincyf--huashu-art-motion",
+        "title_zh": "艺术动画",
+        "title_en": "Art animation",
+        "media_url": "https://raw.githubusercontent.com/alchaincyf/huashu-art-motion/8a0d7d72ca65fcce6f8ba82c4a6c8dfe35b8422c/assets/showcase/mario-claude.gif",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "av-simi2--claude-manim-skill",
+        "title_zh": "无人机定位讲解",
+        "title_en": "Drone-localization explainer",
+        "media_url": "https://raw.githubusercontent.com/av-simi2/claude-manim-skill/f87274763f7416214899507fce6e55248fca2696/assets/demo.gif",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "yusuke710--manim-skill",
+        "title_zh": "数学可视化",
+        "title_en": "Mathematical visualization",
+        "media_url": "https://raw.githubusercontent.com/Yusuke710/manim-skill/a0048d9e265499038f34a9aa58ff16d306b5034c/manim_skill.gif",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "finderchangchang--brewreel",
+        "title_zh": "Brewreel 成片",
+        "title_en": "Brewreel film",
+        "media_url": "https://raw.githubusercontent.com/Finderchangchang/brewreel/217eb1f9c6c047b908bfa95ec03f729bec1247ce/docs/images/readme-hero.gif",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "gamezxz--pixel-art-studio",
+        "title_zh": "像素水豚行走",
+        "title_en": "Pixel capybara walk",
+        "media_url": "https://raw.githubusercontent.com/Gamezxz/pixel-art-studio/f8c246635c4621a6c2b427833149afdc3dc3c719/docs/assets/capy_walk_down.gif",
+        "width": 128
+      },
+      {
+        "kind": "project",
+        "project_id": "molauu--svg-character-animator",
+        "title_zh": "SVG 角色动画",
+        "title_en": "SVG character animation",
+        "media_url": "https://raw.githubusercontent.com/molauu/svg-character-animator/5ee1e7845caefe2c9ab51c64a2aa6f386e72ef5b/assets/readme/critter.gif",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "whaleyxbt--claude-motion",
+        "title_zh": "3D 爬行生物",
+        "title_en": "3D crawlers",
+        "media_url": "https://raw.githubusercontent.com/whaleyxbt/claude-motion/e627941543d9988b155dc610bb9cc0115a5e365e/media/sims/crawlers.gif",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "alchaincyf--huashu-motion",
+        "title_zh": "指着画面改动效",
+        "title_en": "Point-to-edit motion",
+        "media_url": "https://raw.githubusercontent.com/alchaincyf/huashu-motion/52467f99c602b76ba86d511d37acdfe93fa1e16e/docs/media/point-to-edit.gif",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "haidrrrry--claude-remotion-skill",
+        "title_zh": "Focus Cat 产品片",
+        "title_en": "Focus Cat promo",
+        "media_url": "https://raw.githubusercontent.com/haidrrrry/claude-remotion-skill/1dcbe5e3fc6cf970bd10d3cc05f0a8a5d19d0383/examples/videos/focus-cat.gif",
+        "width": 300
+      }
+    ]
+  },
+  {
+    "slug": "images",
+    "title_zh": "创意图片与设计",
+    "title_en": "Creative images & design",
+    "items": [
+      {
+        "kind": "prompt",
         "prompt_id": "bbb05d8c5c1fd2f7",
         "title_zh": "城市美食地图",
         "title_en": "Illustrated city food map"
       },
       {
+        "kind": "prompt",
         "prompt_id": "82b5eeb6e0f590d3",
         "title_zh": "蓬松毛绒玩具",
         "title_en": "Fluffy plush toys"
       },
       {
+        "kind": "prompt",
         "prompt_id": "02656caaa655f456",
         "title_zh": "浮世绘闪卡",
         "title_en": "Ukiyo-e flashcards"
       },
       {
+        "kind": "prompt",
         "prompt_id": "651e78dab7a4f399",
         "title_zh": "丝绸宇宙",
         "title_en": "A universe of silk"
       },
       {
+        "kind": "prompt",
         "prompt_id": "7b0f59ebdaae14ea",
         "title_zh": "冰棒里的水下世界",
         "title_en": "An underwater world in a popsicle"
       },
       {
+        "kind": "prompt",
         "prompt_id": "e24095a21fad2a6e",
         "title_zh": "蒸汽朋克机械鱼",
         "title_en": "Steampunk mechanical fish"
       },
       {
+        "kind": "prompt",
         "prompt_id": "c59d105455d72b08",
         "title_zh": "城市冰箱贴",
         "title_en": "Miniature city magnets"
       },
       {
+        "kind": "prompt",
         "prompt_id": "1866c6c531688d17",
         "title_zh": "Q 版微缩概念店",
         "title_en": "Tiny concept stores"
       },
       {
+        "kind": "prompt",
         "prompt_id": "95e4062ca861fd15",
         "title_zh": "水晶质感 Emoji",
         "title_en": "Crystal emoji"
+      },
+      {
+        "kind": "prompt",
+        "prompt_id": "1c52381f78500e3b",
+        "title_zh": "玻璃质感重塑",
+        "title_en": "Glass material transformation"
+      },
+      {
+        "kind": "prompt",
+        "prompt_id": "0224cbd1fd1bd889",
+        "title_zh": "水晶球里的故事",
+        "title_en": "Stories in a crystal ball"
+      },
+      {
+        "kind": "prompt",
+        "prompt_id": "8c995c224fbfc632",
+        "title_zh": "积木城市景观",
+        "title_en": "Brick cityscape"
       }
     ]
   },
   {
-    "title_zh": "视频动效与艺术风格",
-    "title_en": "Motion graphics & artistic styles",
+    "slug": "animation",
+    "title_zh": "艺术动画与风格",
+    "title_en": "Art animation & styles",
     "items": [
       {
+        "kind": "prompt",
         "prompt_id": "439b80af58d8a21c",
         "title_zh": "水墨动画",
         "title_en": "Ink-wash animation"
       },
       {
+        "kind": "prompt",
         "prompt_id": "7dc5461235480db1",
         "title_zh": "红色剪纸",
         "title_en": "Red papercut"
       },
       {
+        "kind": "prompt",
         "prompt_id": "1bcdae4068414785",
         "title_zh": "彩色玻璃",
         "title_en": "Stained glass"
       },
       {
+        "kind": "prompt",
         "prompt_id": "0fea92b82962c4cf",
         "title_zh": "像素 RPG",
         "title_en": "Pixel RPG"
       },
       {
+        "kind": "prompt",
         "prompt_id": "263c12d283578967",
         "title_zh": "80 年代赛璐璐动画",
         "title_en": "80s cel animation"
       },
       {
+        "kind": "prompt",
         "prompt_id": "983c7c261e3a2fa6",
         "title_zh": "流体动效",
         "title_en": "Liquid motion"
       },
       {
+        "kind": "prompt",
         "prompt_id": "e265b24054768d7c",
         "title_zh": "合成波霓虹",
         "title_en": "Synthwave neon"
       },
       {
+        "kind": "prompt",
         "prompt_id": "eae464bef64d2152",
         "title_zh": "包豪斯几何",
         "title_en": "Bauhaus geometry"
       },
       {
+        "kind": "prompt",
         "prompt_id": "c2f7e801155baaca",
         "title_zh": "拼贴动画",
         "title_en": "Cut-out collage"
+      },
+      {
+        "kind": "prompt",
+        "prompt_id": "032a90387238cedc",
+        "title_zh": "蜡笔绘本动画",
+        "title_en": "Crayon storybook"
+      },
+      {
+        "kind": "prompt",
+        "prompt_id": "e929af9d5b0fd050",
+        "title_zh": "ASCII 终端电影",
+        "title_en": "ASCII terminal film"
+      },
+      {
+        "kind": "prompt",
+        "prompt_id": "a6dc9c8aefd54576",
+        "title_zh": "孔版印刷动画",
+        "title_en": "Risograph animation"
       }
     ]
   },
   {
+    "slug": "worlds",
     "title_zh": "3D 世界与产品视觉",
     "title_en": "3D worlds & product visuals",
     "items": [
       {
+        "kind": "prompt",
         "prompt_id": "4c3d0578ad2c9a67",
         "title_zh": "低多边形岛屿",
         "title_en": "Low-poly island"
       },
       {
+        "kind": "prompt",
         "prompt_id": "2835b8b29667bdc4",
         "title_zh": "积木玩具世界",
         "title_en": "Brick-toy worlds"
       },
       {
+        "kind": "prompt",
         "prompt_id": "06f4c5f7855f2517",
         "title_zh": "等距信息图",
         "title_en": "Isometric infographics"
       },
       {
+        "kind": "prompt",
         "prompt_id": "13f6af1730ea3945",
         "title_zh": "玻璃产品视觉",
         "title_en": "Glass product visuals"
       },
       {
+        "kind": "prompt",
         "prompt_id": "d36c4e7f3c8effa1",
         "title_zh": "VR 头显爆炸图",
         "title_en": "Exploded-view VR headset"
       },
       {
+        "kind": "prompt",
         "prompt_id": "94c4c40dc1cb70fa",
         "title_zh": "3D 石阶演化",
         "title_en": "3D staircase evolution"
       },
       {
+        "kind": "prompt",
         "prompt_id": "66e353f9ceb6bb06",
         "title_zh": "3D 产品动效",
         "title_en": "3D product motion"
       },
       {
+        "kind": "prompt",
         "prompt_id": "08fb0f0ea3d83e3a",
         "title_zh": "等距微缩城市",
         "title_en": "Isometric miniature city"
       },
       {
+        "kind": "prompt",
         "prompt_id": "5952846d57e64b16",
         "title_zh": "迷你 3D 建筑",
         "title_en": "Miniature 3D architecture"
+      },
+      {
+        "kind": "prompt",
+        "prompt_id": "3678aba7de5f41b0",
+        "title_zh": "HD-2D 世界",
+        "title_en": "HD-2D world"
+      },
+      {
+        "kind": "prompt",
+        "prompt_id": "17bacbe21e196757",
+        "title_zh": "纸片立体书",
+        "title_en": "Paper pop-up world"
+      },
+      {
+        "kind": "prompt",
+        "prompt_id": "c71a73fed580851a",
+        "title_zh": "科幻全息界面",
+        "title_en": "Sci-fi hologram HUD"
+      }
+    ]
+  },
+  {
+    "slug": "ads",
+    "title_zh": "广告与商业短片",
+    "title_en": "Ads & commercial films",
+    "items": [
+      {
+        "kind": "prompt",
+        "prompt_id": "7db989feb4e300ca",
+        "title_zh": "磨砂玻璃精华广告",
+        "title_en": "Frost-glass serum"
+      },
+      {
+        "kind": "prompt",
+        "prompt_id": "0bac40dd88b63685",
+        "title_zh": "运动鞋环绕展示",
+        "title_en": "Sneaker turntable"
+      },
+      {
+        "kind": "prompt",
+        "prompt_id": "431a4a06d9cd98a0",
+        "title_zh": "浓缩咖啡倾注",
+        "title_en": "Espresso pour"
+      },
+      {
+        "kind": "prompt",
+        "prompt_id": "ec3ac8efb5144266",
+        "title_zh": "耳机悬浮拆解",
+        "title_en": "Levitating earbud teardown"
+      },
+      {
+        "kind": "prompt",
+        "prompt_id": "8c873baef8d51f11",
+        "title_zh": "烛光氛围广告",
+        "title_en": "Ambient candle"
+      },
+      {
+        "kind": "prompt",
+        "prompt_id": "71a95e8693a04e75",
+        "title_zh": "眼镜与光轨",
+        "title_en": "Eyewear light streaks"
+      }
+    ]
+  },
+  {
+    "slug": "films",
+    "title_zh": "电影感与叙事短片",
+    "title_en": "Cinematic & story films",
+    "items": [
+      {
+        "kind": "prompt",
+        "prompt_id": "02e262bd0cfc2f80",
+        "title_zh": "日系电影感短片",
+        "title_en": "Japanese romance short"
+      },
+      {
+        "kind": "prompt",
+        "prompt_id": "3335c428672bc971",
+        "title_zh": "高定奇幻短片",
+        "title_en": "Couture fantasy"
+      },
+      {
+        "kind": "prompt",
+        "prompt_id": "04e1ef76ef684cae",
+        "title_zh": "田园治愈短片",
+        "title_en": "Rural healing film"
+      },
+      {
+        "kind": "prompt",
+        "prompt_id": "e8acdb53e9e48aef",
+        "title_zh": "街头赛车镜头",
+        "title_en": "Street-racing sequence"
+      },
+      {
+        "kind": "prompt",
+        "prompt_id": "9c2b0912bab56964",
+        "title_zh": "波斯细密画影像",
+        "title_en": "Persian miniature film"
+      },
+      {
+        "kind": "prompt",
+        "prompt_id": "1bbefcbebfa16256",
+        "title_zh": "能量饮料广告分镜",
+        "title_en": "Energy-drink commercial"
       }
     ]
   }

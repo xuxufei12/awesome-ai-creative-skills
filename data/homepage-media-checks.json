@@ -1,0 +1,520 @@
+{
+  "checked_at": "2026-10-23T08:58:25.317477+00:00",
+  "scope": "README effect images; includes previously verified unchanged source URLs",
+  "total": 70,
+  "reachable": 70,
+  "results": [
+    {
+      "url": "https://raw.githubusercontent.com/alchaincyf/huashu-motion/52467f99c602b76ba86d511d37acdfe93fa1e16e/docs/media/hero.gif",
+      "reachable": true,
+      "status": 200,
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/haidrrrry/claude-remotion-skill/1dcbe5e3fc6cf970bd10d3cc05f0a8a5d19d0383/demo.gif",
+      "reachable": true,
+      "status": 200,
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/alentodorov/create-promo-video/3e7689fb09cd67633c352dc1bbca5cb35bd602a2/promo.gif",
+      "reachable": true,
+      "status": 200,
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/alchaincyf/huashu-art-motion/8a0d7d72ca65fcce6f8ba82c4a6c8dfe35b8422c/assets/showcase/mario-claude.gif",
+      "reachable": true,
+      "status": 200,
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/av-simi2/claude-manim-skill/f87274763f7416214899507fce6e55248fca2696/assets/demo.gif",
+      "reachable": true,
+      "status": 200,
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Yusuke710/manim-skill/a0048d9e265499038f34a9aa58ff16d306b5034c/manim_skill.gif",
+      "reachable": true,
+      "status": 200,
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Finderchangchang/brewreel/217eb1f9c6c047b908bfa95ec03f729bec1247ce/docs/images/readme-hero.gif",
+      "reachable": true,
+      "status": 200,
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Gamezxz/pixel-art-studio/f8c246635c4621a6c2b427833149afdc3dc3c719/docs/assets/capy_walk_down.gif",
+      "reachable": true,
+      "status": 200,
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/molauu/svg-character-animator/5ee1e7845caefe2c9ab51c64a2aa6f386e72ef5b/assets/readme/critter.gif",
+      "reachable": true,
+      "status": 200,
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/whaleyxbt/claude-motion/e627941543d9988b155dc610bb9cc0115a5e365e/media/sims/crawlers.gif",
+      "reachable": true,
+      "status": 200,
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/alchaincyf/huashu-motion/52467f99c602b76ba86d511d37acdfe93fa1e16e/docs/media/point-to-edit.gif",
+      "reachable": true,
+      "status": 200,
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/haidrrrry/claude-remotion-skill/1dcbe5e3fc6cf970bd10d3cc05f0a8a5d19d0383/examples/videos/focus-cat.gif",
+      "reachable": true,
+      "status": 200,
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://cms-assets.youmind.com/media/1776662673014_nf0taw_HGRMNDybsAAGG88.jpg",
+      "readme_gallery": true,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/jpeg",
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/2558bf0bb825be150c5d1aeab918cd90004882d3/images/pro_case12/output.jpg",
+      "readme_gallery": true,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "error": "ReadTimeout",
+      "content_type": "image/jpeg",
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/2558bf0bb825be150c5d1aeab918cd90004882d3/images/pro_case1/output.jpg",
+      "readme_gallery": true,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/jpeg",
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/66/example_silk_creation_universe.png",
+      "readme_gallery": true,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/png",
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/65/surreal-underwater-scene-popsicle.png",
+      "readme_gallery": true,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/png",
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/64/example_steampunk_fish.jpg",
+      "readme_gallery": true,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/jpeg",
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/2558bf0bb825be150c5d1aeab918cd90004882d3/images/pro_case35/output.jpg",
+      "readme_gallery": true,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/jpeg",
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/2558bf0bb825be150c5d1aeab918cd90004882d3/images/pro_case38/output.jpg",
+      "readme_gallery": true,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/jpeg",
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/PicoTrex/Awesome-Nano-Banana-images/2558bf0bb825be150c5d1aeab918cd90004882d3/images/pro_case13/output.jpg",
+      "readme_gallery": true,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/jpeg",
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/93/glass_retexturing.png",
+      "reachable": true,
+      "status": 200,
+      "bytes": 359853,
+      "check": "HEAD"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/77/example_crystal_ball_chang_e.png",
+      "reachable": true,
+      "status": 200,
+      "bytes": 502694,
+      "check": "HEAD"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/79/example_lego_shanghai_bund.png",
+      "reachable": true,
+      "status": 200,
+      "bytes": 696612,
+      "check": "HEAD"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/ink-wash/poster.jpg",
+      "reachable": true,
+      "status": 200,
+      "bytes": 316128,
+      "check": "HEAD"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/papercut-red/poster.jpg",
+      "reachable": true,
+      "status": 200,
+      "bytes": 445642,
+      "check": "HEAD"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/stained-glass/poster.jpg",
+      "reachable": true,
+      "status": 200,
+      "bytes": 189943,
+      "check": "HEAD"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/pixel-rpg/poster.jpg",
+      "reachable": true,
+      "status": 200,
+      "bytes": 493539,
+      "check": "HEAD"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/cel-anime-80s/poster.jpg",
+      "reachable": true,
+      "check": "HEAD rechecked twice: 200",
+      "status": 200,
+      "bytes": 387864
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Vincentwei1021/mg-styles-15/49052d80bfaf9fa8412cc9710530e5e95a3b8d8c/docs/readme/films/07-liquid.webp",
+      "readme_gallery": true,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/webp",
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Vincentwei1021/mg-styles-15/49052d80bfaf9fa8412cc9710530e5e95a3b8d8c/docs/readme/films/10-synthwave.webp",
+      "readme_gallery": true,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/webp",
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Vincentwei1021/mg-styles-15/49052d80bfaf9fa8412cc9710530e5e95a3b8d8c/docs/readme/films/09-bauhaus.webp",
+      "readme_gallery": true,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/webp",
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Vincentwei1021/mg-styles-15/49052d80bfaf9fa8412cc9710530e5e95a3b8d8c/docs/readme/films/06-collage.webp",
+      "readme_gallery": true,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/webp",
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/crayon-book/poster.jpg",
+      "reachable": true,
+      "status": 200,
+      "bytes": 760734,
+      "check": "HEAD"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/ascii-crt/poster.jpg",
+      "reachable": true,
+      "status": 200,
+      "bytes": 545593,
+      "check": "HEAD"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/risograph/poster.jpg",
+      "reachable": true,
+      "status": 200,
+      "bytes": 1366874,
+      "check": "HEAD"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/lowpoly-island/poster.jpg",
+      "reachable": true,
+      "status": 200,
+      "bytes": 158774,
+      "check": "HEAD"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/brick-toy/poster.jpg",
+      "reachable": true,
+      "status": 200,
+      "bytes": 135505,
+      "check": "HEAD"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/iso-infographic/poster.jpg",
+      "reachable": true,
+      "status": 200,
+      "bytes": 313197,
+      "check": "HEAD"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/glass-product/poster.jpg",
+      "reachable": true,
+      "status": 200,
+      "bytes": 133647,
+      "check": "HEAD"
+    },
+    {
+      "url": "https://cms-assets.youmind.com/media/1776658772018_lukyfw_HGSUfldbIAEiMWZ.jpg",
+      "readme_gallery": true,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/jpeg",
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://cms-assets.youmind.com/media/1776661968404_8a5flm_HGQc_KOaMAA2vt0.jpg",
+      "readme_gallery": true,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/jpeg",
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Vincentwei1021/mg-styles-15/49052d80bfaf9fa8412cc9710530e5e95a3b8d8c/docs/readme/films/04-3d-render.webp",
+      "readme_gallery": true,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/webp",
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Vincentwei1021/mg-styles-15/49052d80bfaf9fa8412cc9710530e5e95a3b8d8c/docs/readme/films/03-isometric.webp",
+      "readme_gallery": true,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/webp",
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/jamez-bondos/awesome-gpt4o-images/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/56/example_miniature_starbucks_cup_building.png",
+      "readme_gallery": true,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/png",
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/hd-2d/poster.jpg",
+      "reachable": true,
+      "status": 200,
+      "bytes": 109374,
+      "check": "HEAD"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/paper-popup/poster.jpg",
+      "reachable": true,
+      "status": 200,
+      "bytes": 150092,
+      "check": "HEAD"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/styles/hologram-hud/poster.jpg",
+      "reachable": true,
+      "status": 200,
+      "bytes": 300568,
+      "check": "HEAD"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/LichAmnesia/awesome-ad-video-prompts/ac5b61177a81343e958f63212c4df7f25dc4c265/images/frost-glass-serum-condensation-macro.png",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "error": "ReadTimeout",
+      "content_type": "image/png",
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/LichAmnesia/awesome-ad-video-prompts/ac5b61177a81343e958f63212c4df7f25dc4c265/images/sneaker-360-turntable-studio.png",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/png",
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/LichAmnesia/awesome-ad-video-prompts/ac5b61177a81343e958f63212c4df7f25dc4c265/images/espresso-pour-crema-physics.png",
+      "reachable": true,
+      "status": 200,
+      "bytes": 2097513,
+      "check": "HEAD"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/LichAmnesia/awesome-ad-video-prompts/ac5b61177a81343e958f63212c4df7f25dc4c265/images/earbuds-exploded-view-levitation.png",
+      "reachable": true,
+      "status": 200,
+      "bytes": 1650116,
+      "check": "HEAD"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/LichAmnesia/awesome-ad-video-prompts/ac5b61177a81343e958f63212c4df7f25dc4c265/images/candle-ambient-slow-ignite.png",
+      "reachable": true,
+      "status": 200,
+      "bytes": 1977130,
+      "check": "HEAD"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/LichAmnesia/awesome-ad-video-prompts/ac5b61177a81343e958f63212c4df7f25dc4c265/images/eyewear-motion-control-light-streaks.png",
+      "reachable": true,
+      "status": 200,
+      "bytes": 1409414,
+      "check": "HEAD"
+    },
+    {
+      "url": "https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7f63ad253175a9ad1dac53de490efac8/thumbnails/thumbnail.jpg",
+      "readme_gallery": false,
+      "method": "HEAD",
+      "status": 200,
+      "reachable": true,
+      "content_type": "image/jpeg",
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e066fab457509bc6809ea212ae5d6a51/thumbnails/thumbnail.jpg",
+      "reachable": true,
+      "status": 200,
+      "bytes": 17574,
+      "check": "HEAD"
+    },
+    {
+      "url": "https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce508b28e505ffce07247e2ab036d6f1/thumbnails/thumbnail.jpg",
+      "reachable": true,
+      "status": 200,
+      "bytes": 30936,
+      "check": "HEAD"
+    },
+    {
+      "url": "https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3a7fb0a6d706b9f568479bb720ce1ad4/thumbnails/thumbnail.jpg",
+      "reachable": true,
+      "status": 200,
+      "bytes": 24799,
+      "check": "HEAD"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2112327483924070400/img/E_eeIRpAzoLb8pwr.jpg",
+      "reachable": true,
+      "status": 200,
+      "bytes": 85186,
+      "check": "HEAD"
+    },
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2112295413739147264/img/BRnDAtpos2YD3VOm.jpg",
+      "reachable": true,
+      "status": 200,
+      "bytes": 114958,
+      "check": "HEAD"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/my-style-before.jpg",
+      "status": 200,
+      "reachable": true,
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/my-style-after.jpg",
+      "status": 200,
+      "reachable": true,
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/frames/caption-news.jpg",
+      "status": 200,
+      "reachable": true,
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/frames/newsreel.jpg",
+      "status": 200,
+      "reachable": true,
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/frames/countdown.jpg",
+      "status": 200,
+      "reachable": true,
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/frames/city-symphony.jpg",
+      "status": 200,
+      "reachable": true,
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/frames/visual-investigation.jpg",
+      "status": 200,
+      "reachable": true,
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/frames/kino-montage.jpg",
+      "status": 200,
+      "reachable": true,
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/frames/telestrator.jpg",
+      "status": 200,
+      "reachable": true,
+      "check": "previously verified source"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lemomo-ai/lemo-opuscar/3961ddb3d24d8876e0e2754f7790d66908acee51/docs/frames/news-package.jpg",
+      "status": 200,
+      "reachable": true,
+      "check": "previously verified source"
+    }
+  ]
+}
