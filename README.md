@@ -2,6 +2,7 @@
 
 # Awesome AI Creative Skills
 
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 [English](README.md) · [简体中文](README.zh-CN.md)
 
 > Skills, prompts, tools and examples that turn ideas into videos, images, motion graphics and 3D worlds.
