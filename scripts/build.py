@@ -141,6 +141,7 @@ def effect_table(items,zh,prefix=''):
   elif ss:links.append((prefix+f"projects/{r['id']}.md",'Skill 包' if zh else 'Skill pack'))
   if watch:links.append((watch,'▶ 视频' if zh else '▶ Film'))
   elif '.gif' in media.lower():links.append((media,'原动图' if zh else 'GIF'))
+  if not p and r and r.get('scene_source'):links.append((r['scene_source'],'场景源码' if zh else 'Scene code'))
   if not p and r:links.append((prefix+target,'制作方法' if zh else 'How to make it'))
   footer=' · '.join(f'<a href="{html.escape(url,quote=True)}">{name}</a>' for url,name in links)
   credit=r['repo'] if r else 'Original creator'
@@ -200,6 +201,20 @@ for edition in sorted({r['edition'] for r in projects if r.get('edition')}):
  batch=[r for r in projects if r.get('edition')==edition]
  page=backlink()+f'# New creative skills / 本期新增 · {edition}\n\n'
  page+='**Choose by result / 按目标选：** code-rendered films, images and image prompts, or looping chat stickers. The date below is the upstream push date recorded on collection. / 下表列出采集时的上游推送日期，便于区分本月发布与本期补录。\n\n'
+ if all(r.get('scene_source') for r in batch):
+  page=backlink()+'# Videos made with code / 代码视频作品与做法\n\n'
+  page+='从左往右看：先看片，再打开可编辑代码。带 Skill 的项目另列指令入口；作品工程可直接读场景。 / Start with the demo, then open the scene or renderer. Agent instructions are linked separately where available.\n\n'
+  for has_skill,heading in [(True,'Agent skills / 编程代理技能'),(False,'Source projects / 视频源码工程')]:
+   page+='## '+heading+'\n\n| Project / 项目 | Demo / 作者示例 | Source / 源码 | Upstream push / 上游推送 |\n|---|---|---|---|\n'
+   for r in batch:
+    if bool(skillmap.get(r['repo'].lower()))!=has_skill:continue
+    assets=r['preview_assets'];video=next((a for a in assets if a['type'] in ('page','video')),assets[0])
+    demo_label='Workflow video / 工作流演示' if video.get('label')=='Author’s workflow video' else 'Preview / 看效果'
+    extra=(' · [SKILL.md]('+r['sources'][1]['url']+')' if has_skill else '')
+    page+=f"| [{esc(r['title'])}](../projects/{r['id']}.md) | [{demo_label}]({video['url']}) | [Scene or renderer / 打开代码]({r['scene_source']}){extra} | {r['upstream_pushed_at'][:10]} |\n"
+   page+='\n'
+  write('docs/new-'+edition+'.md',page)
+  continue
  for cat,slug,en in categories:
   matches=[r for r in batch if r['category']==cat]
   if not matches:continue

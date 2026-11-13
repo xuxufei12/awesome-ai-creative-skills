@@ -4,9 +4,11 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [时钟史版画短片 / Engraved history of clocks](../../prompts/6e0a562859d0183b.md) | 视频框架与程序化成片 | kiselas/every-frame-is-code |
 | [歌词与鼓点驱动的竖屏 MV · 作者调用示例](../../prompts/f138a99e3c13e27e.md) | 视频框架与程序化成片 | seeyouintokyo/music-mv-skill |
 | [真人口播改成线稿动画讲解](../../prompts/3b14914d452e1970.md) | 视频框架与程序化成片 | joeseesun/opus-video-prompts |
 | [硬约束补丁(防止编数字)](../../prompts/76f3c07354664e0f.md) | 视频框架与程序化成片 | PDF / community |
+| [自动推近的软件演示 · 作者调用示例](../../prompts/5cc9659ac676a9b1.md) | 视频框架与程序化成片 | 6space7/autozoom-demo-skill |
 | [讲解 Transformer 的 JS 视频](../../prompts/eece67bcb57a9cc8.md) | 视频框架与程序化成片 | joeseesun/opus-video-prompts |
 | [讲解任意主题(线稿 + Canvas + Playwright/ffmpeg)](../../prompts/8d458d3cf134a2da.md) | 视频框架与程序化成片 | PDF / community |
 | [鸡尾酒配方动态图解（Negroni）](../../prompts/a4d075ff15cf5d06.md) | 视频框架与程序化成片 | joeseesun/opus-video-prompts |

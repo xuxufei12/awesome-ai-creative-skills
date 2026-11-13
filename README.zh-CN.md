@@ -12,9 +12,32 @@
 
 **先看效果，再找做法。** 动图直接播放；点击喜欢的画面或卡片下方的「Skill」「提示词」，就能找到对应方法。
 
-[11 月第二辑：月相、蜡笔图与九宫格表情](#november-picks-2) · [11 月精选：剪纸短片、生活感照片与聊天表情](#november-picks) · [直接看动图](#animated) · [创意图片与设计](#images) · [艺术动画与风格](#animation) · [3D 世界与产品视觉](#worlds) · [广告与商业短片](#ads) · [电影感与叙事短片](#films)
+[代码做视频：从样片打开场景源码](#code-video-lab) · [11 月第二辑：月相、蜡笔图与九宫格表情](#november-picks-2) · [11 月精选：剪纸短片、生活感照片与聊天表情](#november-picks) · [直接看动图](#animated) · [创意图片与设计](#images) · [艺术动画与风格](#animation) · [3D 世界与产品视觉](#worlds) · [广告与商业短片](#ads) · [电影感与叙事短片](#films)
 
-[浏览全部 2,079 个效果预览 →](gallery/README.md) · [按工具检索](#find-tools) · [自定义风格新玩法](#custom-styles)
+[浏览全部 2,087 个效果预览 →](gallery/README.md) · [按工具检索](#find-tools) · [自定义风格新玩法](#custom-styles)
+
+<a id="code-video-lab"></a>
+
+## 代码做视频：从样片打开场景源码
+
+[本期新增 10 个项目，按用途浏览 →](docs/new-2026-11-13-code-video.md)
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/leodavincs--kalem.md"><img src="https://raw.githubusercontent.com/leodavincs/kalem/ba19c9f20b816ab00c8bb3445e3ddf597f26ae6d/motorlar/levha/demo.gif" width="300" alt="让机械图纸动起来" loading="lazy"></a><br><a href="projects/leodavincs--kalem.md"><b>让机械图纸动起来</b></a><br><sub><a href="skills/a1b245b49c218cf3.md">Skill</a> · <a href="https://raw.githubusercontent.com/leodavincs/kalem/ba19c9f20b816ab00c8bb3445e3ddf597f26ae6d/motorlar/levha/demo.gif">原动图</a> · <a href="https://github.com/leodavincs/kalem/blob/ba19c9f20b816ab00c8bb3445e3ddf597f26ae6d/motorlar/levha/mekanizma.py">场景源码</a> · <a href="projects/leodavincs--kalem.md">制作方法</a></sub><br><sub><a href="https://github.com/leodavincs/kalem/blob/ba19c9f20b816ab00c8bb3445e3ddf597f26ae6d/README.md">leodavincs/kalem</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/syedbahjat--claude-stickman-shorts.md"><img src="https://raw.githubusercontent.com/SyedBahjat/claude-stickman-shorts/2fb64aa5c3e8a1df59a7cdd1651126cdc9cc2d9e/assets/lasttrain-p1.gif" width="300" alt="末班地铁火柴人短剧" loading="lazy"></a><br><a href="projects/syedbahjat--claude-stickman-shorts.md"><b>末班地铁火柴人短剧</b></a><br><sub><a href="skills/50af05b2ef94f71c.md">Skill</a> · <a href="https://raw.githubusercontent.com/SyedBahjat/claude-stickman-shorts/2fb64aa5c3e8a1df59a7cdd1651126cdc9cc2d9e/assets/lasttrain-p1.gif">原动图</a> · <a href="https://github.com/SyedBahjat/claude-stickman-shorts/blob/2fb64aa5c3e8a1df59a7cdd1651126cdc9cc2d9e/src/stories/last-train/LastTrainP1.tsx">场景源码</a> · <a href="projects/syedbahjat--claude-stickman-shorts.md">制作方法</a></sub><br><sub><a href="https://github.com/SyedBahjat/claude-stickman-shorts/blob/2fb64aa5c3e8a1df59a7cdd1651126cdc9cc2d9e/README.md">SyedBahjat/claude-stickman-shorts</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/mojomast--hyperrizz.md"><img src="https://raw.githubusercontent.com/mojomast/hyperrizz/35c482e22413ee43c74955bd6da7fe7b053cdd9b/docs/examples/broadcast-lab.png" width="300" alt="像素电视台包装" loading="lazy"></a><br><a href="projects/mojomast--hyperrizz.md"><b>像素电视台包装</b></a><br><sub><a href="skills/a966fa6550880f7a.md">Skill</a> · <a href="https://github.com/mojomast/hyperrizz/blob/35c482e22413ee43c74955bd6da7fe7b053cdd9b/templates/broadcast-lab/scenes/01-signal.js">场景源码</a> · <a href="projects/mojomast--hyperrizz.md">制作方法</a></sub><br><sub><a href="https://github.com/mojomast/hyperrizz/blob/35c482e22413ee43c74955bd6da7fe7b053cdd9b/README.md">mojomast/hyperrizz</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/6space7--autozoom-demo-skill.md"><img src="https://raw.githubusercontent.com/6space7/autozoom-demo-skill/75ed2192a2272b2c4181eaec61888111763e0b10/media/preview.jpg" width="300" alt="自动推近的软件演示" loading="lazy"></a><br><a href="projects/6space7--autozoom-demo-skill.md"><b>自动推近的软件演示</b></a><br><sub><a href="skills/02b5b55a573e6b7b.md">Skill</a> · <a href="https://github.com/6space7/autozoom-demo-skill/blob/75ed2192a2272b2c4181eaec61888111763e0b10/skills/autozoom-demo-scenes/assets/remotion-template/src/Demo.tsx">场景源码</a> · <a href="projects/6space7--autozoom-demo-skill.md">制作方法</a></sub><br><sub><a href="https://github.com/6space7/autozoom-demo-skill/blob/75ed2192a2272b2c4181eaec61888111763e0b10/README.md">6space7/autozoom-demo-skill</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/artemnovitckii--claude-animation-skills.md"><img src="https://raw.githubusercontent.com/artemnovitckii/claude-animation-skills/5dbea55c23aa6a5c93dc3cfb5583840513b56b94/docs/skills.jpg" width="300" alt="从家到健身房的路线动画" loading="lazy"></a><br><a href="projects/artemnovitckii--claude-animation-skills.md"><b>从家到健身房的路线动画</b></a><br><sub><a href="skills/4d87472c022889d1.md">Skill</a> · <a href="https://github.com/artemnovitckii/claude-animation-skills/blob/5dbea55c23aa6a5c93dc3cfb5583840513b56b94/skills/map-route/template.html">场景源码</a> · <a href="projects/artemnovitckii--claude-animation-skills.md">制作方法</a></sub><br><sub><a href="https://github.com/artemnovitckii/claude-animation-skills/blob/5dbea55c23aa6a5c93dc3cfb5583840513b56b94/README.md">artemnovitckii/claude-animation-skills</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/brewed-ops--talking-explainer.md"><img src="https://raw.githubusercontent.com/brewed-ops/talking-explainer/3a19bbce0c97dcdd3120c7e3c4b10ddc3e13f1d5/docs/talking.gif" width="300" alt="会对口型的卡通讲解员" loading="lazy"></a><br><a href="projects/brewed-ops--talking-explainer.md"><b>会对口型的卡通讲解员</b></a><br><sub><a href="skills/1178f2b0fe6ee9e3.md">Skill</a> · <a href="https://raw.githubusercontent.com/brewed-ops/talking-explainer/3a19bbce0c97dcdd3120c7e3c4b10ddc3e13f1d5/docs/talking.gif">原动图</a> · <a href="https://github.com/brewed-ops/talking-explainer/blob/3a19bbce0c97dcdd3120c7e3c4b10ddc3e13f1d5/skills/talking-explainer/template/apple/scene-starter.html">场景源码</a> · <a href="projects/brewed-ops--talking-explainer.md">制作方法</a></sub><br><sub><a href="https://github.com/brewed-ops/talking-explainer/blob/3a19bbce0c97dcdd3120c7e3c4b10ddc3e13f1d5/README.md">brewed-ops/talking-explainer</a></sub></td>
+</tr>
+</table>
+
+[继续按效果挑选 →](gallery/README.md)
 
 <a id="november-picks-2"></a>
 
@@ -262,7 +285,7 @@ Lemo-Opuscar 已更新到 **59 种影片风格**，新增 **8 种剪辑与纪实
 
 ## 找到喜欢的效果，开始制作
 
-**收录概览** · **468** 项目 · **799** Skills · **1854** 提示词／风格文本 · **2204** 案例
+**收录概览** · **478** 项目 · **806** Skills · **1856** 提示词／风格文本 · **2204** 案例
 
 | 入口 | 内容 |
 |---|---|
@@ -302,7 +325,7 @@ Lemo-Opuscar 已更新到 **59 种影片风格**，新增 **8 种剪辑与纪实
 | [教学科普与手绘](catalog/education.md) | 62 |
 | [剪辑字幕与数字人](catalog/editing.md) | 94 |
 | [叙事动画与音乐视频](catalog/storytelling.md) | 30 |
-| [视频框架与程序化成片](catalog/video-frameworks.md) | 78 |
+| [视频框架与程序化成片](catalog/video-frameworks.md) | 88 |
 | [广告与产品演示](catalog/product-videos.md) | 69 |
 | [SVG 与动态图形](catalog/motion-graphics.md) | 30 |
 | [提示词与导演方法](catalog/directing.md) | 26 |

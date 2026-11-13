@@ -2,7 +2,7 @@
 
 # Skills / 技能
 
-799 records / 条记录。每条提供独立详情和来源。
+806 records / 条记录。每条提供独立详情和来源。
 
 - [Page 1 · 1–80](page-01.md)
 - [Page 2 · 81–160](page-02.md)
@@ -13,4 +13,5 @@
 - [Page 7 · 481–560](page-07.md)
 - [Page 8 · 561–640](page-08.md)
 - [Page 9 · 641–720](page-09.md)
-- [Page 10 · 721–799](page-10.md)
+- [Page 10 · 721–800](page-10.md)
+- [Page 11 · 801–806](page-11.md)

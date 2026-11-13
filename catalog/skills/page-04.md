@@ -85,4 +85,4 @@
 | [video-cut](../../skills/6ac561990a6eb89d.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
 | [video-recap](../../skills/217913bc6f9e47e0.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
 
-[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md)
+[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md)

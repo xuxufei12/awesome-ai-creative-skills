@@ -4,19 +4,26 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [runpod](../../skills/a61ea498acd0f2c8.md) | 视频框架与程序化成片 | digitalsamba/claude-code-video-toolkit |
+| [scriptwriting](../../skills/ef1e8ea98f6c10d0.md) | 视频框架与程序化成片 | salomonMuriel/media-production-skills |
+| [seam-craft](../../skills/c5aa27c6d6c088fa.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
+| [seedance-2-0](../../skills/cec29922243503d9.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [seedance-2-5](../../skills/64742d7acd63d1fa.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [setup-api-key](../../skills/92f00a9f71f2812b.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [showtime](../../skills/709dfc36d05bc869.md) | 视频框架与程序化成片 | FavioVazquez/showtime |
+| [sk-render](../../skills/d8260b7eac0f06fa.md) | 视频框架与程序化成片 | howznguyen/shorts-kit |
 | [slideshow](../../skills/4525f1a0d468f919.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
 | [slideshow](../../skills/ca93daf7a53781b4.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
 | [sound-design](../../skills/7626d4527e5b468d.md) | 视频框架与程序化成片 | salomonMuriel/media-production-skills |
 | [sound-effects](../../skills/9da7f48812a55a65.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [speech-to-text](../../skills/e8f86292bcd42e1e.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [stickman-shorts](../../skills/50af05b2ef94f71c.md) | 视频框架与程序化成片 | SyedBahjat/claude-stickman-shorts |
 | [story-short-generator](../../skills/713d6e6a4f0a3d13.md) | 视频框架与程序化成片 | fengyungithub/dsh-short-video-studio |
 | [svg-character-animation](../../skills/b6c51f692d0afe54.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [synthetic-screen-recording](../../skills/352bcc1435ef931b.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [synthetic-ui-demo](../../skills/b0367b10ad78f599.md) | 视频框架与程序化成片 | digitalsamba/claude-code-video-toolkit |
 | [tailwind-design-system](../../skills/434ed435d76fb6bc.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [talking-explainer](../../skills/1178f2b0fe6ee9e3.md) | 视频框架与程序化成片 | brewed-ops/talking-explainer |
 | [talking-head-recut](../../skills/a3b6084b4be1e23b.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
 | [text-to-speech](../../skills/e9a061a762a13632.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [threejs-animation](../../skills/b24dc96c7a854ab9.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
@@ -77,11 +84,5 @@
 | [ontology](../../skills/7dde5049cb1e74bb.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
 | [paidf-cosmos-predict](../../skills/3df325c66066bda0.md) | 高斯泼溅与仿真 | NVIDIA/skills |
 | [patent-software-ip](../../skills/6ca42e672d5a6d99.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
-| [research-expert-team](../../skills/e40eea81aa6183bf.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
-| [super-agent](../../skills/80cf2500d2d0cec8.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
-| [tao-finetune-cosmos-embed](../../skills/20a1d6cbe4d4e1cb.md) | 高斯泼溅与仿真 | NVIDIA/skills |
-| [tao-finetune-cosmos-reason](../../skills/eed10c7a33e033c6.md) | 高斯泼溅与仿真 | NVIDIA/skills |
-| [tao-run-deft-aoi-cosmos3](../../skills/faa153ae3e516879.md) | 高斯泼溅与仿真 | NVIDIA/skills |
-| [tao-train-nvpanoptix3d](../../skills/a2b5d7a6919c7b35.md) | 高斯泼溅与仿真 | NVIDIA/skills |
 
-[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md)
+[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md)

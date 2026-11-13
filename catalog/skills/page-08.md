@@ -19,12 +19,14 @@
 | [motion-sticker-pack](../../skills/e31671ac247d7674.md) | 表情包与动态贴纸 | kobingogo/motion-sticker-pack |
 | [wechat-gif-sticker-studio](../../skills/4d37ec773dfe78dc.md) | 表情包与动态贴纸 | qtyasupo/wechat-gif-sticker-studio |
 | [3d-asset-generation](../../skills/331817c6f484b926.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [Hyperrizz](../../skills/a966fa6550880f7a.md) | 视频框架与程序化成片 | mojomast/hyperrizz |
 | [acestep](../../skills/3b645adb13f4a1c8.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [acestep](../../skills/c33f2c182005d17e.md) | 视频框架与程序化成片 | digitalsamba/claude-code-video-toolkit |
 | [agents](../../skills/e763c739e8a87f5c.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [ai-video-gen](../../skills/f805fc45aeb61691.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [animation-styles](../../skills/5900200d9c986e33.md) | 视频框架与程序化成片 | deenukhan/animation-styles |
 | [atlas-cloud](../../skills/853644fe9b081957.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [autozoom-demo-scenes](../../skills/02b5b55a573e6b7b.md) | 视频框架与程序化成片 | 6space7/autozoom-demo-skill |
 | [avatar-video](../../skills/2bba4e8d4e67aac6.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [axing-science-video](../../skills/f8d24f7f7eba21b7.md) | 视频框架与程序化成片 | seeyouintokyo/science-video-skill |
 | [azure-speech-to-text](../../skills/732cbd393fadcd67.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
@@ -82,7 +84,5 @@
 | [hyperframes-animation](../../skills/c16fed4153a9ec22.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
 | [hyperframes-audio](../../skills/70fedc7b32e6fe1d.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
 | [hyperframes-cli](../../skills/53b6de9aca72b3b8.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [hyperframes-cli](../../skills/44a48ccfa4cbd4f4.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
-| [hyperframes-cli](../../skills/ae4a81fca82d1b04.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
 
-[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md)
+[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md)

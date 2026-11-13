@@ -1,5 +1,61 @@
 [
   {
+    "slug": "code-video-lab",
+    "title_zh": "代码做视频：从样片打开场景源码",
+    "title_en": "Films made with code: from a sample to its scene",
+    "edition": "2026-11-13-code-video",
+    "items": [
+      {
+        "kind": "project",
+        "project_id": "leodavincs--kalem",
+        "title_zh": "让机械图纸动起来",
+        "title_en": "Animated mechanism plates",
+        "media_url": "https://raw.githubusercontent.com/leodavincs/kalem/ba19c9f20b816ab00c8bb3445e3ddf597f26ae6d/motorlar/levha/demo.gif",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "syedbahjat--claude-stickman-shorts",
+        "title_zh": "末班地铁火柴人短剧",
+        "title_en": "Last Train stick-figure short",
+        "media_url": "https://raw.githubusercontent.com/SyedBahjat/claude-stickman-shorts/2fb64aa5c3e8a1df59a7cdd1651126cdc9cc2d9e/assets/lasttrain-p1.gif",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "mojomast--hyperrizz",
+        "title_zh": "像素电视台包装",
+        "title_en": "Pixel broadcast ident",
+        "media_url": "https://raw.githubusercontent.com/mojomast/hyperrizz/35c482e22413ee43c74955bd6da7fe7b053cdd9b/docs/examples/broadcast-lab.png",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "6space7--autozoom-demo-skill",
+        "title_zh": "自动推近的软件演示",
+        "title_en": "AutoZoom product walkthrough",
+        "media_url": "https://raw.githubusercontent.com/6space7/autozoom-demo-skill/75ed2192a2272b2c4181eaec61888111763e0b10/media/preview.jpg",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "artemnovitckii--claude-animation-skills",
+        "title_zh": "从家到健身房的路线动画",
+        "title_en": "Animated map route",
+        "media_url": "https://raw.githubusercontent.com/artemnovitckii/claude-animation-skills/5dbea55c23aa6a5c93dc3cfb5583840513b56b94/docs/skills.jpg",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "brewed-ops--talking-explainer",
+        "title_zh": "会对口型的卡通讲解员",
+        "title_en": "Talking cartoon presenter",
+        "media_url": "https://raw.githubusercontent.com/brewed-ops/talking-explainer/3a19bbce0c97dcdd3120c7e3c4b10ddc3e13f1d5/docs/talking.gif",
+        "width": 300
+      }
+    ]
+  },
+  {
     "slug": "november-picks-2",
     "title_zh": "11 月第二辑：月相、蜡笔图与九宫格表情",
     "title_en": "November II: moon phases, crayon diagrams and sticker grids",

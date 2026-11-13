@@ -27810,6 +27810,612 @@
       "upstream_created_at": "2026-11-05T16:50:54Z",
       "upstream_pushed_at": "2026-11-06T09:35:19Z",
       "edition": "2026-11-13-round-2"
+    },
+    {
+      "id": "leodavincs--kalem",
+      "repo": "leodavincs/kalem",
+      "title": "让机械图纸动起来 / Animated mechanism plates",
+      "url": "https://github.com/leodavincs/kalem",
+      "summary": "在教学图板里画杠杆、滑轮和曲柄，让零件绕关节运动；点开 Python 引擎可看运动怎样定义。 / Animated mechanism plates",
+      "category": "视频框架与程序化成片",
+      "type": "Agent Skill",
+      "hosts": [
+        "Claude",
+        "Codex"
+      ],
+      "curated": true,
+      "requirements": "Node 20+、Python、FFmpeg、Chrome；上游列出 macOS 或 Linux。",
+      "limits": "作者样例与源码索引；未在本目录重渲染。",
+      "status": "Pinned scene and source checked / 已核验固定版本源码",
+      "license": "参见上游许可说明",
+      "aliases": [
+        "leodavincs/kalem"
+      ],
+      "archived": false,
+      "stars": 115,
+      "commit": "ba19c9f20b816ab00c8bb3445e3ddf597f26ae6d",
+      "checked_at": "2026-11-13T06:34:04.081451+00:00",
+      "runtime_tested": false,
+      "sources": [
+        {
+          "url": "https://github.com/leodavincs/kalem/blob/ba19c9f20b816ab00c8bb3445e3ddf597f26ae6d/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:34:04.081451+00:00"
+        },
+        {
+          "url": "https://github.com/leodavincs/kalem/blob/ba19c9f20b816ab00c8bb3445e3ddf597f26ae6d/.claude/skills/kalem/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:34:04.081451+00:00"
+        },
+        {
+          "url": "https://github.com/leodavincs/kalem/blob/ba19c9f20b816ab00c8bb3445e3ddf597f26ae6d/motorlar/levha/mekanizma.py",
+          "type": "Editable scene or renderer / 可编辑场景或渲染代码",
+          "checked_at": "2026-11-13T06:34:04.081451+00:00"
+        },
+        {
+          "url": "https://github.com/leodavincs/kalem/blob/ba19c9f20b816ab00c8bb3445e3ddf597f26ae6d/LICENSE",
+          "type": "Upstream license",
+          "checked_at": "2026-11-13T06:34:04.081451+00:00"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/leodavincs/kalem/ba19c9f20b816ab00c8bb3445e3ddf597f26ae6d/motorlar/levha/demo.gif",
+          "type": "image",
+          "label": "demo.gif",
+          "relationship": "Upstream example or project-level preview",
+          "verification": "Pinned artifact signature verified"
+        }
+      ],
+      "upstream_created_at": "2026-11-01T14:58:12Z",
+      "upstream_pushed_at": "2026-11-06T15:02:33Z",
+      "edition": "2026-11-13-code-video",
+      "scene_source": "https://github.com/leodavincs/kalem/blob/ba19c9f20b816ab00c8bb3445e3ddf597f26ae6d/motorlar/levha/mekanizma.py"
+    },
+    {
+      "id": "syedbahjat--claude-stickman-shorts",
+      "repo": "SyedBahjat/claude-stickman-shorts",
+      "title": "末班地铁火柴人短剧 / Last Train stick-figure short",
+      "url": "https://github.com/SyedBahjat/claude-stickman-shorts",
+      "summary": "将人物、站台、灯光和剧情节奏写成 Remotion 组件。第一集的动图、MP4 与 LastTrainP1 场景源码可并排对照。 / Last Train stick-figure short",
+      "category": "视频框架与程序化成片",
+      "type": "Agent Skill",
+      "hosts": [
+        "Claude"
+      ],
+      "curated": true,
+      "requirements": "Claude Code、Remotion；语音另按作者说明准备。",
+      "limits": "作者样例与源码索引；未在本目录重渲染。",
+      "status": "Pinned scene and source checked / 已核验固定版本源码",
+      "license": "MIT",
+      "aliases": [
+        "SyedBahjat/claude-stickman-shorts"
+      ],
+      "archived": false,
+      "stars": 5,
+      "commit": "2fb64aa5c3e8a1df59a7cdd1651126cdc9cc2d9e",
+      "checked_at": "2026-11-13T06:34:04.082958+00:00",
+      "runtime_tested": false,
+      "sources": [
+        {
+          "url": "https://github.com/SyedBahjat/claude-stickman-shorts/blob/2fb64aa5c3e8a1df59a7cdd1651126cdc9cc2d9e/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:34:04.082958+00:00"
+        },
+        {
+          "url": "https://github.com/SyedBahjat/claude-stickman-shorts/blob/2fb64aa5c3e8a1df59a7cdd1651126cdc9cc2d9e/skills/stickman-shorts/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:34:04.082958+00:00"
+        },
+        {
+          "url": "https://github.com/SyedBahjat/claude-stickman-shorts/blob/2fb64aa5c3e8a1df59a7cdd1651126cdc9cc2d9e/src/stories/last-train/LastTrainP1.tsx",
+          "type": "Editable scene or renderer / 可编辑场景或渲染代码",
+          "checked_at": "2026-11-13T06:34:04.082958+00:00"
+        },
+        {
+          "url": "https://github.com/SyedBahjat/claude-stickman-shorts/blob/2fb64aa5c3e8a1df59a7cdd1651126cdc9cc2d9e/LICENSE",
+          "type": "Upstream license",
+          "checked_at": "2026-11-13T06:34:04.082958+00:00"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/SyedBahjat/claude-stickman-shorts/2fb64aa5c3e8a1df59a7cdd1651126cdc9cc2d9e/assets/lasttrain-p1.gif",
+          "type": "image",
+          "label": "lasttrain-p1.gif",
+          "relationship": "Upstream example or project-level preview",
+          "verification": "Pinned artifact signature verified"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/SyedBahjat/claude-stickman-shorts/2fb64aa5c3e8a1df59a7cdd1651126cdc9cc2d9e/examples/videos/lasttrain-p1.mp4",
+          "type": "video",
+          "label": "lasttrain-p1.mp4",
+          "relationship": "Upstream example or project-level preview",
+          "verification": "Pinned artifact signature verified"
+        }
+      ],
+      "upstream_created_at": "2026-11-09T09:11:15Z",
+      "upstream_pushed_at": "2026-11-09T09:31:58Z",
+      "edition": "2026-11-13-code-video",
+      "scene_source": "https://github.com/SyedBahjat/claude-stickman-shorts/blob/2fb64aa5c3e8a1df59a7cdd1651126cdc9cc2d9e/src/stories/last-train/LastTrainP1.tsx"
+    },
+    {
+      "id": "mojomast--hyperrizz",
+      "repo": "mojomast/hyperrizz",
+      "title": "像素电视台包装 / Pixel broadcast ident",
+      "url": "https://github.com/mojomast/hyperrizz",
+      "summary": "四段 JavaScript 场景组成一支复古电视包装片。可从开场信号场景入手，修改像素画面和节奏。 / Pixel broadcast ident",
+      "category": "视频框架与程序化成片",
+      "type": "Agent Skill",
+      "hosts": [
+        "OpenCode"
+      ],
+      "curated": true,
+      "requirements": "HyperFrames 与浏览器渲染环境；音效模板使用 Python。",
+      "limits": "作者样例与源码索引；未在本目录重渲染。",
+      "status": "Pinned scene and source checked / 已核验固定版本源码",
+      "license": "MIT",
+      "aliases": [
+        "mojomast/hyperrizz"
+      ],
+      "archived": false,
+      "stars": 4,
+      "commit": "35c482e22413ee43c74955bd6da7fe7b053cdd9b",
+      "checked_at": "2026-11-13T06:34:04.083970+00:00",
+      "runtime_tested": false,
+      "sources": [
+        {
+          "url": "https://github.com/mojomast/hyperrizz/blob/35c482e22413ee43c74955bd6da7fe7b053cdd9b/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:34:04.083970+00:00"
+        },
+        {
+          "url": "https://github.com/mojomast/hyperrizz/blob/35c482e22413ee43c74955bd6da7fe7b053cdd9b/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:34:04.083970+00:00"
+        },
+        {
+          "url": "https://github.com/mojomast/hyperrizz/blob/35c482e22413ee43c74955bd6da7fe7b053cdd9b/templates/broadcast-lab/scenes/01-signal.js",
+          "type": "Editable scene or renderer / 可编辑场景或渲染代码",
+          "checked_at": "2026-11-13T06:34:04.083970+00:00"
+        },
+        {
+          "url": "https://github.com/mojomast/hyperrizz/blob/35c482e22413ee43c74955bd6da7fe7b053cdd9b/LICENSE",
+          "type": "Upstream license",
+          "checked_at": "2026-11-13T06:34:04.083970+00:00"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/mojomast/hyperrizz/35c482e22413ee43c74955bd6da7fe7b053cdd9b/docs/examples/broadcast-lab.png",
+          "type": "image",
+          "label": "broadcast-lab.png",
+          "relationship": "Upstream example or project-level preview",
+          "verification": "Pinned artifact signature verified"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mojomast/hyperrizz/35c482e22413ee43c74955bd6da7fe7b053cdd9b/docs/examples/broadcast-lab.mp4",
+          "type": "video",
+          "label": "broadcast-lab.mp4",
+          "relationship": "Upstream example or project-level preview",
+          "verification": "Pinned artifact signature verified"
+        }
+      ],
+      "upstream_created_at": "2026-11-08T18:01:55Z",
+      "upstream_pushed_at": "2026-11-10T01:16:43Z",
+      "edition": "2026-11-13-code-video",
+      "scene_source": "https://github.com/mojomast/hyperrizz/blob/35c482e22413ee43c74955bd6da7fe7b053cdd9b/templates/broadcast-lab/scenes/01-signal.js"
+    },
+    {
+      "id": "6space7--autozoom-demo-skill",
+      "repo": "6space7/autozoom-demo-skill",
+      "title": "自动推近的软件演示 / AutoZoom product walkthrough",
+      "url": "https://github.com/6space7/autozoom-demo-skill",
+      "summary": "以真实产品界面为素材，在代码时间线上组织窗口、推镜与标注。可从 Demo.tsx 修改下一条功能演示。 / AutoZoom product walkthrough",
+      "category": "视频框架与程序化成片",
+      "type": "Agent Skill",
+      "hosts": [
+        "Claude",
+        "Codex"
+      ],
+      "curated": true,
+      "requirements": "Remotion、Node 与产品界面素材。",
+      "limits": "作者样例与源码索引；未在本目录重渲染。",
+      "status": "Pinned scene and source checked / 已核验固定版本源码",
+      "license": "MIT",
+      "aliases": [
+        "6space7/autozoom-demo-skill"
+      ],
+      "archived": false,
+      "stars": 1,
+      "commit": "75ed2192a2272b2c4181eaec61888111763e0b10",
+      "checked_at": "2026-11-13T06:34:04.083970+00:00",
+      "runtime_tested": false,
+      "sources": [
+        {
+          "url": "https://github.com/6space7/autozoom-demo-skill/blob/75ed2192a2272b2c4181eaec61888111763e0b10/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:34:04.083970+00:00"
+        },
+        {
+          "url": "https://github.com/6space7/autozoom-demo-skill/blob/75ed2192a2272b2c4181eaec61888111763e0b10/skills/autozoom-demo-scenes/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:34:04.083970+00:00"
+        },
+        {
+          "url": "https://github.com/6space7/autozoom-demo-skill/blob/75ed2192a2272b2c4181eaec61888111763e0b10/skills/autozoom-demo-scenes/assets/remotion-template/src/Demo.tsx",
+          "type": "Editable scene or renderer / 可编辑场景或渲染代码",
+          "checked_at": "2026-11-13T06:34:04.083970+00:00"
+        },
+        {
+          "url": "https://github.com/6space7/autozoom-demo-skill/blob/75ed2192a2272b2c4181eaec61888111763e0b10/LICENSE",
+          "type": "Upstream license",
+          "checked_at": "2026-11-13T06:34:04.083970+00:00"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/6space7/autozoom-demo-skill/75ed2192a2272b2c4181eaec61888111763e0b10/media/preview.jpg",
+          "type": "image",
+          "label": "preview.jpg",
+          "relationship": "Upstream example or project-level preview",
+          "verification": "Pinned artifact signature verified"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/6space7/autozoom-demo-skill/75ed2192a2272b2c4181eaec61888111763e0b10/media/promo.mp4",
+          "type": "video",
+          "label": "promo.mp4",
+          "relationship": "Upstream example or project-level preview",
+          "verification": "Pinned artifact signature verified"
+        }
+      ],
+      "upstream_created_at": "2026-11-08T17:03:24Z",
+      "upstream_pushed_at": "2026-11-08T17:10:08Z",
+      "edition": "2026-11-13-code-video",
+      "scene_source": "https://github.com/6space7/autozoom-demo-skill/blob/75ed2192a2272b2c4181eaec61888111763e0b10/skills/autozoom-demo-scenes/assets/remotion-template/src/Demo.tsx"
+    },
+    {
+      "id": "artemnovitckii--claude-animation-skills",
+      "repo": "artemnovitckii/claude-animation-skills",
+      "title": "从家到健身房的路线动画 / Animated map route",
+      "url": "https://github.com/artemnovitckii/claude-animation-skills",
+      "summary": "把路线描述写成结构化数据，由 Python 生成 HTML 镜头并渲染；作者拼图展示同套工具的六种画面。 / Animated map route",
+      "category": "视频框架与程序化成片",
+      "type": "Agent Skill",
+      "hosts": [
+        "Claude"
+      ],
+      "curated": true,
+      "requirements": "Claude Code、Python、HyperFrames；本条选取 map-route 模块。",
+      "limits": "作者样例与源码索引；未在本目录重渲染。",
+      "status": "Pinned scene and source checked / 已核验固定版本源码",
+      "license": "参见上游许可说明",
+      "aliases": [
+        "artemnovitckii/claude-animation-skills"
+      ],
+      "archived": false,
+      "stars": 703,
+      "commit": "5dbea55c23aa6a5c93dc3cfb5583840513b56b94",
+      "checked_at": "2026-11-13T06:34:04.083970+00:00",
+      "runtime_tested": false,
+      "sources": [
+        {
+          "url": "https://github.com/artemnovitckii/claude-animation-skills/blob/5dbea55c23aa6a5c93dc3cfb5583840513b56b94/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:34:04.083970+00:00"
+        },
+        {
+          "url": "https://github.com/artemnovitckii/claude-animation-skills/blob/5dbea55c23aa6a5c93dc3cfb5583840513b56b94/skills/map-route/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:34:04.083970+00:00"
+        },
+        {
+          "url": "https://github.com/artemnovitckii/claude-animation-skills/blob/5dbea55c23aa6a5c93dc3cfb5583840513b56b94/skills/map-route/template.html",
+          "type": "Editable scene or renderer / 可编辑场景或渲染代码",
+          "checked_at": "2026-11-13T06:34:04.083970+00:00"
+        },
+        {
+          "url": "https://github.com/artemnovitckii/claude-animation-skills/blob/5dbea55c23aa6a5c93dc3cfb5583840513b56b94/LICENSE",
+          "type": "Upstream license",
+          "checked_at": "2026-11-13T06:34:04.083970+00:00"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/artemnovitckii/claude-animation-skills/5dbea55c23aa6a5c93dc3cfb5583840513b56b94/docs/skills.jpg",
+          "type": "image",
+          "label": "skills.jpg",
+          "relationship": "Upstream example or project-level preview",
+          "verification": "Pinned artifact signature verified"
+        }
+      ],
+      "upstream_created_at": "2026-11-01T02:53:31Z",
+      "upstream_pushed_at": "2026-11-01T02:53:37Z",
+      "edition": "2026-11-13-code-video",
+      "scene_source": "https://github.com/artemnovitckii/claude-animation-skills/blob/5dbea55c23aa6a5c93dc3cfb5583840513b56b94/skills/map-route/template.html"
+    },
+    {
+      "id": "brewed-ops--talking-explainer",
+      "repo": "brewed-ops/talking-explainer",
+      "title": "会对口型的卡通讲解员 / Talking cartoon presenter",
+      "url": "https://github.com/brewed-ops/talking-explainer",
+      "summary": "用声音驱动口型，按提示词切姿势，再组合讲解画面；作者 GIF 演示人物说话效果。 / Talking cartoon presenter",
+      "category": "视频框架与程序化成片",
+      "type": "Agent Skill",
+      "hosts": [
+        "Claude"
+      ],
+      "curated": true,
+      "requirements": "Claude Code、HyperFrames 和旁白音频。",
+      "limits": "作者样例与源码索引；未在本目录重渲染。",
+      "status": "Pinned scene and source checked / 已核验固定版本源码",
+      "license": "参见上游许可说明",
+      "aliases": [
+        "brewed-ops/talking-explainer"
+      ],
+      "archived": false,
+      "stars": 73,
+      "commit": "3a19bbce0c97dcdd3120c7e3c4b10ddc3e13f1d5",
+      "checked_at": "2026-11-13T06:34:11.050222+00:00",
+      "runtime_tested": false,
+      "sources": [
+        {
+          "url": "https://github.com/brewed-ops/talking-explainer/blob/3a19bbce0c97dcdd3120c7e3c4b10ddc3e13f1d5/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:34:11.050222+00:00"
+        },
+        {
+          "url": "https://github.com/brewed-ops/talking-explainer/blob/3a19bbce0c97dcdd3120c7e3c4b10ddc3e13f1d5/skills/talking-explainer/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:34:11.050222+00:00"
+        },
+        {
+          "url": "https://github.com/brewed-ops/talking-explainer/blob/3a19bbce0c97dcdd3120c7e3c4b10ddc3e13f1d5/skills/talking-explainer/template/apple/scene-starter.html",
+          "type": "Editable scene or renderer / 可编辑场景或渲染代码",
+          "checked_at": "2026-11-13T06:34:11.050222+00:00"
+        },
+        {
+          "url": "https://github.com/brewed-ops/talking-explainer/blob/3a19bbce0c97dcdd3120c7e3c4b10ddc3e13f1d5/LICENSE",
+          "type": "Upstream license",
+          "checked_at": "2026-11-13T06:34:11.050222+00:00"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/brewed-ops/talking-explainer/3a19bbce0c97dcdd3120c7e3c4b10ddc3e13f1d5/docs/talking.gif",
+          "type": "image",
+          "label": "talking.gif",
+          "relationship": "Upstream example or project-level preview",
+          "verification": "Pinned artifact signature verified"
+        }
+      ],
+      "upstream_created_at": "2026-11-02T07:19:33Z",
+      "upstream_pushed_at": "2026-11-02T07:20:50Z",
+      "edition": "2026-11-13-code-video",
+      "scene_source": "https://github.com/brewed-ops/talking-explainer/blob/3a19bbce0c97dcdd3120c7e3c4b10ddc3e13f1d5/skills/talking-explainer/template/apple/scene-starter.html"
+    },
+    {
+      "id": "howznguyen--shorts-kit",
+      "repo": "howznguyen/shorts-kit",
+      "title": "短片摄影机动作库 / Camera moves for short films",
+      "url": "https://github.com/howznguyen/shorts-kit",
+      "summary": "用 Remotion 工程编排短片；镜头库有俯冲、跟拍和爆炸分解视图。作者的镜头总览可和对应 TSX 示例对读。 / Camera moves for short films",
+      "category": "视频框架与程序化成片",
+      "type": "Agent Skill",
+      "hosts": [
+        "Claude",
+        "Codex",
+        "OpenCode"
+      ],
+      "curated": true,
+      "requirements": "Bun、Remotion 和可读技能的代码代理。",
+      "limits": "作者样例与源码索引；未在本目录重渲染。",
+      "status": "Pinned scene and source checked / 已核验固定版本源码",
+      "license": "MIT",
+      "aliases": [
+        "howznguyen/shorts-kit"
+      ],
+      "archived": false,
+      "stars": 141,
+      "commit": "828e12000cdedf2eb3518e4328a0dacaaa3a3099",
+      "checked_at": "2026-11-13T06:34:13.125240+00:00",
+      "runtime_tested": false,
+      "sources": [
+        {
+          "url": "https://github.com/howznguyen/shorts-kit/blob/828e12000cdedf2eb3518e4328a0dacaaa3a3099/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:34:13.125240+00:00"
+        },
+        {
+          "url": "https://github.com/howznguyen/shorts-kit/blob/828e12000cdedf2eb3518e4328a0dacaaa3a3099/.claude/skills/sk-render/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:34:13.125240+00:00"
+        },
+        {
+          "url": "https://github.com/howznguyen/shorts-kit/blob/828e12000cdedf2eb3518e4328a0dacaaa3a3099/src/demo/camera/space-camera-moves/ExplodedView.tsx",
+          "type": "Editable scene or renderer / 可编辑场景或渲染代码",
+          "checked_at": "2026-11-13T06:34:13.125240+00:00"
+        },
+        {
+          "url": "https://github.com/howznguyen/shorts-kit/blob/828e12000cdedf2eb3518e4328a0dacaaa3a3099/LICENSE",
+          "type": "Upstream license",
+          "checked_at": "2026-11-13T06:34:13.125240+00:00"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/howznguyen/shorts-kit/828e12000cdedf2eb3518e4328a0dacaaa3a3099/docs/assets/shots.webp",
+          "type": "image",
+          "label": "shots.webp",
+          "relationship": "Upstream example or project-level preview",
+          "verification": "Pinned artifact signature verified"
+        }
+      ],
+      "upstream_created_at": "2026-11-04T19:41:42Z",
+      "upstream_pushed_at": "2026-11-09T01:37:49Z",
+      "edition": "2026-11-13-code-video",
+      "scene_source": "https://github.com/howznguyen/shorts-kit/blob/828e12000cdedf2eb3518e4328a0dacaaa3a3099/src/demo/camera/space-camera-moves/ExplodedView.tsx"
+    },
+    {
+      "id": "motion-canvas--examples",
+      "repo": "motion-canvas/examples",
+      "title": "分层视差动画 / Smooth parallax in TypeScript",
+      "url": "https://github.com/motion-canvas/examples",
+      "summary": "Motion Canvas 官方作品工程。通过移动不同深度的图层建立空间感，作者给出了 Smooth Parallax 影片和完整项目。 / Smooth parallax in TypeScript",
+      "category": "视频框架与程序化成片",
+      "type": "Code video project / 视频源码工程",
+      "hosts": [],
+      "curated": true,
+      "requirements": "Node、npm、Motion Canvas；可单独运行 smooth-parallax 示例。",
+      "limits": "作者样例与源码索引；未在本目录重渲染。",
+      "status": "Pinned scene and source checked / 已核验固定版本源码",
+      "license": "MIT",
+      "aliases": [
+        "motion-canvas/examples"
+      ],
+      "archived": false,
+      "stars": 1174,
+      "commit": "8ffefed144368d33de4b0e451894c718eb95d574",
+      "checked_at": "2026-11-13T06:34:13.196681+00:00",
+      "runtime_tested": false,
+      "sources": [
+        {
+          "url": "https://github.com/motion-canvas/examples/blob/8ffefed144368d33de4b0e451894c718eb95d574/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:34:13.196681+00:00"
+        },
+        {
+          "url": "https://github.com/motion-canvas/examples/blob/8ffefed144368d33de4b0e451894c718eb95d574/examples/smooth-parallax/src/scenes/rendering.tsx",
+          "type": "Editable scene or renderer / 可编辑场景或渲染代码",
+          "checked_at": "2026-11-13T06:34:13.196681+00:00"
+        },
+        {
+          "url": "https://github.com/motion-canvas/examples/blob/8ffefed144368d33de4b0e451894c718eb95d574/LICENSE",
+          "type": "Upstream license",
+          "checked_at": "2026-11-13T06:34:13.196681+00:00"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://youtu.be/c_3TLN2gHow",
+          "type": "page",
+          "label": "Author’s example film",
+          "relationship": "Linked by upstream README",
+          "verification": "Link matched to pinned README"
+        }
+      ],
+      "upstream_created_at": "2022-06-21T11:46:04Z",
+      "upstream_pushed_at": "2024-03-21T10:24:08Z",
+      "edition": "2026-11-13-code-video",
+      "scene_source": "https://github.com/motion-canvas/examples/blob/8ffefed144368d33de4b0e451894c718eb95d574/examples/smooth-parallax/src/scenes/rendering.tsx"
+    },
+    {
+      "id": "remotion-dev--template-audiogram",
+      "repo": "remotion-dev/template-audiogram",
+      "title": "把播客变成音频可视化短片 / Podcast audiogram",
+      "url": "https://github.com/remotion-dev/template-audiogram",
+      "summary": "把音频、字幕和封面组合为视频。可以打开频谱组件调整波形表现，换一段自己的播客重新渲染。 / Podcast audiogram",
+      "category": "视频框架与程序化成片",
+      "type": "Code video project / 视频源码工程",
+      "hosts": [],
+      "curated": true,
+      "requirements": "Node、Remotion；准备音频、封面与字幕。",
+      "limits": "作者样例与源码索引；未在本目录重渲染。",
+      "status": "Pinned scene and source checked / 已核验固定版本源码",
+      "license": "参见上游许可说明",
+      "aliases": [
+        "remotion-dev/template-audiogram"
+      ],
+      "archived": false,
+      "stars": 279,
+      "commit": "dee9f3619127b8853a1e6cf8882332d9d332c32d",
+      "checked_at": "2026-11-13T06:34:14.440524+00:00",
+      "runtime_tested": false,
+      "sources": [
+        {
+          "url": "https://github.com/remotion-dev/template-audiogram/blob/dee9f3619127b8853a1e6cf8882332d9d332c32d/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:34:14.440524+00:00"
+        },
+        {
+          "url": "https://github.com/remotion-dev/template-audiogram/blob/dee9f3619127b8853a1e6cf8882332d9d332c32d/src/Audiogram/Spectrum.tsx",
+          "type": "Editable scene or renderer / 可编辑场景或渲染代码",
+          "checked_at": "2026-11-13T06:34:14.440524+00:00"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/remotion-dev/template-audiogram/dee9f3619127b8853a1e6cf8882332d9d332c32d/Promo.png",
+          "type": "image",
+          "label": "Promo.png",
+          "relationship": "Upstream example or project-level preview",
+          "verification": "Pinned artifact signature verified"
+        },
+        {
+          "url": "https://twitter.com/marcusstenbeck/status/1460641903326732300",
+          "type": "page",
+          "label": "Author’s example film",
+          "relationship": "Linked by upstream README",
+          "verification": "Link matched to pinned README"
+        }
+      ],
+      "upstream_created_at": "2021-11-16T15:14:48Z",
+      "upstream_pushed_at": "2026-11-02T08:51:10Z",
+      "edition": "2026-11-13-code-video",
+      "scene_source": "https://github.com/remotion-dev/template-audiogram/blob/dee9f3619127b8853a1e6cf8882332d9d332c32d/src/Audiogram/Spectrum.tsx"
+    },
+    {
+      "id": "3b1b--videos",
+      "repo": "3b1b/videos",
+      "title": "用 Python 编排数学镜头 / Mathematical films in Python",
+      "url": "https://github.com/3b1b/videos",
+      "summary": "3Blue1Brown 的数学影片源工程。这里选取洛伦兹系统的 Python 场景，并链接作者演示 Manim 工作流的视频。 / Mathematical films in Python",
+      "category": "视频框架与程序化成片",
+      "type": "Code video project / 视频源码工程",
+      "hosts": [],
+      "curated": true,
+      "requirements": "使用 3b1b 的 ManimGL；早期场景可能依赖旧版。作品代码许可不同于引擎。",
+      "limits": "作者样例与源码索引；未在本目录重渲染。",
+      "status": "Pinned scene and source checked / 已核验固定版本源码",
+      "license": "CC BY-NC-SA 4.0",
+      "aliases": [
+        "3b1b/videos"
+      ],
+      "archived": false,
+      "stars": 11487,
+      "commit": "31f8ffe785e860477a6051fde983c02c7d165bc2",
+      "checked_at": "2026-11-13T06:34:15.123443+00:00",
+      "runtime_tested": false,
+      "sources": [
+        {
+          "url": "https://github.com/3b1b/videos/blob/31f8ffe785e860477a6051fde983c02c7d165bc2/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:34:15.123443+00:00"
+        },
+        {
+          "url": "https://github.com/3b1b/videos/blob/31f8ffe785e860477a6051fde983c02c7d165bc2/_2024/manim_demo/lorenz.py",
+          "type": "Editable scene or renderer / 可编辑场景或渲染代码",
+          "checked_at": "2026-11-13T06:34:15.123443+00:00"
+        },
+        {
+          "url": "https://github.com/3b1b/videos/blob/31f8ffe785e860477a6051fde983c02c7d165bc2/LICENSE.txt",
+          "type": "Upstream license",
+          "checked_at": "2026-11-13T06:34:15.123443+00:00"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://youtu.be/rbu7Zu5X1zI",
+          "type": "page",
+          "label": "Author’s workflow video",
+          "relationship": "Linked by upstream README",
+          "verification": "Link matched to pinned README"
+        }
+      ],
+      "upstream_created_at": "2020-12-31T21:07:33Z",
+      "upstream_pushed_at": "2026-11-10T19:57:10Z",
+      "edition": "2026-11-13-code-video",
+      "scene_source": "https://github.com/3b1b/videos/blob/31f8ffe785e860477a6051fde983c02c7d165bc2/_2024/manim_demo/lorenz.py"
     }
   ],
   "skills": [
@@ -42274,6 +42880,139 @@
           "repo": "qtyasupo/wechat-gif-sticker-studio",
           "path": "SKILL.md",
           "url": "https://github.com/qtyasupo/wechat-gif-sticker-studio/blob/c2b38fd73066a58845d2b730c84e6aa6af343774/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "a1b245b49c218cf3",
+      "sha256": "a1b245b49c218cf33540c23b21cc068a92f50296c06d25b277020d5ed0a199fa",
+      "repo": "leodavincs/kalem",
+      "name": "kalem",
+      "description": "在教学图板里画杠杆、滑轮和曲柄，让零件绕关节运动；点开 Python 引擎可看运动怎样定义。",
+      "category": "视频框架与程序化成片",
+      "sources": [
+        {
+          "repo": "leodavincs/kalem",
+          "path": ".claude/skills/kalem/SKILL.md",
+          "url": "https://github.com/leodavincs/kalem/blob/ba19c9f20b816ab00c8bb3445e3ddf597f26ae6d/.claude/skills/kalem/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "50af05b2ef94f71c",
+      "sha256": "50af05b2ef94f71cce66e611d8d00b496d292f2289fbbd6ad06fbcb0f5e3284f",
+      "repo": "SyedBahjat/claude-stickman-shorts",
+      "name": "stickman-shorts",
+      "description": "将人物、站台、灯光和剧情节奏写成 Remotion 组件。第一集的动图、MP4 与 LastTrainP1 场景源码可并排对照。",
+      "category": "视频框架与程序化成片",
+      "sources": [
+        {
+          "repo": "SyedBahjat/claude-stickman-shorts",
+          "path": "skills/stickman-shorts/SKILL.md",
+          "url": "https://github.com/SyedBahjat/claude-stickman-shorts/blob/2fb64aa5c3e8a1df59a7cdd1651126cdc9cc2d9e/skills/stickman-shorts/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "a966fa6550880f7a",
+      "sha256": "a966fa6550880f7a93b6ec4ea0886c4092ae76762d43940bfc4c70f0f4e74ae0",
+      "repo": "mojomast/hyperrizz",
+      "name": "Hyperrizz",
+      "description": "四段 JavaScript 场景组成一支复古电视包装片。可从开场信号场景入手，修改像素画面和节奏。",
+      "category": "视频框架与程序化成片",
+      "sources": [
+        {
+          "repo": "mojomast/hyperrizz",
+          "path": "SKILL.md",
+          "url": "https://github.com/mojomast/hyperrizz/blob/35c482e22413ee43c74955bd6da7fe7b053cdd9b/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "02b5b55a573e6b7b",
+      "sha256": "02b5b55a573e6b7b8986cb7deaca40938ce3ca8b355d4f8882bae4e46db1b16a",
+      "repo": "6space7/autozoom-demo-skill",
+      "name": "autozoom-demo-scenes",
+      "description": "以真实产品界面为素材，在代码时间线上组织窗口、推镜与标注。可从 Demo.tsx 修改下一条功能演示。",
+      "category": "视频框架与程序化成片",
+      "sources": [
+        {
+          "repo": "6space7/autozoom-demo-skill",
+          "path": "skills/autozoom-demo-scenes/SKILL.md",
+          "url": "https://github.com/6space7/autozoom-demo-skill/blob/75ed2192a2272b2c4181eaec61888111763e0b10/skills/autozoom-demo-scenes/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "4d87472c022889d1",
+      "sha256": "4d87472c022889d1a39384ef5629bbb5fa21f35ff0776bd5435eb5980bd0a335",
+      "repo": "artemnovitckii/claude-animation-skills",
+      "name": "map-route",
+      "description": "把路线描述写成结构化数据，由 Python 生成 HTML 镜头并渲染；作者拼图展示同套工具的六种画面。",
+      "category": "视频框架与程序化成片",
+      "sources": [
+        {
+          "repo": "artemnovitckii/claude-animation-skills",
+          "path": "skills/map-route/SKILL.md",
+          "url": "https://github.com/artemnovitckii/claude-animation-skills/blob/5dbea55c23aa6a5c93dc3cfb5583840513b56b94/skills/map-route/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "1178f2b0fe6ee9e3",
+      "sha256": "1178f2b0fe6ee9e3b5ebc84bb2a89f4e63e0f8e76cdeb26b9623d1a48efde6d4",
+      "repo": "brewed-ops/talking-explainer",
+      "name": "talking-explainer",
+      "description": "用声音驱动口型，按提示词切姿势，再组合讲解画面；作者 GIF 演示人物说话效果。",
+      "category": "视频框架与程序化成片",
+      "sources": [
+        {
+          "repo": "brewed-ops/talking-explainer",
+          "path": "skills/talking-explainer/SKILL.md",
+          "url": "https://github.com/brewed-ops/talking-explainer/blob/3a19bbce0c97dcdd3120c7e3c4b10ddc3e13f1d5/skills/talking-explainer/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "d8260b7eac0f06fa",
+      "sha256": "d8260b7eac0f06fabdbfd37a02fd5b3ac26705f8e7317fde4163e9585eb67e4a",
+      "repo": "howznguyen/shorts-kit",
+      "name": "sk-render",
+      "description": "用 Remotion 工程编排短片；镜头库有俯冲、跟拍和爆炸分解视图。作者的镜头总览可和对应 TSX 示例对读。",
+      "category": "视频框架与程序化成片",
+      "sources": [
+        {
+          "repo": "howznguyen/shorts-kit",
+          "path": ".claude/skills/sk-render/SKILL.md",
+          "url": "https://github.com/howznguyen/shorts-kit/blob/828e12000cdedf2eb3518e4328a0dacaaa3a3099/.claude/skills/sk-render/SKILL.md"
         }
       ],
       "text": "",
@@ -111241,6 +111980,49 @@
       ],
       "text": "使用 $da-motion-sticker-skill，为附件角色做一套“周一上班”主题表情包，风格选 04。",
       "text_status": "Example invocation excerpt / 公开调用语句节选"
+    },
+    {
+      "id": "5cc9659ac676a9b1",
+      "repo": "6space7/autozoom-demo-skill",
+      "title": "自动推近的软件演示 · 作者调用示例",
+      "text": "make a demo video of our analytics dashboard",
+      "category": "视频框架与程序化成片",
+      "origin": "Author README / 作者 README",
+      "review": "Author invocation; demos are project-level references. / 作者调用语句，预览属于项目级示例。",
+      "sources": [
+        {
+          "url": "https://github.com/6space7/autozoom-demo-skill/blob/75ed2192a2272b2c4181eaec61888111763e0b10/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:34:04.083970+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Claude",
+        "Codex"
+      ],
+      "text_status": "Public invocation excerpt / 公开调用示例"
+    },
+    {
+      "id": "5dbe147f1e98b967",
+      "repo": "artemnovitckii/claude-animation-skills",
+      "title": "从家到健身房的路线动画 · 作者调用示例",
+      "text": "/map-route home to the gym, 2.8 km",
+      "category": "视频框架与程序化成片",
+      "origin": "Author README / 作者 README",
+      "review": "Author invocation; demos are project-level references. / 作者调用语句，预览属于项目级示例。",
+      "sources": [
+        {
+          "url": "https://github.com/artemnovitckii/claude-animation-skills/blob/5dbea55c23aa6a5c93dc3cfb5583840513b56b94/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:34:04.083970+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Claude"
+      ],
+      "text_status": "Public invocation excerpt / 公开调用示例"
     }
   ],
   "cases": [

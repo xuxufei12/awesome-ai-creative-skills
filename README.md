@@ -13,9 +13,32 @@ Explore ways to create imaginative images, videos, motion graphics and 3D scenes
 
 **See the effect, then find the method.** GIFs play inline. Open any preview or its Skill / Prompt link to see how it is made.
 
-[November II: moon phases, crayon diagrams and sticker grids](#november-picks-2) · [November picks: paper films, candid photos and reaction GIFs](#november-picks) · [Animated previews](#animated) · [Creative images & design](#images) · [Art animation & styles](#animation) · [3D worlds & product visuals](#worlds) · [Ads & commercial films](#ads) · [Cinematic & story films](#films)
+[Films made with code: from a sample to its scene](#code-video-lab) · [November II: moon phases, crayon diagrams and sticker grids](#november-picks-2) · [November picks: paper films, candid photos and reaction GIFs](#november-picks) · [Animated previews](#animated) · [Creative images & design](#images) · [Art animation & styles](#animation) · [3D worlds & product visuals](#worlds) · [Ads & commercial films](#ads) · [Cinematic & story films](#films)
 
-[Browse all 2,079 visual previews →](gallery/README.md) · [Find tools](#find-tools) · [Make a style your own](#custom-styles)
+[Browse all 2,087 visual previews →](gallery/README.md) · [Find tools](#find-tools) · [Make a style your own](#custom-styles)
+
+<a id="code-video-lab"></a>
+
+## Films made with code: from a sample to its scene
+
+[Explore all 10 additions by use case →](docs/new-2026-11-13-code-video.md)
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/leodavincs--kalem.md"><img src="https://raw.githubusercontent.com/leodavincs/kalem/ba19c9f20b816ab00c8bb3445e3ddf597f26ae6d/motorlar/levha/demo.gif" width="300" alt="Animated mechanism plates" loading="lazy"></a><br><a href="projects/leodavincs--kalem.md"><b>Animated mechanism plates</b></a><br><sub><a href="skills/a1b245b49c218cf3.md">Skill</a> · <a href="https://raw.githubusercontent.com/leodavincs/kalem/ba19c9f20b816ab00c8bb3445e3ddf597f26ae6d/motorlar/levha/demo.gif">GIF</a> · <a href="https://github.com/leodavincs/kalem/blob/ba19c9f20b816ab00c8bb3445e3ddf597f26ae6d/motorlar/levha/mekanizma.py">Scene code</a> · <a href="projects/leodavincs--kalem.md">How to make it</a></sub><br><sub><a href="https://github.com/leodavincs/kalem/blob/ba19c9f20b816ab00c8bb3445e3ddf597f26ae6d/README.md">leodavincs/kalem</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/syedbahjat--claude-stickman-shorts.md"><img src="https://raw.githubusercontent.com/SyedBahjat/claude-stickman-shorts/2fb64aa5c3e8a1df59a7cdd1651126cdc9cc2d9e/assets/lasttrain-p1.gif" width="300" alt="Last Train stick-figure short" loading="lazy"></a><br><a href="projects/syedbahjat--claude-stickman-shorts.md"><b>Last Train stick-figure short</b></a><br><sub><a href="skills/50af05b2ef94f71c.md">Skill</a> · <a href="https://raw.githubusercontent.com/SyedBahjat/claude-stickman-shorts/2fb64aa5c3e8a1df59a7cdd1651126cdc9cc2d9e/assets/lasttrain-p1.gif">GIF</a> · <a href="https://github.com/SyedBahjat/claude-stickman-shorts/blob/2fb64aa5c3e8a1df59a7cdd1651126cdc9cc2d9e/src/stories/last-train/LastTrainP1.tsx">Scene code</a> · <a href="projects/syedbahjat--claude-stickman-shorts.md">How to make it</a></sub><br><sub><a href="https://github.com/SyedBahjat/claude-stickman-shorts/blob/2fb64aa5c3e8a1df59a7cdd1651126cdc9cc2d9e/README.md">SyedBahjat/claude-stickman-shorts</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/mojomast--hyperrizz.md"><img src="https://raw.githubusercontent.com/mojomast/hyperrizz/35c482e22413ee43c74955bd6da7fe7b053cdd9b/docs/examples/broadcast-lab.png" width="300" alt="Pixel broadcast ident" loading="lazy"></a><br><a href="projects/mojomast--hyperrizz.md"><b>Pixel broadcast ident</b></a><br><sub><a href="skills/a966fa6550880f7a.md">Skill</a> · <a href="https://github.com/mojomast/hyperrizz/blob/35c482e22413ee43c74955bd6da7fe7b053cdd9b/templates/broadcast-lab/scenes/01-signal.js">Scene code</a> · <a href="projects/mojomast--hyperrizz.md">How to make it</a></sub><br><sub><a href="https://github.com/mojomast/hyperrizz/blob/35c482e22413ee43c74955bd6da7fe7b053cdd9b/README.md">mojomast/hyperrizz</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/6space7--autozoom-demo-skill.md"><img src="https://raw.githubusercontent.com/6space7/autozoom-demo-skill/75ed2192a2272b2c4181eaec61888111763e0b10/media/preview.jpg" width="300" alt="AutoZoom product walkthrough" loading="lazy"></a><br><a href="projects/6space7--autozoom-demo-skill.md"><b>AutoZoom product walkthrough</b></a><br><sub><a href="skills/02b5b55a573e6b7b.md">Skill</a> · <a href="https://github.com/6space7/autozoom-demo-skill/blob/75ed2192a2272b2c4181eaec61888111763e0b10/skills/autozoom-demo-scenes/assets/remotion-template/src/Demo.tsx">Scene code</a> · <a href="projects/6space7--autozoom-demo-skill.md">How to make it</a></sub><br><sub><a href="https://github.com/6space7/autozoom-demo-skill/blob/75ed2192a2272b2c4181eaec61888111763e0b10/README.md">6space7/autozoom-demo-skill</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/artemnovitckii--claude-animation-skills.md"><img src="https://raw.githubusercontent.com/artemnovitckii/claude-animation-skills/5dbea55c23aa6a5c93dc3cfb5583840513b56b94/docs/skills.jpg" width="300" alt="Animated map route" loading="lazy"></a><br><a href="projects/artemnovitckii--claude-animation-skills.md"><b>Animated map route</b></a><br><sub><a href="skills/4d87472c022889d1.md">Skill</a> · <a href="https://github.com/artemnovitckii/claude-animation-skills/blob/5dbea55c23aa6a5c93dc3cfb5583840513b56b94/skills/map-route/template.html">Scene code</a> · <a href="projects/artemnovitckii--claude-animation-skills.md">How to make it</a></sub><br><sub><a href="https://github.com/artemnovitckii/claude-animation-skills/blob/5dbea55c23aa6a5c93dc3cfb5583840513b56b94/README.md">artemnovitckii/claude-animation-skills</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/brewed-ops--talking-explainer.md"><img src="https://raw.githubusercontent.com/brewed-ops/talking-explainer/3a19bbce0c97dcdd3120c7e3c4b10ddc3e13f1d5/docs/talking.gif" width="300" alt="Talking cartoon presenter" loading="lazy"></a><br><a href="projects/brewed-ops--talking-explainer.md"><b>Talking cartoon presenter</b></a><br><sub><a href="skills/1178f2b0fe6ee9e3.md">Skill</a> · <a href="https://raw.githubusercontent.com/brewed-ops/talking-explainer/3a19bbce0c97dcdd3120c7e3c4b10ddc3e13f1d5/docs/talking.gif">GIF</a> · <a href="https://github.com/brewed-ops/talking-explainer/blob/3a19bbce0c97dcdd3120c7e3c4b10ddc3e13f1d5/skills/talking-explainer/template/apple/scene-starter.html">Scene code</a> · <a href="projects/brewed-ops--talking-explainer.md">How to make it</a></sub><br><sub><a href="https://github.com/brewed-ops/talking-explainer/blob/3a19bbce0c97dcdd3120c7e3c4b10ddc3e13f1d5/README.md">brewed-ops/talking-explainer</a></sub></td>
+</tr>
+</table>
+
+[Keep exploring visually →](gallery/README.md)
 
 <a id="november-picks-2"></a>
 
@@ -263,7 +286,7 @@ The creator’s example keeps the Swiss grid, beat and typography, turning flat 
 
 ## Found an effect you like? Start creating
 
-**In the collection** · **468** projects · **799** Skills · **1854** prompt / style texts · **2204** cases
+**In the collection** · **478** projects · **806** Skills · **1856** prompt / style texts · **2204** cases
 
 | Entry | Contents |
 |---|---|
@@ -303,7 +326,7 @@ The creator’s example keeps the Swiss grid, beat and typography, turning flat 
 | [Education & hand-drawn explainers](catalog/education.md) | 62 |
 | [Editing, captions & avatars](catalog/editing.md) | 94 |
 | [Storytelling, animation & music videos](catalog/storytelling.md) | 30 |
-| [Video frameworks & code rendering](catalog/video-frameworks.md) | 78 |
+| [Video frameworks & code rendering](catalog/video-frameworks.md) | 88 |
 | [Ads & product demos](catalog/product-videos.md) | 69 |
 | [SVG & motion graphics](catalog/motion-graphics.md) | 30 |
 | [Prompts & directing](catalog/directing.md) | 26 |

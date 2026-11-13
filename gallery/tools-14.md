@@ -1,0 +1,15 @@
+[全部效果 / All effects](README.md) · [首页 / Home](../README.zh-CN.md)
+
+# Skill 与工具效果 / Skill & tool demos · 14/14
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><a href="../projects/brewed-ops--talking-explainer.md"><img src="https://raw.githubusercontent.com/brewed-ops/talking-explainer/3a19bbce0c97dcdd3120c7e3c4b10ddc3e13f1d5/docs/talking.gif" width="300" alt="会对口型的卡通讲解员 / Talking cartoon presenter" loading="lazy"></a><br><a href="../projects/brewed-ops--talking-explainer.md"><b>会对口型的卡通讲解员 / Talking cartoon presenter</b></a><br><sub><a href="../skills/1178f2b0fe6ee9e3.md">Skill</a> · <a href="https://raw.githubusercontent.com/brewed-ops/talking-explainer/3a19bbce0c97dcdd3120c7e3c4b10ddc3e13f1d5/docs/talking.gif">原动图</a> · <a href="https://github.com/brewed-ops/talking-explainer/blob/3a19bbce0c97dcdd3120c7e3c4b10ddc3e13f1d5/skills/talking-explainer/template/apple/scene-starter.html">场景源码</a> · <a href="../projects/brewed-ops--talking-explainer.md">制作方法</a></sub><br><sub><a href="https://github.com/brewed-ops/talking-explainer/blob/3a19bbce0c97dcdd3120c7e3c4b10ddc3e13f1d5/README.md">brewed-ops/talking-explainer</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="../projects/howznguyen--shorts-kit.md"><img src="https://raw.githubusercontent.com/howznguyen/shorts-kit/828e12000cdedf2eb3518e4328a0dacaaa3a3099/docs/assets/shots.webp" width="300" alt="短片摄影机动作库 / Camera moves for short films" loading="lazy"></a><br><a href="../projects/howznguyen--shorts-kit.md"><b>短片摄影机动作库 / Camera moves for short films</b></a><br><sub><a href="../skills/d8260b7eac0f06fa.md">Skill</a> · <a href="https://github.com/howznguyen/shorts-kit/blob/828e12000cdedf2eb3518e4328a0dacaaa3a3099/src/demo/camera/space-camera-moves/ExplodedView.tsx">场景源码</a> · <a href="../projects/howznguyen--shorts-kit.md">制作方法</a></sub><br><sub><a href="https://github.com/howznguyen/shorts-kit/blob/828e12000cdedf2eb3518e4328a0dacaaa3a3099/README.md">howznguyen/shorts-kit</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="../projects/remotion-dev--template-audiogram.md"><img src="https://raw.githubusercontent.com/remotion-dev/template-audiogram/dee9f3619127b8853a1e6cf8882332d9d332c32d/Promo.png" width="300" alt="把播客变成音频可视化短片 / Podcast audiogram" loading="lazy"></a><br><a href="../projects/remotion-dev--template-audiogram.md"><b>把播客变成音频可视化短片 / Podcast audiogram</b></a><br><sub><a href="https://github.com/remotion-dev/template-audiogram/blob/dee9f3619127b8853a1e6cf8882332d9d332c32d/src/Audiogram/Spectrum.tsx">场景源码</a> · <a href="../projects/remotion-dev--template-audiogram.md">制作方法</a></sub><br><sub><a href="https://github.com/remotion-dev/template-audiogram/blob/dee9f3619127b8853a1e6cf8882332d9d332c32d/README.md">remotion-dev/template-audiogram</a></sub></td>
+</tr>
+</table>
+
+[Page 1](tools-01.md) · [Page 2](tools-02.md) · [Page 3](tools-03.md) · [Page 4](tools-04.md) · [Page 5](tools-05.md) · [Page 6](tools-06.md) · [Page 7](tools-07.md) · [Page 8](tools-08.md) · [Page 9](tools-09.md) · [Page 10](tools-10.md) · [Page 11](tools-11.md) · [Page 12](tools-12.md) · [Page 13](tools-13.md) · [Page 14](tools-14.md)

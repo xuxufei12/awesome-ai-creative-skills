@@ -4,6 +4,8 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [hyperframes-cli](../../skills/44a48ccfa4cbd4f4.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
+| [hyperframes-cli](../../skills/ae4a81fca82d1b04.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
 | [hyperframes-core](../../skills/689de1f94e682ee3.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [hyperframes-core](../../skills/c232a83c0cae2c7f.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
 | [hyperframes-creative](../../skills/8b104a3928473f3e.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
@@ -17,12 +19,14 @@
 | [ideogram4](../../skills/81e5bced9c530cbc.md) | 视频框架与程序化成片 | digitalsamba/claude-code-video-toolkit |
 | [image-generate](../../skills/ca56ff2c0eaf0b23.md) | 视频框架与程序化成片 | fengyungithub/dsh-short-video-studio |
 | [image-generation](../../skills/4a22f7dd1351c995.md) | 视频框架与程序化成片 | salomonMuriel/media-production-skills |
+| [kalem](../../skills/a1b245b49c218cf3.md) | 视频框架与程序化成片 | leodavincs/kalem |
 | [kazi](../../skills/11920c62e1d6c985.md) | 视频框架与程序化成片 | syydaniel/kazi |
 | [kling-official](../../skills/dcc521a4501e7119.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [lottie-bodymovin](../../skills/bbd7786a3c5fb998.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [ltx2](../../skills/f95de1af442ac14d.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [ltx2](../../skills/2a07a8054d959895.md) | 视频框架与程序化成片 | digitalsamba/claude-code-video-toolkit |
 | [lyria](../../skills/1c7bb60018773c1e.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [map-route](../../skills/4d87472c022889d1.md) | 视频框架与程序化成片 | artemnovitckii/claude-animation-skills |
 | [media-use](../../skills/139ac9d653450bab.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [media-use](../../skills/ef3976a02ff516d8.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
 | [media-use](../../skills/6baf869f1e33bbe8.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
@@ -80,9 +84,5 @@
 | [remotion-to-hyperframes](../../skills/dadbc7d7775b80e3.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
 | [remotion-upgrade](../../skills/4839f7d851364d1b.md) | 视频框架与程序化成片 | remotion-dev/skills |
 | [remotion-upgrade](../../skills/0445e0d1a1355dd3.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
-| [runpod](../../skills/a61ea498acd0f2c8.md) | 视频框架与程序化成片 | digitalsamba/claude-code-video-toolkit |
-| [scriptwriting](../../skills/ef1e8ea98f6c10d0.md) | 视频框架与程序化成片 | salomonMuriel/media-production-skills |
-| [seam-craft](../../skills/c5aa27c6d6c088fa.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
-| [seedance-2-0](../../skills/cec29922243503d9.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 
-[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md)
+[Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md)

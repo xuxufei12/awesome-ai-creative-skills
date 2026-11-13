@@ -4,6 +4,10 @@
 
 | Project / 项目 | Description / 简介 | Skills | Prompts |
 |---|---|---:|---:|
+| [3b1b/videos](../projects/3b1b--videos.md) | 3Blue1Brown 的数学影片源工程。这里选取洛伦兹系统的 Python 场景，并链接作者演示 Manim 工作流的视频。 / Mathematical films in Python | 0 | 0 |
+| [6space7/autozoom-demo-skill](../projects/6space7--autozoom-demo-skill.md) | 以真实产品界面为素材，在代码时间线上组织窗口、推镜与标注。可从 Demo.tsx 修改下一条功能演示。 / AutoZoom product walkthrough | 1 | 1 |
+| [artemnovitckii/claude-animation-skills](../projects/artemnovitckii--claude-animation-skills.md) | 把路线描述写成结构化数据，由 Python 生成 HTML 镜头并渲染；作者拼图展示同套工具的六种画面。 / Animated map route | 1 | 1 |
+| [brewed-ops/talking-explainer](../projects/brewed-ops--talking-explainer.md) | 用声音驱动口型，按提示词切姿势，再组合讲解画面；作者 GIF 演示人物说话效果。 / Talking cartoon presenter | 1 | 0 |
 | [chiphoton/DeepSeek-Harness-Video-Director](../projects/chiphoton--deepseek-harness-video-director.md) | 脚本、提示词、图像、音频和视频组成节点工作流。 | 1 | 0 |
 | [cooperchx/paper-cutout-story](../projects/cooperchx--paper-cutout-story.md) | 把人物步态、城市贴图和纸片转场写进 Canvas 时间线，再逐帧导出。 / Shanghai paper-cut city walk | 1 | 0 |
 | [dawn0731/dsh-video-gen](../projects/dawn0731--dsh-video-gen.md) | 在对话中提交文生视频／图生视频并保存结果。 | 0 | 0 |
@@ -12,17 +16,23 @@
 | [fengyungithub/dsh-short-video-studio](../projects/fengyungithub--dsh-short-video-studio.md) | 画布、媒体资产与 ComfyUI 场景生产工作流。 | 5 | 0 |
 | [heygen-com/hyperframes](../projects/heygen-com--hyperframes.md) | 以 HTML 和动画代码组织视频并渲染成片。 | 20 | 0 |
 | [howoneai/xiaolin-explainer-packaging](../projects/howoneai--xiaolin-explainer-packaging.md) | 把讲解素材和字幕装进 Remotion 版式，地图和证据墙按关键词出场。 / Animated map explainer | 1 | 0 |
+| [howznguyen/shorts-kit](../projects/howznguyen--shorts-kit.md) | 用 Remotion 工程编排短片；镜头库有俯冲、跟拍和爆炸分解视图。作者的镜头总览可和对应 TSX 示例对读。 / Camera moves for short films | 1 | 0 |
 | [kiselas/every-frame-is-code](../projects/kiselas--every-frame-is-code.md) | 用 HTML、Canvas 或着色器描述画面，再把按时间求值的帧输出为 MP4。 / Engraving to WebGL showreel | 1 | 1 |
+| [leodavincs/kalem](../projects/leodavincs--kalem.md) | 在教学图板里画杠杆、滑轮和曲柄，让零件绕关节运动；点开 Python 引擎可看运动怎样定义。 / Animated mechanism plates | 1 | 0 |
 | [Moh4696/refresh-yoghurt](../projects/moh4696--refresh-yoghurt.md) | reFresh: Shake Well. Scroll-story landing page concept for reFresh drinking yoghurt (unofficial). | 0 | 0 |
+| [mojomast/hyperrizz](../projects/mojomast--hyperrizz.md) | 四段 JavaScript 场景组成一支复古电视包装片。可从开场信号场景入手，修改像素画面和节奏。 / Pixel broadcast ident | 1 | 0 |
+| [motion-canvas/examples](../projects/motion-canvas--examples.md) | Motion Canvas 官方作品工程。通过移动不同深度的图层建立空间感，作者给出了 Smooth Parallax 影片和完整项目。 / Smooth parallax in TypeScript | 0 | 0 |
 | [oil-oil/dsh-oil-ui](../projects/oil-oil--dsh-oil-ui.md) | Oil UI 的 DeepSeek Harness 原生插件，支持自动切换本地安装的 Oil UI Pro | 1 | 0 |
 | [remotion-dev/claude-code-plugin](../projects/remotion-dev--claude-code-plugin.md) | Remotion Agent Skills for Claude Code | 12 | 0 |
 | [remotion-dev/skills](../projects/remotion-dev--skills.md) | 用 React 时间轴制作产品片、动态图表和解说视频。 | 12 | 0 |
+| [remotion-dev/template-audiogram](../projects/remotion-dev--template-audiogram.md) | 把音频、字幕和封面组合为视频。可以打开频谱组件调整波形表现，换一段自己的播客重新渲染。 / Podcast audiogram | 0 | 0 |
 | [S-Fan-ZJU/vibe-science-video](../projects/s-fan-zju--vibe-science-video.md) | 用实验场景组织科普讲解，可对照骨牌、降噪和棱镜样片学习画面设计。 / Domino energy transfer | 1 | 0 |
 | [salomonMuriel/media-production-skills](../projects/salomonmuriel--media-production-skills.md) | 把导演、脚本、配音、图像和声音设计组织为配套技能。 | 5 | 0 |
 | [seeyouintokyo/music-mv-skill](../projects/seeyouintokyo--music-mv-skill.md) | 输入歌曲和歌词，让字幕跟随人声、图形跟随鼓点；样图是《月亮在等你》的成片静帧。 / Beat-driven lyric video | 1 | 1 |
 | [seeyouintokyo/science-video-skill](../projects/seeyouintokyo--science-video-skill.md) | 用帧号控制 SVG 图形，让解说与逐句字幕同步；作者提供月相科普全片动图。 / Moon phases in SVG | 1 | 0 |
 | [shenwang2/remotion-canvas-director](../projects/shenwang2--remotion-canvas-director.md) | 在讲到流程或关系时切到信息画布，再返回讲述者；可参考流水线、检索等解释动画的画面。 / Talking head to explainer canvas | 1 | 0 |
 | [social-media-skills/remotion-shorts-skill](../projects/social-media-skills--remotion-shorts-skill.md) | 从主题、数据或更新日志编排镜头，在本机渲染 Remotion 短片，并导出封面与镜头校样。 / Data-driven vertical shorts | 1 | 0 |
+| [SyedBahjat/claude-stickman-shorts](../projects/syedbahjat--claude-stickman-shorts.md) | 将人物、站台、灯光和剧情节奏写成 Remotion 组件。第一集的动图、MP4 与 LastTrainP1 场景源码可并排对照。 / Last Train stick-figure short | 1 | 0 |
 | [syydaniel/kazi](../projects/syydaniel--kazi.md) | 让讲解动画的关键动作落在旁白对应词上；同一题材有 Opus、Sonnet 对照视频。 / Word-timed explainers | 1 | 0 |
 | [WinterArc21/Battle-of-Austerlitz-Film](../projects/winterarc21--battle-of-austerlitz-film.md) | WinterArc21/Battle-of-Austerlitz-Film | 0 | 0 |
 | [xdis/opus-video-studio](../projects/xdis--opus-video-studio.md) | 按内容路由到 Canvas、Three.js、Blender 或生成模型。 | 8 | 0 |
