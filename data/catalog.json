@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "repository": "xuxufei12/awesome-ai-creative-skills",
-  "snapshot_date": "2026-10-23",
+  "snapshot_date": "2026-11-13",
   "projects": [
     {
       "repo": "0x68616F4C/auto-popsci",
@@ -26214,6 +26214,889 @@
           "verification": "upstream reference; not reproduced"
         }
       ]
+    },
+    {
+      "repo": "cooperchx/paper-cutout-story",
+      "title": "上海剪纸 Citywalk / Shanghai paper-cut city walk",
+      "url": "https://github.com/cooperchx/paper-cutout-story",
+      "category": "视频框架与程序化成片",
+      "type": "Agent Skill",
+      "summary": "把人物步态、城市贴图和纸片转场写进 Canvas 时间线，再逐帧导出。 / Shanghai paper-cut city walk",
+      "hosts": [
+        "Claude",
+        "Codex"
+      ],
+      "status": "已核对固定版本的 Skill 与 README",
+      "curated": true,
+      "requirements": "Node、Chromium/Puppeteer、FFmpeg；准备照片或生图素材。",
+      "limits": "案例来自作者；本目录未运行上游工作流。",
+      "license": "见上游许可原文",
+      "archived": false,
+      "stars": 7,
+      "commit": "9899d4dd52352ff0ed656226041cdb6a7aafcbca",
+      "checked_at": "2026-11-13T06:12:16.164704+00:00",
+      "runtime_tested": false,
+      "id": "cooperchx--paper-cutout-story",
+      "aliases": [
+        "cooperchx/paper-cutout-story"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/cooperchx/paper-cutout-story/blob/9899d4dd52352ff0ed656226041cdb6a7aafcbca/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:12:16.164704+00:00"
+        },
+        {
+          "url": "https://github.com/cooperchx/paper-cutout-story/blob/9899d4dd52352ff0ed656226041cdb6a7aafcbca/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:12:16.164704+00:00"
+        },
+        {
+          "url": "https://github.com/cooperchx/paper-cutout-story/blob/9899d4dd52352ff0ed656226041cdb6a7aafcbca/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/cooperchx/paper-cutout-story/9899d4dd52352ff0ed656226041cdb6a7aafcbca/media/gifs/shanghai-v2.gif",
+          "type": "image",
+          "label": "shanghai-v2.gif",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/cooperchx/paper-cutout-story/9899d4dd52352ff0ed656226041cdb6a7aafcbca/media/videos/shanghai-v2.mp4",
+          "type": "video",
+          "label": "shanghai-v2.mp4",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-11-01T16:37:08Z",
+      "upstream_pushed_at": "2026-11-02T02:09:58Z",
+      "edition": "2026-11-13"
+    },
+    {
+      "repo": "howoneai/xiaolin-explainer-packaging",
+      "title": "地图上的财经讲解 / Animated map explainer",
+      "url": "https://github.com/howoneai/xiaolin-explainer-packaging",
+      "category": "视频框架与程序化成片",
+      "type": "Agent Skill",
+      "summary": "把讲解素材和字幕装进 Remotion 版式，地图和证据墙按关键词出场。 / Animated map explainer",
+      "hosts": [
+        "Claude"
+      ],
+      "status": "已核对固定版本的 Skill 与 README",
+      "curated": true,
+      "requirements": "Remotion、Python、FFmpeg；准备讲解素材、字幕和字体。",
+      "limits": "案例来自作者；本目录未运行上游工作流。",
+      "license": "见上游许可原文",
+      "archived": false,
+      "stars": 45,
+      "commit": "e304b066e281a2ab79fe07be65c0aaac2a45315e",
+      "checked_at": "2026-11-13T06:12:16.166023+00:00",
+      "runtime_tested": false,
+      "id": "howoneai--xiaolin-explainer-packaging",
+      "aliases": [
+        "howoneai/xiaolin-explainer-packaging"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/howoneai/xiaolin-explainer-packaging/blob/e304b066e281a2ab79fe07be65c0aaac2a45315e/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:12:16.166023+00:00"
+        },
+        {
+          "url": "https://github.com/howoneai/xiaolin-explainer-packaging/blob/e304b066e281a2ab79fe07be65c0aaac2a45315e/xiaolin-explainer-packaging/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:12:16.166023+00:00"
+        },
+        {
+          "url": "https://github.com/howoneai/xiaolin-explainer-packaging/blob/e304b066e281a2ab79fe07be65c0aaac2a45315e/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/howoneai/xiaolin-explainer-packaging/e304b066e281a2ab79fe07be65c0aaac2a45315e/docs/demo_map.gif",
+          "type": "image",
+          "label": "demo_map.gif",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/howoneai/xiaolin-explainer-packaging/e304b066e281a2ab79fe07be65c0aaac2a45315e/docs/demo_wall.gif",
+          "type": "image",
+          "label": "demo_wall.gif",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-11-02T08:47:55Z",
+      "upstream_pushed_at": "2026-11-11T17:31:11Z",
+      "edition": "2026-11-13"
+    },
+    {
+      "repo": "syydaniel/kazi",
+      "title": "画面卡在关键词上 / Word-timed explainers",
+      "url": "https://github.com/syydaniel/kazi",
+      "category": "视频框架与程序化成片",
+      "type": "Agent Skill",
+      "summary": "让讲解动画的关键动作落在旁白对应词上；同一题材有 Opus、Sonnet 对照视频。 / Word-timed explainers",
+      "hosts": [
+        "Claude"
+      ],
+      "status": "已核对固定版本的 Skill 与 README",
+      "curated": true,
+      "requirements": "跟随作者的 Python 依赖和项目检查工具；需要旁白及支持的渲染环境。",
+      "limits": "案例来自作者；本目录未运行上游工作流。",
+      "license": "见上游许可原文",
+      "archived": false,
+      "stars": 12,
+      "commit": "1a4654c76bb6c1b2b21f6b473814ff067db7c151",
+      "checked_at": "2026-11-13T06:12:16.167027+00:00",
+      "runtime_tested": false,
+      "id": "syydaniel--kazi",
+      "aliases": [
+        "syydaniel/kazi"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/syydaniel/kazi/blob/1a4654c76bb6c1b2b21f6b473814ff067db7c151/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:12:16.167027+00:00"
+        },
+        {
+          "url": "https://github.com/syydaniel/kazi/blob/1a4654c76bb6c1b2b21f6b473814ff067db7c151/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:12:16.167027+00:00"
+        },
+        {
+          "url": "https://github.com/syydaniel/kazi/blob/1a4654c76bb6c1b2b21f6b473814ff067db7c151/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/syydaniel/kazi/1a4654c76bb6c1b2b21f6b473814ff067db7c151/bench/planets_en/videos/opus_kazi.mp4",
+          "type": "video",
+          "label": "opus_kazi.mp4",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/syydaniel/kazi/1a4654c76bb6c1b2b21f6b473814ff067db7c151/bench/planets_en/videos/sonnet_kazi.mp4",
+          "type": "video",
+          "label": "sonnet_kazi.mp4",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-11-06T05:48:18Z",
+      "upstream_pushed_at": "2026-11-07T17:50:35Z",
+      "edition": "2026-11-13"
+    },
+    {
+      "repo": "social-media-skills/remotion-shorts-skill",
+      "title": "用数据做竖屏短片 / Data-driven vertical shorts",
+      "url": "https://github.com/social-media-skills/remotion-shorts-skill",
+      "category": "视频框架与程序化成片",
+      "type": "Agent Skill",
+      "summary": "从主题、数据或更新日志编排镜头，在本机渲染 Remotion 短片，并导出封面与镜头校样。 / Data-driven vertical shorts",
+      "hosts": [
+        "Claude",
+        "Codex"
+      ],
+      "status": "已核对固定版本的 Skill 与 README",
+      "curated": true,
+      "requirements": "Node 和 Remotion；本地导出不需要发布服务。",
+      "limits": "案例来自作者；本目录未运行上游工作流。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 18,
+      "commit": "6a09634c4f81cd011568543fac5960083714bfee",
+      "checked_at": "2026-11-13T06:12:16.167027+00:00",
+      "runtime_tested": false,
+      "id": "social-media-skills--remotion-shorts-skill",
+      "aliases": [
+        "social-media-skills/remotion-shorts-skill"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/social-media-skills/remotion-shorts-skill/blob/6a09634c4f81cd011568543fac5960083714bfee/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:12:16.167027+00:00"
+        },
+        {
+          "url": "https://github.com/social-media-skills/remotion-shorts-skill/blob/6a09634c4f81cd011568543fac5960083714bfee/skills/remotion-shorts-skill/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:12:16.167027+00:00"
+        },
+        {
+          "url": "https://github.com/social-media-skills/remotion-shorts-skill/blob/6a09634c4f81cd011568543fac5960083714bfee/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/social-media-skills/remotion-shorts-skill/6a09634c4f81cd011568543fac5960083714bfee/skills/remotion-shorts-skill/examples/launch/output/cover.jpg",
+          "type": "image",
+          "label": "cover.jpg",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/social-media-skills/remotion-shorts-skill/6a09634c4f81cd011568543fac5960083714bfee/skills/remotion-shorts-skill/examples/launch/output/launch.mp4",
+          "type": "video",
+          "label": "launch.mp4",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-11-03T09:08:03Z",
+      "upstream_pushed_at": "2026-11-11T09:13:51Z",
+      "edition": "2026-11-13"
+    },
+    {
+      "repo": "kiselas/every-frame-is-code",
+      "title": "版画到 WebGL 的逐帧短片 / Engraving to WebGL showreel",
+      "url": "https://github.com/kiselas/every-frame-is-code",
+      "category": "视频框架与程序化成片",
+      "type": "Agent Skill",
+      "summary": "用 HTML、Canvas 或着色器描述画面，再把按时间求值的帧输出为 MP4。 / Engraving to WebGL showreel",
+      "hosts": [
+        "Claude",
+        "Codex",
+        "ChatGPT"
+      ],
+      "status": "已核对固定版本的 Skill 与 README",
+      "curated": true,
+      "requirements": "可运行本地命令的代码代理、浏览器和视频编码工具。",
+      "limits": "案例来自作者；本目录未运行上游工作流。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 25,
+      "commit": "603357f9fc280c8dbd8f67e4f43636857e8427be",
+      "checked_at": "2026-11-13T06:12:16.169546+00:00",
+      "runtime_tested": false,
+      "id": "kiselas--every-frame-is-code",
+      "aliases": [
+        "kiselas/every-frame-is-code"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/kiselas/every-frame-is-code/blob/603357f9fc280c8dbd8f67e4f43636857e8427be/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:12:16.169546+00:00"
+        },
+        {
+          "url": "https://github.com/kiselas/every-frame-is-code/blob/603357f9fc280c8dbd8f67e4f43636857e8427be/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:12:16.169546+00:00"
+        },
+        {
+          "url": "https://github.com/kiselas/every-frame-is-code/blob/603357f9fc280c8dbd8f67e4f43636857e8427be/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/kiselas/every-frame-is-code/603357f9fc280c8dbd8f67e4f43636857e8427be/examples/demo/teaser.gif",
+          "type": "image",
+          "label": "teaser.gif",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/kiselas/every-frame-is-code/603357f9fc280c8dbd8f67e4f43636857e8427be/examples/demo/stills/03-engraving.jpg",
+          "type": "image",
+          "label": "03-engraving.jpg",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-09-25T07:58:12Z",
+      "upstream_pushed_at": "2026-10-01T12:24:10Z",
+      "edition": "2026-11-13"
+    },
+    {
+      "repo": "sanshengai/sansheng-image",
+      "title": "同一画风的文章插图 / Cohesive editorial illustrations",
+      "url": "https://github.com/sanshengai/sansheng-image",
+      "category": "图像生成与商业视觉",
+      "type": "Agent Skill",
+      "summary": "先为文章规划封面和插图，再沿用同一套画风、色系逐张生成。 / Cohesive editorial illustrations",
+      "hosts": [
+        "Claude",
+        "Codex"
+      ],
+      "status": "已核对固定版本的 Skill 与 README",
+      "curated": true,
+      "requirements": "Claude Code 或 Codex 等代理，配可用的生图能力；动态扩展另有依赖。",
+      "limits": "案例来自作者；本目录未运行上游工作流。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 1,
+      "commit": "d65a0dd2639f13a5881654be6a00b40b60bc8467",
+      "checked_at": "2026-11-13T06:12:26.271980+00:00",
+      "runtime_tested": false,
+      "id": "sanshengai--sansheng-image",
+      "aliases": [
+        "sanshengai/sansheng-image"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/sanshengai/sansheng-image/blob/d65a0dd2639f13a5881654be6a00b40b60bc8467/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:12:26.271980+00:00"
+        },
+        {
+          "url": "https://github.com/sanshengai/sansheng-image/blob/d65a0dd2639f13a5881654be6a00b40b60bc8467/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:12:26.271980+00:00"
+        },
+        {
+          "url": "https://github.com/sanshengai/sansheng-image/blob/d65a0dd2639f13a5881654be6a00b40b60bc8467/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/sanshengai/sansheng-image/d65a0dd2639f13a5881654be6a00b40b60bc8467/assets/readme/article-story.webp",
+          "type": "image",
+          "label": "article-story.webp",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sanshengai/sansheng-image/d65a0dd2639f13a5881654be6a00b40b60bc8467/assets/readme/xiaohongshu-series.webp",
+          "type": "image",
+          "label": "xiaohongshu-series.webp",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-09-29T15:57:44Z",
+      "upstream_pushed_at": "2026-11-03T08:15:42Z",
+      "edition": "2026-11-13"
+    },
+    {
+      "repo": "Lortbyron/gpt-image-realism-engine",
+      "title": "生活感街拍 / Candid street photography",
+      "url": "https://github.com/Lortbyron/gpt-image-realism-engine",
+      "category": "图像生成与商业视觉",
+      "type": "Agent Skill",
+      "summary": "先确定拍摄者、光源和现场细节，生成可交给 ChatGPT Images 的摄影提示词。 / Candid street photography",
+      "hosts": [
+        "Claude",
+        "ChatGPT"
+      ],
+      "status": "已核对固定版本的 Skill 与 README",
+      "curated": true,
+      "requirements": "提示词技能；渲染照片需要独立的图像生成后端。",
+      "limits": "案例来自作者；本目录未运行上游工作流。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 13,
+      "commit": "4176e06a7d27ba88a5d4369bd9fb58525ef99204",
+      "checked_at": "2026-11-13T06:12:29.821731+00:00",
+      "runtime_tested": false,
+      "id": "lortbyron--gpt-image-realism-engine",
+      "aliases": [
+        "Lortbyron/gpt-image-realism-engine"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/Lortbyron/gpt-image-realism-engine/blob/4176e06a7d27ba88a5d4369bd9fb58525ef99204/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:12:29.821731+00:00"
+        },
+        {
+          "url": "https://github.com/Lortbyron/gpt-image-realism-engine/blob/4176e06a7d27ba88a5d4369bd9fb58525ef99204/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:12:29.821731+00:00"
+        },
+        {
+          "url": "https://github.com/Lortbyron/gpt-image-realism-engine/blob/4176e06a7d27ba88a5d4369bd9fb58525ef99204/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/Lortbyron/gpt-image-realism-engine/4176e06a7d27ba88a5d4369bd9fb58525ef99204/assets/escena-calle.jpg",
+          "type": "image",
+          "label": "escena-calle.jpg",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Lortbyron/gpt-image-realism-engine/4176e06a7d27ba88a5d4369bd9fb58525ef99204/assets/escena-comida.jpg",
+          "type": "image",
+          "label": "escena-comida.jpg",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-11-04T03:55:25Z",
+      "upstream_pushed_at": "2026-11-04T03:55:32Z",
+      "edition": "2026-11-13"
+    },
+    {
+      "repo": "byKairo/kairo-design",
+      "title": "有字与无字的编辑封面 / Editorial covers, with or without type",
+      "url": "https://github.com/byKairo/kairo-design",
+      "category": "图像生成与商业视觉",
+      "type": "Agent Skill",
+      "summary": "把同一主题分别处理成带标题的封面与无字主视觉，便于比较构图。 / Editorial covers, with or without type",
+      "hosts": [
+        "Claude"
+      ],
+      "status": "已核对固定版本的 Skill 与 README",
+      "curated": true,
+      "requirements": "支持技能的代理与生图后端；按目标平台选画幅。",
+      "limits": "案例来自作者；本目录未运行上游工作流。",
+      "license": "见上游许可原文",
+      "archived": false,
+      "stars": 1,
+      "commit": "20dc6a8f0ba8054870a12fb187c3a6eb34340f1e",
+      "checked_at": "2026-11-13T06:12:29.884930+00:00",
+      "runtime_tested": false,
+      "id": "bykairo--kairo-design",
+      "aliases": [
+        "byKairo/kairo-design"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/byKairo/kairo-design/blob/20dc6a8f0ba8054870a12fb187c3a6eb34340f1e/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:12:29.884930+00:00"
+        },
+        {
+          "url": "https://github.com/byKairo/kairo-design/blob/20dc6a8f0ba8054870a12fb187c3a6eb34340f1e/skills/kairo-design/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:12:29.884930+00:00"
+        },
+        {
+          "url": "https://github.com/byKairo/kairo-design/blob/20dc6a8f0ba8054870a12fb187c3a6eb34340f1e/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/byKairo/kairo-design/20dc6a8f0ba8054870a12fb187c3a6eb34340f1e/screenshots/kairo-design/architectural-light-scene-with-text.png",
+          "type": "image",
+          "label": "architectural-light-scene-with-text.png",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/byKairo/kairo-design/20dc6a8f0ba8054870a12fb187c3a6eb34340f1e/screenshots/kairo-design/architectural-light-scene-wordless.png",
+          "type": "image",
+          "label": "architectural-light-scene-wordless.png",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-10-20T14:16:01Z",
+      "upstream_pushed_at": "2026-10-20T14:43:29Z",
+      "edition": "2026-11-13"
+    },
+    {
+      "repo": "joeseesun/qiaomu-codex-imagegen",
+      "title": "纸雕海报 / Paper-relief poster",
+      "url": "https://github.com/joeseesun/qiaomu-codex-imagegen",
+      "category": "图像生成与商业视觉",
+      "type": "Agent Skill",
+      "summary": "通过 CLI 或 MCP 把创作需求交给 Codex 生图，仓库附带纸雕、民艺等设计样例。 / Paper-relief poster",
+      "hosts": [
+        "Claude",
+        "Codex"
+      ],
+      "status": "已核对固定版本的 Skill 与 README",
+      "curated": true,
+      "requirements": "需要已登录且可使用生图能力的 Codex CLI。",
+      "limits": "案例来自作者；本目录未运行上游工作流。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 136,
+      "commit": "c03a1ccaf77938257bb93f64e09afa9cd08efe29",
+      "checked_at": "2026-11-13T06:12:31.610007+00:00",
+      "runtime_tested": false,
+      "id": "joeseesun--qiaomu-codex-imagegen",
+      "aliases": [
+        "joeseesun/qiaomu-codex-imagegen"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/joeseesun/qiaomu-codex-imagegen/blob/c03a1ccaf77938257bb93f64e09afa9cd08efe29/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:12:31.610007+00:00"
+        },
+        {
+          "url": "https://github.com/joeseesun/qiaomu-codex-imagegen/blob/c03a1ccaf77938257bb93f64e09afa9cd08efe29/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:12:31.610007+00:00"
+        },
+        {
+          "url": "https://github.com/joeseesun/qiaomu-codex-imagegen/blob/c03a1ccaf77938257bb93f64e09afa9cd08efe29/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/joeseesun/qiaomu-codex-imagegen/c03a1ccaf77938257bb93f64e09afa9cd08efe29/docs/samples/T05-paper-terrain.webp",
+          "type": "image",
+          "label": "T05-paper-terrain.webp",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/joeseesun/qiaomu-codex-imagegen/c03a1ccaf77938257bb93f64e09afa9cd08efe29/docs/samples/T06-folk-poster.webp",
+          "type": "image",
+          "label": "T06-folk-poster.webp",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-10-04T08:47:02Z",
+      "upstream_pushed_at": "2026-10-04T09:34:49Z",
+      "edition": "2026-11-13"
+    },
+    {
+      "repo": "AI-KSK/minimax-h3-image-prompts",
+      "title": "多参考图编辑提示词 / Multi-reference image-editing prompts",
+      "url": "https://github.com/AI-KSK/minimax-h3-image-prompts",
+      "category": "图像生成与商业视觉",
+      "type": "Agent Skill",
+      "summary": "为每张参考图分配身份、服装或姿势等角色，明确哪些元素要保留，交付可复制的提示词。 / Multi-reference image-editing prompts",
+      "hosts": [
+        "MiniMax"
+      ],
+      "status": "已核对固定版本的 Skill 与 README",
+      "curated": true,
+      "requirements": "技能生成文字；图片由 MiniMax H3 Image 等相应后端另行渲染。",
+      "limits": "案例来自作者；本目录未运行上游工作流。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 1,
+      "commit": "dcd225f0d1dfd028390d530e732a4a18f7237307",
+      "checked_at": "2026-11-13T06:12:33.398165+00:00",
+      "runtime_tested": false,
+      "id": "ai-ksk--minimax-h3-image-prompts",
+      "aliases": [
+        "AI-KSK/minimax-h3-image-prompts"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/AI-KSK/minimax-h3-image-prompts/blob/dcd225f0d1dfd028390d530e732a4a18f7237307/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:12:33.398165+00:00"
+        },
+        {
+          "url": "https://github.com/AI-KSK/minimax-h3-image-prompts/blob/dcd225f0d1dfd028390d530e732a4a18f7237307/minimax-h3-image-prompts/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:12:33.398165+00:00"
+        },
+        {
+          "url": "https://github.com/AI-KSK/minimax-h3-image-prompts/blob/dcd225f0d1dfd028390d530e732a4a18f7237307/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [],
+      "upstream_created_at": "2026-11-10T17:45:01Z",
+      "upstream_pushed_at": "2026-11-10T17:45:48Z",
+      "edition": "2026-11-13"
+    },
+    {
+      "repo": "fantuan-lab/animated-sticker-studio",
+      "title": "会说「收到」的饭团猫 / Onigiri-cat reaction GIFs",
+      "url": "https://github.com/fantuan-lab/animated-sticker-studio",
+      "category": "表情包与动态贴纸",
+      "type": "Agent Skill",
+      "summary": "先画同一角色的姿势图集，再切帧、合成循环动作，并按聊天平台规格导出。 / Onigiri-cat reaction GIFs",
+      "hosts": [
+        "Claude",
+        "Codex"
+      ],
+      "status": "已核对固定版本的 Skill 与 README",
+      "curated": true,
+      "requirements": "支持的图像生成后端及 Python；可用作者附带的饭团猫图集复用后处理。",
+      "limits": "案例来自作者；本目录未运行上游工作流。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 62,
+      "commit": "b74963f80b365865c41ed1b2664f5abcda4efab2",
+      "checked_at": "2026-11-13T06:12:36.653458+00:00",
+      "runtime_tested": false,
+      "id": "fantuan-lab--animated-sticker-studio",
+      "aliases": [
+        "fantuan-lab/animated-sticker-studio"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/fantuan-lab/animated-sticker-studio/blob/b74963f80b365865c41ed1b2664f5abcda4efab2/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:12:36.653458+00:00"
+        },
+        {
+          "url": "https://github.com/fantuan-lab/animated-sticker-studio/blob/b74963f80b365865c41ed1b2664f5abcda4efab2/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:12:36.653458+00:00"
+        },
+        {
+          "url": "https://github.com/fantuan-lab/animated-sticker-studio/blob/b74963f80b365865c41ed1b2664f5abcda4efab2/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/fantuan-lab/animated-sticker-studio/b74963f80b365865c41ed1b2664f5abcda4efab2/examples/onigiri-cat/gif/001-%E6%94%B6%E5%88%B0.gif",
+          "type": "image",
+          "label": "001-收到.gif",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/fantuan-lab/animated-sticker-studio/b74963f80b365865c41ed1b2664f5abcda4efab2/examples/onigiri-cat/gif/003-%E6%8A%B1%E6%8A%B1.gif",
+          "type": "image",
+          "label": "003-抱抱.gif",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-11-05T07:20:38Z",
+      "upstream_pushed_at": "2026-11-12T03:25:12Z",
+      "edition": "2026-11-13"
+    },
+    {
+      "repo": "alchaincyf/huashu-selfie-sticker",
+      "title": "自拍变成八个小表情 / Eight reactions from one selfie",
+      "url": "https://github.com/alchaincyf/huashu-selfie-sticker",
+      "category": "表情包与动态贴纸",
+      "type": "Agent Skill",
+      "summary": "从自拍建立统一的 Q 版设定，用精灵图保存连续动作，再切成透明循环 GIF。 / Eight reactions from one selfie",
+      "hosts": [
+        "Claude",
+        "Codex"
+      ],
+      "status": "已核对固定版本的 Skill 与 README",
+      "curated": true,
+      "requirements": "图像生成工具；Python、Pillow、NumPy 负责切帧和导出。",
+      "limits": "案例来自作者；本目录未运行上游工作流。",
+      "license": "未识别到仓库许可",
+      "archived": false,
+      "stars": 5,
+      "commit": "c55236fe943d2804d033c3d5c877de5525785dcd",
+      "checked_at": "2026-11-13T06:12:38.777817+00:00",
+      "runtime_tested": false,
+      "id": "alchaincyf--huashu-selfie-sticker",
+      "aliases": [
+        "alchaincyf/huashu-selfie-sticker"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/alchaincyf/huashu-selfie-sticker/blob/c55236fe943d2804d033c3d5c877de5525785dcd/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:12:38.777817+00:00"
+        },
+        {
+          "url": "https://github.com/alchaincyf/huashu-selfie-sticker/blob/c55236fe943d2804d033c3d5c877de5525785dcd/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:12:38.777817+00:00"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/alchaincyf/huashu-selfie-sticker/c55236fe943d2804d033c3d5c877de5525785dcd/assets/demo.gif",
+          "type": "image",
+          "label": "demo.gif",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-11-07T20:42:19Z",
+      "upstream_pushed_at": "2026-11-09T18:49:34Z",
+      "edition": "2026-11-13"
+    },
+    {
+      "repo": "lisamsung/agent-meme-forge",
+      "title": "科研打工人表情 / Research-life reaction stickers",
+      "url": "https://github.com/lisamsung/agent-meme-forge",
+      "category": "表情包与动态贴纸",
+      "type": "Agent Skill",
+      "summary": "用起势、预备、笑点和回环四个关键姿势生成动图，文字单独排版。 / Research-life reaction stickers",
+      "hosts": [
+        "Codex"
+      ],
+      "status": "已核对固定版本的 Skill 与 README",
+      "curated": true,
+      "requirements": "支持生图的代理与 Python 本地合成工具。",
+      "limits": "案例来自作者；本目录未运行上游工作流。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 101,
+      "commit": "184b06a4dca82553ccbc9cef3dba659ead930bf7",
+      "checked_at": "2026-11-13T06:12:41.597014+00:00",
+      "runtime_tested": false,
+      "id": "lisamsung--agent-meme-forge",
+      "aliases": [
+        "lisamsung/agent-meme-forge"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/lisamsung/agent-meme-forge/blob/184b06a4dca82553ccbc9cef3dba659ead930bf7/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:12:41.597014+00:00"
+        },
+        {
+          "url": "https://github.com/lisamsung/agent-meme-forge/blob/184b06a4dca82553ccbc9cef3dba659ead930bf7/skills/generate-meme-gif-pack/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:12:41.597014+00:00"
+        },
+        {
+          "url": "https://github.com/lisamsung/agent-meme-forge/blob/184b06a4dca82553ccbc9cef3dba659ead930bf7/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/lisamsung/agent-meme-forge/184b06a4dca82553ccbc9cef3dba659ead930bf7/docs/assets/ai-mascot-shoudao-lixian.gif",
+          "type": "image",
+          "label": "ai-mascot-shoudao-lixian.gif",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/lisamsung/agent-meme-forge/184b06a4dca82553ccbc9cef3dba659ead930bf7/docs/assets/ai-mascot-wenxianshan.gif",
+          "type": "image",
+          "label": "ai-mascot-wenxianshan.gif",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-04-24T18:38:35Z",
+      "upstream_pushed_at": "2026-09-04T12:22:16Z",
+      "edition": "2026-11-13"
+    },
+    {
+      "repo": "kobingogo/motion-sticker-pack",
+      "title": "狐狸循环贴纸 / Looping fox stickers",
+      "url": "https://github.com/kobingogo/motion-sticker-pack",
+      "category": "表情包与动态贴纸",
+      "type": "Agent Skill",
+      "summary": "先确认静态角色与风格，再选择生成动作或本地轻动效，导出透明贴纸包。 / Looping fox stickers",
+      "hosts": [
+        "Codex"
+      ],
+      "status": "已核对固定版本的 Skill 与 README",
+      "curated": true,
+      "requirements": "Codex 与对应模式的生图或动画能力；轻动效路径只做局部变换。",
+      "limits": "案例来自作者；本目录未运行上游工作流。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 65,
+      "commit": "74746ddb2c9961bc329806404e9526f7e111a39f",
+      "checked_at": "2026-11-13T06:12:42.818390+00:00",
+      "runtime_tested": false,
+      "id": "kobingogo--motion-sticker-pack",
+      "aliases": [
+        "kobingogo/motion-sticker-pack"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/kobingogo/motion-sticker-pack/blob/74746ddb2c9961bc329806404e9526f7e111a39f/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:12:42.818390+00:00"
+        },
+        {
+          "url": "https://github.com/kobingogo/motion-sticker-pack/blob/74746ddb2c9961bc329806404e9526f7e111a39f/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:12:42.818390+00:00"
+        },
+        {
+          "url": "https://github.com/kobingogo/motion-sticker-pack/blob/74746ddb2c9961bc329806404e9526f7e111a39f/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/kobingogo/motion-sticker-pack/74746ddb2c9961bc329806404e9526f7e111a39f/docs/assets/recent-sticker-pack/fox-01.gif",
+          "type": "image",
+          "label": "fox-01.gif",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/kobingogo/motion-sticker-pack/74746ddb2c9961bc329806404e9526f7e111a39f/docs/assets/recent-sticker-pack/fox-02.gif",
+          "type": "image",
+          "label": "fox-02.gif",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-08-26T12:45:41Z",
+      "upstream_pushed_at": "2026-09-03T03:16:20Z",
+      "edition": "2026-11-13"
+    },
+    {
+      "repo": "Alexsun1one/gif-stickers",
+      "title": "纸灯笼问候动图 / Paper-lantern greeting loop",
+      "url": "https://github.com/Alexsun1one/gif-stickers",
+      "category": "表情包与动态贴纸",
+      "type": "Agent Skill",
+      "summary": "可用模型重绘帧、保留照片像素叠加动效，或用代码绘制吉祥物，再合成循环 GIF。 / Paper-lantern greeting loop",
+      "hosts": [
+        "Codex"
+      ],
+      "status": "已核对固定版本的 Skill 与 README",
+      "curated": true,
+      "requirements": "重绘模式需生图后端；照片动效和纯代码模式可在本地合成。",
+      "limits": "案例来自作者；本目录未运行上游工作流。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 3,
+      "commit": "de1184be0202c91bd75a954ff64cf6aadf959efa",
+      "checked_at": "2026-11-13T06:12:43.332355+00:00",
+      "runtime_tested": false,
+      "id": "alexsun1one--gif-stickers",
+      "aliases": [
+        "Alexsun1one/gif-stickers"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/Alexsun1one/gif-stickers/blob/de1184be0202c91bd75a954ff64cf6aadf959efa/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:12:43.332355+00:00"
+        },
+        {
+          "url": "https://github.com/Alexsun1one/gif-stickers/blob/de1184be0202c91bd75a954ff64cf6aadf959efa/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:12:43.332355+00:00"
+        },
+        {
+          "url": "https://github.com/Alexsun1one/gif-stickers/blob/de1184be0202c91bd75a954ff64cf6aadf959efa/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/Alexsun1one/gif-stickers/de1184be0202c91bd75a954ff64cf6aadf959efa/examples/images/paper-lantern-greeting.gif",
+          "type": "image",
+          "label": "paper-lantern-greeting.gif",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Alexsun1one/gif-stickers/de1184be0202c91bd75a954ff64cf6aadf959efa/examples/images/paper-lantern-frame-sheet.png",
+          "type": "image",
+          "label": "paper-lantern-frame-sheet.png",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-06-25T19:37:14Z",
+      "upstream_pushed_at": "2026-07-09T16:43:20Z",
+      "edition": "2026-11-13"
     }
   ],
   "skills": [
@@ -40169,6 +41052,291 @@
           "url": "https://github.com/remotion-dev/claude-code-plugin/blob/f4cfab3c9c2d27888d45fd29fd1b6df8386b8f24/skills/remotion-interactivity/SKILL.md"
         }
       ],
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "b88bd11f4f3a7ddf",
+      "repo": "cooperchx/paper-cutout-story",
+      "name": "paper-cutout-story",
+      "description": "把人物步态、城市贴图和纸片转场写进 Canvas 时间线，再逐帧导出。",
+      "category": "视频框架与程序化成片",
+      "sha256": "b88bd11f4f3a7ddfea033128a899291c5fb935cdcd9a4bf32c5eb522c6981e1b",
+      "sources": [
+        {
+          "repo": "cooperchx/paper-cutout-story",
+          "path": "SKILL.md",
+          "url": "https://github.com/cooperchx/paper-cutout-story/blob/9899d4dd52352ff0ed656226041cdb6a7aafcbca/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "f651b783efaab55e",
+      "repo": "howoneai/xiaolin-explainer-packaging",
+      "name": "xiaolin-explainer-packaging",
+      "description": "把讲解素材和字幕装进 Remotion 版式，地图和证据墙按关键词出场。",
+      "category": "视频框架与程序化成片",
+      "sha256": "f651b783efaab55e5e4a503a6a62da4baca8e701cfaf920c843bf68f41b605fd",
+      "sources": [
+        {
+          "repo": "howoneai/xiaolin-explainer-packaging",
+          "path": "xiaolin-explainer-packaging/SKILL.md",
+          "url": "https://github.com/howoneai/xiaolin-explainer-packaging/blob/e304b066e281a2ab79fe07be65c0aaac2a45315e/xiaolin-explainer-packaging/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "11920c62e1d6c985",
+      "repo": "syydaniel/kazi",
+      "name": "kazi",
+      "description": "让讲解动画的关键动作落在旁白对应词上；同一题材有 Opus、Sonnet 对照视频。",
+      "category": "视频框架与程序化成片",
+      "sha256": "11920c62e1d6c985b09ca79b69165eb60748ec537b0edd70e9433db09cbe3595",
+      "sources": [
+        {
+          "repo": "syydaniel/kazi",
+          "path": "SKILL.md",
+          "url": "https://github.com/syydaniel/kazi/blob/1a4654c76bb6c1b2b21f6b473814ff067db7c151/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "dc804426db3c052e",
+      "repo": "social-media-skills/remotion-shorts-skill",
+      "name": "remotion-shorts-skill",
+      "description": "从主题、数据或更新日志编排镜头，在本机渲染 Remotion 短片，并导出封面与镜头校样。",
+      "category": "视频框架与程序化成片",
+      "sha256": "dc804426db3c052efb16ef34f4e1d6e386faa2d804b9523beefa3ce92cc2bd08",
+      "sources": [
+        {
+          "repo": "social-media-skills/remotion-shorts-skill",
+          "path": "skills/remotion-shorts-skill/SKILL.md",
+          "url": "https://github.com/social-media-skills/remotion-shorts-skill/blob/6a09634c4f81cd011568543fac5960083714bfee/skills/remotion-shorts-skill/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "ce2a91f642e3adf4",
+      "repo": "kiselas/every-frame-is-code",
+      "name": "motion-kit",
+      "description": "用 HTML、Canvas 或着色器描述画面，再把按时间求值的帧输出为 MP4。",
+      "category": "视频框架与程序化成片",
+      "sha256": "ce2a91f642e3adf415f6008b4f17e150dd0264328f9c720890af87dc9cbcb69e",
+      "sources": [
+        {
+          "repo": "kiselas/every-frame-is-code",
+          "path": "SKILL.md",
+          "url": "https://github.com/kiselas/every-frame-is-code/blob/603357f9fc280c8dbd8f67e4f43636857e8427be/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "e7e4bf72e3c048d3",
+      "repo": "sanshengai/sansheng-image",
+      "name": "sansheng-image",
+      "description": "先为文章规划封面和插图，再沿用同一套画风、色系逐张生成。",
+      "category": "图像生成与商业视觉",
+      "sha256": "e7e4bf72e3c048d36049612695dc8df6b46f0207899b89ccc247e1ea40f9e823",
+      "sources": [
+        {
+          "repo": "sanshengai/sansheng-image",
+          "path": "SKILL.md",
+          "url": "https://github.com/sanshengai/sansheng-image/blob/d65a0dd2639f13a5881654be6a00b40b60bc8467/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "6ce608535788fdd7",
+      "repo": "Lortbyron/gpt-image-realism-engine",
+      "name": "gpt-image-realism-engine",
+      "description": "先确定拍摄者、光源和现场细节，生成可交给 ChatGPT Images 的摄影提示词。",
+      "category": "图像生成与商业视觉",
+      "sha256": "6ce608535788fdd7461ea7d4e36ef4b19ef4e4d89d1f8bbbf6427c675555e051",
+      "sources": [
+        {
+          "repo": "Lortbyron/gpt-image-realism-engine",
+          "path": "SKILL.md",
+          "url": "https://github.com/Lortbyron/gpt-image-realism-engine/blob/4176e06a7d27ba88a5d4369bd9fb58525ef99204/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "39b73d32a63737ab",
+      "repo": "byKairo/kairo-design",
+      "name": "kairo-design",
+      "description": "把同一主题分别处理成带标题的封面与无字主视觉，便于比较构图。",
+      "category": "图像生成与商业视觉",
+      "sha256": "39b73d32a63737abf6bc37fcadfe6d94f7196e557eb5182a2525ce17ecf8b58e",
+      "sources": [
+        {
+          "repo": "byKairo/kairo-design",
+          "path": "skills/kairo-design/SKILL.md",
+          "url": "https://github.com/byKairo/kairo-design/blob/20dc6a8f0ba8054870a12fb187c3a6eb34340f1e/skills/kairo-design/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "6a2a57557e8120f1",
+      "repo": "joeseesun/qiaomu-codex-imagegen",
+      "name": "qiaomu-codex-imagegen",
+      "description": "通过 CLI 或 MCP 把创作需求交给 Codex 生图，仓库附带纸雕、民艺等设计样例。",
+      "category": "图像生成与商业视觉",
+      "sha256": "6a2a57557e8120f1474312d1fb3173e22fceca9bfb4d1416374a4f49b7182c86",
+      "sources": [
+        {
+          "repo": "joeseesun/qiaomu-codex-imagegen",
+          "path": "SKILL.md",
+          "url": "https://github.com/joeseesun/qiaomu-codex-imagegen/blob/c03a1ccaf77938257bb93f64e09afa9cd08efe29/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "48e367a5a075be70",
+      "repo": "AI-KSK/minimax-h3-image-prompts",
+      "name": "minimax-h3-image-prompts",
+      "description": "为每张参考图分配身份、服装或姿势等角色，明确哪些元素要保留，交付可复制的提示词。",
+      "category": "图像生成与商业视觉",
+      "sha256": "48e367a5a075be70e69b35942a3803f8382ba3bf7a48efc473a567de569d2575",
+      "sources": [
+        {
+          "repo": "AI-KSK/minimax-h3-image-prompts",
+          "path": "minimax-h3-image-prompts/SKILL.md",
+          "url": "https://github.com/AI-KSK/minimax-h3-image-prompts/blob/dcd225f0d1dfd028390d530e732a4a18f7237307/minimax-h3-image-prompts/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "bad6f6344e488fcf",
+      "repo": "fantuan-lab/animated-sticker-studio",
+      "name": "animated-sticker-studio",
+      "description": "先画同一角色的姿势图集，再切帧、合成循环动作，并按聊天平台规格导出。",
+      "category": "表情包与动态贴纸",
+      "sha256": "bad6f6344e488fcfc3b7e355f6eb5b4a5a81ac84f03b528a57a3e7e284f1ff58",
+      "sources": [
+        {
+          "repo": "fantuan-lab/animated-sticker-studio",
+          "path": "SKILL.md",
+          "url": "https://github.com/fantuan-lab/animated-sticker-studio/blob/b74963f80b365865c41ed1b2664f5abcda4efab2/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "aeb34f4da6df73dd",
+      "repo": "alchaincyf/huashu-selfie-sticker",
+      "name": "huashu-selfie-sticker",
+      "description": "从自拍建立统一的 Q 版设定，用精灵图保存连续动作，再切成透明循环 GIF。",
+      "category": "表情包与动态贴纸",
+      "sha256": "aeb34f4da6df73dd1fe57d512438fb460d911f98c04d596596f189ba9709ac46",
+      "sources": [
+        {
+          "repo": "alchaincyf/huashu-selfie-sticker",
+          "path": "SKILL.md",
+          "url": "https://github.com/alchaincyf/huashu-selfie-sticker/blob/c55236fe943d2804d033c3d5c877de5525785dcd/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "cf79edf3f32eabe2",
+      "repo": "lisamsung/agent-meme-forge",
+      "name": "generate-meme-gif-pack",
+      "description": "用起势、预备、笑点和回环四个关键姿势生成动图，文字单独排版。",
+      "category": "表情包与动态贴纸",
+      "sha256": "cf79edf3f32eabe2d627b673bf175f15338af722baa0f89b309cf49284b347a2",
+      "sources": [
+        {
+          "repo": "lisamsung/agent-meme-forge",
+          "path": "skills/generate-meme-gif-pack/SKILL.md",
+          "url": "https://github.com/lisamsung/agent-meme-forge/blob/184b06a4dca82553ccbc9cef3dba659ead930bf7/skills/generate-meme-gif-pack/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "e31671ac247d7674",
+      "repo": "kobingogo/motion-sticker-pack",
+      "name": "motion-sticker-pack",
+      "description": "先确认静态角色与风格，再选择生成动作或本地轻动效，导出透明贴纸包。",
+      "category": "表情包与动态贴纸",
+      "sha256": "e31671ac247d7674267069d890b78b67c6805c92841d2b608c100e07f912eff7",
+      "sources": [
+        {
+          "repo": "kobingogo/motion-sticker-pack",
+          "path": "SKILL.md",
+          "url": "https://github.com/kobingogo/motion-sticker-pack/blob/74746ddb2c9961bc329806404e9526f7e111a39f/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "d252fa8e787ec0c5",
+      "repo": "Alexsun1one/gif-stickers",
+      "name": "gif-stickers",
+      "description": "可用模型重绘帧、保留照片像素叠加动效，或用代码绘制吉祥物，再合成循环 GIF。",
+      "category": "表情包与动态贴纸",
+      "sha256": "d252fa8e787ec0c594c05fd30301dd6a5061f73a7db1c682bc682966ab5a94bb",
+      "sources": [
+        {
+          "repo": "Alexsun1one/gif-stickers",
+          "path": "SKILL.md",
+          "url": "https://github.com/Alexsun1one/gif-stickers/blob/de1184be0202c91bd75a954ff64cf6aadf959efa/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
       "preview_assets": [],
       "runtime_tested": false
     }
@@ -108894,6 +110062,135 @@
           "license": "CC BY 4.0; credit LemoLab; demo voice exclusions apply"
         }
       ]
+    },
+    {
+      "id": "ad3f71ad14293ff7",
+      "repo": "sanshengai/sansheng-image",
+      "title": "同一画风的文章插图 · 给这篇文章做一张封面和三张插图。\n沿用刚才选定的画风与",
+      "category": "图像生成与商业视觉",
+      "origin": "Author README example / 作者调用示例",
+      "review": "调用示例；不将任何未确认配对的画面标成此指令的生成结果。",
+      "sources": [
+        {
+          "url": "https://github.com/sanshengai/sansheng-image/blob/d65a0dd2639f13a5881654be6a00b40b60bc8467/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:12:26.271980+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Claude",
+        "Codex"
+      ],
+      "text": "给这篇文章做一张封面和三张插图。\n沿用刚才选定的画风与色系，先给我配图计划，再逐张出图。",
+      "text_status": "Author’s complete example invocation / 作者完整调用示例"
+    },
+    {
+      "id": "6ad2401e97382d4f",
+      "repo": "AI-KSK/minimax-h3-image-prompts",
+      "title": "多参考图编辑提示词 · 帮我写一个16:9写实摄影文生图提示词，中文，只给完整",
+      "category": "图像生成与商业视觉",
+      "origin": "Author README example / 作者调用示例",
+      "review": "调用示例；不将任何未确认配对的画面标成此指令的生成结果。",
+      "sources": [
+        {
+          "url": "https://github.com/AI-KSK/minimax-h3-image-prompts/blob/dcd225f0d1dfd028390d530e732a4a18f7237307/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:12:33.398165+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "MiniMax"
+      ],
+      "text": "使用 $minimax-h3-image-prompts：帮我写一个16:9写实摄影文生图提示词，中文，只给完整提示词。",
+      "text_status": "Author’s complete example invocation / 作者完整调用示例"
+    },
+    {
+      "id": "2ad8a593f3238709",
+      "repo": "AI-KSK/minimax-h3-image-prompts",
+      "title": "多参考图编辑提示词 · 图片1提供人物身份，图片2提供服装，图片3只参考姿势。",
+      "category": "图像生成与商业视觉",
+      "origin": "Author README example / 作者调用示例",
+      "review": "调用示例；不将任何未确认配对的画面标成此指令的生成结果。",
+      "sources": [
+        {
+          "url": "https://github.com/AI-KSK/minimax-h3-image-prompts/blob/dcd225f0d1dfd028390d530e732a4a18f7237307/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:12:33.398165+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "MiniMax"
+      ],
+      "text": "使用 $minimax-h3-image-prompts：图片1提供人物身份，图片2提供服装，图片3只参考姿势。保留图片1的脸，不采用其他图人物的身份，给我完整的图像编辑提示词。",
+      "text_status": "Author’s complete example invocation / 作者完整调用示例"
+    },
+    {
+      "id": "742724bee65415b4",
+      "repo": "AI-KSK/minimax-h3-image-prompts",
+      "title": "多参考图编辑提示词 · 只删除图片1右下角地面的红桶，补全原位置，其他内容保持",
+      "category": "图像生成与商业视觉",
+      "origin": "Author README example / 作者调用示例",
+      "review": "调用示例；不将任何未确认配对的画面标成此指令的生成结果。",
+      "sources": [
+        {
+          "url": "https://github.com/AI-KSK/minimax-h3-image-prompts/blob/dcd225f0d1dfd028390d530e732a4a18f7237307/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:12:33.398165+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "MiniMax"
+      ],
+      "text": "使用 $minimax-h3-image-prompts：只删除图片1右下角地面的红桶，补全原位置，其他内容保持不变。给英文提示词。",
+      "text_status": "Author’s complete example invocation / 作者完整调用示例"
+    },
+    {
+      "id": "6e0a562859d0183b",
+      "repo": "kiselas/every-frame-is-code",
+      "title": "时钟史版画短片 / Engraved history of clocks",
+      "text": "Make a 20-second film about the history of clocks in an engraving style, 1080p, with music.",
+      "category": "视频框架与程序化成片",
+      "origin": "Author README example / 作者调用示例",
+      "review": "Example invocation; project demos are not attributed to this exact prompt. / 作者调用示例，项目样片未标为此指令的直接结果。",
+      "sources": [
+        {
+          "url": "https://github.com/kiselas/every-frame-is-code/blob/603357f9fc280c8dbd8f67e4f43636857e8427be/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:12:16.169546+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Claude",
+        "Codex",
+        "ChatGPT"
+      ],
+      "text_status": "Author’s example invocation / 作者调用示例"
+    },
+    {
+      "id": "7de58ac0e96150dd",
+      "repo": "lisamsung/agent-meme-forge",
+      "title": "科研打工人表情包 / Research-life sticker pack",
+      "text": "做一个科研打工人的微信表情包",
+      "category": "表情包与动态贴纸",
+      "origin": "Author README example / 作者调用示例",
+      "review": "Example invocation; project demos are not attributed to this exact prompt. / 作者调用示例，项目样片未标为此指令的直接结果。",
+      "sources": [
+        {
+          "url": "https://github.com/lisamsung/agent-meme-forge/blob/184b06a4dca82553ccbc9cef3dba659ead930bf7/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:12:41.597014+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Codex"
+      ],
+      "text_status": "Author’s example invocation / 作者调用示例"
     }
   ],
   "cases": [

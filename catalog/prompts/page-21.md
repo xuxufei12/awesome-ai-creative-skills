@@ -4,6 +4,10 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [explainer · @itsahmedharoon · 544194](../../prompts/cd238b0ecf435297.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
+| [explainer · @itsyashf · 692347](../../prompts/cb754939dc0f0146.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
+| [explainer · @kgonia7 · 746268](../../prompts/2b6c0abaaa1efe7f.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
+| [explainer · @kloss_xyz · 067876](../../prompts/e7d0abdc3a0b1e2d.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [explainer · @konstantinsaifo · 501736](../../prompts/d91a3572168fd7f9.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [explainer · @konstantinsaifo · 587629](../../prompts/0daf6cb2ea038a0e.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [explainer · @kureshirfan · 386691](../../prompts/9b60a414a89832f2.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
@@ -60,6 +64,7 @@
 | [模型想象中的短视频信息流](../../prompts/d01bc784981e5e95.md) | 短动效 | guanmo-ai/awesome-ai-motion |
 | [物理之美一镜到底动效](../../prompts/2e557be62e69a579.md) | 短动效 | guanmo-ai/awesome-ai-motion |
 | [让海报冲破自己的边框](../../prompts/be2a5be0f8e86c5d.md) | 短动效 | guanmo-ai/awesome-ai-motion |
+| [科研打工人表情包 / Research-life sticker pack](../../prompts/7de58ac0e96150dd.md) | 表情包与动态贴纸 | lisamsung/agent-meme-forge |
 | [3pm Crash, Lit Desk](../../prompts/905ec5cdedc717a5.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
 | [Absorption Time-Lapse: Hydrating Serum](../../prompts/9636598ae88ac95a.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
 | [Adidas Football Boot Assembly Timelapse](../../prompts/ff2e39f86a98058c.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
@@ -79,10 +84,5 @@
 | [Car Door Epoxy Floor Design](../../prompts/fb8a1a4cfbe07622.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [Car Vlog Supplement Confession](../../prompts/60fc616e250147e9.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
 | [Cherry Blossom Railway Walk](../../prompts/b3bf3c8d06953ab9.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [Childhood Street Football Match Prompt](../../prompts/979b5532a964d164.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [Chinese Civilization Time Travel One-Shot](../../prompts/f139f8ff8818d8fe.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [Chocolate Fold And Crackle](../../prompts/d45f447ac15d9bfb.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
-| [Cinematic Beauty Portrait Close-Up](../../prompts/52a490809cb4f847.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [Cinematic Creature Emergence in Suburbs](../../prompts/5dc8db4b61fb75d4.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

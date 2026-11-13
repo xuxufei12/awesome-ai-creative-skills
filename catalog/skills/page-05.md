@@ -4,6 +4,11 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [character-refs](../../skills/16f39d589dbf727b.md) | 广告与产品演示 | eternityspring/shuohao-skills |
+| [create-promo-video](../../skills/efe5f940dc3b8a08.md) | 广告与产品演示 | alentodorov/create-promo-video |
+| [guizang-product-video-skill](../../skills/bbc1dc661af2a701.md) | 广告与产品演示 | op7418/guizang-product-video-skill |
+| [huashu-motion](../../skills/fb114d4dfacbe64a.md) | 广告与产品演示 | alchaincyf/huashu-motion |
+| [launch-video](../../skills/c119aa18a24a40cc.md) | 广告与产品演示 | jerelvelarde/demo-skills |
 | [novel-art](../../skills/688116bcb868ad68.md) | 广告与产品演示 | eternityspring/shuohao-skills |
 | [novel-characters](../../skills/cda2bc652a24548a.md) | 广告与产品演示 | eternityspring/shuohao-skills |
 | [novel-outline](../../skills/055e2fb2ad764626.md) | 广告与产品演示 | eternityspring/shuohao-skills |
@@ -79,10 +84,5 @@
 | [scenario-blender-grease-pencil](../../skills/677043742ae0d32a.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-blender-hair](../../skills/4fea0e6858afda27.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-blender-hard-surface](../../skills/c02f083b19e38874.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-blender-lighting-rendering](../../skills/a5063a5b7a1b8055.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-blender-previs-storyboard](../../skills/b322597b4f89c1c7.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-blender-retopology](../../skills/e4850a498b764fd5.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-blender-rigging](../../skills/b2d4554a17a94122.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-blender-sculpting](../../skills/833f6c41589a0f8f.md) | 游戏资产与像素画 | scenario-labs/skills |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md)

@@ -12,9 +12,32 @@
 
 **先看效果，再找做法。** 动图直接播放；点击喜欢的画面或卡片下方的「Skill」「提示词」，就能找到对应方法。
 
-[直接看动图](#animated) · [创意图片与设计](#images) · [艺术动画与风格](#animation) · [3D 世界与产品视觉](#worlds) · [广告与商业短片](#ads) · [电影感与叙事短片](#films)
+[11 月精选：剪纸短片、生活感照片与聊天表情](#november-picks) · [直接看动图](#animated) · [创意图片与设计](#images) · [艺术动画与风格](#animation) · [3D 世界与产品视觉](#worlds) · [广告与商业短片](#ads) · [电影感与叙事短片](#films)
 
-[浏览全部 2,054 个效果预览 →](gallery/README.md) · [按工具检索](#find-tools) · [自定义风格新玩法](#custom-styles)
+[浏览全部 2,067 个效果预览 →](gallery/README.md) · [按工具检索](#find-tools) · [自定义风格新玩法](#custom-styles)
+
+<a id="november-picks"></a>
+
+## 11 月精选：剪纸短片、生活感照片与聊天表情
+
+[本期新增 15 个项目，按用途浏览 →](docs/new-2026-11-13.md)
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/cooperchx--paper-cutout-story.md"><img src="https://raw.githubusercontent.com/cooperchx/paper-cutout-story/9899d4dd52352ff0ed656226041cdb6a7aafcbca/media/gifs/shanghai-v2.gif" width="300" alt="上海剪纸 Citywalk" loading="lazy"></a><br><a href="projects/cooperchx--paper-cutout-story.md"><b>上海剪纸 Citywalk</b></a><br><sub><a href="skills/b88bd11f4f3a7ddf.md">Skill</a> · <a href="https://raw.githubusercontent.com/cooperchx/paper-cutout-story/9899d4dd52352ff0ed656226041cdb6a7aafcbca/media/gifs/shanghai-v2.gif">原动图</a> · <a href="projects/cooperchx--paper-cutout-story.md">制作方法</a></sub><br><sub><a href="https://github.com/cooperchx/paper-cutout-story/blob/9899d4dd52352ff0ed656226041cdb6a7aafcbca/README.md">cooperchx/paper-cutout-story</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/fantuan-lab--animated-sticker-studio.md"><img src="https://raw.githubusercontent.com/fantuan-lab/animated-sticker-studio/b74963f80b365865c41ed1b2664f5abcda4efab2/examples/onigiri-cat/gif/001-%E6%94%B6%E5%88%B0.gif" width="300" alt="会说「收到」的饭团猫" loading="lazy"></a><br><a href="projects/fantuan-lab--animated-sticker-studio.md"><b>会说「收到」的饭团猫</b></a><br><sub><a href="skills/bad6f6344e488fcf.md">Skill</a> · <a href="https://raw.githubusercontent.com/fantuan-lab/animated-sticker-studio/b74963f80b365865c41ed1b2664f5abcda4efab2/examples/onigiri-cat/gif/001-%E6%94%B6%E5%88%B0.gif">原动图</a> · <a href="projects/fantuan-lab--animated-sticker-studio.md">制作方法</a></sub><br><sub><a href="https://github.com/fantuan-lab/animated-sticker-studio/blob/b74963f80b365865c41ed1b2664f5abcda4efab2/README.md">fantuan-lab/animated-sticker-studio</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/howoneai--xiaolin-explainer-packaging.md"><img src="https://raw.githubusercontent.com/howoneai/xiaolin-explainer-packaging/e304b066e281a2ab79fe07be65c0aaac2a45315e/docs/demo_map.gif" width="300" alt="地图上的财经讲解" loading="lazy"></a><br><a href="projects/howoneai--xiaolin-explainer-packaging.md"><b>地图上的财经讲解</b></a><br><sub><a href="skills/f651b783efaab55e.md">Skill</a> · <a href="https://raw.githubusercontent.com/howoneai/xiaolin-explainer-packaging/e304b066e281a2ab79fe07be65c0aaac2a45315e/docs/demo_map.gif">原动图</a> · <a href="projects/howoneai--xiaolin-explainer-packaging.md">制作方法</a></sub><br><sub><a href="https://github.com/howoneai/xiaolin-explainer-packaging/blob/e304b066e281a2ab79fe07be65c0aaac2a45315e/README.md">howoneai/xiaolin-explainer-packaging</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/sanshengai--sansheng-image.md"><img src="https://raw.githubusercontent.com/sanshengai/sansheng-image/d65a0dd2639f13a5881654be6a00b40b60bc8467/assets/readme/article-story.webp" width="300" alt="同一画风的文章插图" loading="lazy"></a><br><a href="projects/sanshengai--sansheng-image.md"><b>同一画风的文章插图</b></a><br><sub><a href="skills/e7e4bf72e3c048d3.md">Skill</a> · <a href="projects/sanshengai--sansheng-image.md">制作方法</a></sub><br><sub><a href="https://github.com/sanshengai/sansheng-image/blob/d65a0dd2639f13a5881654be6a00b40b60bc8467/README.md">sanshengai/sansheng-image</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/lortbyron--gpt-image-realism-engine.md"><img src="https://raw.githubusercontent.com/Lortbyron/gpt-image-realism-engine/4176e06a7d27ba88a5d4369bd9fb58525ef99204/assets/escena-calle.jpg" width="300" alt="生活感街拍" loading="lazy"></a><br><a href="projects/lortbyron--gpt-image-realism-engine.md"><b>生活感街拍</b></a><br><sub><a href="skills/6ce608535788fdd7.md">Skill</a> · <a href="projects/lortbyron--gpt-image-realism-engine.md">制作方法</a></sub><br><sub><a href="https://github.com/Lortbyron/gpt-image-realism-engine/blob/4176e06a7d27ba88a5d4369bd9fb58525ef99204/README.md">Lortbyron/gpt-image-realism-engine</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/alchaincyf--huashu-selfie-sticker.md"><img src="https://raw.githubusercontent.com/alchaincyf/huashu-selfie-sticker/c55236fe943d2804d033c3d5c877de5525785dcd/assets/demo.gif" width="300" alt="自拍变成八个小表情" loading="lazy"></a><br><a href="projects/alchaincyf--huashu-selfie-sticker.md"><b>自拍变成八个小表情</b></a><br><sub><a href="skills/aeb34f4da6df73dd.md">Skill</a> · <a href="https://raw.githubusercontent.com/alchaincyf/huashu-selfie-sticker/c55236fe943d2804d033c3d5c877de5525785dcd/assets/demo.gif">原动图</a> · <a href="projects/alchaincyf--huashu-selfie-sticker.md">制作方法</a></sub><br><sub><a href="https://github.com/alchaincyf/huashu-selfie-sticker/blob/c55236fe943d2804d033c3d5c877de5525785dcd/README.md">alchaincyf/huashu-selfie-sticker</a></sub></td>
+</tr>
+</table>
+
+[继续按效果挑选 →](gallery/README.md)
 
 <a id="animated"></a>
 
@@ -216,12 +239,12 @@ Lemo-Opuscar 已更新到 **59 种影片风格**，新增 **8 种剪辑与纪实
 
 ## 找到喜欢的效果，开始制作
 
-**收录概览** · **441** 项目 · **772** Skills · **1843** 提示词／风格文本 · **2204** 案例
+**收录概览** · **456** 项目 · **787** Skills · **1849** 提示词／风格文本 · **2204** 案例
 
 | 入口 | 内容 |
 |---|---|
 | [视觉目录](gallery/README.md) | 分页浏览更多图片、视频与工具效果 |
-| [完整分类目录](catalog/README.md) | 14 个创作方向 |
+| [完整分类目录](catalog/README.md) | 15 个创作方向 |
 | [提示词正文](catalog/prompts/README.md) | 可复制正文、来源与对应效果 |
 | [Skill 原文](catalog/skills/README.md) | 独立 Skill 页面与上游安装依赖 |
 | [案例与效果](catalog/cases/README.md) | 预览图、视频与公开提示词状态 |
@@ -256,17 +279,18 @@ Lemo-Opuscar 已更新到 **59 种影片风格**，新增 **8 种剪辑与纪实
 | [教学科普与手绘](catalog/education.md) | 62 |
 | [剪辑字幕与数字人](catalog/editing.md) | 94 |
 | [叙事动画与音乐视频](catalog/storytelling.md) | 30 |
-| [视频框架与程序化成片](catalog/video-frameworks.md) | 68 |
+| [视频框架与程序化成片](catalog/video-frameworks.md) | 73 |
 | [广告与产品演示](catalog/product-videos.md) | 69 |
 | [SVG 与动态图形](catalog/motion-graphics.md) | 30 |
 | [提示词与导演方法](catalog/directing.md) | 26 |
 | [Blender 与三维建模](catalog/blender.md) | 11 |
 | [Three.js 与 WebGPU](catalog/web-3d.md) | 7 |
-| [图像生成与商业视觉](catalog/image-generation.md) | 16 |
+| [图像生成与商业视觉](catalog/image-generation.md) | 21 |
 | [合集与创作案例](catalog/collections.md) | 10 |
 | [ComfyUI 与模型编排](catalog/comfyui.md) | 5 |
 | [游戏资产与像素画](catalog/game-assets.md) | 11 |
 | [高斯泼溅与仿真](catalog/simulation.md) | 2 |
+| [表情包与动态贴纸](catalog/stickers.md) | 5 |
 
 ## 如何使用
 

@@ -1,5 +1,61 @@
 [
   {
+    "slug": "november-picks",
+    "title_zh": "11 月精选：剪纸短片、生活感照片与聊天表情",
+    "title_en": "November picks: paper films, candid photos and reaction GIFs",
+    "items": [
+      {
+        "kind": "project",
+        "project_id": "cooperchx--paper-cutout-story",
+        "title_zh": "上海剪纸 Citywalk",
+        "title_en": "Shanghai paper-cut city walk",
+        "media_url": "https://raw.githubusercontent.com/cooperchx/paper-cutout-story/9899d4dd52352ff0ed656226041cdb6a7aafcbca/media/gifs/shanghai-v2.gif",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "fantuan-lab--animated-sticker-studio",
+        "title_zh": "会说「收到」的饭团猫",
+        "title_en": "Onigiri-cat reaction GIFs",
+        "media_url": "https://raw.githubusercontent.com/fantuan-lab/animated-sticker-studio/b74963f80b365865c41ed1b2664f5abcda4efab2/examples/onigiri-cat/gif/001-%E6%94%B6%E5%88%B0.gif",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "howoneai--xiaolin-explainer-packaging",
+        "title_zh": "地图上的财经讲解",
+        "title_en": "Animated map explainer",
+        "media_url": "https://raw.githubusercontent.com/howoneai/xiaolin-explainer-packaging/e304b066e281a2ab79fe07be65c0aaac2a45315e/docs/demo_map.gif",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "sanshengai--sansheng-image",
+        "title_zh": "同一画风的文章插图",
+        "title_en": "Cohesive editorial illustrations",
+        "media_url": "https://raw.githubusercontent.com/sanshengai/sansheng-image/d65a0dd2639f13a5881654be6a00b40b60bc8467/assets/readme/article-story.webp",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "lortbyron--gpt-image-realism-engine",
+        "title_zh": "生活感街拍",
+        "title_en": "Candid street photography",
+        "media_url": "https://raw.githubusercontent.com/Lortbyron/gpt-image-realism-engine/4176e06a7d27ba88a5d4369bd9fb58525ef99204/assets/escena-calle.jpg",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "alchaincyf--huashu-selfie-sticker",
+        "title_zh": "自拍变成八个小表情",
+        "title_en": "Eight reactions from one selfie",
+        "media_url": "https://raw.githubusercontent.com/alchaincyf/huashu-selfie-sticker/c55236fe943d2804d033c3d5c877de5525785dcd/assets/demo.gif",
+        "width": 300
+      }
+    ],
+    "edition": "2026-11-13"
+  },
+  {
     "slug": "animated",
     "title_zh": "直接看动图",
     "title_en": "Animated previews",

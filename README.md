@@ -13,9 +13,32 @@ Explore ways to create imaginative images, videos, motion graphics and 3D scenes
 
 **See the effect, then find the method.** GIFs play inline. Open any preview or its Skill / Prompt link to see how it is made.
 
-[Animated previews](#animated) · [Creative images & design](#images) · [Art animation & styles](#animation) · [3D worlds & product visuals](#worlds) · [Ads & commercial films](#ads) · [Cinematic & story films](#films)
+[November picks: paper films, candid photos and reaction GIFs](#november-picks) · [Animated previews](#animated) · [Creative images & design](#images) · [Art animation & styles](#animation) · [3D worlds & product visuals](#worlds) · [Ads & commercial films](#ads) · [Cinematic & story films](#films)
 
-[Browse all 2,054 visual previews →](gallery/README.md) · [Find tools](#find-tools) · [Make a style your own](#custom-styles)
+[Browse all 2,067 visual previews →](gallery/README.md) · [Find tools](#find-tools) · [Make a style your own](#custom-styles)
+
+<a id="november-picks"></a>
+
+## November picks: paper films, candid photos and reaction GIFs
+
+[Explore all 15 additions by use case →](docs/new-2026-11-13.md)
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/cooperchx--paper-cutout-story.md"><img src="https://raw.githubusercontent.com/cooperchx/paper-cutout-story/9899d4dd52352ff0ed656226041cdb6a7aafcbca/media/gifs/shanghai-v2.gif" width="300" alt="Shanghai paper-cut city walk" loading="lazy"></a><br><a href="projects/cooperchx--paper-cutout-story.md"><b>Shanghai paper-cut city walk</b></a><br><sub><a href="skills/b88bd11f4f3a7ddf.md">Skill</a> · <a href="https://raw.githubusercontent.com/cooperchx/paper-cutout-story/9899d4dd52352ff0ed656226041cdb6a7aafcbca/media/gifs/shanghai-v2.gif">GIF</a> · <a href="projects/cooperchx--paper-cutout-story.md">How to make it</a></sub><br><sub><a href="https://github.com/cooperchx/paper-cutout-story/blob/9899d4dd52352ff0ed656226041cdb6a7aafcbca/README.md">cooperchx/paper-cutout-story</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/fantuan-lab--animated-sticker-studio.md"><img src="https://raw.githubusercontent.com/fantuan-lab/animated-sticker-studio/b74963f80b365865c41ed1b2664f5abcda4efab2/examples/onigiri-cat/gif/001-%E6%94%B6%E5%88%B0.gif" width="300" alt="Onigiri-cat reaction GIFs" loading="lazy"></a><br><a href="projects/fantuan-lab--animated-sticker-studio.md"><b>Onigiri-cat reaction GIFs</b></a><br><sub><a href="skills/bad6f6344e488fcf.md">Skill</a> · <a href="https://raw.githubusercontent.com/fantuan-lab/animated-sticker-studio/b74963f80b365865c41ed1b2664f5abcda4efab2/examples/onigiri-cat/gif/001-%E6%94%B6%E5%88%B0.gif">GIF</a> · <a href="projects/fantuan-lab--animated-sticker-studio.md">How to make it</a></sub><br><sub><a href="https://github.com/fantuan-lab/animated-sticker-studio/blob/b74963f80b365865c41ed1b2664f5abcda4efab2/README.md">fantuan-lab/animated-sticker-studio</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/howoneai--xiaolin-explainer-packaging.md"><img src="https://raw.githubusercontent.com/howoneai/xiaolin-explainer-packaging/e304b066e281a2ab79fe07be65c0aaac2a45315e/docs/demo_map.gif" width="300" alt="Animated map explainer" loading="lazy"></a><br><a href="projects/howoneai--xiaolin-explainer-packaging.md"><b>Animated map explainer</b></a><br><sub><a href="skills/f651b783efaab55e.md">Skill</a> · <a href="https://raw.githubusercontent.com/howoneai/xiaolin-explainer-packaging/e304b066e281a2ab79fe07be65c0aaac2a45315e/docs/demo_map.gif">GIF</a> · <a href="projects/howoneai--xiaolin-explainer-packaging.md">How to make it</a></sub><br><sub><a href="https://github.com/howoneai/xiaolin-explainer-packaging/blob/e304b066e281a2ab79fe07be65c0aaac2a45315e/README.md">howoneai/xiaolin-explainer-packaging</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/sanshengai--sansheng-image.md"><img src="https://raw.githubusercontent.com/sanshengai/sansheng-image/d65a0dd2639f13a5881654be6a00b40b60bc8467/assets/readme/article-story.webp" width="300" alt="Cohesive editorial illustrations" loading="lazy"></a><br><a href="projects/sanshengai--sansheng-image.md"><b>Cohesive editorial illustrations</b></a><br><sub><a href="skills/e7e4bf72e3c048d3.md">Skill</a> · <a href="projects/sanshengai--sansheng-image.md">How to make it</a></sub><br><sub><a href="https://github.com/sanshengai/sansheng-image/blob/d65a0dd2639f13a5881654be6a00b40b60bc8467/README.md">sanshengai/sansheng-image</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/lortbyron--gpt-image-realism-engine.md"><img src="https://raw.githubusercontent.com/Lortbyron/gpt-image-realism-engine/4176e06a7d27ba88a5d4369bd9fb58525ef99204/assets/escena-calle.jpg" width="300" alt="Candid street photography" loading="lazy"></a><br><a href="projects/lortbyron--gpt-image-realism-engine.md"><b>Candid street photography</b></a><br><sub><a href="skills/6ce608535788fdd7.md">Skill</a> · <a href="projects/lortbyron--gpt-image-realism-engine.md">How to make it</a></sub><br><sub><a href="https://github.com/Lortbyron/gpt-image-realism-engine/blob/4176e06a7d27ba88a5d4369bd9fb58525ef99204/README.md">Lortbyron/gpt-image-realism-engine</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/alchaincyf--huashu-selfie-sticker.md"><img src="https://raw.githubusercontent.com/alchaincyf/huashu-selfie-sticker/c55236fe943d2804d033c3d5c877de5525785dcd/assets/demo.gif" width="300" alt="Eight reactions from one selfie" loading="lazy"></a><br><a href="projects/alchaincyf--huashu-selfie-sticker.md"><b>Eight reactions from one selfie</b></a><br><sub><a href="skills/aeb34f4da6df73dd.md">Skill</a> · <a href="https://raw.githubusercontent.com/alchaincyf/huashu-selfie-sticker/c55236fe943d2804d033c3d5c877de5525785dcd/assets/demo.gif">GIF</a> · <a href="projects/alchaincyf--huashu-selfie-sticker.md">How to make it</a></sub><br><sub><a href="https://github.com/alchaincyf/huashu-selfie-sticker/blob/c55236fe943d2804d033c3d5c877de5525785dcd/README.md">alchaincyf/huashu-selfie-sticker</a></sub></td>
+</tr>
+</table>
+
+[Keep exploring visually →](gallery/README.md)
 
 <a id="animated"></a>
 
@@ -217,12 +240,12 @@ The creator’s example keeps the Swiss grid, beat and typography, turning flat 
 
 ## Found an effect you like? Start creating
 
-**In the collection** · **441** projects · **772** Skills · **1843** prompt / style texts · **2204** cases
+**In the collection** · **456** projects · **787** Skills · **1849** prompt / style texts · **2204** cases
 
 | Entry | Contents |
 |---|---|
 | [Visual catalogue](gallery/README.md) | Browse more image, video and tool previews |
-| [Complete catalogue](catalog/README.md) | 14 creative categories |
+| [Complete catalogue](catalog/README.md) | 15 creative categories |
 | [Prompt text](catalog/prompts/README.md) | Copyable text, sources and corresponding effects |
 | [Skill text](catalog/skills/README.md) | Individual Skill pages and upstream dependencies |
 | [Cases & effects](catalog/cases/README.md) | Posters, videos and prompt availability |
@@ -257,17 +280,18 @@ The creator’s example keeps the Swiss grid, beat and typography, turning flat 
 | [Education & hand-drawn explainers](catalog/education.md) | 62 |
 | [Editing, captions & avatars](catalog/editing.md) | 94 |
 | [Storytelling, animation & music videos](catalog/storytelling.md) | 30 |
-| [Video frameworks & code rendering](catalog/video-frameworks.md) | 68 |
+| [Video frameworks & code rendering](catalog/video-frameworks.md) | 73 |
 | [Ads & product demos](catalog/product-videos.md) | 69 |
 | [SVG & motion graphics](catalog/motion-graphics.md) | 30 |
 | [Prompts & directing](catalog/directing.md) | 26 |
 | [Blender & 3D modelling](catalog/blender.md) | 11 |
 | [Three.js & WebGPU](catalog/web-3d.md) | 7 |
-| [Image generation & visual design](catalog/image-generation.md) | 16 |
+| [Image generation & visual design](catalog/image-generation.md) | 21 |
 | [Collections & inspiration](catalog/collections.md) | 10 |
 | [ComfyUI & model workflows](catalog/comfyui.md) | 5 |
 | [Game assets & pixel art](catalog/game-assets.md) | 11 |
 | [Gaussian splatting & simulation](catalog/simulation.md) | 2 |
+| [Reaction GIFs & sticker packs](catalog/stickers.md) | 5 |
 
 ## How to use
 

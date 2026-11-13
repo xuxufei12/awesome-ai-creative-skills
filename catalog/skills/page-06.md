@@ -4,6 +4,11 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [scenario-blender-lighting-rendering](../../skills/a5063a5b7a1b8055.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-blender-previs-storyboard](../../skills/b322597b4f89c1c7.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-blender-retopology](../../skills/e4850a498b764fd5.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-blender-rigging](../../skills/b2d4554a17a94122.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-blender-sculpting](../../skills/833f6c41589a0f8f.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-blender-texturing-shading](../../skills/0699d3fc86e06a6e.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-blender-uv-baking](../../skills/b624235a7870b275.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-brand-kit](../../skills/38a5d5d4eb5e20ef.md) | 游戏资产与像素画 | scenario-labs/skills |
@@ -79,10 +84,5 @@
 | [scenario-roblox-expert](../../skills/6c4c959fffcc6b5a.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-roblox-gameplay](../../skills/9f6768b71e98f41e.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-roblox-luau](../../skills/78242ee9b4cbd2a0.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-roblox-monetization](../../skills/1fd8a1c6f59dbb30.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-roblox-networking](../../skills/de0e66032a2023ad.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-roblox-performance](../../skills/c5e821c0f4247308.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-roblox-tooling](../../skills/31a0fb2d4f598b91.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-roblox-ui](../../skills/22c772c6404b7c3a.md) | 游戏资产与像素画 | scenario-labs/skills |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md)

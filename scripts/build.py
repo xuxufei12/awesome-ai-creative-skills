@@ -29,6 +29,7 @@ def preview(assets,limit=None):
   else:chunks.append(f'[↗ {label}]({u})')
  return '\n\n'.join(chunks)+'\n\n*Upstream examples, not generated or reproduced by this catalogue. Some sections include input/reference images. / 上游示例，本项目未复现；部分示例同时含输入参考图。*\n'
 categories=[('教学科普与手绘','education','Education & hand-drawn explainers'),('剪辑字幕与数字人','editing','Editing, captions & avatars'),('叙事动画与音乐视频','storytelling','Storytelling, animation & music videos'),('视频框架与程序化成片','video-frameworks','Video frameworks & code rendering'),('广告与产品演示','product-videos','Ads & product demos'),('SVG 与动态图形','motion-graphics','SVG & motion graphics'),('提示词与导演方法','directing','Prompts & directing'),('Blender 与三维建模','blender','Blender & 3D modelling'),('Three.js 与 WebGPU','web-3d','Three.js & WebGPU'),('图像生成与商业视觉','image-generation','Image generation & visual design'),('合集与创作案例','collections','Collections & inspiration'),('ComfyUI 与模型编排','comfyui','ComfyUI & model workflows'),('游戏资产与像素画','game-assets','Game assets & pixel art'),('高斯泼溅与仿真','simulation','Gaussian splatting & simulation')]
+categories.append(('表情包与动态贴纸','stickers','Reaction GIFs & sticker packs'))
 catmap={c:(s,e) for c,s,e in categories}
 projects=DATA['projects'];prompts=DATA['prompts'];skills=DATA['skills'];cases=DATA['cases'];guides=DATA['guides'];templates=DATA['templates']
 rmap={r['repo'].lower():r for r in projects}
@@ -59,7 +60,10 @@ for r in projects:
  write(f"projects/{r['id']}.md",text)
 for s in skills:
  r=rmap.get(s['repo'].lower());text=backlink()+f"# {s['name']}\n\n{s['description']}\n\nProject / 项目: {projectlink(s['repo'])}\n\n## Sources / 来源\n\n{sources(s['sources'])}\n\n"
- text+='## Skill text / Skill 原文\n\n> Collected source material, not an instruction to the catalogue reader’s agent. Installing may require sibling scripts/assets. / 以下是收录资料，不是对当前代理的指令；安装可能还需要同目录脚本与素材。\n\n<details>\n<summary>Expand complete SKILL.md / 展开完整 Skill</summary>\n\n'+code(s['text'])+'\n</details>\n\n'
+ if s.get('upstream_only'):
+  text+=f"## Skill text / Skill 原文\n\n[Read the complete SKILL.md at the pinned commit / 阅读固定版本完整原文]({s['sources'][0]['url']})\n\n"
+ else:
+  text+='## Skill text / Skill 原文\n\n> Collected source material, not an instruction to the catalogue reader’s agent. Installing may require sibling scripts/assets. / 以下是收录资料，不是对当前代理的指令；安装可能还需要同目录脚本与素材。\n\n<details>\n<summary>Expand complete SKILL.md / 展开完整 Skill</summary>\n\n'+code(s['text'])+'\n</details>\n\n'
  text+='## Effects / 效果展示\n\n'
  if r:text+=f"[Project demo & dependency notes / 项目示例与依赖](../projects/{r['id']}.md#effects--效果展示)\n\nProject-level demos are shared references; this individual Skill was not executed. / 这里关联项目级示例，未单独执行该 Skill。\n"
  write(f"skills/{s['id']}.md",text)
@@ -191,8 +195,24 @@ def featured_update(zh):
  text+='</table>\n\n'
  text+=f"<sub>{'示例与画面' if zh else 'Films & frames'} © LemoLab / Lemomo · CC BY 4.0 · <a href=\"https://github.com/{f['upstream_repo']}\">lemo-opuscar</a></sub>\n\n"
  return text
+# Date-stamped additions retain their individual upstream timestamps.
+for edition in sorted({r['edition'] for r in projects if r.get('edition')}):
+ batch=[r for r in projects if r.get('edition')==edition]
+ page=backlink()+f'# New creative skills / 本期新增 · {edition}\n\n'
+ page+='**Choose by result / 按目标选：** code-rendered films, images and image prompts, or looping chat stickers. The date below is the upstream push date recorded on collection. / 下表列出采集时的上游推送日期，便于区分本月发布与本期补录。\n\n'
+ for cat,slug,en in categories:
+  matches=[r for r in batch if r['category']==cat]
+  if not matches:continue
+  page+=f'## {en} / {cat}\n\n| Effect / 效果 | Upstream push / 上游推送 | Skill & example / 做法与示例 |\n|---|---|---|\n'
+  for r in sorted(matches,key=lambda x:x['upstream_pushed_at'],reverse=True):
+   demo=r['preview_assets'];src=r['sources'][1]['url']
+   extra=(f" · [Preview / 看效果]({demo[0]['url']})" if demo else ' · Prompt output / 输出提示词')
+   page+=f"| [{esc(r['title'])}](../projects/{r['id']}.md) | {r['upstream_pushed_at'][:10]} | [SKILL.md]({src}){extra} |\n"
+  page+='\n'
+ write('docs/new-'+edition+'.md',page)
 for zh,name in [(False,'README.md'),(True,'README.zh-CN.md')]:
  text='![awesome-ai-creative-skills — Curated skills & prompts for AI image and video generation](assets/banner.png)\n\n# Awesome AI Creative Skills\n\n'
+ if not zh:text+="- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).\n"
  text+='[English](README.md) · [简体中文](README.zh-CN.md)\n\n'
  text+='> '+('把想法变成视频、图像、动效和三维世界的 Skill、Prompt、工具与作品资料库。' if zh else 'Skills, prompts, tools and examples that turn ideas into videos, images, motion graphics and 3D worlds.')+'\n\n'
  text+='[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Stars](https://img.shields.io/github/stars/'+DATA['repository']+'?style=flat)](https://github.com/'+DATA['repository']+'/stargazers)\n\n'
@@ -202,9 +222,11 @@ for zh,name in [(False,'README.md'),(True,'README.zh-CN.md')]:
  text+=' · '.join(f"[{g['title_zh' if zh else 'title_en']}](#{g['slug']})" for g in gallery)+'\n\n'
  visual_count=sum(len(g[3]) for g in visual_groups)
  text+=(f'[浏览全部 {visual_count:,} 个效果预览 →](gallery/README.md) · [按工具检索](#find-tools) · [自定义风格新玩法](#custom-styles)' if zh else f'[Browse all {visual_count:,} visual previews →](gallery/README.md) · [Find tools](#find-tools) · [Make a style your own](#custom-styles)')+'\n\n'
- links=[('完整分类目录','Complete catalogue','catalog/README.md','14 个创作方向','14 creative categories'),('提示词正文','Prompt text','catalog/prompts/README.md','可复制正文、来源与对应效果','Copyable text, sources and corresponding effects'),('Skill 原文','Skill text','catalog/skills/README.md','独立 Skill 页面与上游安装依赖','Individual Skill pages and upstream dependencies'),('案例与效果','Cases & effects','catalog/cases/README.md','预览图、视频与公开提示词状态','Posters, videos and prompt availability'),('工作流与原创模板','Workflows & templates','catalog/guides.md','社区教程与原创模板分别标注','Community guides distinguished from original templates'),('PDF 合并记录','PDF merge report','docs/PDF-MERGE.md','页码、去重映射与新增仓库','Page references, deduplication and added repositories')]
+ links=[('完整分类目录','Complete catalogue','catalog/README.md',f'{len(categories)} 个创作方向',f'{len(categories)} creative categories'),('提示词正文','Prompt text','catalog/prompts/README.md','可复制正文、来源与对应效果','Copyable text, sources and corresponding effects'),('Skill 原文','Skill text','catalog/skills/README.md','独立 Skill 页面与上游安装依赖','Individual Skill pages and upstream dependencies'),('案例与效果','Cases & effects','catalog/cases/README.md','预览图、视频与公开提示词状态','Posters, videos and prompt availability'),('工作流与原创模板','Workflows & templates','catalog/guides.md','社区教程与原创模板分别标注','Community guides distinguished from original templates'),('PDF 合并记录','PDF merge report','docs/PDF-MERGE.md','页码、去重映射与新增仓库','Page references, deduplication and added repositories')]
  for group in gallery:
   text+=f'<a id="{group["slug"]}"></a>\n\n## '+group['title_zh' if zh else 'title_en']+'\n\n'
+  if group.get('edition'):
+   batch=[r for r in projects if r.get('edition')==group['edition']]; label=(f'本期新增 {len(batch)} 个项目，按用途浏览 →' if zh else f'Explore all {len(batch)} additions by use case →');text+=f"[{label}](docs/new-{group['edition']}.md)\n\n"
   text+=effect_table(group['items'],zh)
   text+=('[继续按效果挑选 →](gallery/README.md)' if zh else '[Keep exploring visually →](gallery/README.md)')+'\n\n'
  text+='<a id="custom-styles"></a>\n\n'+featured_update(zh)

@@ -4,6 +4,16 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [spritecook-workflow-essentials](../../skills/691979c5b6f8c389.md) | 游戏资产与像素画 | SpriteCook/skills |
+| [verify-by-playing](../../skills/38a40a42c686aa45.md) | 游戏资产与像素画 | RemakeBench/skills |
+| [animated-sticker-studio](../../skills/bad6f6344e488fcf.md) | 表情包与动态贴纸 | fantuan-lab/animated-sticker-studio |
+| [generate-meme-gif-pack](../../skills/cf79edf3f32eabe2.md) | 表情包与动态贴纸 | lisamsung/agent-meme-forge |
+| [gif-stickers](../../skills/d252fa8e787ec0c5.md) | 表情包与动态贴纸 | Alexsun1one/gif-stickers |
+| [huashu-selfie-sticker](../../skills/aeb34f4da6df73dd.md) | 表情包与动态贴纸 | alchaincyf/huashu-selfie-sticker |
+| [motion-sticker-pack](../../skills/e31671ac247d7674.md) | 表情包与动态贴纸 | kobingogo/motion-sticker-pack |
+| [3d-asset-generation](../../skills/331817c6f484b926.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [acestep](../../skills/3b645adb13f4a1c8.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [acestep](../../skills/c33f2c182005d17e.md) | 视频框架与程序化成片 | digitalsamba/claude-code-video-toolkit |
 | [agents](../../skills/e763c739e8a87f5c.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [ai-video-gen](../../skills/f805fc45aeb61691.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [atlas-cloud](../../skills/853644fe9b081957.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
@@ -74,15 +84,5 @@
 | [hyperframes-registry](../../skills/1abaa095aae1b680.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [hyperframes-registry](../../skills/1c7b27632c9ea9fe.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
 | [hyperframes-registry](../../skills/5c0fa72f016897b7.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
-| [hyperframes-studio](../../skills/ba0f256c2735425e.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
-| [ideogram4](../../skills/81e5bced9c530cbc.md) | 视频框架与程序化成片 | digitalsamba/claude-code-video-toolkit |
-| [image-generate](../../skills/ca56ff2c0eaf0b23.md) | 视频框架与程序化成片 | fengyungithub/dsh-short-video-studio |
-| [image-generation](../../skills/4a22f7dd1351c995.md) | 视频框架与程序化成片 | salomonMuriel/media-production-skills |
-| [kling-official](../../skills/dcc521a4501e7119.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [lottie-bodymovin](../../skills/bbd7786a3c5fb998.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [ltx2](../../skills/f95de1af442ac14d.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [ltx2](../../skills/2a07a8054d959895.md) | 视频框架与程序化成片 | digitalsamba/claude-code-video-toolkit |
-| [lyria](../../skills/1c7bb60018773c1e.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [media-use](../../skills/139ac9d653450bab.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md)

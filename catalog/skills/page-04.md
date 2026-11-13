@@ -27,6 +27,7 @@
 | [genmedia](../../skills/2e982b5d6a169761.md) | 图像生成与商业视觉 | fal-ai-community/skills |
 | [genmedia-workflow](../../skills/450e1d49500917ee.md) | 图像生成与商业视觉 | fal-ai-community/skills |
 | [git-commit-conventions](../../skills/c7a39e174234f421.md) | 图像生成与商业视觉 | zazencodes/skills |
+| [gpt-image-realism-engine](../../skills/6ce608535788fdd7.md) | 图像生成与商业视觉 | Lortbyron/gpt-image-realism-engine |
 | [higgsfield-brandkit](../../skills/fc227dfc1545cb60.md) | 图像生成与商业视觉 | higgsfield-ai/skills |
 | [higgsfield-generate](../../skills/68bed3a080231a41.md) | 图像生成与商业视觉 | higgsfield-ai/skills |
 | [higgsfield-marketplace-cards](../../skills/48438ff34990e8a7.md) | 图像生成与商业视觉 | higgsfield-ai/skills |
@@ -40,12 +41,16 @@
 | [imagegen2](../../skills/0ffa874a0cd8e31e.md) | 图像生成与商业视觉 | zeveck/imagegen2 |
 | [imagegen2](../../skills/9ab5a2715fecc95a.md) | 图像生成与商业视觉 | zeveck/imagegen2 |
 | [init-agents-md](../../skills/f72f24dddc7df8f4.md) | 图像生成与商业视觉 | zazencodes/skills |
+| [kairo-design](../../skills/39b73d32a63737ab.md) | 图像生成与商业视觉 | byKairo/kairo-design |
 | [marketing](../../skills/18d5f0e69cdef6e4.md) | 图像生成与商业视觉 | fal-ai-community/skills |
+| [minimax-h3-image-prompts](../../skills/48e367a5a075be70.md) | 图像生成与商业视觉 | AI-KSK/minimax-h3-image-prompts |
 | [model-routing](../../skills/6d3f6b555d37e758.md) | 图像生成与商业视觉 | fal-ai-community/skills |
 | [novel-game-analyze](../../skills/193253249ebcf75e.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
 | [novel-to-game](../../skills/12c82429d8bfeff5.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
+| [qiaomu-codex-imagegen](../../skills/6a2a57557e8120f1.md) | 图像生成与商业视觉 | joeseesun/qiaomu-codex-imagegen |
 | [random-number-generator](../../skills/546dd0e60dc2473f.md) | 图像生成与商业视觉 | zazencodes/skills |
 | [release-skills](../../skills/f320492bbc9ced7d.md) | 图像生成与商业视觉 | JimLiu/baoyu-design |
+| [sansheng-image](../../skills/e7e4bf72e3c048d3.md) | 图像生成与商业视觉 | sanshengai/sansheng-image |
 | [short-drama](../../skills/a8efa0cc1f73a4cb.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
 | [short-drama-assets](../../skills/a8d3a4568b98ce25.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
 | [short-drama-develop](../../skills/98e537c3114fe1c2.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
@@ -79,10 +84,5 @@
 | [video-understanding](../../skills/86c395f032d934f6.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
 | [video-voiceover](../../skills/e726cda155ae10de.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
 | [animate](../../skills/1208ee4ab2458a48.md) | 广告与产品演示 | cth9191/animate |
-| [character-refs](../../skills/16f39d589dbf727b.md) | 广告与产品演示 | eternityspring/shuohao-skills |
-| [create-promo-video](../../skills/efe5f940dc3b8a08.md) | 广告与产品演示 | alentodorov/create-promo-video |
-| [guizang-product-video-skill](../../skills/bbc1dc661af2a701.md) | 广告与产品演示 | op7418/guizang-product-video-skill |
-| [huashu-motion](../../skills/fb114d4dfacbe64a.md) | 广告与产品演示 | alchaincyf/huashu-motion |
-| [launch-video](../../skills/c119aa18a24a40cc.md) | 广告与产品演示 | jerelvelarde/demo-skills |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md)

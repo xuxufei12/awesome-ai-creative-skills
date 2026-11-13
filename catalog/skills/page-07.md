@@ -4,6 +4,11 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [scenario-roblox-monetization](../../skills/1fd8a1c6f59dbb30.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-roblox-networking](../../skills/de0e66032a2023ad.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-roblox-performance](../../skills/c5e821c0f4247308.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-roblox-tooling](../../skills/31a0fb2d4f598b91.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-roblox-ui](../../skills/22c772c6404b7c3a.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-roblox-vfx-audio](../../skills/074dc117a0977185.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-rodin](../../skills/66e22539baf6f9ad.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-runway](../../skills/249f4b2deacbd99d.md) | 游戏资产与像素画 | scenario-labs/skills |
@@ -79,10 +84,5 @@
 | [spritecook-use-assets-in-godot](../../skills/b1ccc121378947c7.md) | 游戏资产与像素画 | SpriteCook/skills |
 | [spritecook-use-dual-grid-tilesets](../../skills/7364a1b91538c31b.md) | 游戏资产与像素画 | SpriteCook/skills |
 | [spritecook-use-presets](../../skills/3b7de6ae3898a8e6.md) | 游戏资产与像素画 | SpriteCook/skills |
-| [spritecook-workflow-essentials](../../skills/691979c5b6f8c389.md) | 游戏资产与像素画 | SpriteCook/skills |
-| [verify-by-playing](../../skills/38a40a42c686aa45.md) | 游戏资产与像素画 | RemakeBench/skills |
-| [3d-asset-generation](../../skills/331817c6f484b926.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [acestep](../../skills/3b645adb13f4a1c8.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [acestep](../../skills/c33f2c182005d17e.md) | 视频框架与程序化成片 | digitalsamba/claude-code-video-toolkit |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md)

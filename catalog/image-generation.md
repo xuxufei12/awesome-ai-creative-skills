@@ -4,12 +4,17 @@
 
 | Project / 项目 | Description / 简介 | Skills | Prompts |
 |---|---|---:|---:|
+| [AI-KSK/minimax-h3-image-prompts](../projects/ai-ksk--minimax-h3-image-prompts.md) | 为每张参考图分配身份、服装或姿势等角色，明确哪些元素要保留，交付可复制的提示词。 / Multi-reference image-editing prompts | 1 | 3 |
+| [byKairo/kairo-design](../projects/bykairo--kairo-design.md) | 把同一主题分别处理成带标题的封面与无字主视觉，便于比较构图。 / Editorial covers, with or without type | 1 | 0 |
 | [dqtx760/deepseek-imagegen](../projects/dqtx760--deepseek-imagegen.md) | 从文章或描述提炼视觉提示词并调用图像接口。 | 1 | 0 |
 | [fal-ai-community/skills](../projects/fal-ai-community--skills.md) | 图像、视频、角色、商业广告、故事、像素资产和 3D 工作流。 | 17 | 0 |
 | [higgsfield-ai/skills](../projects/higgsfield-ai--skills.md) | 商品图、品牌视觉、图像、视频、封面与解说片等技能。 | 8 | 0 |
 | [JimLiu/baoyu-skills](../projects/jimliu--baoyu-skills.md) | 封面、文章插图、信息图、知识漫画、小红书图卡等。 | 22 | 0 |
+| [joeseesun/qiaomu-codex-imagegen](../projects/joeseesun--qiaomu-codex-imagegen.md) | 通过 CLI 或 MCP 把创作需求交给 Codex 生图，仓库附带纸雕、民艺等设计样例。 / Paper-relief poster | 1 | 0 |
 | [JunSeo99/claude-skill-codex-imagegen](../projects/junseo99--claude-skill-codex-imagegen.md) | 在 Claude Code 中复用 Codex 图像流程并管理草稿和编辑。 | 1 | 0 |
 | [lgdy88/codex-image](../projects/lgdy88--codex-image.md) | 面向 API／本地文件路径的图像生成与编辑封装。 | 1 | 0 |
+| [Lortbyron/gpt-image-realism-engine](../projects/lortbyron--gpt-image-realism-engine.md) | 先确定拍摄者、光源和现场细节，生成可交给 ChatGPT Images 的摄影提示词。 / Candid street photography | 1 | 0 |
+| [sanshengai/sansheng-image](../projects/sanshengai--sansheng-image.md) | 先为文章规划封面和插图，再沿用同一套画风、色系逐张生成。 / Cohesive editorial illustrations | 1 | 1 |
 | [smixs/visual-skills](../projects/smixs--visual-skills.md) | 生成有镜头、动作、节奏和连续性的图像／视频提示词。 | 2 | 0 |
 | [analyticalmonk/fal-ai-skill](../projects/analyticalmonk--fal-ai-skill.md) | Generate images, videos, audio, and more using fal.ai AI models directly from Claude Code. | 1 | 0 |
 | [elangan1997-cmyk/canvas-workbench](../projects/elangan1997-cmyk--canvas-workbench.md) | 本地生图工作台 canvas-workbench:开自己的 API 生图,画布排版+修图/擦除/去背景/OCR/转矢量,可编辑 PSD/AI 交付,PS/AI 图层级双向桥接 · DSH 插件,与 npm 包同名 | 0 | 0 |

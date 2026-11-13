@@ -4,6 +4,20 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [synthetic-ui-demo](../../skills/b0367b10ad78f599.md) | 视频框架与程序化成片 | digitalsamba/claude-code-video-toolkit |
+| [tailwind-design-system](../../skills/434ed435d76fb6bc.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [talking-head-recut](../../skills/a3b6084b4be1e23b.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
+| [text-to-speech](../../skills/e9a061a762a13632.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [threejs-animation](../../skills/b24dc96c7a854ab9.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [threejs-fundamentals](../../skills/eb66d52f53f48906.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [threejs-geometry](../../skills/8337bcf86621411f.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [threejs-interaction](../../skills/1bb23f0388d39863.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [threejs-lighting](../../skills/777875f7d6a75219.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [threejs-loaders](../../skills/03e0d7319692bb7e.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [threejs-materials](../../skills/d5846d1b8254b903.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [threejs-postprocessing](../../skills/570b86434c30ad9b.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [threejs-shaders](../../skills/6702267bd3ee70d4.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [threejs-textures](../../skills/2a90ce70931e9b17.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [threejs-world-generation](../../skills/e968e59d528ef57d.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [vercel-composition-patterns](../../skills/6f228aa8c71048a2.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [vercel-react-best-practices](../../skills/97c8b0404aa9f667.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
@@ -28,6 +42,7 @@
 | [web-design-guidelines](../../skills/f4647ca866a3accf.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [website-to-video](../../skills/034276ce1b67aa7f.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [wireframe-portal-title](../../skills/553d548c2316b249.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
+| [xiaolin-explainer-packaging](../../skills/f651b783efaab55e.md) | 视频框架与程序化成片 | howoneai/xiaolin-explainer-packaging |
 | [3dgs-articulated-reasoner](../../skills/739fbf8e80b5878f.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
 | [3dgs-code-reviewer](../../skills/b9b9a54405ac2287.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
 | [3dgs-compression-deploy](../../skills/bb4b4e79495b96b0.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |

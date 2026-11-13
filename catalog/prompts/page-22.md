@@ -4,6 +4,11 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [Childhood Street Football Match Prompt](../../prompts/979b5532a964d164.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Chinese Civilization Time Travel One-Shot](../../prompts/f139f8ff8818d8fe.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Chocolate Fold And Crackle](../../prompts/d45f447ac15d9bfb.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
+| [Cinematic Beauty Portrait Close-Up](../../prompts/52a490809cb4f847.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Cinematic Creature Emergence in Suburbs](../../prompts/5dc8db4b61fb75d4.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [Cinematic Fantasy Video with Pink Dragon and Woman in Cabin](../../prompts/4efb282484ab3385.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [Cinematic Martial Arts Training in Japanese Dojo](../../prompts/93299f9316b1d386.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [Cinematic Railway Platform Story Scene](../../prompts/4e906e55de92907f.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
@@ -79,10 +84,5 @@
 | [No. 5: Seedance 2.0: 80-Year-Old Rapper MV](../../prompts/a9ed8cd3042c723a.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [No. 6: Cinematic Street Racing Sequence for Seedance 2](../../prompts/e8acdb53e9e48aef.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [Origami Whale Papercraft Diorama](../../prompts/14036081e56f3fee.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [POV Morning Skincare Drop](../../prompts/9464b48ca7902629.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
-| [Persian Miniature: The Simurgh Over the Palace](../../prompts/9c2b0912bab56964.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [Pink Supercar Transformation Action](../../prompts/2bc0dffe1149827e.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [Pixar Style Mango Orchard Short Film Prompt](../../prompts/b275469a8214ffb9.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [Playful Basketball Scene with Dog Mascot](../../prompts/76888664a0b262fe.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

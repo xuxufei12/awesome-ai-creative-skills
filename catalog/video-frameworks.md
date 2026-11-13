@@ -5,15 +5,20 @@
 | Project / 项目 | Description / 简介 | Skills | Prompts |
 |---|---|---:|---:|
 | [chiphoton/DeepSeek-Harness-Video-Director](../projects/chiphoton--deepseek-harness-video-director.md) | 脚本、提示词、图像、音频和视频组成节点工作流。 | 1 | 0 |
+| [cooperchx/paper-cutout-story](../projects/cooperchx--paper-cutout-story.md) | 把人物步态、城市贴图和纸片转场写进 Canvas 时间线，再逐帧导出。 / Shanghai paper-cut city walk | 1 | 0 |
 | [dawn0731/dsh-video-gen](../projects/dawn0731--dsh-video-gen.md) | 在对话中提交文生视频／图生视频并保存结果。 | 0 | 0 |
 | [digitalsamba/claude-code-video-toolkit](../projects/digitalsamba--claude-code-video-toolkit.md) | 品牌、录屏、Remotion、FFmpeg 组成项目式制作流程。 | 14 | 0 |
 | [fengyungithub/dsh-short-video-studio](../projects/fengyungithub--dsh-short-video-studio.md) | 画布、媒体资产与 ComfyUI 场景生产工作流。 | 5 | 0 |
 | [heygen-com/hyperframes](../projects/heygen-com--hyperframes.md) | 以 HTML 和动画代码组织视频并渲染成片。 | 20 | 0 |
+| [howoneai/xiaolin-explainer-packaging](../projects/howoneai--xiaolin-explainer-packaging.md) | 把讲解素材和字幕装进 Remotion 版式，地图和证据墙按关键词出场。 / Animated map explainer | 1 | 0 |
+| [kiselas/every-frame-is-code](../projects/kiselas--every-frame-is-code.md) | 用 HTML、Canvas 或着色器描述画面，再把按时间求值的帧输出为 MP4。 / Engraving to WebGL showreel | 1 | 1 |
 | [Moh4696/refresh-yoghurt](../projects/moh4696--refresh-yoghurt.md) | reFresh: Shake Well. Scroll-story landing page concept for reFresh drinking yoghurt (unofficial). | 0 | 0 |
 | [oil-oil/dsh-oil-ui](../projects/oil-oil--dsh-oil-ui.md) | Oil UI 的 DeepSeek Harness 原生插件，支持自动切换本地安装的 Oil UI Pro | 1 | 0 |
 | [remotion-dev/claude-code-plugin](../projects/remotion-dev--claude-code-plugin.md) | Remotion Agent Skills for Claude Code | 12 | 0 |
 | [remotion-dev/skills](../projects/remotion-dev--skills.md) | 用 React 时间轴制作产品片、动态图表和解说视频。 | 12 | 0 |
 | [salomonMuriel/media-production-skills](../projects/salomonmuriel--media-production-skills.md) | 把导演、脚本、配音、图像和声音设计组织为配套技能。 | 5 | 0 |
+| [social-media-skills/remotion-shorts-skill](../projects/social-media-skills--remotion-shorts-skill.md) | 从主题、数据或更新日志编排镜头，在本机渲染 Remotion 短片，并导出封面与镜头校样。 / Data-driven vertical shorts | 1 | 0 |
+| [syydaniel/kazi](../projects/syydaniel--kazi.md) | 让讲解动画的关键动作落在旁白对应词上；同一题材有 Opus、Sonnet 对照视频。 / Word-timed explainers | 1 | 0 |
 | [WinterArc21/Battle-of-Austerlitz-Film](../projects/winterarc21--battle-of-austerlitz-film.md) | WinterArc21/Battle-of-Austerlitz-Film | 0 | 0 |
 | [xdis/opus-video-studio](../projects/xdis--opus-video-studio.md) | 按内容路由到 Canvas、Three.js、Blender 或生成模型。 | 8 | 0 |
 | [Aaryan-Kapoor/video-production-skill](../projects/aaryan-kapoor--video-production-skill.md) | Turn an AI agent into a full-stack video producer: research, storyboard, narration, animated visuals, render, QC, archive, and delivery. | 0 | 0 |

@@ -4,6 +4,12 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [鸡尾酒配方动态图解（Negroni）](../../prompts/a4d075ff15cf5d06.md) | 视频框架与程序化成片 | joeseesun/opus-video-prompts |
+| [功能性情绪论文歌曲影像](../../prompts/2a1b684c511cbdda.md) | 音乐与歌词 | guanmo-ai/awesome-ai-motion |
+| [吉他歌曲的 techno 混音 MV](../../prompts/dc047a57b66e36f5.md) | 音乐与歌词 | guanmo-ai/awesome-ai-motion |
+| [碰撞触发音符的机械装置](../../prompts/87c9259cc1295d9d.md) | 音乐与歌词 | guanmo-ai/awesome-ai-motion |
+| [角色设定驱动的动画歌曲](../../prompts/49ca4f86ef2126bd.md) | 音乐与歌词 | guanmo-ai/awesome-ai-motion |
+| [让歌词成为竖屏视频主角](../../prompts/0d9448691a40d903.md) | 音乐与歌词 | guanmo-ai/awesome-ai-motion |
 | [货币史主题音乐影像](../../prompts/03f086c692e47fe8.md) | 音乐与歌词 | guanmo-ai/awesome-ai-motion |
 | [逐帧代码生成的音乐视频](../../prompts/6515cddadbe62bd5.md) | 音乐与歌词 | guanmo-ai/awesome-ai-motion |
 | [钢琴作曲与 JavaScript 动画](../../prompts/de0ead0cdf400021.md) | 音乐与歌词 | guanmo-ai/awesome-ai-motion |

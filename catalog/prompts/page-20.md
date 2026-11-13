@@ -4,6 +4,10 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [Cinematic AI History](../../prompts/e1a0c01c42dc6930.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
+| [Claude Code Explainer Animation](../../prompts/4bf4f6a7333f77d8.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
+| [Claude Opus 5.5 Animation Workflow Tutorial](../../prompts/b9c86770c48c2a60.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
+| [Code-Only Psychology Explainer Video](../../prompts/c955430457b626b1.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [Color Wheel Motion Graphics](../../prompts/073f4ce132b01cd7.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [Colored-Pencil Explainer](../../prompts/6b3ce1953179f2e2.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [Dark Mode Kinetic Typography](../../prompts/48e6d948186ebb57.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
@@ -80,9 +84,5 @@
 | [explainer · @imthatcarlos · 133592](../../prompts/d04d312881d7e1d6.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [explainer · @iniyanai · 856596](../../prompts/6066aedf60ed6c2d.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [explainer · @irinatoxi · 962937](../../prompts/667868682a849a98.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [explainer · @itsahmedharoon · 544194](../../prompts/cd238b0ecf435297.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [explainer · @itsyashf · 692347](../../prompts/cb754939dc0f0146.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [explainer · @kgonia7 · 746268](../../prompts/2b6c0abaaa1efe7f.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [explainer · @kloss_xyz · 067876](../../prompts/e7d0abdc3a0b1e2d.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

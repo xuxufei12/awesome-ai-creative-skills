@@ -4,6 +4,11 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [POV Morning Skincare Drop](../../prompts/9464b48ca7902629.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
+| [Persian Miniature: The Simurgh Over the Palace](../../prompts/9c2b0912bab56964.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Pink Supercar Transformation Action](../../prompts/2bc0dffe1149827e.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Pixar Style Mango Orchard Short Film Prompt](../../prompts/b275469a8214ffb9.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Playful Basketball Scene with Dog Mascot](../../prompts/76888664a0b262fe.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [Product Presentation Video with AI Dialogue](../../prompts/254bbfbd19ff98af.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [Rain-Slick City Run At Dusk](../../prompts/95f0e4d8da5f58f3.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
 | [Ramen Steam Ritual](../../prompts/205a805b8194786d.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
@@ -74,15 +79,10 @@
 | [像素巫师施法动画](../../prompts/17cd6d2a90495f95.md) | 视频框架与程序化成片 | joeseesun/opus-video-prompts |
 | [奥斯特里茨战役历史电影（4 到 5 分钟）](../../prompts/aeb844cd1c093d80.md) | 视频框架与程序化成片 | joeseesun/opus-video-prompts |
 | [推理创业公司发布视频](../../prompts/b886432061694505.md) | 视频框架与程序化成片 | joeseesun/opus-video-prompts |
+| [时钟史版画短片 / Engraved history of clocks](../../prompts/6e0a562859d0183b.md) | 视频框架与程序化成片 | kiselas/every-frame-is-code |
 | [真人口播改成线稿动画讲解](../../prompts/3b14914d452e1970.md) | 视频框架与程序化成片 | joeseesun/opus-video-prompts |
 | [硬约束补丁(防止编数字)](../../prompts/76f3c07354664e0f.md) | 视频框架与程序化成片 | PDF / community |
 | [讲解 Transformer 的 JS 视频](../../prompts/eece67bcb57a9cc8.md) | 视频框架与程序化成片 | joeseesun/opus-video-prompts |
 | [讲解任意主题(线稿 + Canvas + Playwright/ffmpeg)](../../prompts/8d458d3cf134a2da.md) | 视频框架与程序化成片 | PDF / community |
-| [鸡尾酒配方动态图解（Negroni）](../../prompts/a4d075ff15cf5d06.md) | 视频框架与程序化成片 | joeseesun/opus-video-prompts |
-| [功能性情绪论文歌曲影像](../../prompts/2a1b684c511cbdda.md) | 音乐与歌词 | guanmo-ai/awesome-ai-motion |
-| [吉他歌曲的 techno 混音 MV](../../prompts/dc047a57b66e36f5.md) | 音乐与歌词 | guanmo-ai/awesome-ai-motion |
-| [碰撞触发音符的机械装置](../../prompts/87c9259cc1295d9d.md) | 音乐与歌词 | guanmo-ai/awesome-ai-motion |
-| [角色设定驱动的动画歌曲](../../prompts/49ca4f86ef2126bd.md) | 音乐与歌词 | guanmo-ai/awesome-ai-motion |
-| [让歌词成为竖屏视频主角](../../prompts/0d9448691a40d903.md) | 音乐与歌词 | guanmo-ai/awesome-ai-motion |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)
