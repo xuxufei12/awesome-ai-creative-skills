@@ -54,6 +54,7 @@
 | [案例 9：极简未来主义海报 (by @ZHO_ZHO_ZHO)](../../prompts/29bd27f3312fe9f8.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
 | [🚀 Raycast Integration](../../prompts/c57077245120346d.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
 | [同一画风的文章插图 · 给这篇文章做一张封面和三张插图。 沿用刚才选定的画风与](../../prompts/ad3f71ad14293ff7.md) | 图像生成与商业视觉 | sanshengai/sansheng-image |
+| [同一角色的旗袍婚纱变体 · 作者调用示例](../../prompts/9f630ef9f43f1006.md) | 图像生成与商业视觉 | kers701/bride-series-skill |
 | [多参考图编辑提示词 · 只删除图片1右下角地面的红桶，补全原位置，其他内容保持](../../prompts/742724bee65415b4.md) | 图像生成与商业视觉 | AI-KSK/minimax-h3-image-prompts |
 | [多参考图编辑提示词 · 图片1提供人物身份，图片2提供服装，图片3只参考姿势。](../../prompts/2ad8a593f3238709.md) | 图像生成与商业视觉 | AI-KSK/minimax-h3-image-prompts |
 | [多参考图编辑提示词 · 帮我写一个16:9写实摄影文生图提示词，中文，只给完整](../../prompts/6ad2401e97382d4f.md) | 图像生成与商业视觉 | AI-KSK/minimax-h3-image-prompts |
@@ -83,6 +84,5 @@
 | [App Feature Motion Graphics Explainer](../../prompts/d485172d748a5058.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [Apple-Style Product Motion Film](../../prompts/b1b8bebff7776a2f.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [Bitcoin Monetary History Animation](../../prompts/dbec0e4d804f956a.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [Business Motion Explainer](../../prompts/848946d775a4e7ea.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

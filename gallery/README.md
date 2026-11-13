@@ -87,7 +87,7 @@ Open any card for its prompt, Skill or production method. Each page shows up to 
 - [第 42 页 / Page 42 · 985–1008](films-42.md)
 - [第 43 页 / Page 43 · 1009–1016](films-43.md)
 
-## Skill 与工具效果 / Skill & tool demos · 295
+## Skill 与工具效果 / Skill & tool demos · 307
 
 - [第 1 页 / Page 1 · 1–24](tools-01.md)
 - [第 2 页 / Page 2 · 25–48](tools-02.md)
@@ -101,4 +101,4 @@ Open any card for its prompt, Skill or production method. Each page shows up to 
 - [第 10 页 / Page 10 · 217–240](tools-10.md)
 - [第 11 页 / Page 11 · 241–264](tools-11.md)
 - [第 12 页 / Page 12 · 265–288](tools-12.md)
-- [第 13 页 / Page 13 · 289–295](tools-13.md)
+- [第 13 页 / Page 13 · 289–307](tools-13.md)

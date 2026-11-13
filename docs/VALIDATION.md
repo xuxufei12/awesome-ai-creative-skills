@@ -2,18 +2,18 @@
 
 [Home / 首页](../README.md)
 
-Checked / 检查时间: 2026-11-13T06:16:07.668188+00:00
+Checked / 检查时间: 2026-11-13T06:24:48.992706+00:00
 
-- Local navigation links checked / 已检查本地链接: **42693**
+- Local navigation links checked / 已检查本地链接: **42970**
 - PDF main entries / PDF 正文条目: **45**
 - Appendix prompt files / 附录提示词文件: **18**
 - Structural / link / publication-hygiene errors: **0**
 
 | Record type | Count |
 |---|---:|
-| projects | 456 |
-| skills | 787 |
-| prompts | 1849 |
+| projects | 468 |
+| skills | 799 |
+| prompts | 1854 |
 | cases | 2204 |
 | guides | 12 |
 | templates | 16 |

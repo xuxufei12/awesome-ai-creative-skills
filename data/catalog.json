@@ -27097,6 +27097,719 @@
       "upstream_created_at": "2026-06-25T19:37:14Z",
       "upstream_pushed_at": "2026-07-09T16:43:20Z",
       "edition": "2026-11-13"
+    },
+    {
+      "repo": "S-Fan-ZJU/vibe-science-video",
+      "title": "多米诺骨牌如何传递能量 / Domino energy transfer",
+      "url": "https://github.com/S-Fan-ZJU/vibe-science-video",
+      "category": "视频框架与程序化成片",
+      "type": "Agent Skill",
+      "summary": "用实验场景组织科普讲解，可对照骨牌、降噪和棱镜样片学习画面设计。 / Domino energy transfer",
+      "hosts": [
+        "Codex",
+        "ChatGPT"
+      ],
+      "status": "已核对固定版本的 Skill 与 README",
+      "curated": true,
+      "requirements": "Node、npm；音频和媒体检查使用 Python。",
+      "limits": "案例来自作者；本目录未运行上游工作流。",
+      "license": "见上游许可原文",
+      "archived": false,
+      "stars": 3,
+      "commit": "73d7bdc821f12f7049b2d5e99091e69da64acbea",
+      "checked_at": "2026-11-13T06:23:15.528932+00:00",
+      "runtime_tested": false,
+      "id": "s-fan-zju--vibe-science-video",
+      "aliases": [
+        "S-Fan-ZJU/vibe-science-video"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/S-Fan-ZJU/vibe-science-video/blob/73d7bdc821f12f7049b2d5e99091e69da64acbea/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:23:15.528932+00:00"
+        },
+        {
+          "url": "https://github.com/S-Fan-ZJU/vibe-science-video/blob/73d7bdc821f12f7049b2d5e99091e69da64acbea/skills/vibe-science-video/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:23:15.528932+00:00"
+        },
+        {
+          "url": "https://github.com/S-Fan-ZJU/vibe-science-video/blob/73d7bdc821f12f7049b2d5e99091e69da64acbea/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/S-Fan-ZJU/vibe-science-video/73d7bdc821f12f7049b2d5e99091e69da64acbea/docs/media/gallery/domino-energy.jpg",
+          "type": "image",
+          "label": "domino-energy.jpg",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/S-Fan-ZJU/vibe-science-video/73d7bdc821f12f7049b2d5e99091e69da64acbea/docs/media/gallery/domino-energy.mp4",
+          "type": "video",
+          "label": "domino-energy.mp4",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-11-12T10:30:37Z",
+      "upstream_pushed_at": "2026-11-13T05:40:56Z",
+      "edition": "2026-11-13-round-2"
+    },
+    {
+      "repo": "seeyouintokyo/science-video-skill",
+      "title": "用代码画月相 / Moon phases in SVG",
+      "url": "https://github.com/seeyouintokyo/science-video-skill",
+      "category": "视频框架与程序化成片",
+      "type": "Agent Skill",
+      "summary": "用帧号控制 SVG 图形，让解说与逐句字幕同步；作者提供月相科普全片动图。 / Moon phases in SVG",
+      "hosts": [
+        "Claude",
+        "MiniMax",
+        "WorkBuddy"
+      ],
+      "status": "已核对固定版本的 Skill 与 README",
+      "curated": true,
+      "requirements": "Node、Remotion；中文配音使用作者所列的 MiniMax 流程。",
+      "limits": "案例来自作者；本目录未运行上游工作流。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 2,
+      "commit": "0659cb177534acad5142da3f9d57f31205bf64f6",
+      "checked_at": "2026-11-13T06:23:15.529931+00:00",
+      "runtime_tested": false,
+      "id": "seeyouintokyo--science-video-skill",
+      "aliases": [
+        "seeyouintokyo/science-video-skill"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/seeyouintokyo/science-video-skill/blob/0659cb177534acad5142da3f9d57f31205bf64f6/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:23:15.529931+00:00"
+        },
+        {
+          "url": "https://github.com/seeyouintokyo/science-video-skill/blob/0659cb177534acad5142da3f9d57f31205bf64f6/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:23:15.529931+00:00"
+        },
+        {
+          "url": "https://github.com/seeyouintokyo/science-video-skill/blob/0659cb177534acad5142da3f9d57f31205bf64f6/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/seeyouintokyo/science-video-skill/0659cb177534acad5142da3f9d57f31205bf64f6/assets/moon-full.gif",
+          "type": "image",
+          "label": "moon-full.gif",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-11-07T03:32:29Z",
+      "upstream_pushed_at": "2026-11-10T05:44:32Z",
+      "edition": "2026-11-13-round-2"
+    },
+    {
+      "repo": "deenukhan/animation-styles",
+      "title": "一壶茶的 39 种画风 / One kettle, 39 visual styles",
+      "url": "https://github.com/deenukhan/animation-styles",
+      "category": "视频框架与程序化成片",
+      "type": "Agent Skill",
+      "summary": "用同一段倒茶动作对比粉笔、蓝图、蜡笔等视觉语言，再把所选画风用于自己的故事。 / One kettle, 39 visual styles",
+      "hosts": [
+        "Claude"
+      ],
+      "status": "已核对固定版本的 Skill 与 README",
+      "curated": true,
+      "requirements": "Claude Code、Node 与 Remotion；画面由 SVG 或 Canvas 绘制。",
+      "limits": "案例来自作者；本目录未运行上游工作流。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 7,
+      "commit": "7f7afbd4c5a216135e51be354cb245dcfabedb3a",
+      "checked_at": "2026-11-13T06:23:15.530932+00:00",
+      "runtime_tested": false,
+      "id": "deenukhan--animation-styles",
+      "aliases": [
+        "deenukhan/animation-styles"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/deenukhan/animation-styles/blob/7f7afbd4c5a216135e51be354cb245dcfabedb3a/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:23:15.530932+00:00"
+        },
+        {
+          "url": "https://github.com/deenukhan/animation-styles/blob/7f7afbd4c5a216135e51be354cb245dcfabedb3a/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:23:15.530932+00:00"
+        },
+        {
+          "url": "https://github.com/deenukhan/animation-styles/blob/7f7afbd4c5a216135e51be354cb245dcfabedb3a/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/deenukhan/animation-styles/7f7afbd4c5a216135e51be354cb245dcfabedb3a/media/thumbs/02_chalkboard.webp",
+          "type": "image",
+          "label": "02_chalkboard.webp",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/deenukhan/animation-styles/7f7afbd4c5a216135e51be354cb245dcfabedb3a/media/thumbs/06_blueprint.webp",
+          "type": "image",
+          "label": "06_blueprint.webp",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-11-10T04:49:01Z",
+      "upstream_pushed_at": "2026-11-10T04:59:50Z",
+      "edition": "2026-11-13-round-2"
+    },
+    {
+      "repo": "seeyouintokyo/music-mv-skill",
+      "title": "歌词与鼓点驱动的竖屏 MV / Beat-driven lyric video",
+      "url": "https://github.com/seeyouintokyo/music-mv-skill",
+      "category": "视频框架与程序化成片",
+      "type": "Agent Skill",
+      "summary": "输入歌曲和歌词，让字幕跟随人声、图形跟随鼓点；样图是《月亮在等你》的成片静帧。 / Beat-driven lyric video",
+      "hosts": [
+        "Claude",
+        "MiniMax",
+        "WorkBuddy"
+      ],
+      "status": "已核对固定版本的 Skill 与 README",
+      "curated": true,
+      "requirements": "带人声的歌曲与歌词；Node、Remotion、FFmpeg、Python。",
+      "limits": "案例来自作者；本目录未运行上游工作流。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 1,
+      "commit": "a327326e252c69041e820edae66e49487ffbff7e",
+      "checked_at": "2026-11-13T06:23:15.532135+00:00",
+      "runtime_tested": false,
+      "id": "seeyouintokyo--music-mv-skill",
+      "aliases": [
+        "seeyouintokyo/music-mv-skill"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/seeyouintokyo/music-mv-skill/blob/a327326e252c69041e820edae66e49487ffbff7e/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:23:15.532135+00:00"
+        },
+        {
+          "url": "https://github.com/seeyouintokyo/music-mv-skill/blob/a327326e252c69041e820edae66e49487ffbff7e/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:23:15.532135+00:00"
+        },
+        {
+          "url": "https://github.com/seeyouintokyo/music-mv-skill/blob/a327326e252c69041e820edae66e49487ffbff7e/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/seeyouintokyo/music-mv-skill/a327326e252c69041e820edae66e49487ffbff7e/assets/preview/frame-120.png",
+          "type": "image",
+          "label": "frame-120.png",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/seeyouintokyo/music-mv-skill/a327326e252c69041e820edae66e49487ffbff7e/assets/preview/frame-500.png",
+          "type": "image",
+          "label": "frame-500.png",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-11-07T04:10:30Z",
+      "upstream_pushed_at": "2026-11-07T15:45:20Z",
+      "edition": "2026-11-13-round-2"
+    },
+    {
+      "repo": "shenwang2/remotion-canvas-director",
+      "title": "从口播切到解释画布 / Talking head to explainer canvas",
+      "url": "https://github.com/shenwang2/remotion-canvas-director",
+      "category": "视频框架与程序化成片",
+      "type": "Agent Skill",
+      "summary": "在讲到流程或关系时切到信息画布，再返回讲述者；可参考流水线、检索等解释动画的画面。 / Talking head to explainer canvas",
+      "hosts": [
+        "Claude"
+      ],
+      "status": "已核对固定版本的 Skill 与 README",
+      "curated": true,
+      "requirements": "Claude Code、Remotion 与口播素材；属于真人视频与程序动画混合工作流。",
+      "limits": "案例来自作者；本目录未运行上游工作流。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 2,
+      "commit": "119310bca311d4cc126430852cfb668731403b33",
+      "checked_at": "2026-11-13T06:23:15.532135+00:00",
+      "runtime_tested": false,
+      "id": "shenwang2--remotion-canvas-director",
+      "aliases": [
+        "shenwang2/remotion-canvas-director"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/shenwang2/remotion-canvas-director/blob/119310bca311d4cc126430852cfb668731403b33/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:23:15.532135+00:00"
+        },
+        {
+          "url": "https://github.com/shenwang2/remotion-canvas-director/blob/119310bca311d4cc126430852cfb668731403b33/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:23:15.532135+00:00"
+        },
+        {
+          "url": "https://github.com/shenwang2/remotion-canvas-director/blob/119310bca311d4cc126430852cfb668731403b33/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/shenwang2/remotion-canvas-director/119310bca311d4cc126430852cfb668731403b33/references/explainers/pipeline.jpg",
+          "type": "image",
+          "label": "pipeline.jpg",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/shenwang2/remotion-canvas-director/119310bca311d4cc126430852cfb668731403b33/references/explainers/retrieve.jpg",
+          "type": "image",
+          "label": "retrieve.jpg",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-11-01T14:55:19Z",
+      "upstream_pushed_at": "2026-11-01T14:55:49Z",
+      "edition": "2026-11-13-round-2"
+    },
+    {
+      "repo": "deer-flow/crayon-diagrams",
+      "title": "手机上能读的蜡笔技术图 / Crayon diagrams for mobile",
+      "url": "https://github.com/deer-flow/crayon-diagrams",
+      "category": "图像生成与商业视觉",
+      "type": "Agent Skill",
+      "summary": "把技术文章拆成架构图、流程图或看板，使用统一蜡笔风格表达信息层级。 / Crayon diagrams for mobile",
+      "hosts": [
+        "Claude"
+      ],
+      "status": "已核对固定版本的 Skill 与 README",
+      "curated": true,
+      "requirements": "支持技能的代理；Python 用于附带的辅助脚本。",
+      "limits": "案例来自作者；本目录未运行上游工作流。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 2,
+      "commit": "c3a2b6c265123f64c5b16b991d1ef9699ad0d80f",
+      "checked_at": "2026-11-13T06:23:21.550617+00:00",
+      "runtime_tested": false,
+      "id": "deer-flow--crayon-diagrams",
+      "aliases": [
+        "deer-flow/crayon-diagrams"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/deer-flow/crayon-diagrams/blob/c3a2b6c265123f64c5b16b991d1ef9699ad0d80f/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:23:21.550617+00:00"
+        },
+        {
+          "url": "https://github.com/deer-flow/crayon-diagrams/blob/c3a2b6c265123f64c5b16b991d1ef9699ad0d80f/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:23:21.550617+00:00"
+        },
+        {
+          "url": "https://github.com/deer-flow/crayon-diagrams/blob/c3a2b6c265123f64c5b16b991d1ef9699ad0d80f/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/deer-flow/crayon-diagrams/c3a2b6c265123f64c5b16b991d1ef9699ad0d80f/examples/kanban-snapshot/preview.webp",
+          "type": "image",
+          "label": "preview.webp",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/deer-flow/crayon-diagrams/c3a2b6c265123f64c5b16b991d1ef9699ad0d80f/examples/personal-agent-architecture/preview.webp",
+          "type": "image",
+          "label": "preview.webp",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-11-02T09:43:01Z",
+      "upstream_pushed_at": "2026-11-02T09:52:12Z",
+      "edition": "2026-11-13-round-2"
+    },
+    {
+      "repo": "aibex-aios/skill-schautafel",
+      "title": "从主题到知识挂图 / Illustrated topic boards",
+      "url": "https://github.com/aibex-aios/skill-schautafel",
+      "category": "图像生成与商业视觉",
+      "type": "Agent Skill",
+      "summary": "先拟定标题与分块提纲，再把绘图说明交给图像技能生成挂图；预览为作者的版式风格样张。 / Illustrated topic boards",
+      "hosts": [
+        "Codex",
+        "ChatGPT"
+      ],
+      "status": "已核对固定版本的 Skill 与 README",
+      "curated": true,
+      "requirements": "AIbex AIOS 项目及其 image-generation 技能，后者通过 Codex 生图。",
+      "limits": "案例来自作者；本目录未运行上游工作流。",
+      "license": "Apache-2.0",
+      "archived": false,
+      "stars": 0,
+      "commit": "632177e9d9a71e72df97f0668cac6fc6d86ff10b",
+      "checked_at": "2026-11-13T06:23:22.334028+00:00",
+      "runtime_tested": false,
+      "id": "aibex-aios--skill-schautafel",
+      "aliases": [
+        "aibex-aios/skill-schautafel"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/aibex-aios/skill-schautafel/blob/632177e9d9a71e72df97f0668cac6fc6d86ff10b/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:23:22.334028+00:00"
+        },
+        {
+          "url": "https://github.com/aibex-aios/skill-schautafel/blob/632177e9d9a71e72df97f0668cac6fc6d86ff10b/skills/schautafel/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:23:22.334028+00:00"
+        },
+        {
+          "url": "https://github.com/aibex-aios/skill-schautafel/blob/632177e9d9a71e72df97f0668cac6fc6d86ff10b/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/aibex-aios/skill-schautafel/632177e9d9a71e72df97f0668cac6fc6d86ff10b/skills/schautafel/stile/atlas.jpg",
+          "type": "image",
+          "label": "atlas.jpg",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/aibex-aios/skill-schautafel/632177e9d9a71e72df97f0668cac6fc6d86ff10b/skills/schautafel/stile/classic.jpg",
+          "type": "image",
+          "label": "classic.jpg",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-11-08T14:36:48Z",
+      "upstream_pushed_at": "2026-11-08T14:45:38Z",
+      "edition": "2026-11-13-round-2"
+    },
+    {
+      "repo": "kers701/bride-series-skill",
+      "title": "同一角色的旗袍婚纱变体 / Character-consistent bridal portraits",
+      "url": "https://github.com/kers701/bride-series-skill",
+      "category": "图像生成与商业视觉",
+      "type": "Agent Skill",
+      "summary": "用编号参考图锁定角色，在不同礼服和场景中延续造型；附旗袍成图和编辑提示词。 / Character-consistent bridal portraits",
+      "hosts": [
+        "DeepSeek Harness",
+        "Gemini (image backend)"
+      ],
+      "status": "已核对固定版本的 Skill 与 README",
+      "curated": true,
+      "requirements": "DeepSeek Harness 编排，按作者示例由 Gemini 图像模型出图，需可用的生图渠道。",
+      "limits": "案例来自作者；本目录未运行上游工作流。",
+      "license": "未识别到仓库许可",
+      "archived": false,
+      "stars": 0,
+      "commit": "b2d48ec268d4230d0fc075d5320c7003e0a366b9",
+      "checked_at": "2026-11-13T06:23:24.068372+00:00",
+      "runtime_tested": false,
+      "id": "kers701--bride-series-skill",
+      "aliases": [
+        "kers701/bride-series-skill"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/kers701/bride-series-skill/blob/b2d48ec268d4230d0fc075d5320c7003e0a366b9/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:23:24.068372+00:00"
+        },
+        {
+          "url": "https://github.com/kers701/bride-series-skill/blob/b2d48ec268d4230d0fc075d5320c7003e0a366b9/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:23:24.068372+00:00"
+        },
+        {
+          "type": "Author prompt / 作者完整提示词 · prompt-edit.txt",
+          "url": "https://github.com/kers701/bride-series-skill/blob/b2d48ec268d4230d0fc075d5320c7003e0a366b9/prompt-edit.txt"
+        },
+        {
+          "type": "Author prompt / 作者完整提示词 · prompt-qipao-bride.txt",
+          "url": "https://github.com/kers701/bride-series-skill/blob/b2d48ec268d4230d0fc075d5320c7003e0a366b9/prompt-qipao-bride.txt"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/kers701/bride-series-skill/b2d48ec268d4230d0fc075d5320c7003e0a366b9/example/example-qipao-bride.jpg",
+          "type": "image",
+          "label": "example-qipao-bride.jpg",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-11-08T04:33:49Z",
+      "upstream_pushed_at": "2026-11-08T04:33:59Z",
+      "edition": "2026-11-13-round-2"
+    },
+    {
+      "repo": "vvcc0101/tiled-image-upscale",
+      "title": "分块放大前后对比 / Tiled image-upscaling comparison",
+      "url": "https://github.com/vvcc0101/tiled-image-upscale",
+      "category": "图像生成与商业视觉",
+      "type": "Agent Skill",
+      "summary": "把小图重叠分块，逐块图生图，再校正颜色、羽化拼接。可放大作者的对比图观察纹理变化。 / Tiled image-upscaling comparison",
+      "hosts": [
+        "Codex"
+      ],
+      "status": "已核对固定版本的 Skill 与 README",
+      "curated": true,
+      "requirements": "Node 20.9+、sharp；在线重绘需单独的 image-gen 服务和账号。",
+      "limits": "案例来自作者；本目录未运行上游工作流。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 1,
+      "commit": "357e52746dff30b51435ae718737bf551a5c7568",
+      "checked_at": "2026-11-13T06:23:24.299166+00:00",
+      "runtime_tested": false,
+      "id": "vvcc0101--tiled-image-upscale",
+      "aliases": [
+        "vvcc0101/tiled-image-upscale"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/vvcc0101/tiled-image-upscale/blob/357e52746dff30b51435ae718737bf551a5c7568/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:23:24.299166+00:00"
+        },
+        {
+          "url": "https://github.com/vvcc0101/tiled-image-upscale/blob/357e52746dff30b51435ae718737bf551a5c7568/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:23:24.299166+00:00"
+        },
+        {
+          "url": "https://github.com/vvcc0101/tiled-image-upscale/blob/357e52746dff30b51435ae718737bf551a5c7568/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/vvcc0101/tiled-image-upscale/357e52746dff30b51435ae718737bf551a5c7568/examples/demo-01/comparison-01.png",
+          "type": "image",
+          "label": "comparison-01.png",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/vvcc0101/tiled-image-upscale/357e52746dff30b51435ae718737bf551a5c7568/examples/demo-01/comparison-02.png",
+          "type": "image",
+          "label": "comparison-02.png",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-11-09T18:44:39Z",
+      "upstream_pushed_at": "2026-11-09T18:53:44Z",
+      "edition": "2026-11-13-round-2"
+    },
+    {
+      "repo": "daaihq/da-motion-sticker-skill",
+      "title": "九宫格角色动图 / Nine animated character reactions",
+      "url": "https://github.com/daaihq/da-motion-sticker-skill",
+      "category": "表情包与动态贴纸",
+      "type": "Agent Skill",
+      "summary": "围绕同一角色规划九种动作，走视频提帧或关键姿势路线，再合成一套 GIF。 / Nine animated character reactions",
+      "hosts": [
+        "Codex",
+        "ChatGPT"
+      ],
+      "status": "已核对固定版本的 Skill 与 README",
+      "curated": true,
+      "requirements": "Python、Pillow、NumPy；视频路线需 FFmpeg 和 FFprobe。",
+      "limits": "案例来自作者；本目录未运行上游工作流。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 96,
+      "commit": "909241387830a83b91e11d553cb2efafdcc897db",
+      "checked_at": "2026-11-13T06:23:24.501961+00:00",
+      "runtime_tested": false,
+      "id": "daaihq--da-motion-sticker-skill",
+      "aliases": [
+        "daaihq/da-motion-sticker-skill"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/daaihq/da-motion-sticker-skill/blob/909241387830a83b91e11d553cb2efafdcc897db/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:23:24.501961+00:00"
+        },
+        {
+          "url": "https://github.com/daaihq/da-motion-sticker-skill/blob/909241387830a83b91e11d553cb2efafdcc897db/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:23:24.501961+00:00"
+        },
+        {
+          "url": "https://github.com/daaihq/da-motion-sticker-skill/blob/909241387830a83b91e11d553cb2efafdcc897db/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/daaihq/da-motion-sticker-skill/909241387830a83b91e11d553cb2efafdcc897db/assets/preview_gif/01.gif",
+          "type": "image",
+          "label": "01.gif",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/daaihq/da-motion-sticker-skill/909241387830a83b91e11d553cb2efafdcc897db/assets/preview_gif/02.gif",
+          "type": "image",
+          "label": "02.gif",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-08-29T00:28:47Z",
+      "upstream_pushed_at": "2026-11-05T02:43:38Z",
+      "edition": "2026-11-13-round-2"
+    },
+    {
+      "repo": "aimanplay/manman-ai-sticker",
+      "title": "算法人的聊天表情 / A research engineer’s reaction GIFs",
+      "url": "https://github.com/aimanplay/manman-ai-sticker",
+      "category": "表情包与动态贴纸",
+      "type": "Agent Skill",
+      "summary": "把日常短句编成连续动作，以统一的角色设定图绘制精灵图，再输出透明 GIF 或 APNG。 / A research engineer’s reaction GIFs",
+      "hosts": [
+        "Claude",
+        "Codex",
+        "ChatGPT"
+      ],
+      "status": "已核对固定版本的 Skill 与 README",
+      "curated": true,
+      "requirements": "可替换的生图工具；Python、Pillow、NumPy 用于本地合成。",
+      "limits": "案例来自作者；本目录未运行上游工作流。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 2,
+      "commit": "f60c2011c8addb6e4f2bb73a5640525ce70e80bc",
+      "checked_at": "2026-11-13T06:23:29.801002+00:00",
+      "runtime_tested": false,
+      "id": "aimanplay--manman-ai-sticker",
+      "aliases": [
+        "aimanplay/manman-ai-sticker"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/aimanplay/manman-ai-sticker/blob/f60c2011c8addb6e4f2bb73a5640525ce70e80bc/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:23:29.801002+00:00"
+        },
+        {
+          "url": "https://github.com/aimanplay/manman-ai-sticker/blob/f60c2011c8addb6e4f2bb73a5640525ce70e80bc/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:23:29.801002+00:00"
+        },
+        {
+          "url": "https://github.com/aimanplay/manman-ai-sticker/blob/f60c2011c8addb6e4f2bb73a5640525ce70e80bc/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/aimanplay/manman-ai-sticker/f60c2011c8addb6e4f2bb73a5640525ce70e80bc/assets/%E7%A4%BA%E4%BE%8B_B_%E5%A4%8D%E7%8E%B0%E4%BA%86_240.gif",
+          "type": "image",
+          "label": "示例_B_复现了_240.gif",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/aimanplay/manman-ai-sticker/f60c2011c8addb6e4f2bb73a5640525ce70e80bc/assets/%E7%A4%BA%E4%BE%8B_B_%E8%B7%91%E4%B8%AA%E5%AE%9E%E9%AA%8C_240.gif",
+          "type": "image",
+          "label": "示例_B_跑个实验_240.gif",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-11-10T04:44:49Z",
+      "upstream_pushed_at": "2026-11-10T06:00:42Z",
+      "edition": "2026-11-13-round-2"
+    },
+    {
+      "repo": "qtyasupo/wechat-gif-sticker-studio",
+      "title": "洛小咪微信专辑包装 / A cat sticker album for WeChat",
+      "url": "https://github.com/qtyasupo/wechat-gif-sticker-studio",
+      "category": "表情包与动态贴纸",
+      "type": "Agent Skill",
+      "summary": "从定妆到循环动作提示词，再检查动图并制作微信专辑配图；此处展示作者专辑横幅。 / A cat sticker album for WeChat",
+      "hosts": [
+        "Codex"
+      ],
+      "status": "已核对固定版本的 Skill 与 README",
+      "curated": true,
+      "requirements": "默认由用户在网页端生成 GIF，助手负责写提示词、验收和打包。",
+      "limits": "案例来自作者；本目录未运行上游工作流。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 2,
+      "commit": "c2b38fd73066a58845d2b730c84e6aa6af343774",
+      "checked_at": "2026-11-13T06:23:30.717974+00:00",
+      "runtime_tested": false,
+      "id": "qtyasupo--wechat-gif-sticker-studio",
+      "aliases": [
+        "qtyasupo/wechat-gif-sticker-studio"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/qtyasupo/wechat-gif-sticker-studio/blob/c2b38fd73066a58845d2b730c84e6aa6af343774/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:23:30.717974+00:00"
+        },
+        {
+          "url": "https://github.com/qtyasupo/wechat-gif-sticker-studio/blob/c2b38fd73066a58845d2b730c84e6aa6af343774/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-13T06:23:30.717974+00:00"
+        },
+        {
+          "url": "https://github.com/qtyasupo/wechat-gif-sticker-studio/blob/c2b38fd73066a58845d2b730c84e6aa6af343774/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/qtyasupo/wechat-gif-sticker-studio/c2b38fd73066a58845d2b730c84e6aa6af343774/examples/luoxiaomi2/assets/banner.png",
+          "type": "image",
+          "label": "banner.png",
+          "relationship": "Example in the author’s repository",
+          "verification": "Media signature and pinned source checked; not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-11-05T16:50:54Z",
+      "upstream_pushed_at": "2026-11-06T09:35:19Z",
+      "edition": "2026-11-13-round-2"
     }
   ],
   "skills": [
@@ -41333,6 +42046,234 @@
           "repo": "Alexsun1one/gif-stickers",
           "path": "SKILL.md",
           "url": "https://github.com/Alexsun1one/gif-stickers/blob/de1184be0202c91bd75a954ff64cf6aadf959efa/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "cbc2a5275018a2d2",
+      "repo": "S-Fan-ZJU/vibe-science-video",
+      "name": "vibe-science-video",
+      "description": "用实验场景组织科普讲解，可对照骨牌、降噪和棱镜样片学习画面设计。",
+      "category": "视频框架与程序化成片",
+      "sha256": "cbc2a5275018a2d2147ae1593b2096a40d0c48aa4baca916b66a340fe7e335b5",
+      "sources": [
+        {
+          "repo": "S-Fan-ZJU/vibe-science-video",
+          "path": "skills/vibe-science-video/SKILL.md",
+          "url": "https://github.com/S-Fan-ZJU/vibe-science-video/blob/73d7bdc821f12f7049b2d5e99091e69da64acbea/skills/vibe-science-video/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "f8d24f7f7eba21b7",
+      "repo": "seeyouintokyo/science-video-skill",
+      "name": "axing-science-video",
+      "description": "用帧号控制 SVG 图形，让解说与逐句字幕同步；作者提供月相科普全片动图。",
+      "category": "视频框架与程序化成片",
+      "sha256": "f8d24f7f7eba21b733ce56f8216e823e3216eb91392a702bc6b592727f646e33",
+      "sources": [
+        {
+          "repo": "seeyouintokyo/science-video-skill",
+          "path": "SKILL.md",
+          "url": "https://github.com/seeyouintokyo/science-video-skill/blob/0659cb177534acad5142da3f9d57f31205bf64f6/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "5900200d9c986e33",
+      "repo": "deenukhan/animation-styles",
+      "name": "animation-styles",
+      "description": "用同一段倒茶动作对比粉笔、蓝图、蜡笔等视觉语言，再把所选画风用于自己的故事。",
+      "category": "视频框架与程序化成片",
+      "sha256": "5900200d9c986e33f33d128d9bd22ef3856619b24f10656f8cbbf53273f6e6fa",
+      "sources": [
+        {
+          "repo": "deenukhan/animation-styles",
+          "path": "SKILL.md",
+          "url": "https://github.com/deenukhan/animation-styles/blob/7f7afbd4c5a216135e51be354cb245dcfabedb3a/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "68ecaf8be8442307",
+      "repo": "seeyouintokyo/music-mv-skill",
+      "name": "music-mv",
+      "description": "输入歌曲和歌词，让字幕跟随人声、图形跟随鼓点；样图是《月亮在等你》的成片静帧。",
+      "category": "视频框架与程序化成片",
+      "sha256": "68ecaf8be8442307e93f4ab23528f92440babb347c7be6681e5d34fd6b4e3f7c",
+      "sources": [
+        {
+          "repo": "seeyouintokyo/music-mv-skill",
+          "path": "SKILL.md",
+          "url": "https://github.com/seeyouintokyo/music-mv-skill/blob/a327326e252c69041e820edae66e49487ffbff7e/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "46058153dddf5b01",
+      "repo": "shenwang2/remotion-canvas-director",
+      "name": "remotion-canvas-director",
+      "description": "在讲到流程或关系时切到信息画布，再返回讲述者；可参考流水线、检索等解释动画的画面。",
+      "category": "视频框架与程序化成片",
+      "sha256": "46058153dddf5b010d8c4d48f9f30c6b0ee050f8510ca976336090e84cb234c3",
+      "sources": [
+        {
+          "repo": "shenwang2/remotion-canvas-director",
+          "path": "SKILL.md",
+          "url": "https://github.com/shenwang2/remotion-canvas-director/blob/119310bca311d4cc126430852cfb668731403b33/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "56b76e62a6e5e753",
+      "repo": "deer-flow/crayon-diagrams",
+      "name": "crayon-diagrams",
+      "description": "把技术文章拆成架构图、流程图或看板，使用统一蜡笔风格表达信息层级。",
+      "category": "图像生成与商业视觉",
+      "sha256": "56b76e62a6e5e7531a0a30b7db285b9d8aa6071f62931dbf8ba06ef5e24c469e",
+      "sources": [
+        {
+          "repo": "deer-flow/crayon-diagrams",
+          "path": "SKILL.md",
+          "url": "https://github.com/deer-flow/crayon-diagrams/blob/c3a2b6c265123f64c5b16b991d1ef9699ad0d80f/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "222d58fc8ae516a5",
+      "repo": "aibex-aios/skill-schautafel",
+      "name": "schautafel",
+      "description": "先拟定标题与分块提纲，再把绘图说明交给图像技能生成挂图；预览为作者的版式风格样张。",
+      "category": "图像生成与商业视觉",
+      "sha256": "222d58fc8ae516a589f1d41e702b905d38af614322990bffab5b6cefa6b8af23",
+      "sources": [
+        {
+          "repo": "aibex-aios/skill-schautafel",
+          "path": "skills/schautafel/SKILL.md",
+          "url": "https://github.com/aibex-aios/skill-schautafel/blob/632177e9d9a71e72df97f0668cac6fc6d86ff10b/skills/schautafel/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "a83c5352d036dbb0",
+      "repo": "kers701/bride-series-skill",
+      "name": "bride-series",
+      "description": "用编号参考图锁定角色，在不同礼服和场景中延续造型；附旗袍成图和编辑提示词。",
+      "category": "图像生成与商业视觉",
+      "sha256": "a83c5352d036dbb01a4c2d34f1b3f2008b0b16709499a6fe2acbab12ba544c6f",
+      "sources": [
+        {
+          "repo": "kers701/bride-series-skill",
+          "path": "SKILL.md",
+          "url": "https://github.com/kers701/bride-series-skill/blob/b2d48ec268d4230d0fc075d5320c7003e0a366b9/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "867ea02acf1932f8",
+      "repo": "vvcc0101/tiled-image-upscale",
+      "name": "tiled-image-upscale",
+      "description": "把小图重叠分块，逐块图生图，再校正颜色、羽化拼接。可放大作者的对比图观察纹理变化。",
+      "category": "图像生成与商业视觉",
+      "sha256": "867ea02acf1932f8de5b6baf60174ad0dc43687d2878be1e3d39a9cbe944f021",
+      "sources": [
+        {
+          "repo": "vvcc0101/tiled-image-upscale",
+          "path": "SKILL.md",
+          "url": "https://github.com/vvcc0101/tiled-image-upscale/blob/357e52746dff30b51435ae718737bf551a5c7568/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "ecc57610e6f2ffea",
+      "repo": "daaihq/da-motion-sticker-skill",
+      "name": "da-motion-sticker-skill",
+      "description": "围绕同一角色规划九种动作，走视频提帧或关键姿势路线，再合成一套 GIF。",
+      "category": "表情包与动态贴纸",
+      "sha256": "ecc57610e6f2ffead5b78975d649e8f966ffd49b74a7186f556d914e3b085151",
+      "sources": [
+        {
+          "repo": "daaihq/da-motion-sticker-skill",
+          "path": "SKILL.md",
+          "url": "https://github.com/daaihq/da-motion-sticker-skill/blob/909241387830a83b91e11d553cb2efafdcc897db/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "28f96b6d3f3d5317",
+      "repo": "aimanplay/manman-ai-sticker",
+      "name": "manman-ai-sticker",
+      "description": "把日常短句编成连续动作，以统一的角色设定图绘制精灵图，再输出透明 GIF 或 APNG。",
+      "category": "表情包与动态贴纸",
+      "sha256": "28f96b6d3f3d5317d72bad6b1c3cbd06b3988f277355324a7d41fb4429c4cc5e",
+      "sources": [
+        {
+          "repo": "aimanplay/manman-ai-sticker",
+          "path": "SKILL.md",
+          "url": "https://github.com/aimanplay/manman-ai-sticker/blob/f60c2011c8addb6e4f2bb73a5640525ce70e80bc/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "4d37ec773dfe78dc",
+      "repo": "qtyasupo/wechat-gif-sticker-studio",
+      "name": "wechat-gif-sticker-studio",
+      "description": "从定妆到循环动作提示词，再检查动图并制作微信专辑配图；此处展示作者专辑横幅。",
+      "category": "表情包与动态贴纸",
+      "sha256": "4d37ec773dfe78dc79d2e419949ee48208a1bac8a36f1c288ca870ba84b8e9e1",
+      "sources": [
+        {
+          "repo": "qtyasupo/wechat-gif-sticker-studio",
+          "path": "SKILL.md",
+          "url": "https://github.com/qtyasupo/wechat-gif-sticker-studio/blob/c2b38fd73066a58845d2b730c84e6aa6af343774/SKILL.md"
         }
       ],
       "text": "",
@@ -110191,6 +111132,115 @@
         "Codex"
       ],
       "text_status": "Author’s example invocation / 作者调用示例"
+    },
+    {
+      "id": "c64684fd6e4dca51",
+      "repo": "deenukhan/animation-styles",
+      "title": "一壶茶的 39 种画风 · 作者调用示例",
+      "category": "视频框架与程序化成片",
+      "origin": "Author README / 作者 README",
+      "review": "作者公开的调用语句；相关项目样片见项目页。",
+      "sources": [
+        {
+          "url": "https://github.com/deenukhan/animation-styles/blob/7f7afbd4c5a216135e51be354cb245dcfabedb3a/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:23:15.530932+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Claude"
+      ],
+      "text": "Make a stained glass version of a honey jar pouring honey onto a pancake.",
+      "text_status": "Example invocation excerpt / 公开调用语句节选"
+    },
+    {
+      "id": "ea0f966872b4a23a",
+      "repo": "deenukhan/animation-styles",
+      "title": "一壶茶的 39 种画风 · 作者调用示例 2",
+      "category": "视频框架与程序化成片",
+      "origin": "Author README / 作者 README",
+      "review": "作者公开的调用语句；相关项目样片见项目页。",
+      "sources": [
+        {
+          "url": "https://github.com/deenukhan/animation-styles/blob/7f7afbd4c5a216135e51be354cb245dcfabedb3a/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:23:15.530932+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Claude"
+      ],
+      "text": "Make a whiteboard explainer of a cloud uploading files into a folder that fills up.",
+      "text_status": "Example invocation excerpt / 公开调用语句节选"
+    },
+    {
+      "id": "f138a99e3c13e27e",
+      "repo": "seeyouintokyo/music-mv-skill",
+      "title": "歌词与鼓点驱动的竖屏 MV · 作者调用示例",
+      "category": "视频框架与程序化成片",
+      "origin": "Author README / 作者 README",
+      "review": "作者公开的调用语句；相关项目样片见项目页。",
+      "sources": [
+        {
+          "url": "https://github.com/seeyouintokyo/music-mv-skill/blob/a327326e252c69041e820edae66e49487ffbff7e/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:23:15.532135+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Claude",
+        "MiniMax",
+        "WorkBuddy"
+      ],
+      "text": "用 music-mv 给《月亮在等你》做一条竖屏 MV。",
+      "text_status": "Example invocation excerpt / 公开调用语句节选"
+    },
+    {
+      "id": "9f630ef9f43f1006",
+      "repo": "kers701/bride-series-skill",
+      "title": "同一角色的旗袍婚纱变体 · 作者调用示例",
+      "category": "图像生成与商业视觉",
+      "origin": "Author README / 作者 README",
+      "review": "作者公开的调用语句；相关项目样片见项目页。",
+      "sources": [
+        {
+          "url": "https://github.com/kers701/bride-series-skill/blob/b2d48ec268d4230d0fc075d5320c7003e0a366b9/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:23:24.068372+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "DeepSeek Harness",
+        "Gemini (image backend)"
+      ],
+      "text": "用花嫁配方画一张",
+      "text_status": "Example invocation excerpt / 公开调用语句节选"
+    },
+    {
+      "id": "c759c962c62f860b",
+      "repo": "daaihq/da-motion-sticker-skill",
+      "title": "九宫格角色动图 · 作者调用示例",
+      "category": "表情包与动态贴纸",
+      "origin": "Author README / 作者 README",
+      "review": "作者公开的调用语句；相关项目样片见项目页。",
+      "sources": [
+        {
+          "url": "https://github.com/daaihq/da-motion-sticker-skill/blob/909241387830a83b91e11d553cb2efafdcc897db/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-13T06:23:24.501961+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Codex",
+        "ChatGPT"
+      ],
+      "text": "使用 $da-motion-sticker-skill，为附件角色做一套“周一上班”主题表情包，风格选 04。",
+      "text_status": "Example invocation excerpt / 公开调用语句节选"
     }
   ],
   "cases": [

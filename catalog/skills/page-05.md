@@ -4,6 +4,10 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [video-script](../../skills/58d03a784e81589a.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
+| [video-understanding](../../skills/86c395f032d934f6.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
+| [video-voiceover](../../skills/e726cda155ae10de.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
+| [animate](../../skills/1208ee4ab2458a48.md) | 广告与产品演示 | cth9191/animate |
 | [character-refs](../../skills/16f39d589dbf727b.md) | 广告与产品演示 | eternityspring/shuohao-skills |
 | [create-promo-video](../../skills/efe5f940dc3b8a08.md) | 广告与产品演示 | alentodorov/create-promo-video |
 | [guizang-product-video-skill](../../skills/bbc1dc661af2a701.md) | 广告与产品演示 | op7418/guizang-product-video-skill |
@@ -80,9 +84,5 @@
 | [scenario-blender-blockout](../../skills/966d792b085e57b2.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-blender-expert](../../skills/15139d52aa6c0f41.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-blender-export](../../skills/2c306189b1546a71.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-blender-geometry-nodes](../../skills/e1ec3f02f576a1a4.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-blender-grease-pencil](../../skills/677043742ae0d32a.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-blender-hair](../../skills/4fea0e6858afda27.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-blender-hard-surface](../../skills/c02f083b19e38874.md) | 游戏资产与像素画 | scenario-labs/skills |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md)

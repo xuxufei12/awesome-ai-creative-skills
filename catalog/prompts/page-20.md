@@ -4,6 +4,7 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [Business Motion Explainer](../../prompts/848946d775a4e7ea.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [Cinematic AI History](../../prompts/e1a0c01c42dc6930.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [Claude Code Explainer Animation](../../prompts/4bf4f6a7333f77d8.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [Claude Opus 5.5 Animation Workflow Tutorial](../../prompts/b9c86770c48c2a60.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
@@ -83,6 +84,5 @@
 | [explainer · @iTakahashikun · 990109](../../prompts/a587bf9bc1681a79.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [explainer · @imthatcarlos · 133592](../../prompts/d04d312881d7e1d6.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [explainer · @iniyanai · 856596](../../prompts/6066aedf60ed6c2d.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [explainer · @irinatoxi · 962937](../../prompts/667868682a849a98.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

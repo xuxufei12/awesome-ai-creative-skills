@@ -4,6 +4,15 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [hyperframes-core](../../skills/689de1f94e682ee3.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [hyperframes-core](../../skills/c232a83c0cae2c7f.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
+| [hyperframes-creative](../../skills/8b104a3928473f3e.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [hyperframes-creative](../../skills/3ea9a6108ad547ba.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
+| [hyperframes-keyframes](../../skills/6356d2f77036c19e.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
+| [hyperframes-media](../../skills/2427217105228e80.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [hyperframes-registry](../../skills/1abaa095aae1b680.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [hyperframes-registry](../../skills/1c7b27632c9ea9fe.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
+| [hyperframes-registry](../../skills/5c0fa72f016897b7.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
 | [hyperframes-studio](../../skills/ba0f256c2735425e.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
 | [ideogram4](../../skills/81e5bced9c530cbc.md) | 视频框架与程序化成片 | digitalsamba/claude-code-video-toolkit |
 | [image-generate](../../skills/ca56ff2c0eaf0b23.md) | 视频框架与程序化成片 | fengyungithub/dsh-short-video-studio |
@@ -24,6 +33,7 @@
 | [motion-kit](../../skills/ce2a91f642e3adf4.md) | 视频框架与程序化成片 | kiselas/every-frame-is-code |
 | [moviepy](../../skills/2960d7994fd72635.md) | 视频框架与程序化成片 | digitalsamba/claude-code-video-toolkit |
 | [music](../../skills/50d30474d87bb0a1.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [music-mv](../../skills/68ecaf8be8442307.md) | 视频框架与程序化成片 | seeyouintokyo/music-mv-skill |
 | [music-to-video](../../skills/6187efb7b0f8ed52.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [music-to-video](../../skills/4a5ac7feeb6e0298.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
 | [oil-ui](../../skills/c3b7c11d3fc6f32b.md) | 视频框架与程序化成片 | oil-oil/dsh-oil-ui |
@@ -42,6 +52,7 @@
 | [remotion-best-practices](../../skills/4e9123f17ee753af.md) | 视频框架与程序化成片 | digitalsamba/claude-code-video-toolkit |
 | [remotion-best-practices](../../skills/db0a72a3eb8830b8.md) | 视频框架与程序化成片 | remotion-dev/skills |
 | [remotion-best-practices](../../skills/23c5c52d379ccca7.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
+| [remotion-canvas-director](../../skills/46058153dddf5b01.md) | 视频框架与程序化成片 | shenwang2/remotion-canvas-director |
 | [remotion-captions](../../skills/87e458cb6d0a0428.md) | 视频框架与程序化成片 | remotion-dev/skills |
 | [remotion-captions](../../skills/8d08dc238f3df6c6.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
 | [remotion-create](../../skills/c2f66b109091d349.md) | 视频框架与程序化成片 | remotion-dev/skills |
@@ -73,16 +84,5 @@
 | [scriptwriting](../../skills/ef1e8ea98f6c10d0.md) | 视频框架与程序化成片 | salomonMuriel/media-production-skills |
 | [seam-craft](../../skills/c5aa27c6d6c088fa.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
 | [seedance-2-0](../../skills/cec29922243503d9.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [seedance-2-5](../../skills/64742d7acd63d1fa.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [setup-api-key](../../skills/92f00a9f71f2812b.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [showtime](../../skills/709dfc36d05bc869.md) | 视频框架与程序化成片 | FavioVazquez/showtime |
-| [slideshow](../../skills/4525f1a0d468f919.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
-| [slideshow](../../skills/ca93daf7a53781b4.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
-| [sound-design](../../skills/7626d4527e5b468d.md) | 视频框架与程序化成片 | salomonMuriel/media-production-skills |
-| [sound-effects](../../skills/9da7f48812a55a65.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [speech-to-text](../../skills/e8f86292bcd42e1e.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [story-short-generator](../../skills/713d6e6a4f0a3d13.md) | 视频框架与程序化成片 | fengyungithub/dsh-short-video-studio |
-| [svg-character-animation](../../skills/b6c51f692d0afe54.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [synthetic-screen-recording](../../skills/352bcc1435ef931b.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md)

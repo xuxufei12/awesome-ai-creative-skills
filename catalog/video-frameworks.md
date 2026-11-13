@@ -7,6 +7,7 @@
 | [chiphoton/DeepSeek-Harness-Video-Director](../projects/chiphoton--deepseek-harness-video-director.md) | 脚本、提示词、图像、音频和视频组成节点工作流。 | 1 | 0 |
 | [cooperchx/paper-cutout-story](../projects/cooperchx--paper-cutout-story.md) | 把人物步态、城市贴图和纸片转场写进 Canvas 时间线，再逐帧导出。 / Shanghai paper-cut city walk | 1 | 0 |
 | [dawn0731/dsh-video-gen](../projects/dawn0731--dsh-video-gen.md) | 在对话中提交文生视频／图生视频并保存结果。 | 0 | 0 |
+| [deenukhan/animation-styles](../projects/deenukhan--animation-styles.md) | 用同一段倒茶动作对比粉笔、蓝图、蜡笔等视觉语言，再把所选画风用于自己的故事。 / One kettle, 39 visual styles | 1 | 2 |
 | [digitalsamba/claude-code-video-toolkit](../projects/digitalsamba--claude-code-video-toolkit.md) | 品牌、录屏、Remotion、FFmpeg 组成项目式制作流程。 | 14 | 0 |
 | [fengyungithub/dsh-short-video-studio](../projects/fengyungithub--dsh-short-video-studio.md) | 画布、媒体资产与 ComfyUI 场景生产工作流。 | 5 | 0 |
 | [heygen-com/hyperframes](../projects/heygen-com--hyperframes.md) | 以 HTML 和动画代码组织视频并渲染成片。 | 20 | 0 |
@@ -16,7 +17,11 @@
 | [oil-oil/dsh-oil-ui](../projects/oil-oil--dsh-oil-ui.md) | Oil UI 的 DeepSeek Harness 原生插件，支持自动切换本地安装的 Oil UI Pro | 1 | 0 |
 | [remotion-dev/claude-code-plugin](../projects/remotion-dev--claude-code-plugin.md) | Remotion Agent Skills for Claude Code | 12 | 0 |
 | [remotion-dev/skills](../projects/remotion-dev--skills.md) | 用 React 时间轴制作产品片、动态图表和解说视频。 | 12 | 0 |
+| [S-Fan-ZJU/vibe-science-video](../projects/s-fan-zju--vibe-science-video.md) | 用实验场景组织科普讲解，可对照骨牌、降噪和棱镜样片学习画面设计。 / Domino energy transfer | 1 | 0 |
 | [salomonMuriel/media-production-skills](../projects/salomonmuriel--media-production-skills.md) | 把导演、脚本、配音、图像和声音设计组织为配套技能。 | 5 | 0 |
+| [seeyouintokyo/music-mv-skill](../projects/seeyouintokyo--music-mv-skill.md) | 输入歌曲和歌词，让字幕跟随人声、图形跟随鼓点；样图是《月亮在等你》的成片静帧。 / Beat-driven lyric video | 1 | 1 |
+| [seeyouintokyo/science-video-skill](../projects/seeyouintokyo--science-video-skill.md) | 用帧号控制 SVG 图形，让解说与逐句字幕同步；作者提供月相科普全片动图。 / Moon phases in SVG | 1 | 0 |
+| [shenwang2/remotion-canvas-director](../projects/shenwang2--remotion-canvas-director.md) | 在讲到流程或关系时切到信息画布，再返回讲述者；可参考流水线、检索等解释动画的画面。 / Talking head to explainer canvas | 1 | 0 |
 | [social-media-skills/remotion-shorts-skill](../projects/social-media-skills--remotion-shorts-skill.md) | 从主题、数据或更新日志编排镜头，在本机渲染 Remotion 短片，并导出封面与镜头校样。 / Data-driven vertical shorts | 1 | 0 |
 | [syydaniel/kazi](../projects/syydaniel--kazi.md) | 让讲解动画的关键动作落在旁白对应词上；同一题材有 Opus、Sonnet 对照视频。 / Word-timed explainers | 1 | 0 |
 | [WinterArc21/Battle-of-Austerlitz-Film](../projects/winterarc21--battle-of-austerlitz-film.md) | WinterArc21/Battle-of-Austerlitz-Film | 0 | 0 |

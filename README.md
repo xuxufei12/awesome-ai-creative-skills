@@ -13,9 +13,32 @@ Explore ways to create imaginative images, videos, motion graphics and 3D scenes
 
 **See the effect, then find the method.** GIFs play inline. Open any preview or its Skill / Prompt link to see how it is made.
 
-[November picks: paper films, candid photos and reaction GIFs](#november-picks) · [Animated previews](#animated) · [Creative images & design](#images) · [Art animation & styles](#animation) · [3D worlds & product visuals](#worlds) · [Ads & commercial films](#ads) · [Cinematic & story films](#films)
+[November II: moon phases, crayon diagrams and sticker grids](#november-picks-2) · [November picks: paper films, candid photos and reaction GIFs](#november-picks) · [Animated previews](#animated) · [Creative images & design](#images) · [Art animation & styles](#animation) · [3D worlds & product visuals](#worlds) · [Ads & commercial films](#ads) · [Cinematic & story films](#films)
 
-[Browse all 2,067 visual previews →](gallery/README.md) · [Find tools](#find-tools) · [Make a style your own](#custom-styles)
+[Browse all 2,079 visual previews →](gallery/README.md) · [Find tools](#find-tools) · [Make a style your own](#custom-styles)
+
+<a id="november-picks-2"></a>
+
+## November II: moon phases, crayon diagrams and sticker grids
+
+[Explore all 12 additions by use case →](docs/new-2026-11-13-round-2.md)
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/seeyouintokyo--science-video-skill.md"><img src="https://raw.githubusercontent.com/seeyouintokyo/science-video-skill/0659cb177534acad5142da3f9d57f31205bf64f6/assets/moon-full.gif" width="300" alt="Moon phases in SVG" loading="lazy"></a><br><a href="projects/seeyouintokyo--science-video-skill.md"><b>Moon phases in SVG</b></a><br><sub><a href="skills/f8d24f7f7eba21b7.md">Skill</a> · <a href="https://raw.githubusercontent.com/seeyouintokyo/science-video-skill/0659cb177534acad5142da3f9d57f31205bf64f6/assets/moon-full.gif">GIF</a> · <a href="projects/seeyouintokyo--science-video-skill.md">How to make it</a></sub><br><sub><a href="https://github.com/seeyouintokyo/science-video-skill/blob/0659cb177534acad5142da3f9d57f31205bf64f6/README.md">seeyouintokyo/science-video-skill</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/deenukhan--animation-styles.md"><img src="https://raw.githubusercontent.com/deenukhan/animation-styles/7f7afbd4c5a216135e51be354cb245dcfabedb3a/media/thumbs/02_chalkboard.webp" width="300" alt="One kettle, 39 visual styles" loading="lazy"></a><br><a href="projects/deenukhan--animation-styles.md"><b>One kettle, 39 visual styles</b></a><br><sub><a href="skills/5900200d9c986e33.md">Skill</a> · <a href="projects/deenukhan--animation-styles.md">How to make it</a></sub><br><sub><a href="https://github.com/deenukhan/animation-styles/blob/7f7afbd4c5a216135e51be354cb245dcfabedb3a/README.md">deenukhan/animation-styles</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/deer-flow--crayon-diagrams.md"><img src="https://raw.githubusercontent.com/deer-flow/crayon-diagrams/c3a2b6c265123f64c5b16b991d1ef9699ad0d80f/examples/kanban-snapshot/preview.webp" width="300" alt="Crayon diagrams for mobile" loading="lazy"></a><br><a href="projects/deer-flow--crayon-diagrams.md"><b>Crayon diagrams for mobile</b></a><br><sub><a href="skills/56b76e62a6e5e753.md">Skill</a> · <a href="projects/deer-flow--crayon-diagrams.md">How to make it</a></sub><br><sub><a href="https://github.com/deer-flow/crayon-diagrams/blob/c3a2b6c265123f64c5b16b991d1ef9699ad0d80f/README.md">deer-flow/crayon-diagrams</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/kers701--bride-series-skill.md"><img src="https://raw.githubusercontent.com/kers701/bride-series-skill/b2d48ec268d4230d0fc075d5320c7003e0a366b9/example/example-qipao-bride.jpg" width="300" alt="Character-consistent bridal portraits" loading="lazy"></a><br><a href="projects/kers701--bride-series-skill.md"><b>Character-consistent bridal portraits</b></a><br><sub><a href="skills/a83c5352d036dbb0.md">Skill</a> · <a href="projects/kers701--bride-series-skill.md">How to make it</a></sub><br><sub><a href="https://github.com/kers701/bride-series-skill/blob/b2d48ec268d4230d0fc075d5320c7003e0a366b9/README.md">kers701/bride-series-skill</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/daaihq--da-motion-sticker-skill.md"><img src="https://raw.githubusercontent.com/daaihq/da-motion-sticker-skill/909241387830a83b91e11d553cb2efafdcc897db/assets/preview_gif/01.gif" width="300" alt="Nine animated character reactions" loading="lazy"></a><br><a href="projects/daaihq--da-motion-sticker-skill.md"><b>Nine animated character reactions</b></a><br><sub><a href="skills/ecc57610e6f2ffea.md">Skill</a> · <a href="https://raw.githubusercontent.com/daaihq/da-motion-sticker-skill/909241387830a83b91e11d553cb2efafdcc897db/assets/preview_gif/01.gif">GIF</a> · <a href="projects/daaihq--da-motion-sticker-skill.md">How to make it</a></sub><br><sub><a href="https://github.com/daaihq/da-motion-sticker-skill/blob/909241387830a83b91e11d553cb2efafdcc897db/README.md">daaihq/da-motion-sticker-skill</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/aimanplay--manman-ai-sticker.md"><img src="https://raw.githubusercontent.com/aimanplay/manman-ai-sticker/f60c2011c8addb6e4f2bb73a5640525ce70e80bc/assets/%E7%A4%BA%E4%BE%8B_B_%E5%A4%8D%E7%8E%B0%E4%BA%86_240.gif" width="300" alt="A research engineer’s reaction GIFs" loading="lazy"></a><br><a href="projects/aimanplay--manman-ai-sticker.md"><b>A research engineer’s reaction GIFs</b></a><br><sub><a href="skills/28f96b6d3f3d5317.md">Skill</a> · <a href="https://raw.githubusercontent.com/aimanplay/manman-ai-sticker/f60c2011c8addb6e4f2bb73a5640525ce70e80bc/assets/%E7%A4%BA%E4%BE%8B_B_%E5%A4%8D%E7%8E%B0%E4%BA%86_240.gif">GIF</a> · <a href="projects/aimanplay--manman-ai-sticker.md">How to make it</a></sub><br><sub><a href="https://github.com/aimanplay/manman-ai-sticker/blob/f60c2011c8addb6e4f2bb73a5640525ce70e80bc/README.md">aimanplay/manman-ai-sticker</a></sub></td>
+</tr>
+</table>
+
+[Keep exploring visually →](gallery/README.md)
 
 <a id="november-picks"></a>
 
@@ -240,7 +263,7 @@ The creator’s example keeps the Swiss grid, beat and typography, turning flat 
 
 ## Found an effect you like? Start creating
 
-**In the collection** · **456** projects · **787** Skills · **1849** prompt / style texts · **2204** cases
+**In the collection** · **468** projects · **799** Skills · **1854** prompt / style texts · **2204** cases
 
 | Entry | Contents |
 |---|---|
@@ -280,18 +303,18 @@ The creator’s example keeps the Swiss grid, beat and typography, turning flat 
 | [Education & hand-drawn explainers](catalog/education.md) | 62 |
 | [Editing, captions & avatars](catalog/editing.md) | 94 |
 | [Storytelling, animation & music videos](catalog/storytelling.md) | 30 |
-| [Video frameworks & code rendering](catalog/video-frameworks.md) | 73 |
+| [Video frameworks & code rendering](catalog/video-frameworks.md) | 78 |
 | [Ads & product demos](catalog/product-videos.md) | 69 |
 | [SVG & motion graphics](catalog/motion-graphics.md) | 30 |
 | [Prompts & directing](catalog/directing.md) | 26 |
 | [Blender & 3D modelling](catalog/blender.md) | 11 |
 | [Three.js & WebGPU](catalog/web-3d.md) | 7 |
-| [Image generation & visual design](catalog/image-generation.md) | 21 |
+| [Image generation & visual design](catalog/image-generation.md) | 25 |
 | [Collections & inspiration](catalog/collections.md) | 10 |
 | [ComfyUI & model workflows](catalog/comfyui.md) | 5 |
 | [Game assets & pixel art](catalog/game-assets.md) | 11 |
 | [Gaussian splatting & simulation](catalog/simulation.md) | 2 |
-| [Reaction GIFs & sticker packs](catalog/stickers.md) | 5 |
+| [Reaction GIFs & sticker packs](catalog/stickers.md) | 8 |
 
 ## How to use
 

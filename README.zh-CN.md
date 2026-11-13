@@ -12,9 +12,32 @@
 
 **先看效果，再找做法。** 动图直接播放；点击喜欢的画面或卡片下方的「Skill」「提示词」，就能找到对应方法。
 
-[11 月精选：剪纸短片、生活感照片与聊天表情](#november-picks) · [直接看动图](#animated) · [创意图片与设计](#images) · [艺术动画与风格](#animation) · [3D 世界与产品视觉](#worlds) · [广告与商业短片](#ads) · [电影感与叙事短片](#films)
+[11 月第二辑：月相、蜡笔图与九宫格表情](#november-picks-2) · [11 月精选：剪纸短片、生活感照片与聊天表情](#november-picks) · [直接看动图](#animated) · [创意图片与设计](#images) · [艺术动画与风格](#animation) · [3D 世界与产品视觉](#worlds) · [广告与商业短片](#ads) · [电影感与叙事短片](#films)
 
-[浏览全部 2,067 个效果预览 →](gallery/README.md) · [按工具检索](#find-tools) · [自定义风格新玩法](#custom-styles)
+[浏览全部 2,079 个效果预览 →](gallery/README.md) · [按工具检索](#find-tools) · [自定义风格新玩法](#custom-styles)
+
+<a id="november-picks-2"></a>
+
+## 11 月第二辑：月相、蜡笔图与九宫格表情
+
+[本期新增 12 个项目，按用途浏览 →](docs/new-2026-11-13-round-2.md)
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/seeyouintokyo--science-video-skill.md"><img src="https://raw.githubusercontent.com/seeyouintokyo/science-video-skill/0659cb177534acad5142da3f9d57f31205bf64f6/assets/moon-full.gif" width="300" alt="用代码画月相" loading="lazy"></a><br><a href="projects/seeyouintokyo--science-video-skill.md"><b>用代码画月相</b></a><br><sub><a href="skills/f8d24f7f7eba21b7.md">Skill</a> · <a href="https://raw.githubusercontent.com/seeyouintokyo/science-video-skill/0659cb177534acad5142da3f9d57f31205bf64f6/assets/moon-full.gif">原动图</a> · <a href="projects/seeyouintokyo--science-video-skill.md">制作方法</a></sub><br><sub><a href="https://github.com/seeyouintokyo/science-video-skill/blob/0659cb177534acad5142da3f9d57f31205bf64f6/README.md">seeyouintokyo/science-video-skill</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/deenukhan--animation-styles.md"><img src="https://raw.githubusercontent.com/deenukhan/animation-styles/7f7afbd4c5a216135e51be354cb245dcfabedb3a/media/thumbs/02_chalkboard.webp" width="300" alt="一壶茶的 39 种画风" loading="lazy"></a><br><a href="projects/deenukhan--animation-styles.md"><b>一壶茶的 39 种画风</b></a><br><sub><a href="skills/5900200d9c986e33.md">Skill</a> · <a href="projects/deenukhan--animation-styles.md">制作方法</a></sub><br><sub><a href="https://github.com/deenukhan/animation-styles/blob/7f7afbd4c5a216135e51be354cb245dcfabedb3a/README.md">deenukhan/animation-styles</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/deer-flow--crayon-diagrams.md"><img src="https://raw.githubusercontent.com/deer-flow/crayon-diagrams/c3a2b6c265123f64c5b16b991d1ef9699ad0d80f/examples/kanban-snapshot/preview.webp" width="300" alt="手机上能读的蜡笔技术图" loading="lazy"></a><br><a href="projects/deer-flow--crayon-diagrams.md"><b>手机上能读的蜡笔技术图</b></a><br><sub><a href="skills/56b76e62a6e5e753.md">Skill</a> · <a href="projects/deer-flow--crayon-diagrams.md">制作方法</a></sub><br><sub><a href="https://github.com/deer-flow/crayon-diagrams/blob/c3a2b6c265123f64c5b16b991d1ef9699ad0d80f/README.md">deer-flow/crayon-diagrams</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/kers701--bride-series-skill.md"><img src="https://raw.githubusercontent.com/kers701/bride-series-skill/b2d48ec268d4230d0fc075d5320c7003e0a366b9/example/example-qipao-bride.jpg" width="300" alt="同一角色的旗袍婚纱变体" loading="lazy"></a><br><a href="projects/kers701--bride-series-skill.md"><b>同一角色的旗袍婚纱变体</b></a><br><sub><a href="skills/a83c5352d036dbb0.md">Skill</a> · <a href="projects/kers701--bride-series-skill.md">制作方法</a></sub><br><sub><a href="https://github.com/kers701/bride-series-skill/blob/b2d48ec268d4230d0fc075d5320c7003e0a366b9/README.md">kers701/bride-series-skill</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/daaihq--da-motion-sticker-skill.md"><img src="https://raw.githubusercontent.com/daaihq/da-motion-sticker-skill/909241387830a83b91e11d553cb2efafdcc897db/assets/preview_gif/01.gif" width="300" alt="九宫格角色动图" loading="lazy"></a><br><a href="projects/daaihq--da-motion-sticker-skill.md"><b>九宫格角色动图</b></a><br><sub><a href="skills/ecc57610e6f2ffea.md">Skill</a> · <a href="https://raw.githubusercontent.com/daaihq/da-motion-sticker-skill/909241387830a83b91e11d553cb2efafdcc897db/assets/preview_gif/01.gif">原动图</a> · <a href="projects/daaihq--da-motion-sticker-skill.md">制作方法</a></sub><br><sub><a href="https://github.com/daaihq/da-motion-sticker-skill/blob/909241387830a83b91e11d553cb2efafdcc897db/README.md">daaihq/da-motion-sticker-skill</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/aimanplay--manman-ai-sticker.md"><img src="https://raw.githubusercontent.com/aimanplay/manman-ai-sticker/f60c2011c8addb6e4f2bb73a5640525ce70e80bc/assets/%E7%A4%BA%E4%BE%8B_B_%E5%A4%8D%E7%8E%B0%E4%BA%86_240.gif" width="300" alt="算法人的聊天表情" loading="lazy"></a><br><a href="projects/aimanplay--manman-ai-sticker.md"><b>算法人的聊天表情</b></a><br><sub><a href="skills/28f96b6d3f3d5317.md">Skill</a> · <a href="https://raw.githubusercontent.com/aimanplay/manman-ai-sticker/f60c2011c8addb6e4f2bb73a5640525ce70e80bc/assets/%E7%A4%BA%E4%BE%8B_B_%E5%A4%8D%E7%8E%B0%E4%BA%86_240.gif">原动图</a> · <a href="projects/aimanplay--manman-ai-sticker.md">制作方法</a></sub><br><sub><a href="https://github.com/aimanplay/manman-ai-sticker/blob/f60c2011c8addb6e4f2bb73a5640525ce70e80bc/README.md">aimanplay/manman-ai-sticker</a></sub></td>
+</tr>
+</table>
+
+[继续按效果挑选 →](gallery/README.md)
 
 <a id="november-picks"></a>
 
@@ -239,7 +262,7 @@ Lemo-Opuscar 已更新到 **59 种影片风格**，新增 **8 种剪辑与纪实
 
 ## 找到喜欢的效果，开始制作
 
-**收录概览** · **456** 项目 · **787** Skills · **1849** 提示词／风格文本 · **2204** 案例
+**收录概览** · **468** 项目 · **799** Skills · **1854** 提示词／风格文本 · **2204** 案例
 
 | 入口 | 内容 |
 |---|---|
@@ -279,18 +302,18 @@ Lemo-Opuscar 已更新到 **59 种影片风格**，新增 **8 种剪辑与纪实
 | [教学科普与手绘](catalog/education.md) | 62 |
 | [剪辑字幕与数字人](catalog/editing.md) | 94 |
 | [叙事动画与音乐视频](catalog/storytelling.md) | 30 |
-| [视频框架与程序化成片](catalog/video-frameworks.md) | 73 |
+| [视频框架与程序化成片](catalog/video-frameworks.md) | 78 |
 | [广告与产品演示](catalog/product-videos.md) | 69 |
 | [SVG 与动态图形](catalog/motion-graphics.md) | 30 |
 | [提示词与导演方法](catalog/directing.md) | 26 |
 | [Blender 与三维建模](catalog/blender.md) | 11 |
 | [Three.js 与 WebGPU](catalog/web-3d.md) | 7 |
-| [图像生成与商业视觉](catalog/image-generation.md) | 21 |
+| [图像生成与商业视觉](catalog/image-generation.md) | 25 |
 | [合集与创作案例](catalog/collections.md) | 10 |
 | [ComfyUI 与模型编排](catalog/comfyui.md) | 5 |
 | [游戏资产与像素画](catalog/game-assets.md) | 11 |
 | [高斯泼溅与仿真](catalog/simulation.md) | 2 |
-| [表情包与动态贴纸](catalog/stickers.md) | 5 |
+| [表情包与动态贴纸](catalog/stickers.md) | 8 |
 
 ## 如何使用
 

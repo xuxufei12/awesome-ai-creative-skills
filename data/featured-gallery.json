@@ -1,5 +1,61 @@
 [
   {
+    "slug": "november-picks-2",
+    "title_zh": "11 月第二辑：月相、蜡笔图与九宫格表情",
+    "title_en": "November II: moon phases, crayon diagrams and sticker grids",
+    "items": [
+      {
+        "kind": "project",
+        "project_id": "seeyouintokyo--science-video-skill",
+        "title_zh": "用代码画月相",
+        "title_en": "Moon phases in SVG",
+        "media_url": "https://raw.githubusercontent.com/seeyouintokyo/science-video-skill/0659cb177534acad5142da3f9d57f31205bf64f6/assets/moon-full.gif",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "deenukhan--animation-styles",
+        "title_zh": "一壶茶的 39 种画风",
+        "title_en": "One kettle, 39 visual styles",
+        "media_url": "https://raw.githubusercontent.com/deenukhan/animation-styles/7f7afbd4c5a216135e51be354cb245dcfabedb3a/media/thumbs/02_chalkboard.webp",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "deer-flow--crayon-diagrams",
+        "title_zh": "手机上能读的蜡笔技术图",
+        "title_en": "Crayon diagrams for mobile",
+        "media_url": "https://raw.githubusercontent.com/deer-flow/crayon-diagrams/c3a2b6c265123f64c5b16b991d1ef9699ad0d80f/examples/kanban-snapshot/preview.webp",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "kers701--bride-series-skill",
+        "title_zh": "同一角色的旗袍婚纱变体",
+        "title_en": "Character-consistent bridal portraits",
+        "media_url": "https://raw.githubusercontent.com/kers701/bride-series-skill/b2d48ec268d4230d0fc075d5320c7003e0a366b9/example/example-qipao-bride.jpg",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "daaihq--da-motion-sticker-skill",
+        "title_zh": "九宫格角色动图",
+        "title_en": "Nine animated character reactions",
+        "media_url": "https://raw.githubusercontent.com/daaihq/da-motion-sticker-skill/909241387830a83b91e11d553cb2efafdcc897db/assets/preview_gif/01.gif",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "aimanplay--manman-ai-sticker",
+        "title_zh": "算法人的聊天表情",
+        "title_en": "A research engineer’s reaction GIFs",
+        "media_url": "https://raw.githubusercontent.com/aimanplay/manman-ai-sticker/f60c2011c8addb6e4f2bb73a5640525ce70e80bc/assets/%E7%A4%BA%E4%BE%8B_B_%E5%A4%8D%E7%8E%B0%E4%BA%86_240.gif",
+        "width": 300
+      }
+    ],
+    "edition": "2026-11-13-round-2"
+  },
+  {
     "slug": "november-picks",
     "title_zh": "11 月精选：剪纸短片、生活感照片与聊天表情",
     "title_en": "November picks: paper films, candid photos and reaction GIFs",

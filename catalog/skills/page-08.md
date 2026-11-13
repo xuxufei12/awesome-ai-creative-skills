@@ -4,20 +4,29 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [spritecook-upload-assets](../../skills/4b1f25f4a7c4f376.md) | 游戏资产与像素画 | SpriteCook/skills |
+| [spritecook-use-assets-in-godot](../../skills/b1ccc121378947c7.md) | 游戏资产与像素画 | SpriteCook/skills |
+| [spritecook-use-dual-grid-tilesets](../../skills/7364a1b91538c31b.md) | 游戏资产与像素画 | SpriteCook/skills |
+| [spritecook-use-presets](../../skills/3b7de6ae3898a8e6.md) | 游戏资产与像素画 | SpriteCook/skills |
 | [spritecook-workflow-essentials](../../skills/691979c5b6f8c389.md) | 游戏资产与像素画 | SpriteCook/skills |
 | [verify-by-playing](../../skills/38a40a42c686aa45.md) | 游戏资产与像素画 | RemakeBench/skills |
 | [animated-sticker-studio](../../skills/bad6f6344e488fcf.md) | 表情包与动态贴纸 | fantuan-lab/animated-sticker-studio |
+| [da-motion-sticker-skill](../../skills/ecc57610e6f2ffea.md) | 表情包与动态贴纸 | daaihq/da-motion-sticker-skill |
 | [generate-meme-gif-pack](../../skills/cf79edf3f32eabe2.md) | 表情包与动态贴纸 | lisamsung/agent-meme-forge |
 | [gif-stickers](../../skills/d252fa8e787ec0c5.md) | 表情包与动态贴纸 | Alexsun1one/gif-stickers |
 | [huashu-selfie-sticker](../../skills/aeb34f4da6df73dd.md) | 表情包与动态贴纸 | alchaincyf/huashu-selfie-sticker |
+| [manman-ai-sticker](../../skills/28f96b6d3f3d5317.md) | 表情包与动态贴纸 | aimanplay/manman-ai-sticker |
 | [motion-sticker-pack](../../skills/e31671ac247d7674.md) | 表情包与动态贴纸 | kobingogo/motion-sticker-pack |
+| [wechat-gif-sticker-studio](../../skills/4d37ec773dfe78dc.md) | 表情包与动态贴纸 | qtyasupo/wechat-gif-sticker-studio |
 | [3d-asset-generation](../../skills/331817c6f484b926.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [acestep](../../skills/3b645adb13f4a1c8.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [acestep](../../skills/c33f2c182005d17e.md) | 视频框架与程序化成片 | digitalsamba/claude-code-video-toolkit |
 | [agents](../../skills/e763c739e8a87f5c.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [ai-video-gen](../../skills/f805fc45aeb61691.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [animation-styles](../../skills/5900200d9c986e33.md) | 视频框架与程序化成片 | deenukhan/animation-styles |
 | [atlas-cloud](../../skills/853644fe9b081957.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [avatar-video](../../skills/2bba4e8d4e67aac6.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [axing-science-video](../../skills/f8d24f7f7eba21b7.md) | 视频框架与程序化成片 | seeyouintokyo/science-video-skill |
 | [azure-speech-to-text](../../skills/732cbd393fadcd67.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [azure-text-to-speech](../../skills/06a64f26bc419d11.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [beautiful-mermaid](../../skills/2ea488822ccd006c.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
@@ -75,14 +84,5 @@
 | [hyperframes-cli](../../skills/53b6de9aca72b3b8.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [hyperframes-cli](../../skills/44a48ccfa4cbd4f4.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
 | [hyperframes-cli](../../skills/ae4a81fca82d1b04.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
-| [hyperframes-core](../../skills/689de1f94e682ee3.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [hyperframes-core](../../skills/c232a83c0cae2c7f.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
-| [hyperframes-creative](../../skills/8b104a3928473f3e.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [hyperframes-creative](../../skills/3ea9a6108ad547ba.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
-| [hyperframes-keyframes](../../skills/6356d2f77036c19e.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
-| [hyperframes-media](../../skills/2427217105228e80.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [hyperframes-registry](../../skills/1abaa095aae1b680.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [hyperframes-registry](../../skills/1c7b27632c9ea9fe.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
-| [hyperframes-registry](../../skills/5c0fa72f016897b7.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md)

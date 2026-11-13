@@ -4,6 +4,10 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [scenario-roblox-environment](../../skills/0d0d866e4bcc3a8f.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-roblox-expert](../../skills/6c4c959fffcc6b5a.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-roblox-gameplay](../../skills/9f6768b71e98f41e.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-roblox-luau](../../skills/78242ee9b4cbd2a0.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-roblox-monetization](../../skills/1fd8a1c6f59dbb30.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-roblox-networking](../../skills/de0e66032a2023ad.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-roblox-performance](../../skills/c5e821c0f4247308.md) | 游戏资产与像素画 | scenario-labs/skills |
@@ -80,9 +84,5 @@
 | [spritecook-generate-sprites](../../skills/6cfadce3e919bca2.md) | 游戏资产与像素画 | SpriteCook/skills |
 | [spritecook-generate-tilesets](../../skills/e5b64e6cbe8831cb.md) | 游戏资产与像素画 | SpriteCook/skills |
 | [spritecook-polish-sprites](../../skills/bd93b4b31f6abf3c.md) | 游戏资产与像素画 | SpriteCook/skills |
-| [spritecook-upload-assets](../../skills/4b1f25f4a7c4f376.md) | 游戏资产与像素画 | SpriteCook/skills |
-| [spritecook-use-assets-in-godot](../../skills/b1ccc121378947c7.md) | 游戏资产与像素画 | SpriteCook/skills |
-| [spritecook-use-dual-grid-tilesets](../../skills/7364a1b91538c31b.md) | 游戏资产与像素画 | SpriteCook/skills |
-| [spritecook-use-presets](../../skills/3b7de6ae3898a8e6.md) | 游戏资产与像素画 | SpriteCook/skills |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md)

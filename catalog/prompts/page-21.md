@@ -4,6 +4,7 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [explainer · @irinatoxi · 962937](../../prompts/667868682a849a98.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [explainer · @itsahmedharoon · 544194](../../prompts/cd238b0ecf435297.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [explainer · @itsyashf · 692347](../../prompts/cb754939dc0f0146.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [explainer · @kgonia7 · 746268](../../prompts/2b6c0abaaa1efe7f.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
@@ -64,6 +65,7 @@
 | [模型想象中的短视频信息流](../../prompts/d01bc784981e5e95.md) | 短动效 | guanmo-ai/awesome-ai-motion |
 | [物理之美一镜到底动效](../../prompts/2e557be62e69a579.md) | 短动效 | guanmo-ai/awesome-ai-motion |
 | [让海报冲破自己的边框](../../prompts/be2a5be0f8e86c5d.md) | 短动效 | guanmo-ai/awesome-ai-motion |
+| [九宫格角色动图 · 作者调用示例](../../prompts/c759c962c62f860b.md) | 表情包与动态贴纸 | daaihq/da-motion-sticker-skill |
 | [科研打工人表情包 / Research-life sticker pack](../../prompts/7de58ac0e96150dd.md) | 表情包与动态贴纸 | lisamsung/agent-meme-forge |
 | [3pm Crash, Lit Desk](../../prompts/905ec5cdedc717a5.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
 | [Absorption Time-Lapse: Hydrating Serum](../../prompts/9636598ae88ac95a.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
@@ -82,7 +84,5 @@
 | [Candle, Midnight Library](../../prompts/a5ed97cab204d119.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
 | [Candlelit Vinyl Wind-Down](../../prompts/01d133002da8c4da.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
 | [Car Door Epoxy Floor Design](../../prompts/fb8a1a4cfbe07622.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [Car Vlog Supplement Confession](../../prompts/60fc616e250147e9.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
-| [Cherry Blossom Railway Walk](../../prompts/b3bf3c8d06953ab9.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)
