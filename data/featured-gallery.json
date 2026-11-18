@@ -1,5 +1,61 @@
 [
   {
+    "slug": "music-mv-lab",
+    "title_zh": "让歌曲变成有故事的 MV",
+    "title_en": "Turn a song into a story-driven music video",
+    "edition": "2026-11-18-music-mv",
+    "items": [
+      {
+        "kind": "project",
+        "project_id": "qspang--music-mv",
+        "title_zh": "像素人物演绎整首歌曲",
+        "title_en": "A full-song pixel story",
+        "media_url": "https://raw.githubusercontent.com/qspang/music-mv/2af452d65ded9da86de3ad765d4d9a99b9deac8c/examples/pixel-v2/cover-landscape.png",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "am-will--music-video-reimagined",
+        "title_zh": "卡着节拍跳水彩骑马舞",
+        "title_en": "Beat-locked painted horse dance",
+        "media_url": "https://raw.githubusercontent.com/am-will/music-video-reimagined/7d6b7b22caf08c6e330e1abb869953d8e4f2cc1a/docs/horse-dance.gif",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "boom-vitt--bbn-video-studio",
+        "title_zh": "三维动态歌词 MV",
+        "title_en": "A 3D kinetic-typography MV",
+        "media_url": "https://raw.githubusercontent.com/Boom-Vitt/bbn-video-studio/f54a5d6ab94defa2b238e0931cf7986b67f3b7b1/plugins/bbn-video-studio/skills/music-video/examples/noted/cover.jpg",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "leeween--pixel-song-mv",
+        "title_zh": "把歌曲做成 RPG 小冒险",
+        "title_en": "Turn a song into an RPG adventure",
+        "media_url": "https://raw.githubusercontent.com/leeween/pixel-song-mv/fd447feaa8c8941c938b0b62b07b7dd9c766ecff/docs/minimal-preview.png",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "obie--slopcore",
+        "title_zh": "AI 歌手与代码视觉包装",
+        "title_en": "AI performers and coded graphics",
+        "media_url": "https://raw.githubusercontent.com/obie/slopcore/2d026ecd999b0543ada360dd006faa6cb8cc4d15/skills/music-video/examples/queso/stills/frame-0.0.jpg",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "kreycin--ton-sea",
+        "title_zh": "手绘角色表演参考：海边茶店",
+        "title_en": "Acting reference: Ton and the Sea",
+        "media_url": "https://raw.githubusercontent.com/Kreycin/ton-sea/9543e948e30e9a3ca5cc5df18573f2f16909591e/docs/img/shots.jpg",
+        "width": 300
+      }
+    ]
+  },
+  {
     "slug": "knowledge-and-biography",
     "title_zh": "先看知识与人物如何变成影像",
     "title_en": "Knowledge and lives told through motion",

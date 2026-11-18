@@ -30115,6 +30115,862 @@
       "collection_kind": "S",
       "example_entry": "https://github.com/anbeime/skill/blob/ec48389bb805dfd860f00e5167e277aaf8bcd660/skills/historical-interview-scripts/historical-interview-scripts/references/script-examples.md",
       "example_label": "Script examples / 文案示例"
+    },
+    {
+      "id": "sagearbor--claude-music-video-skill",
+      "repo": "sagearbor/claude-music-video-skill",
+      "title": "整首手绘与动态图形 MV / Full-length painted and motion-design MVs",
+      "url": "https://github.com/sagearbor/claude-music-video-skill",
+      "summary": "用 p5.js 和 p5.brush 逐帧绘制，先分镜与试片，再按歌曲段落制作；附完整章节工程与制作复盘。 / Full-length painted and motion-design MVs",
+      "category": "叙事动画与音乐视频",
+      "type": "Agent Skill / Code-rendered MV",
+      "hosts": [
+        "Claude"
+      ],
+      "status": "已核验固定版本与选定 Skill",
+      "curated": true,
+      "requirements": "Claude Code、Node 20+、Chrome、FFmpeg、uv；渲染时间随画风和片长变化。",
+      "limits": "已核对源文件与示例引用，未执行上游制作流程；歌曲与歌词使用权另行确认。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 0,
+      "commit": "c764e18b8927dca5ea219fa42b78194fde28214f",
+      "checked_at": "2026-11-18T07:00:47.516716+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "sagearbor/claude-music-video-skill"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/sagearbor/claude-music-video-skill/blob/c764e18b8927dca5ea219fa42b78194fde28214f/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:00:47.516716+00:00"
+        },
+        {
+          "url": "https://github.com/sagearbor/claude-music-video-skill/blob/c764e18b8927dca5ea219fa42b78194fde28214f/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:00:47.516716+00:00"
+        },
+        {
+          "url": "https://github.com/sagearbor/claude-music-video-skill/blob/c764e18b8927dca5ea219fa42b78194fde28214f/examples/zoo2/scenes/c00_intro.js",
+          "type": "Example scene / 示例场景",
+          "checked_at": "2026-11-18T07:00:47.516716+00:00"
+        },
+        {
+          "url": "https://github.com/sagearbor/claude-music-video-skill/blob/c764e18b8927dca5ea219fa42b78194fde28214f/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [],
+      "upstream_created_at": "2026-10-13T17:08:27Z",
+      "upstream_pushed_at": "2026-11-17T05:28:22Z",
+      "edition": "2026-11-18-music-mv",
+      "collection_kind": "C",
+      "example_entry": "https://github.com/sagearbor/claude-music-video-skill/blob/c764e18b8927dca5ea219fa42b78194fde28214f/examples/zoo2/scenes/c00_intro.js",
+      "example_label": "Example scene / 示例场景"
+    },
+    {
+      "id": "qspang--music-mv",
+      "repo": "qspang/music-mv",
+      "title": "歌词驱动的像素与贴纸故事 / Lyric-led pixel and sticker stories",
+      "url": "https://github.com/qspang/music-mv",
+      "summary": "提供像素、贴纸两套 Skill，围绕歌词中的事件与关系变化设计镜头；公开像素版完整示例与封面。 / Lyric-led pixel and sticker stories",
+      "category": "叙事动画与音乐视频",
+      "type": "Agent Skill / Code-rendered MV",
+      "hosts": [
+        "Claude",
+        "Codex"
+      ],
+      "status": "已核验固定版本与选定 Skill",
+      "curated": true,
+      "requirements": "Claude Code 或 Codex；Node、HyperFrames、Chrome、FFmpeg、Python；新歌曲的场景需由代理实现。",
+      "limits": "已核对源文件与示例引用，未执行上游制作流程；歌曲与歌词使用权另行确认。",
+      "license": "未发现明确仓库许可；示例歌曲和歌词归原权利人",
+      "archived": false,
+      "stars": 3,
+      "commit": "2af452d65ded9da86de3ad765d4d9a99b9deac8c",
+      "checked_at": "2026-11-18T07:00:47.517754+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "qspang/music-mv"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/qspang/music-mv/blob/2af452d65ded9da86de3ad765d4d9a99b9deac8c/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:00:47.517754+00:00"
+        },
+        {
+          "url": "https://github.com/qspang/music-mv/blob/2af452d65ded9da86de3ad765d4d9a99b9deac8c/skills/lyric-led-pixel-mv/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:00:47.517754+00:00"
+        },
+        {
+          "url": "https://github.com/qspang/music-mv/blob/2af452d65ded9da86de3ad765d4d9a99b9deac8c/skills/lyric-led-sticker-mv/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:00:47.517754+00:00"
+        },
+        {
+          "url": "https://github.com/qspang/music-mv/blob/2af452d65ded9da86de3ad765d4d9a99b9deac8c/skills/lyric-led-pixel-mv/references/character-and-semantics.md",
+          "type": "Narrative design guide / 叙事设计指南",
+          "checked_at": "2026-11-18T07:00:47.517754+00:00"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/qspang/music-mv/2af452d65ded9da86de3ad765d4d9a99b9deac8c/examples/pixel-v2/cover-landscape.png",
+          "type": "image",
+          "label": "Author sample cover, not a video frame",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/qspang/music-mv/2af452d65ded9da86de3ad765d4d9a99b9deac8c/examples/pixel-v2/music-video.mp4",
+          "type": "video",
+          "label": "music-video.mp4",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        }
+      ],
+      "upstream_created_at": "2026-10-30T15:43:36Z",
+      "upstream_pushed_at": "2026-10-30T15:57:25Z",
+      "edition": "2026-11-18-music-mv",
+      "collection_kind": "C",
+      "example_entry": "https://github.com/qspang/music-mv/blob/2af452d65ded9da86de3ad765d4d9a99b9deac8c/skills/lyric-led-pixel-mv/references/character-and-semantics.md",
+      "example_label": "Narrative design guide / 叙事设计指南",
+      "experience_url": "https://raw.githubusercontent.com/qspang/music-mv/2af452d65ded9da86de3ad765d4d9a99b9deac8c/examples/pixel-v2/music-video.mp4"
+    },
+    {
+      "id": "leeween--pixel-song-mv",
+      "repo": "leeween/pixel-song-mv",
+      "title": "带 RPG 对话框的像素 MV / An RPG-style lyric MV",
+      "url": "https://github.com/leeween/pixel-song-mv",
+      "summary": "把歌曲演成游戏剧情，让人物动作和任务随副歌推进；附十二秒原创示例、合成音轨生成工具和场景代码。 / An RPG-style lyric MV",
+      "category": "叙事动画与音乐视频",
+      "type": "Agent Skill / Code-rendered MV",
+      "hosts": [
+        "Claude",
+        "Codex"
+      ],
+      "status": "已核验固定版本与选定 Skill",
+      "curated": true,
+      "requirements": "Claude Code 或 Codex；Volta/Node、pnpm、Python 3.11+、FFmpeg、中文字体。",
+      "limits": "已核对源文件与示例引用，未执行上游制作流程；歌曲与歌词使用权另行确认。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 8,
+      "commit": "fd447feaa8c8941c938b0b62b07b7dd9c766ecff",
+      "checked_at": "2026-11-18T07:00:47.520258+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "leeween/pixel-song-mv"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/leeween/pixel-song-mv/blob/fd447feaa8c8941c938b0b62b07b7dd9c766ecff/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:00:47.520258+00:00"
+        },
+        {
+          "url": "https://github.com/leeween/pixel-song-mv/blob/fd447feaa8c8941c938b0b62b07b7dd9c766ecff/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:00:47.520258+00:00"
+        },
+        {
+          "url": "https://github.com/leeween/pixel-song-mv/blob/fd447feaa8c8941c938b0b62b07b7dd9c766ecff/examples/minimal/scenes.js",
+          "type": "Original example scene / 原创示例场景",
+          "checked_at": "2026-11-18T07:00:47.520258+00:00"
+        },
+        {
+          "url": "https://github.com/leeween/pixel-song-mv/blob/fd447feaa8c8941c938b0b62b07b7dd9c766ecff/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/leeween/pixel-song-mv/fd447feaa8c8941c938b0b62b07b7dd9c766ecff/docs/minimal-preview.png",
+          "type": "image",
+          "label": "minimal-preview.png",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        }
+      ],
+      "upstream_created_at": "2026-10-15T14:25:25Z",
+      "upstream_pushed_at": "2026-10-15T16:04:31Z",
+      "edition": "2026-11-18-music-mv",
+      "collection_kind": "C",
+      "example_entry": "https://github.com/leeween/pixel-song-mv/blob/fd447feaa8c8941c938b0b62b07b7dd9c766ecff/examples/minimal/scenes.js",
+      "example_label": "Original example scene / 原创示例场景"
+    },
+    {
+      "id": "am-will--music-video-reimagined",
+      "repo": "am-will/music-video-reimagined",
+      "title": "水彩乐队与卡点骑马舞 / Painted bands and beat-locked dance",
+      "url": "https://github.com/am-will/music-video-reimagined",
+      "summary": "用手绘角色、统一场景与舞蹈动作库重构整首 MV；附 Gangnam 与 Papercut 的无音频工程。 / Painted bands and beat-locked dance",
+      "category": "叙事动画与音乐视频",
+      "type": "Agent Skill / Code-rendered MV",
+      "hosts": [
+        "Claude"
+      ],
+      "status": "已核验固定版本与选定 Skill",
+      "curated": true,
+      "requirements": "Claude、Node、Chrome、FFmpeg、Python/NumPy/Pillow；基于 ClaudeAnimationBase，歌曲不随工程提供。",
+      "limits": "已核对源文件与示例引用，未执行上游制作流程；歌曲与歌词使用权另行确认。",
+      "license": "参见上游许可原文",
+      "archived": false,
+      "stars": 2,
+      "commit": "7d6b7b22caf08c6e330e1abb869953d8e4f2cc1a",
+      "checked_at": "2026-11-18T07:00:47.519851+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "am-will/music-video-reimagined"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/am-will/music-video-reimagined/blob/7d6b7b22caf08c6e330e1abb869953d8e4f2cc1a/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:00:47.519851+00:00"
+        },
+        {
+          "url": "https://github.com/am-will/music-video-reimagined/blob/7d6b7b22caf08c6e330e1abb869953d8e4f2cc1a/skills/music-video-reimagined/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:00:47.519851+00:00"
+        },
+        {
+          "url": "https://github.com/am-will/music-video-reimagined/blob/7d6b7b22caf08c6e330e1abb869953d8e4f2cc1a/skills/music-video-reimagined/assets/dance/dance.js",
+          "type": "Dance motion library / 舞蹈动作库",
+          "checked_at": "2026-11-18T07:00:47.519851+00:00"
+        },
+        {
+          "url": "https://github.com/am-will/music-video-reimagined/blob/7d6b7b22caf08c6e330e1abb869953d8e4f2cc1a/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/am-will/music-video-reimagined/7d6b7b22caf08c6e330e1abb869953d8e4f2cc1a/docs/horse-dance.gif",
+          "type": "image",
+          "label": "horse-dance.gif",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/am-will/music-video-reimagined/7d6b7b22caf08c6e330e1abb869953d8e4f2cc1a/docs/papercut.jpg",
+          "type": "image",
+          "label": "papercut.jpg",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        }
+      ],
+      "upstream_created_at": "2026-09-28T19:03:12Z",
+      "upstream_pushed_at": "2026-09-28T19:36:07Z",
+      "edition": "2026-11-18-music-mv",
+      "collection_kind": "C",
+      "example_entry": "https://github.com/am-will/music-video-reimagined/blob/7d6b7b22caf08c6e330e1abb869953d8e4f2cc1a/skills/music-video-reimagined/assets/dance/dance.js",
+      "example_label": "Dance motion library / 舞蹈动作库"
+    },
+    {
+      "id": "kreycin--ton-sea",
+      "repo": "Kreycin/ton-sea",
+      "title": "让手绘角色演出歌曲的意思 / Act out a song with painted characters",
+      "url": "https://github.com/Kreycin/ton-sea",
+      "summary": "code-video 兼顾音乐视频、角色表演、口型与动态字幕；仓库展示海边茶店叙事短片，可参考角色调度与声音工程。 / Act out a song with painted characters",
+      "category": "叙事动画与音乐视频",
+      "type": "Agent Skill / Code-rendered MV",
+      "hosts": [
+        "Claude"
+      ],
+      "status": "已核验固定版本与选定 Skill",
+      "curated": true,
+      "requirements": "Claude Code、Node 20+、Chrome、FFmpeg；示例音乐渲染依赖 macOS，新增对白需对应 TTS。",
+      "limits": "已核对源文件与示例引用，未执行上游制作流程；歌曲与歌词使用权另行确认。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 5,
+      "commit": "9543e948e30e9a3ca5cc5df18573f2f16909591e",
+      "checked_at": "2026-11-18T07:00:47.520776+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "Kreycin/ton-sea"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/Kreycin/ton-sea/blob/9543e948e30e9a3ca5cc5df18573f2f16909591e/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:00:47.520776+00:00"
+        },
+        {
+          "url": "https://github.com/Kreycin/ton-sea/blob/9543e948e30e9a3ca5cc5df18573f2f16909591e/.claude/skills/code-video/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:00:47.520776+00:00"
+        },
+        {
+          "url": "https://github.com/Kreycin/ton-sea/blob/9543e948e30e9a3ca5cc5df18573f2f16909591e/src/cast.js",
+          "type": "Character source / 角色源码",
+          "checked_at": "2026-11-18T07:00:47.520776+00:00"
+        },
+        {
+          "url": "https://github.com/Kreycin/ton-sea/blob/9543e948e30e9a3ca5cc5df18573f2f16909591e/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/Kreycin/ton-sea/9543e948e30e9a3ca5cc5df18573f2f16909591e/docs/img/shots.jpg",
+          "type": "image",
+          "label": "Author narrative short, not a finished song MV",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kreycin/ton-sea/9543e948e30e9a3ca5cc5df18573f2f16909591e/docs/img/lipsync.jpg",
+          "type": "image",
+          "label": "Author narrative short, not a finished song MV",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        }
+      ],
+      "upstream_created_at": "2026-10-15T12:05:39Z",
+      "upstream_pushed_at": "2026-10-15T13:49:59Z",
+      "edition": "2026-11-18-music-mv",
+      "collection_kind": "C",
+      "example_entry": "https://github.com/Kreycin/ton-sea/blob/9543e948e30e9a3ca5cc5df18573f2f16909591e/src/cast.js",
+      "example_label": "Character source / 角色源码"
+    },
+    {
+      "id": "boom-vitt--bbn-video-studio",
+      "repo": "Boom-Vitt/bbn-video-studio",
+      "title": "原创歌曲与三维动态歌词 / Original songs with 3D kinetic typography",
+      "url": "https://github.com/Boom-Vitt/bbn-video-studio",
+      "summary": "选取 music-video 子技能：从歌曲生成到逐句时间对齐，再用 Three.js 与 TypeScript 制作动态图形 MV。 / Original songs with 3D kinetic typography",
+      "category": "叙事动画与音乐视频",
+      "type": "Agent Skill / Code-rendered MV",
+      "hosts": [
+        "Claude",
+        "Codex"
+      ],
+      "status": "已核验固定版本与选定 Skill",
+      "curated": true,
+      "requirements": "Claude Code/Codex；主要环境为 Apple Silicon、Node、Chrome、FFmpeg；音乐选择本地 ACE-Step 或付费 phaya。",
+      "limits": "已核对源文件与示例引用，未执行上游制作流程；歌曲与歌词使用权另行确认。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 10,
+      "commit": "f54a5d6ab94defa2b238e0931cf7986b67f3b7b1",
+      "checked_at": "2026-11-18T07:00:55.715954+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "Boom-Vitt/bbn-video-studio"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/Boom-Vitt/bbn-video-studio/blob/f54a5d6ab94defa2b238e0931cf7986b67f3b7b1/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:00:55.715954+00:00"
+        },
+        {
+          "url": "https://github.com/Boom-Vitt/bbn-video-studio/blob/f54a5d6ab94defa2b238e0931cf7986b67f3b7b1/plugins/bbn-video-studio/skills/music-video/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:00:55.715954+00:00"
+        },
+        {
+          "url": "https://github.com/Boom-Vitt/bbn-video-studio/blob/f54a5d6ab94defa2b238e0931cf7986b67f3b7b1/plugins/bbn-video-studio/skills/music-video/examples/noted/scenes/intro-chat.ts",
+          "type": "Example scene / 示例场景",
+          "checked_at": "2026-11-18T07:00:55.715954+00:00"
+        },
+        {
+          "url": "https://github.com/Boom-Vitt/bbn-video-studio/blob/f54a5d6ab94defa2b238e0931cf7986b67f3b7b1/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/Boom-Vitt/bbn-video-studio/f54a5d6ab94defa2b238e0931cf7986b67f3b7b1/plugins/bbn-video-studio/skills/music-video/examples/noted/cover.jpg",
+          "type": "image",
+          "label": "cover.jpg",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Boom-Vitt/bbn-video-studio/f54a5d6ab94defa2b238e0931cf7986b67f3b7b1/plugins/bbn-video-studio/skills/music-video/examples/noted/overview.jpg",
+          "type": "image",
+          "label": "overview.jpg",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        }
+      ],
+      "upstream_created_at": "2026-10-12T08:01:12Z",
+      "upstream_pushed_at": "2026-10-22T13:06:53Z",
+      "edition": "2026-11-18-music-mv",
+      "collection_kind": "C",
+      "example_entry": "https://github.com/Boom-Vitt/bbn-video-studio/blob/f54a5d6ab94defa2b238e0931cf7986b67f3b7b1/plugins/bbn-video-studio/skills/music-video/examples/noted/scenes/intro-chat.ts",
+      "example_label": "Example scene / 示例场景"
+    },
+    {
+      "id": "a252937166--claude-video-studio",
+      "repo": "a252937166/claude-video-studio",
+      "title": "像素歌词 MV 与动作迁移方案 / Pixel lyric MVs and motion-transfer workflows",
+      "url": "https://github.com/a252937166/claude-video-studio",
+      "summary": "提供按小节编排歌词、实测节拍偏移及画面路线选择的方法；根据角色与素材选择像素动画或生成模型动作迁移。 / Pixel lyric MVs and motion-transfer workflows",
+      "category": "叙事动画与音乐视频",
+      "type": "Agent Skill / Code-rendered MV",
+      "hosts": [
+        "Claude"
+      ],
+      "status": "已核验固定版本与选定 Skill",
+      "curated": true,
+      "requirements": "Claude、HyperFrames、Python、FFmpeg；动作迁移另需对应生成服务，具体依赖见各路线。",
+      "limits": "已核对源文件与示例引用，未执行上游制作流程；歌曲与歌词使用权另行确认。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 15,
+      "commit": "8be28db576a6a0e8d9c9750eefc4fa2ccec06429",
+      "checked_at": "2026-11-18T07:00:57.646499+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "a252937166/claude-video-studio"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/a252937166/claude-video-studio/blob/8be28db576a6a0e8d9c9750eefc4fa2ccec06429/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:00:57.646499+00:00"
+        },
+        {
+          "url": "https://github.com/a252937166/claude-video-studio/blob/8be28db576a6a0e8d9c9750eefc4fa2ccec06429/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:00:57.646499+00:00"
+        },
+        {
+          "url": "https://github.com/a252937166/claude-video-studio/blob/8be28db576a6a0e8d9c9750eefc4fa2ccec06429/scripts/timed_lyrics.py",
+          "type": "Lyric timing helper / 歌词计时脚本",
+          "checked_at": "2026-11-18T07:00:57.646499+00:00"
+        },
+        {
+          "url": "https://github.com/a252937166/claude-video-studio/blob/8be28db576a6a0e8d9c9750eefc4fa2ccec06429/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [],
+      "upstream_created_at": "2026-09-28T14:35:42Z",
+      "upstream_pushed_at": "2026-10-10T15:22:17Z",
+      "edition": "2026-11-18-music-mv",
+      "collection_kind": "C",
+      "example_entry": "https://github.com/a252937166/claude-video-studio/blob/8be28db576a6a0e8d9c9750eefc4fa2ccec06429/scripts/timed_lyrics.py",
+      "example_label": "Lyric timing helper / 歌词计时脚本"
+    },
+    {
+      "id": "obie--slopcore",
+      "repo": "obie/slopcore",
+      "title": "AI 歌手、多镜头与逐字视觉设计 / AI performers and word-timed graphics",
+      "url": "https://github.com/obie/slopcore",
+      "summary": "先设计人物与场景，再生成镜头、处理演唱口型，最后用代码叠加按词与节拍对齐的视觉元素；附 Queso 制作工程。 / AI performers and word-timed graphics",
+      "category": "叙事动画与音乐视频",
+      "type": "Agent Skill / Generated-shot MV",
+      "hosts": [
+        "Claude",
+        "Codex"
+      ],
+      "status": "已核验固定版本与选定 Skill",
+      "curated": true,
+      "requirements": "Claude Code、生成服务账号与额度、Apple Silicon、Python 3.11、Node 22、FFmpeg；示例图片等不属于 MIT 代码许可。",
+      "limits": "已核对源文件与示例引用，未执行上游制作流程；歌曲与歌词使用权另行确认。",
+      "license": "Code/docs: MIT; example song, images and likeness: all rights reserved",
+      "archived": false,
+      "stars": 10,
+      "commit": "2d026ecd999b0543ada360dd006faa6cb8cc4d15",
+      "checked_at": "2026-11-18T07:01:03.016193+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "obie/slopcore"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/obie/slopcore/blob/2d026ecd999b0543ada360dd006faa6cb8cc4d15/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:01:03.016193+00:00"
+        },
+        {
+          "url": "https://github.com/obie/slopcore/blob/2d026ecd999b0543ada360dd006faa6cb8cc4d15/skills/music-video/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:01:03.016193+00:00"
+        },
+        {
+          "url": "https://github.com/obie/slopcore/blob/2d026ecd999b0543ada360dd006faa6cb8cc4d15/skills/music-video/examples/queso/PROMPTS.md",
+          "type": "Shot prompt book / 镜头提示词册",
+          "checked_at": "2026-11-18T07:01:03.016193+00:00"
+        },
+        {
+          "url": "https://github.com/obie/slopcore/blob/2d026ecd999b0543ada360dd006faa6cb8cc4d15/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/obie/slopcore/2d026ecd999b0543ada360dd006faa6cb8cc4d15/skills/music-video/examples/queso/stills/frame-0.0.jpg",
+          "type": "image",
+          "label": "frame-0.0.jpg",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/obie/slopcore/2d026ecd999b0543ada360dd006faa6cb8cc4d15/skills/music-video/examples/queso/stills/frame-124.0.jpg",
+          "type": "image",
+          "label": "frame-124.0.jpg",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=RoLiSWH3dqc",
+          "type": "page",
+          "label": "Author-linked full music video / 作者成片链接",
+          "verification": "Exact URL checked in pinned author README; external playback not verified"
+        }
+      ],
+      "upstream_created_at": "2026-10-04T19:08:29Z",
+      "upstream_pushed_at": "2026-10-28T10:19:33Z",
+      "edition": "2026-11-18-music-mv",
+      "collection_kind": "G",
+      "example_entry": "https://github.com/obie/slopcore/blob/2d026ecd999b0543ada360dd006faa6cb8cc4d15/skills/music-video/examples/queso/PROMPTS.md",
+      "example_label": "Shot prompt book / 镜头提示词册",
+      "experience_url": "https://www.youtube.com/watch?v=RoLiSWH3dqc"
+    },
+    {
+      "id": "motoy3d--ai-mv-production-skill",
+      "repo": "motoy3d/ai-mv-production-skill",
+      "title": "从歌曲到演唱对口型 MV / From a song to a lip-synced MV",
+      "url": "https://github.com/motoy3d/ai-mv-production-skill",
+      "summary": "组织歌曲段落、关键帧、非演唱镜头和演唱口型，再进入 CapCut 剪辑与成片检查；作者链接 Golden Horizon 样片。 / From a song to a lip-synced MV",
+      "category": "叙事动画与音乐视频",
+      "type": "Agent Skill / Generated-shot MV",
+      "hosts": [
+        "Claude"
+      ],
+      "status": "已核验固定版本与选定 Skill",
+      "curated": true,
+      "requirements": "Claude Code、Suno、Higgsfield、CapCut、FFmpeg；Swift 与超分工具需 macOS 26+。",
+      "limits": "已核对源文件与示例引用，未执行上游制作流程；歌曲与歌词使用权另行确认。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 0,
+      "commit": "19928499b711cfaf2c0b5a8b97f46607627cd96d",
+      "checked_at": "2026-11-18T07:01:04.080578+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "motoy3d/ai-mv-production-skill"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/motoy3d/ai-mv-production-skill/blob/19928499b711cfaf2c0b5a8b97f46607627cd96d/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:01:04.080578+00:00"
+        },
+        {
+          "url": "https://github.com/motoy3d/ai-mv-production-skill/blob/19928499b711cfaf2c0b5a8b97f46607627cd96d/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:01:04.080578+00:00"
+        },
+        {
+          "url": "https://github.com/motoy3d/ai-mv-production-skill/blob/19928499b711cfaf2c0b5a8b97f46607627cd96d/references/04-lipsync.md",
+          "type": "Lip-sync production guide / 演唱口型指南",
+          "checked_at": "2026-11-18T07:01:04.080578+00:00"
+        },
+        {
+          "url": "https://github.com/motoy3d/ai-mv-production-skill/blob/19928499b711cfaf2c0b5a8b97f46607627cd96d/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://youtu.be/Z8HbQFWfGG0",
+          "type": "page",
+          "label": "Author-linked full music video / 作者成片链接",
+          "verification": "Exact URL checked in pinned author README; external playback not verified"
+        }
+      ],
+      "upstream_created_at": "2026-09-21T05:45:50Z",
+      "upstream_pushed_at": "2026-09-27T02:01:41Z",
+      "edition": "2026-11-18-music-mv",
+      "collection_kind": "G",
+      "example_entry": "https://github.com/motoy3d/ai-mv-production-skill/blob/19928499b711cfaf2c0b5a8b97f46607627cd96d/references/04-lipsync.md",
+      "example_label": "Lip-sync production guide / 演唱口型指南",
+      "experience_url": "https://youtu.be/Z8HbQFWfGG0"
+    },
+    {
+      "id": "bizmuse-ai--skills",
+      "repo": "BizMuse-AI/skills",
+      "title": "歌曲与参考图交给云端制作 / Cloud MV generation from audio and references",
+      "url": "https://github.com/BizMuse-AI/skills",
+      "summary": "官方 bizmuse-music-video 技能支持单首和批量任务，提交歌曲与参考图后查询状态并下载视频和封面。 / Cloud MV generation from audio and references",
+      "category": "叙事动画与音乐视频",
+      "type": "Agent Skill / Generated-shot MV",
+      "hosts": [
+        "Claude",
+        "Codex",
+        "Cursor",
+        "OpenClaw"
+      ],
+      "status": "已核验固定版本与选定 Skill",
+      "curated": true,
+      "requirements": "Claude Code/Codex 等；bizmuse-cli、API key 与生成额度；依赖 BizMuse 云端。",
+      "limits": "已核对源文件与示例引用，未执行上游制作流程；歌曲与歌词使用权另行确认。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 0,
+      "commit": "135a363512de1547a1288526598b2c94fc4e9020",
+      "checked_at": "2026-11-18T07:01:04.139995+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "BizMuse-AI/skills"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/BizMuse-AI/skills/blob/135a363512de1547a1288526598b2c94fc4e9020/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:01:04.139995+00:00"
+        },
+        {
+          "url": "https://github.com/BizMuse-AI/skills/blob/135a363512de1547a1288526598b2c94fc4e9020/skills/bizmuse-music-video/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:01:04.139995+00:00"
+        },
+        {
+          "url": "https://github.com/BizMuse-AI/skills/blob/135a363512de1547a1288526598b2c94fc4e9020/skills/bizmuse-music-video/scripts/generate-mv.sh",
+          "type": "Generation helper / 生成辅助脚本",
+          "checked_at": "2026-11-18T07:01:04.139995+00:00"
+        },
+        {
+          "url": "https://github.com/BizMuse-AI/skills/blob/135a363512de1547a1288526598b2c94fc4e9020/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [],
+      "upstream_created_at": "2026-07-18T11:11:53Z",
+      "upstream_pushed_at": "2026-07-20T13:41:41Z",
+      "edition": "2026-11-18-music-mv",
+      "collection_kind": "G",
+      "example_entry": "https://github.com/BizMuse-AI/skills/blob/135a363512de1547a1288526598b2c94fc4e9020/skills/bizmuse-music-video/scripts/generate-mv.sh",
+      "example_label": "Generation helper / 生成辅助脚本"
+    },
+    {
+      "id": "varghq--skills",
+      "repo": "vargHQ/skills",
+      "title": "把生成镜头剪在歌曲节拍上 / Beat-cut generated music videos",
+      "url": "https://github.com/vargHQ/skills",
+      "summary": "选取 varg-music-video 子技能，将音乐节拍分析、视觉方向、镜头生成和时间线剪辑串联；附动漫 MV 案例说明。 / Beat-cut generated music videos",
+      "category": "叙事动画与音乐视频",
+      "type": "Agent Skill / Generated-shot MV",
+      "hosts": [
+        "Claude",
+        "Codex",
+        "Cursor",
+        "OpenClaw"
+      ],
+      "status": "已核验固定版本与选定 Skill",
+      "curated": true,
+      "requirements": "Claude Code/Codex 等；按子技能配置 Varg 工具、密钥与生成额度，并检查所需关联技能。",
+      "limits": "已核对源文件与示例引用，未执行上游制作流程；歌曲与歌词使用权另行确认。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 38,
+      "commit": "55ac28d4b4f336f9235df38d1d7aa639e4bec942",
+      "checked_at": "2026-11-18T07:01:09.643968+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "vargHQ/skills"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/vargHQ/skills/blob/55ac28d4b4f336f9235df38d1d7aa639e4bec942/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:01:09.643968+00:00"
+        },
+        {
+          "url": "https://github.com/vargHQ/skills/blob/55ac28d4b4f336f9235df38d1d7aa639e4bec942/varg-music-video/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:01:09.643968+00:00"
+        },
+        {
+          "url": "https://github.com/vargHQ/skills/blob/55ac28d4b4f336f9235df38d1d7aa639e4bec942/varg-music-video/references/anime-case-study.md",
+          "type": "Case study / 案例说明",
+          "checked_at": "2026-11-18T07:01:09.643968+00:00"
+        },
+        {
+          "url": "https://github.com/vargHQ/skills/blob/55ac28d4b4f336f9235df38d1d7aa639e4bec942/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [],
+      "upstream_created_at": "2026-01-22T05:28:34Z",
+      "upstream_pushed_at": "2026-11-18T06:47:15Z",
+      "edition": "2026-11-18-music-mv",
+      "collection_kind": "G",
+      "example_entry": "https://github.com/vargHQ/skills/blob/55ac28d4b4f336f9235df38d1d7aa639e4bec942/varg-music-video/references/anime-case-study.md",
+      "example_label": "Case study / 案例说明"
+    },
+    {
+      "id": "ace-step--ace-step-1.5",
+      "repo": "ace-step/ACE-Step-1.5",
+      "title": "波形与同步歌词可视化 / Waveforms with synchronized lyrics",
+      "url": "https://github.com/ace-step/ACE-Step-1.5",
+      "summary": "选取官方仓库的 acestep-simplemv：接收音频、LRC/JSON 歌词与标题，以 Remotion 输出波形歌词视频。 / Waveforms with synchronized lyrics",
+      "category": "叙事动画与音乐视频",
+      "type": "Agent Skill / Lyric visualizer",
+      "hosts": [
+        "Claude",
+        "Codex",
+        "OpenClaw"
+      ],
+      "status": "已核验固定版本与选定 Skill",
+      "curated": true,
+      "requirements": "Node/npm、Remotion、FFprobe；该渲染子技能使用现成音频，与完整音乐模型部署分开。",
+      "limits": "已核对源文件与示例引用，未执行上游制作流程；歌曲与歌词使用权另行确认。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 14915,
+      "commit": "ca1e85fe9430179831e6bc6be790c332190a3866",
+      "checked_at": "2026-11-18T07:01:11.056918+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "ace-step/ACE-Step-1.5"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/ace-step/ACE-Step-1.5/blob/ca1e85fe9430179831e6bc6be790c332190a3866/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:01:11.056918+00:00"
+        },
+        {
+          "url": "https://github.com/ace-step/ACE-Step-1.5/blob/ca1e85fe9430179831e6bc6be790c332190a3866/.claude/skills/acestep-simplemv/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:01:11.056918+00:00"
+        },
+        {
+          "url": "https://github.com/ace-step/ACE-Step-1.5/blob/ca1e85fe9430179831e6bc6be790c332190a3866/.claude/skills/acestep-simplemv/scripts/src/AudioVisualization.tsx",
+          "type": "Waveform composition / 波形画面源码",
+          "checked_at": "2026-11-18T07:01:11.056918+00:00"
+        },
+        {
+          "url": "https://github.com/ace-step/ACE-Step-1.5/blob/ca1e85fe9430179831e6bc6be790c332190a3866/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [],
+      "upstream_created_at": "2025-09-04T02:00:07Z",
+      "upstream_pushed_at": "2026-11-08T16:58:40Z",
+      "edition": "2026-11-18-music-mv",
+      "collection_kind": "L",
+      "example_entry": "https://github.com/ace-step/ACE-Step-1.5/blob/ca1e85fe9430179831e6bc6be790c332190a3866/.claude/skills/acestep-simplemv/scripts/src/AudioVisualization.tsx",
+      "example_label": "Waveform composition / 波形画面源码"
+    },
+    {
+      "id": "guigulaoshi--music-video-director-skill",
+      "repo": "guigulaoshi/music-video-director-skill",
+      "title": "歌曲加素材，剪成卡点 MV / Edit footage to the song",
+      "url": "https://github.com/guigulaoshi/music-video-director-skill",
+      "summary": "用 mvd 工具分析歌曲和素材，代理编写带情绪变化的剪辑表，再校验并渲染；保留可修改 EDL。 / Edit footage to the song",
+      "category": "叙事动画与音乐视频",
+      "type": "Agent Skill / MV directing and editing",
+      "hosts": [
+        "Claude"
+      ],
+      "status": "已核验固定版本与选定 Skill",
+      "curated": true,
+      "requirements": "Claude 命令或其他命令行代理；FFmpeg 与 Python 工具链。入口是小写 skill.md。",
+      "limits": "已核对源文件与示例引用，未执行上游制作流程；歌曲与歌词使用权另行确认。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 74,
+      "commit": "66de7f0dcc8d714c4f6cd9988a4d214387caee36",
+      "checked_at": "2026-11-18T07:01:11.157423+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "guigulaoshi/music-video-director-skill"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/guigulaoshi/music-video-director-skill/blob/66de7f0dcc8d714c4f6cd9988a4d214387caee36/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:01:11.157423+00:00"
+        },
+        {
+          "url": "https://github.com/guigulaoshi/music-video-director-skill/blob/66de7f0dcc8d714c4f6cd9988a4d214387caee36/skill.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:01:11.157423+00:00"
+        },
+        {
+          "url": "https://github.com/guigulaoshi/music-video-director-skill/blob/66de7f0dcc8d714c4f6cd9988a4d214387caee36/mvd/renderer.py",
+          "type": "Edit renderer / 剪辑渲染器",
+          "checked_at": "2026-11-18T07:01:11.157423+00:00"
+        },
+        {
+          "url": "https://github.com/guigulaoshi/music-video-director-skill/blob/66de7f0dcc8d714c4f6cd9988a4d214387caee36/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [],
+      "upstream_created_at": "2026-04-17T02:51:35Z",
+      "upstream_pushed_at": "2026-09-25T12:36:42Z",
+      "edition": "2026-11-18-music-mv",
+      "collection_kind": "E",
+      "example_entry": "https://github.com/guigulaoshi/music-video-director-skill/blob/66de7f0dcc8d714c4f6cd9988a4d214387caee36/mvd/renderer.py",
+      "example_label": "Edit renderer / 剪辑渲染器"
+    },
+    {
+      "id": "zhxsnd--pixel-mv-director",
+      "repo": "Zhxsnd/pixel-mv-director",
+      "title": "先把像素 MV 的故事设计对 / Design a pixel MV before rendering",
+      "url": "https://github.com/Zhxsnd/pixel-mv-director",
+      "summary": "从歌曲理解到分幕剧本、逐镜规格、转场与验收；提供引擎契约和分镜示例，由代理选择语言实现。 / Design a pixel MV before rendering",
+      "category": "叙事动画与音乐视频",
+      "type": "Agent Skill / MV directing and editing",
+      "hosts": [
+        "Claude",
+        "Codex",
+        "Cursor"
+      ],
+      "status": "已核验固定版本与选定 Skill",
+      "curated": true,
+      "requirements": "Claude Code/Codex 等可写代码代理；位图绘制与 FFmpeg。仓库提供规范，没有现成渲染器。",
+      "limits": "已核对源文件与示例引用，未执行上游制作流程；歌曲与歌词使用权另行确认。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 2,
+      "commit": "854b94537daae7edeff7b2ea6fd38bd794107408",
+      "checked_at": "2026-11-18T07:01:11.164927+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "Zhxsnd/pixel-mv-director"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/Zhxsnd/pixel-mv-director/blob/854b94537daae7edeff7b2ea6fd38bd794107408/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:01:11.164927+00:00"
+        },
+        {
+          "url": "https://github.com/Zhxsnd/pixel-mv-director/blob/854b94537daae7edeff7b2ea6fd38bd794107408/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:01:11.164927+00:00"
+        },
+        {
+          "url": "https://github.com/Zhxsnd/pixel-mv-director/blob/854b94537daae7edeff7b2ea6fd38bd794107408/examples/script.example.json",
+          "type": "Storyboard template / 分镜模板",
+          "checked_at": "2026-11-18T07:01:11.164927+00:00"
+        },
+        {
+          "url": "https://github.com/Zhxsnd/pixel-mv-director/blob/854b94537daae7edeff7b2ea6fd38bd794107408/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [],
+      "upstream_created_at": "2026-10-27T16:26:46Z",
+      "upstream_pushed_at": "2026-10-28T06:14:54Z",
+      "edition": "2026-11-18-music-mv",
+      "collection_kind": "E",
+      "example_entry": "https://github.com/Zhxsnd/pixel-mv-director/blob/854b94537daae7edeff7b2ea6fd38bd794107408/examples/script.example.json",
+      "example_label": "Storyboard template / 分镜模板"
     }
   ],
   "skills": [
@@ -45206,6 +46062,291 @@
           "repo": "anbeime/skill",
           "path": "skills/historical-interview-scripts/historical-interview-scripts/SKILL.md",
           "url": "https://github.com/anbeime/skill/blob/ec48389bb805dfd860f00e5167e277aaf8bcd660/skills/historical-interview-scripts/historical-interview-scripts/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "67d3920cd9619c40",
+      "repo": "sagearbor/claude-music-video-skill",
+      "name": "music-video",
+      "description": "用 p5.js 和 p5.brush 逐帧绘制，先分镜与试片，再按歌曲段落制作；附完整章节工程与制作复盘。",
+      "category": "叙事动画与音乐视频",
+      "sha256": "67d3920cd9619c4033797b984f2e6de40b38f74218f5a39e16a2545d90e51a6e",
+      "sources": [
+        {
+          "repo": "sagearbor/claude-music-video-skill",
+          "path": "SKILL.md",
+          "url": "https://github.com/sagearbor/claude-music-video-skill/blob/c764e18b8927dca5ea219fa42b78194fde28214f/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "e6ce3d3909bcbee5",
+      "repo": "qspang/music-mv",
+      "name": "lyric-led-pixel-mv",
+      "description": "像素角色与逐句事件驱动的 MV 工作流。",
+      "category": "叙事动画与音乐视频",
+      "sha256": "e6ce3d3909bcbee5f40d50527945829452342c87dded3d31b5d6bad8c3f1f80b",
+      "sources": [
+        {
+          "repo": "qspang/music-mv",
+          "path": "skills/lyric-led-pixel-mv/SKILL.md",
+          "url": "https://github.com/qspang/music-mv/blob/2af452d65ded9da86de3ad765d4d9a99b9deac8c/skills/lyric-led-pixel-mv/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "9731d34b34a93fcb",
+      "repo": "qspang/music-mv",
+      "name": "lyric-led-sticker-mv",
+      "description": "纸偶、模切白边和分层纸景的贴纸 MV 工作流。",
+      "category": "叙事动画与音乐视频",
+      "sha256": "9731d34b34a93fcb397d45aa3ba762d45d6cc006bf728acfd7214b66b90746f7",
+      "sources": [
+        {
+          "repo": "qspang/music-mv",
+          "path": "skills/lyric-led-sticker-mv/SKILL.md",
+          "url": "https://github.com/qspang/music-mv/blob/2af452d65ded9da86de3ad765d4d9a99b9deac8c/skills/lyric-led-sticker-mv/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "3f7a5b0627d64090",
+      "repo": "leeween/pixel-song-mv",
+      "name": "pixel-song-mv",
+      "description": "把歌曲演成游戏剧情，让人物动作和任务随副歌推进；附十二秒原创示例、合成音轨生成工具和场景代码。",
+      "category": "叙事动画与音乐视频",
+      "sha256": "3f7a5b0627d64090830e4fe8051227075b1426d4d1a027c5fc6748e25a36df3f",
+      "sources": [
+        {
+          "repo": "leeween/pixel-song-mv",
+          "path": "SKILL.md",
+          "url": "https://github.com/leeween/pixel-song-mv/blob/fd447feaa8c8941c938b0b62b07b7dd9c766ecff/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "5e8069257511d6c5",
+      "repo": "am-will/music-video-reimagined",
+      "name": "music-video-reimagined",
+      "description": "用手绘角色、统一场景与舞蹈动作库重构整首 MV；附 Gangnam 与 Papercut 的无音频工程。",
+      "category": "叙事动画与音乐视频",
+      "sha256": "5e8069257511d6c505f41edac58ecb685011a982b0f7ea10c650843e037658a1",
+      "sources": [
+        {
+          "repo": "am-will/music-video-reimagined",
+          "path": "skills/music-video-reimagined/SKILL.md",
+          "url": "https://github.com/am-will/music-video-reimagined/blob/7d6b7b22caf08c6e330e1abb869953d8e4f2cc1a/skills/music-video-reimagined/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "ada871324c09636a",
+      "repo": "Kreycin/ton-sea",
+      "name": "code-video",
+      "description": "code-video 兼顾音乐视频、角色表演、口型与动态字幕；仓库展示海边茶店叙事短片，可参考角色调度与声音工程。",
+      "category": "叙事动画与音乐视频",
+      "sha256": "ada871324c09636ab2230b44a06ca03076fac0a72d4ec78fc0d3e699a76ea5cb",
+      "sources": [
+        {
+          "repo": "Kreycin/ton-sea",
+          "path": ".claude/skills/code-video/SKILL.md",
+          "url": "https://github.com/Kreycin/ton-sea/blob/9543e948e30e9a3ca5cc5df18573f2f16909591e/.claude/skills/code-video/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "57f5133533ecd5b6",
+      "repo": "Boom-Vitt/bbn-video-studio",
+      "name": "music-video",
+      "description": "选取 music-video 子技能：从歌曲生成到逐句时间对齐，再用 Three.js 与 TypeScript 制作动态图形 MV。",
+      "category": "叙事动画与音乐视频",
+      "sha256": "57f5133533ecd5b6e77d928137bbdd494694f8a50f6e0e0212e3ee45b4170963",
+      "sources": [
+        {
+          "repo": "Boom-Vitt/bbn-video-studio",
+          "path": "plugins/bbn-video-studio/skills/music-video/SKILL.md",
+          "url": "https://github.com/Boom-Vitt/bbn-video-studio/blob/f54a5d6ab94defa2b238e0931cf7986b67f3b7b1/plugins/bbn-video-studio/skills/music-video/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "b2f4efc0762914a3",
+      "repo": "a252937166/claude-video-studio",
+      "name": "claude-video-studio",
+      "description": "提供按小节编排歌词、实测节拍偏移及画面路线选择的方法；根据角色与素材选择像素动画或生成模型动作迁移。",
+      "category": "叙事动画与音乐视频",
+      "sha256": "b2f4efc0762914a3861f71e8e07875a832e4f4737b0052986c93611d71819611",
+      "sources": [
+        {
+          "repo": "a252937166/claude-video-studio",
+          "path": "SKILL.md",
+          "url": "https://github.com/a252937166/claude-video-studio/blob/8be28db576a6a0e8d9c9750eefc4fa2ccec06429/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "11d900566d671f33",
+      "repo": "obie/slopcore",
+      "name": "music-video",
+      "description": "先设计人物与场景，再生成镜头、处理演唱口型，最后用代码叠加按词与节拍对齐的视觉元素；附 Queso 制作工程。",
+      "category": "叙事动画与音乐视频",
+      "sha256": "11d900566d671f33bbb2669da061ae2fe225f59d308a494b96d3f1cbe0b35055",
+      "sources": [
+        {
+          "repo": "obie/slopcore",
+          "path": "skills/music-video/SKILL.md",
+          "url": "https://github.com/obie/slopcore/blob/2d026ecd999b0543ada360dd006faa6cb8cc4d15/skills/music-video/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "a7b56e15a1e6a744",
+      "repo": "motoy3d/ai-mv-production-skill",
+      "name": "ai-mv-production",
+      "description": "组织歌曲段落、关键帧、非演唱镜头和演唱口型，再进入 CapCut 剪辑与成片检查；作者链接 Golden Horizon 样片。",
+      "category": "叙事动画与音乐视频",
+      "sha256": "a7b56e15a1e6a744c254943de8c64600cba7e4395c08c6599641738648d6af54",
+      "sources": [
+        {
+          "repo": "motoy3d/ai-mv-production-skill",
+          "path": "SKILL.md",
+          "url": "https://github.com/motoy3d/ai-mv-production-skill/blob/19928499b711cfaf2c0b5a8b97f46607627cd96d/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "df208a4acd0b06d8",
+      "repo": "BizMuse-AI/skills",
+      "name": "bizmuse-music-video",
+      "description": "官方 bizmuse-music-video 技能支持单首和批量任务，提交歌曲与参考图后查询状态并下载视频和封面。",
+      "category": "叙事动画与音乐视频",
+      "sha256": "df208a4acd0b06d8223af27b73807d181357ea4c69063bad06ab9764987e48b2",
+      "sources": [
+        {
+          "repo": "BizMuse-AI/skills",
+          "path": "skills/bizmuse-music-video/SKILL.md",
+          "url": "https://github.com/BizMuse-AI/skills/blob/135a363512de1547a1288526598b2c94fc4e9020/skills/bizmuse-music-video/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "ce8eff3618f2e056",
+      "repo": "vargHQ/skills",
+      "name": "varg-music-video",
+      "description": "选取 varg-music-video 子技能，将音乐节拍分析、视觉方向、镜头生成和时间线剪辑串联；附动漫 MV 案例说明。",
+      "category": "叙事动画与音乐视频",
+      "sha256": "ce8eff3618f2e056262fdea20adcb03d96eccc001cd60d248e8811669f388693",
+      "sources": [
+        {
+          "repo": "vargHQ/skills",
+          "path": "varg-music-video/SKILL.md",
+          "url": "https://github.com/vargHQ/skills/blob/55ac28d4b4f336f9235df38d1d7aa639e4bec942/varg-music-video/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "797c751f14200b8c",
+      "repo": "ace-step/ACE-Step-1.5",
+      "name": "acestep-simplemv",
+      "description": "选取官方仓库的 acestep-simplemv：接收音频、LRC/JSON 歌词与标题，以 Remotion 输出波形歌词视频。",
+      "category": "叙事动画与音乐视频",
+      "sha256": "797c751f14200b8c75b5053cd64074ad34f55eb866eee5fc5e98175ffa11ea96",
+      "sources": [
+        {
+          "repo": "ace-step/ACE-Step-1.5",
+          "path": ".claude/skills/acestep-simplemv/SKILL.md",
+          "url": "https://github.com/ace-step/ACE-Step-1.5/blob/ca1e85fe9430179831e6bc6be790c332190a3866/.claude/skills/acestep-simplemv/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "18d10ee9c9731e94",
+      "repo": "guigulaoshi/music-video-director-skill",
+      "name": "mv-director (skill.md / Claude command)",
+      "description": "用 mvd 工具分析歌曲和素材，代理编写带情绪变化的剪辑表，再校验并渲染；保留可修改 EDL。",
+      "category": "叙事动画与音乐视频",
+      "sha256": "18d10ee9c9731e94e7435b4b0dd32d90687b554b60be7944e1effbffe261c300",
+      "sources": [
+        {
+          "repo": "guigulaoshi/music-video-director-skill",
+          "path": "skill.md",
+          "url": "https://github.com/guigulaoshi/music-video-director-skill/blob/66de7f0dcc8d714c4f6cd9988a4d214387caee36/skill.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "f196c973226362fb",
+      "repo": "Zhxsnd/pixel-mv-director",
+      "name": "pixel-mv-director",
+      "description": "从歌曲理解到分幕剧本、逐镜规格、转场与验收；提供引擎契约和分镜示例，由代理选择语言实现。",
+      "category": "叙事动画与音乐视频",
+      "sha256": "f196c973226362fb44686cbf38c90bed06903446de497462c69f7c942028de4c",
+      "sources": [
+        {
+          "repo": "Zhxsnd/pixel-mv-director",
+          "path": "SKILL.md",
+          "url": "https://github.com/Zhxsnd/pixel-mv-director/blob/854b94537daae7edeff7b2ea6fd38bd794107408/SKILL.md"
         }
       ],
       "text": "",
@@ -114478,6 +115619,159 @@
       ],
       "text": "建立人物传记证据库",
       "text_status": "Author invocation excerpt / 作者调用语句节选"
+    },
+    {
+      "id": "0ec03f75b6aee70b",
+      "repo": "sagearbor/claude-music-video-skill",
+      "title": "整首手绘与动态图形 MV · 作者调用/方向示例",
+      "category": "叙事动画与音乐视频",
+      "origin": "Author README excerpt / 作者 README 节选",
+      "review": "这是调用或视觉方向片段；不是歌词，项目样例不自动归为该片段的直接输出。",
+      "sources": [
+        {
+          "url": "https://github.com/sagearbor/claude-music-video-skill/blob/c764e18b8927dca5ea219fa42b78194fde28214f/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:00:47.516716+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Claude"
+      ],
+      "text": "Use the music-video skill to make a video for ~/Downloads/song.mp3 (lyrics in ~/Downloads/song.srt)",
+      "text_status": "Author invocation or direction excerpt / 作者调用或方向语句节选"
+    },
+    {
+      "id": "57c463ceb70019f4",
+      "repo": "qspang/music-mv",
+      "title": "歌词驱动的像素与贴纸故事 · 作者调用/方向示例",
+      "category": "叙事动画与音乐视频",
+      "origin": "Author README excerpt / 作者 README 节选",
+      "review": "这是调用或视觉方向片段；不是歌词，项目样例不自动归为该片段的直接输出。",
+      "sources": [
+        {
+          "url": "https://github.com/qspang/music-mv/blob/2af452d65ded9da86de3ad765d4d9a99b9deac8c/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:00:47.517754+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Claude",
+        "Codex"
+      ],
+      "text": "请先完整阅读 skills/lyric-led-pixel-mv/SKILL.md，",
+      "text_status": "Author invocation or direction excerpt / 作者调用或方向语句节选"
+    },
+    {
+      "id": "a319c807d0b788a3",
+      "repo": "leeween/pixel-song-mv",
+      "title": "带 RPG 对话框的像素 MV · 作者调用/方向示例",
+      "category": "叙事动画与音乐视频",
+      "origin": "Author README excerpt / 作者 README 节选",
+      "review": "这是调用或视觉方向片段；不是歌词，项目样例不自动归为该片段的直接输出。",
+      "sources": [
+        {
+          "url": "https://github.com/leeween/pixel-song-mv/blob/fd447feaa8c8941c938b0b62b07b7dd9c766ecff/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:00:47.520258+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Claude",
+        "Codex"
+      ],
+      "text": "使用 pixel-song-mv，把这首歌做成横屏像素 MV。主角是一名修复灯塔的旅人，每次副歌都让任务向前推进。先给我故事方案。",
+      "text_status": "Author invocation or direction excerpt / 作者调用或方向语句节选"
+    },
+    {
+      "id": "8c45cf08e0370bfe",
+      "repo": "am-will/music-video-reimagined",
+      "title": "水彩乐队与卡点骑马舞 · 作者调用/方向示例",
+      "category": "叙事动画与音乐视频",
+      "origin": "Author README excerpt / 作者 README 节选",
+      "review": "这是调用或视觉方向片段；不是歌词，项目样例不自动归为该片段的直接输出。",
+      "sources": [
+        {
+          "url": "https://github.com/am-will/music-video-reimagined/blob/7d6b7b22caf08c6e330e1abb869953d8e4f2cc1a/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:00:47.519851+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Claude"
+      ],
+      "text": "Remake this music video with Clawd characters, and keep the famous dance: https://youtu.be/...",
+      "text_status": "Author invocation or direction excerpt / 作者调用或方向语句节选"
+    },
+    {
+      "id": "a48e68b19d811fb3",
+      "repo": "obie/slopcore",
+      "title": "AI 歌手、多镜头与逐字视觉设计 · 作者调用/方向示例",
+      "category": "叙事动画与音乐视频",
+      "origin": "Author README excerpt / 作者 README 节选",
+      "review": "这是调用或视觉方向片段；不是歌词，项目样例不自动归为该片段的直接输出。",
+      "sources": [
+        {
+          "url": "https://github.com/obie/slopcore/blob/2d026ecd999b0543ada360dd006faa6cb8cc4d15/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:01:03.016193+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Claude",
+        "Codex"
+      ],
+      "text": "/slopcore:music-video",
+      "text_status": "Author invocation or direction excerpt / 作者调用或方向语句节选"
+    },
+    {
+      "id": "f9d91c602acbf49e",
+      "repo": "BizMuse-AI/skills",
+      "title": "歌曲与参考图交给云端制作 · 作者调用/方向示例",
+      "category": "叙事动画与音乐视频",
+      "origin": "Author README excerpt / 作者 README 节选",
+      "review": "这是调用或视觉方向片段；不是歌词，项目样例不自动归为该片段的直接输出。",
+      "sources": [
+        {
+          "url": "https://github.com/BizMuse-AI/skills/blob/135a363512de1547a1288526598b2c94fc4e9020/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:01:04.139995+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Claude",
+        "Codex",
+        "Cursor",
+        "OpenClaw"
+      ],
+      "text": "Night performance in Tokyo with neon reflections and cinematic camera movement",
+      "text_status": "Author invocation or direction excerpt / 作者调用或方向语句节选"
+    },
+    {
+      "id": "394650c305bc7f05",
+      "repo": "guigulaoshi/music-video-director-skill",
+      "title": "歌曲加素材，剪成卡点 MV · 作者调用/方向示例",
+      "category": "叙事动画与音乐视频",
+      "origin": "Author README excerpt / 作者 README 节选",
+      "review": "这是调用或视觉方向片段；不是歌词，项目样例不自动归为该片段的直接输出。",
+      "sources": [
+        {
+          "url": "https://github.com/guigulaoshi/music-video-director-skill/blob/66de7f0dcc8d714c4f6cd9988a4d214387caee36/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:01:11.157423+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Claude"
+      ],
+      "text": "High-energy performance edit — cut on every beat in the chorus, breathing room in the verses.",
+      "text_status": "Author invocation or direction excerpt / 作者调用或方向语句节选"
     }
   ],
   "cases": [
@@ -194435,6 +195729,30 @@
         "bangbuilds/code-poem-film"
       ],
       "text": "为【人物】制作约 3 分钟的人物传记。先用资料 Skill 整理生平时间线、关键作品、3 次命运转折与原文出处，明确争议和不确定信息。用一个有据可查的关键时刻开场，再交代背景。把每次转折写成处境、选择、代价和后续影响；原话必须可追溯，重构场景标为示意。用分镜 Skill 输出人物设定、镜头画面、解说词和首尾帧提示词。路线与时代空间可交给 code-doc-film；诗人作品章节可交给 code-poem-film。先选一种画面路线做 10 秒样片，再制作全片；不把静态画像的缩放当作全部叙事。",
+      "origin": "本目录原创组合模板；不是上游原文或实测结果"
+    },
+    {
+      "id": "music-mv-lyric-story",
+      "title": "代码 MV：让每段歌词发生一件事",
+      "category": "音乐 MV 创作",
+      "sources": [
+        "qspang/music-mv",
+        "leeween/pixel-song-mv",
+        "sagearbor/claude-music-video-skill"
+      ],
+      "text": "使用【选定的 MV Skill】，把我提供的 song.mp3 与 song.lrc 做成【像素 / 贴纸 / 手绘】叙事 MV。先核对音源版本与逐句时间，不凭节拍估算歌词起止。围绕歌曲建立一条人物行动与关系变化的主线，让重复副歌每次推进故事。每镜写清人物要做什么、发生什么变化、观众需要看多久；保持角色和空间一致。先做最难的 15 秒试片，检查动作、转场和歌词同步，再扩展全曲。交付 MP4、字幕、封面、场景代码和时间轴。歌曲音量与原文件对照检查，不额外添加旁白。",
+      "origin": "本目录原创组合模板；不是上游原文或实测结果"
+    },
+    {
+      "id": "music-mv-generated-performer",
+      "title": "AI 歌手 MV：先锁形象，再做演唱镜头",
+      "category": "音乐 MV 创作",
+      "sources": [
+        "obie/slopcore",
+        "motoy3d/ai-mv-production-skill",
+        "vargHQ/skills"
+      ],
+      "text": "使用【选定的 MV Skill】为我的原创歌曲制作【时长、画幅】MV。先分析主歌、副歌、间奏和逐字时间，给出人物设定、统一场景和镜头表。区分演唱镜头、叙事镜头与纯图形镜头；歌词文字由代码叠加。列出生成服务、镜头数量、试片与全片费用估计，在预算确认后生成关键帧和最低成本试片。先验证同一角色跨镜一致、演唱口型与真实人声对齐，再扩展到其余镜头。最终交付成片、横竖封面、镜头提示词、素材清单及可修改时间线；发布由我另行决定。",
       "origin": "本目录原创组合模板；不是上游原文或实测结果"
     }
   ],

@@ -4,6 +4,21 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [scenario-unity-vfx](../../skills/708c81caabe0453c.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-unity-web](../../skills/a111754668c0c154.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-unity-world-building](../../skills/b1fed5ab35918058.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-unreal-animation](../../skills/8cf87de5552e2735.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-unreal-cinematics](../../skills/56f9638983bd923d.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-unreal-expert](../../skills/737a8b5f3a25d204.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-unreal-gameplay](../../skills/f30cc16ad25a5bb1.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-unreal-lighting-rendering](../../skills/306f8aa243d7d388.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-unreal-materials](../../skills/2fe38a5536059d0c.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-unreal-performance](../../skills/99041f69f8173151.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-unreal-pipeline-automation](../../skills/02e35b59f101db59.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-unreal-vfx](../../skills/0dbded4c279fedb6.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-unreal-world-building](../../skills/7133ab443909e446.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-veo](../../skills/6c1884ca0166b736.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-video](../../skills/ad394337e79df6a6.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-video-ads](../../skills/35c5fe9b3017545a.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-video-assembly](../../skills/bf56606b5a9a09e8.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-video-color-grade](../../skills/09610574793071b3.md) | 游戏资产与像素画 | scenario-labs/skills |
@@ -69,20 +84,5 @@
 | [character-rigging](../../skills/eb8fe316be44aac1.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [code-slice-hero](../../skills/00cc6766b45b55cd.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
 | [comfyui](../../skills/729387378f026de9.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [comfyui-workflow-to-node](../../skills/fd56c669547309ab.md) | 视频框架与程序化成片 | chiphoton/DeepSeek-Harness-Video-Director |
-| [create-video](../../skills/7018274f6e11127e.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [cuboid-carousel](../../skills/01f82f43969ff0ab.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
-| [cut-the-curve](../../skills/c97df202caea1694.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
-| [d3-viz](../../skills/4b1f820cd87c55dc.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [dashscope](../../skills/8ce0f79afd304b34.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [doubao-tts](../../skills/c2b490a67fd36984.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [elevenlabs](../../skills/dfb19e4f4251ea56.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [elevenlabs](../../skills/056d42feb93e0bd0.md) | 视频框架与程序化成片 | digitalsamba/claude-code-video-toolkit |
-| [embedded-captions](../../skills/761d9cd5e03fc10c.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
-| [faceless-explainer](../../skills/8745992c08b21e76.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
-| [faceswap](../../skills/89f620106773853a.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [ffmpeg](../../skills/20a0c1e35a683a6b.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [figma](../../skills/d9537758a88bf3cb.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
-| [figma](../../skills/4573c828057f2109.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md)

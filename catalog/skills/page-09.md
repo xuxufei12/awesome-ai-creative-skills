@@ -4,6 +4,21 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [comfyui-workflow-to-node](../../skills/fd56c669547309ab.md) | 视频框架与程序化成片 | chiphoton/DeepSeek-Harness-Video-Director |
+| [create-video](../../skills/7018274f6e11127e.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [cuboid-carousel](../../skills/01f82f43969ff0ab.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
+| [cut-the-curve](../../skills/c97df202caea1694.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
+| [d3-viz](../../skills/4b1f820cd87c55dc.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [dashscope](../../skills/8ce0f79afd304b34.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [doubao-tts](../../skills/c2b490a67fd36984.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [elevenlabs](../../skills/dfb19e4f4251ea56.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [elevenlabs](../../skills/056d42feb93e0bd0.md) | 视频框架与程序化成片 | digitalsamba/claude-code-video-toolkit |
+| [embedded-captions](../../skills/761d9cd5e03fc10c.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
+| [faceless-explainer](../../skills/8745992c08b21e76.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
+| [faceswap](../../skills/89f620106773853a.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [ffmpeg](../../skills/20a0c1e35a683a6b.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [figma](../../skills/d9537758a88bf3cb.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
+| [figma](../../skills/4573c828057f2109.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
 | [fish-audio-tts](../../skills/3a873b2e65c1c90f.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [flux-best-practices](../../skills/6c2fca51bbe6885b.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [framer-motion](../../skills/8428007eea0cd4f1.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
@@ -69,20 +84,5 @@
 | [oil-ui](../../skills/c3b7c11d3fc6f32b.md) | 视频框架与程序化成片 | oil-oil/dsh-oil-ui |
 | [orbit-card](../../skills/78af47b211816633.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
 | [oversized-cursor](../../skills/a176b1f251c37908.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
-| [paper-cutout-story](../../skills/b88bd11f4f3a7ddf.md) | 视频框架与程序化成片 | cooperchx/paper-cutout-story |
-| [playwright-recording](../../skills/291ab7cda312bd3a.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [pose-library-design](../../skills/a874aaf1b43f25fa.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [pr-to-video](../../skills/e6d814eaf6bd3ca5.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
-| [product-launch-video](../../skills/5ef06256aa75ca54.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
-| [provider-model-refresh](../../skills/069c9f46c47db543.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [qwen-edit](../../skills/b0601d096f4e56b5.md) | 视频框架与程序化成片 | digitalsamba/claude-code-video-toolkit |
-| [remotion](../../skills/b37046044b69b305.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [remotion](../../skills/507fab86b77b2dcc.md) | 视频框架与程序化成片 | digitalsamba/claude-code-video-toolkit |
-| [remotion-best-practices](../../skills/2f9be561c1c3659a.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [remotion-best-practices](../../skills/4e9123f17ee753af.md) | 视频框架与程序化成片 | digitalsamba/claude-code-video-toolkit |
-| [remotion-best-practices](../../skills/db0a72a3eb8830b8.md) | 视频框架与程序化成片 | remotion-dev/skills |
-| [remotion-best-practices](../../skills/23c5c52d379ccca7.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
-| [remotion-canvas-director](../../skills/46058153dddf5b01.md) | 视频框架与程序化成片 | shenwang2/remotion-canvas-director |
-| [remotion-captions](../../skills/87e458cb6d0a0428.md) | 视频框架与程序化成片 | remotion-dev/skills |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md)

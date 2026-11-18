@@ -4,7 +4,7 @@
 
 - [Education & hand-drawn explainers / 教学科普与手绘](education.md) — 74
 - [Editing, captions & avatars / 剪辑字幕与数字人](editing.md) — 94
-- [Storytelling, animation & music videos / 叙事动画与音乐视频](storytelling.md) — 30
+- [Storytelling, animation & music videos / 叙事动画与音乐视频](storytelling.md) — 44
 - [Video frameworks & code rendering / 视频框架与程序化成片](video-frameworks.md) — 88
 - [Ads & product demos / 广告与产品演示](product-videos.md) — 69
 - [SVG & motion graphics / SVG 与动态图形](motion-graphics.md) — 30

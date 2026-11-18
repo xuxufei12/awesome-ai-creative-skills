@@ -1,16 +1,16 @@
 {
-  "projects": 504,
-  "skills": 832,
-  "prompts": 1868,
+  "projects": 518,
+  "skills": 847,
+  "prompts": 1875,
   "cases": 2204,
   "guides": 12,
-  "templates": 18,
+  "templates": 20,
   "prompt_records_with_media": 1798,
   "case_records_with_media": 2161,
-  "project_records_with_media": 368,
+  "project_records_with_media": 375,
   "snapshot_date": "2026-11-18",
-  "featured_effect_cards": 92,
-  "featured_gif_cards": 28,
-  "visual_gallery_previews": 2103,
-  "visual_gallery_pages": 89
+  "featured_effect_cards": 98,
+  "featured_gif_cards": 29,
+  "visual_gallery_previews": 2109,
+  "visual_gallery_pages": 90
 }

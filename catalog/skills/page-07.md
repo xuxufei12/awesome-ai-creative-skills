@@ -4,6 +4,21 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [scenario-identity-library](../../skills/686ca20080a8e4fa.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-ideogram](../../skills/c5f3fb4e6a1b57cc.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-image](../../skills/e1ba064d5e46b769.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-image-editing](../../skills/ae0179c515cfe44b.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-inspiration](../../skills/fc45e63c56983c9f.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-kinetic-music-video](../../skills/1a8b599b4ce66fea.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-kling](../../skills/9e61dc0b2ab638b6.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-luma-image](../../skills/aa3749b8a5eca7b2.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-luma-video](../../skills/f018ddb36705ca72.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-mai-image](../../skills/42853d83c6d2ea8a.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-maya-animation](../../skills/617d7b3dc15d6875.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-maya-deformation](../../skills/c76c0240d8050dce.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-maya-expert](../../skills/fb3beb06b09928ea.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-maya-fx](../../skills/70a687dfcde0bed7.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-maya-groom](../../skills/04b847dd0635b74c.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-maya-lighting-rendering](../../skills/9f225300b627f1f4.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-maya-lookdev](../../skills/07f490a429405c3c.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-maya-modeling](../../skills/591eecf4ef3a7b50.md) | 游戏资产与像素画 | scenario-labs/skills |
@@ -69,20 +84,5 @@
 | [scenario-unity-rendering-lighting](../../skills/3d0b2f51df68952c.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-unity-shaders](../../skills/5eea9434eb18f662.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-unity-ui](../../skills/ae9c47076537b0c2.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-unity-vfx](../../skills/708c81caabe0453c.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-unity-web](../../skills/a111754668c0c154.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-unity-world-building](../../skills/b1fed5ab35918058.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-unreal-animation](../../skills/8cf87de5552e2735.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-unreal-cinematics](../../skills/56f9638983bd923d.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-unreal-expert](../../skills/737a8b5f3a25d204.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-unreal-gameplay](../../skills/f30cc16ad25a5bb1.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-unreal-lighting-rendering](../../skills/306f8aa243d7d388.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-unreal-materials](../../skills/2fe38a5536059d0c.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-unreal-performance](../../skills/99041f69f8173151.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-unreal-pipeline-automation](../../skills/02e35b59f101db59.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-unreal-vfx](../../skills/0dbded4c279fedb6.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-unreal-world-building](../../skills/7133ab443909e446.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-veo](../../skills/6c1884ca0166b736.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-video](../../skills/ad394337e79df6a6.md) | 游戏资产与像素画 | scenario-labs/skills |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md)

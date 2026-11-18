@@ -4,6 +4,13 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [例 23: 多视图结果生成（by @Error_HTTP_404）](../../prompts/8ba2a9600d594d38.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例 23: 多角色串场漫画（by @canghecode）](../../prompts/41972bcaf9c30013.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例 24: 手办白模上色（by @op7418）](../../prompts/8658e76656251df4.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例 24: 电影分镜（by @GeminiApp）](../../prompts/d6720e4acc3ff045.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例 25: 人物姿势修改（by @arrakis_ai）](../../prompts/061b0e84c9bad7dd.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例 25: 金句卡片（by @stark_nico99）](../../prompts/19ddce8ca06dd679.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例 26: 清明上河图风格图像（by @dotey）](../../prompts/dc9039604ac1de07.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 | [例 26: 线稿图生成图像（by @ZHO_ZHO_ZHO）](../../prompts/4313240f5ff47932.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 | [例 27: 为图像添加水印（by @AiMachete）](../../prompts/fb870e7616991e87.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 | [例 27: 电影分镜制作（by @jamesyeung18）](../../prompts/eeff93f5e9ef2a92.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
@@ -77,12 +84,5 @@
 | [例 63: 制作证件照（by @songguoxiansen）](../../prompts/d82ce65523cdda79.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 | [例 64: 场景 A6 折叠卡（by @Gdgtify）](../../prompts/be582a407b096da6.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 | [例 65: 设计国际象棋（by @Gdgtify）](../../prompts/76d3a0251fa9b4bd.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 66: 分割对照样式照片（by @fofrAI）](../../prompts/dc62514fb463d763.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 67: 珠宝首饰设计（by @Gdgtify）](../../prompts/1a07faae742878a4.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 68: 周边设计（by @0xFramer）](../../prompts/9e0b7c85cb2ffd5e.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 6: 人物拆解（by @cheerselflin）](../../prompts/53b5a96754e57ccc.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 6: 多参考图像生成（by @MrDavids1）](../../prompts/3279b1fb93d4d5f2.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 7: 物品制作幕后（by @ZHO_ZHO_ZHO）](../../prompts/e5bad30233f9d10c.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 7: 自动修图（by @op7418）](../../prompts/08b9b97c98517d74.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

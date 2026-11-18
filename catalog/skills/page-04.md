@@ -4,6 +4,21 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [transcribe](../../skills/f530021da9f37736.md) | 合集与创作案例 | openai/skills |
+| [baoyu-article-illustrator](../../skills/ce1c7bfe9b93e5af.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
+| [baoyu-comic](../../skills/98d5de8650a3401c.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
+| [baoyu-compress-image](../../skills/b14b2ac50b798aa7.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
+| [baoyu-cover-image](../../skills/36804fce98bcb9eb.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
+| [baoyu-danger-gemini-web](../../skills/290c0f8b3957a21d.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
+| [baoyu-danger-x-to-markdown](../../skills/2b34a2e4d50cd201.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
+| [baoyu-design](../../skills/b3203e3da713688c.md) | 图像生成与商业视觉 | JimLiu/baoyu-design |
+| [baoyu-diagram](../../skills/55a2d050c3a2faea.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
+| [baoyu-electron-extract](../../skills/3f8714f3030dd12e.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
+| [baoyu-format-markdown](../../skills/39bd9eeb5373365c.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
+| [baoyu-image-gen](../../skills/212ce2f9c4b49b16.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
+| [baoyu-infographic](../../skills/1572aaa294c5f754.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
+| [baoyu-markdown-to-html](../../skills/f4a5bb1697f93875.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
+| [baoyu-post-to-wechat](../../skills/e15f1b5a51b8443e.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
 | [baoyu-post-to-weibo](../../skills/afc5eb6d748f8d4f.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
 | [baoyu-post-to-x](../../skills/6eca9de552dd0b7b.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
 | [baoyu-slide-deck](../../skills/0e988f065a188622.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
@@ -69,20 +84,5 @@
 | [sansheng-image](../../skills/e7e4bf72e3c048d3.md) | 图像生成与商业视觉 | sanshengai/sansheng-image |
 | [schautafel](../../skills/222d58fc8ae516a5.md) | 图像生成与商业视觉 | aibex-aios/skill-schautafel |
 | [short-drama](../../skills/a8efa0cc1f73a4cb.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
-| [short-drama-assets](../../skills/a8d3a4568b98ce25.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
-| [short-drama-develop](../../skills/98e537c3114fe1c2.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
-| [short-drama-edit](../../skills/2e53700bceae46e7.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
-| [short-drama-image-prompts](../../skills/95f0bd1da8a53d88.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
-| [short-drama-novel-analyze](../../skills/4124c97f70f91b6f.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
-| [short-drama-produce](../../skills/90716253be3e28ea.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
-| [short-drama-review](../../skills/251364f35886455b.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
-| [short-drama-storyboard](../../skills/f893fb81cb45f02a.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
-| [short-drama-video-prompts](../../skills/e9ab120687deabf1.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
-| [short-drama-write](../../skills/f0a74465dbdd12c0.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
-| [story](../../skills/aca12db9e3872b15.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
-| [story-cover](../../skills/9b1feb85506a32b2.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
-| [story-deslop](../../skills/a7b1c01496938a53.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
-| [story-import](../../skills/b3b3f8db7e83666d.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
-| [story-long-analyze](../../skills/f84fbae845160938.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md)

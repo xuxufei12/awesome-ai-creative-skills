@@ -4,6 +4,7 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [countdown](../../prompts/001acc34b17fbc9d.md) | 叙事动画与音乐视频 | lemomo-ai/lemo-opuscar |
 | [kino-montage](../../prompts/5b6a2f2b57301ea2.md) | 叙事动画与音乐视频 | lemomo-ai/lemo-opuscar |
 | [news-package](../../prompts/1e31455b7f91ce83.md) | 叙事动画与音乐视频 | lemomo-ai/lemo-opuscar |
 | [newsreel](../../prompts/13762156918b1753.md) | 叙事动画与音乐视频 | lemomo-ai/lemo-opuscar |
@@ -11,6 +12,12 @@
 | [visual-investigation](../../prompts/4ac817305beec172.md) | 叙事动画与音乐视频 | lemomo-ai/lemo-opuscar |
 | [小说改 AI 短剧:改编大纲 + 分镜表提示词 · 1](../../prompts/a6c9fc8d08175c67.md) | 叙事动画与音乐视频 | PDF / community |
 | [小说改 AI 短剧:改编大纲 + 分镜表提示词 · 2](../../prompts/3a7fdabc5c530a4b.md) | 叙事动画与音乐视频 | PDF / community |
+| [带 RPG 对话框的像素 MV · 作者调用/方向示例](../../prompts/a319c807d0b788a3.md) | 叙事动画与音乐视频 | leeween/pixel-song-mv |
+| [整首手绘与动态图形 MV · 作者调用/方向示例](../../prompts/0ec03f75b6aee70b.md) | 叙事动画与音乐视频 | sagearbor/claude-music-video-skill |
+| [歌曲与参考图交给云端制作 · 作者调用/方向示例](../../prompts/f9d91c602acbf49e.md) | 叙事动画与音乐视频 | BizMuse-AI/skills |
+| [歌曲加素材，剪成卡点 MV · 作者调用/方向示例](../../prompts/394650c305bc7f05.md) | 叙事动画与音乐视频 | guigulaoshi/music-video-director-skill |
+| [歌词驱动的像素与贴纸故事 · 作者调用/方向示例](../../prompts/57c463ceb70019f4.md) | 叙事动画与音乐视频 | qspang/music-mv |
+| [水彩乐队与卡点骑马舞 · 作者调用/方向示例](../../prompts/8c45cf08e0370bfe.md) | 叙事动画与音乐视频 | am-will/music-video-reimagined |
 | [一句话讲 Anthropic 的发家史](../../prompts/a47a0868f17196b4.md) | 叙事短片 | guanmo-ai/awesome-ai-motion |
 | [一滴雨的故事动画](../../prompts/b4593c89318e35d6.md) | 叙事短片 | guanmo-ai/awesome-ai-motion |
 | [不想被修好的程序错误](../../prompts/3b496c6832667b84.md) | 叙事短片 | guanmo-ai/awesome-ai-motion |
@@ -77,12 +84,5 @@
 | [No. 13: Profile / Avatar - Identity-Preserving Satin Dress Portrait](../../prompts/0b018065f7c01845.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
 | [No. 14: Profile / Avatar - Japanese Magazine Style Portrait with Foggy Purple Grey Tone](../../prompts/11389cdd80fd7af2.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
 | [No. 14: Profile / Avatar - Photorealistic Sunset Portrait with Reference Face](../../prompts/6728747c3c3200bb.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
-| [No. 15: Profile / Avatar - Overhead Shot of Person Sleeping on Sofa](../../prompts/07483c8b800cba4f.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
-| [No. 15: Profile / Avatar - Realistic Portrait of South Asian Man at Twilight](../../prompts/2843467f96936231.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
-| [No. 16: Profile / Avatar - Japanese Woman Model Comparison Prompt](../../prompts/56946fc516d3d407.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
-| [No. 16: Profile / Avatar - Multi-Symbol Composite Expression Portrait](../../prompts/da66670f6b53b698.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
-| [No. 17: Profile / Avatar - Anime Character Behind Real Subject Prompt](../../prompts/287bc3dff09fb5d9.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
-| [No. 17: Profile / Avatar - South Asian Woman Selfie Prompt](../../prompts/d5b087fbdb6215a7.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
-| [No. 18: Profile / Avatar - Nokia Phone Selfie with Ragdoll Cat Cosplay](../../prompts/878cba4a6faa3994.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

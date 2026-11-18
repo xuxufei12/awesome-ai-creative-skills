@@ -4,6 +4,13 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [Knitted Wool Creature Rainy Rooftop](../../prompts/aaf145b82f627d9d.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Knitting Night Sky Transformation](../../prompts/5c50e3ce876fb51b.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Korean Coastal Village Vlog Prompt](../../prompts/b83d2e06504caa5f.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Korean Drama Silent Encounter Scene](../../prompts/482ac3a122e0c767.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Korean Woman Action Sequence in City Chaos](../../prompts/ca63ef4127ca435b.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Late-Night Korean Convenience Store Ramen Scene](../../prompts/48fb9b05d9931047.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Luxury Beauty Commercial Video Prompt](../../prompts/eb200a4ddef4c794.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [Man in Movie Theater](../../prompts/257d3a4ad8d3ad0e.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [Mannequin Horror Escape in Mall](../../prompts/880e114e87aa61bc.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [Maple Leaf Epoxy Floor Renovation Video Prompt](../../prompts/f14cf7e5dc88244d.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
@@ -77,12 +84,5 @@
 | [X-Ray Energy Return: Running Midsole](../../prompts/2dfe9370879223c8.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
 | [Xianxia Comedy Video Prompt for Seedance 2.0](../../prompts/e345240a5afaf28b.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [Zoo Lion Attack Cinematic Video](../../prompts/a42bdc889a2b8d00.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [10 秒“自我介绍” MG 动画(13 美分,21 分钟)](../../prompts/ca2456c5ec3d5069.md) | 视频框架与程序化成片 | PDF / community |
-| [30 秒企业讲解片模板](../../prompts/eba14f8a437e909f.md) | 视频框架与程序化成片 | joeseesun/opus-video-prompts |
-| [App 宣传片（Remotion，第 1 支）](../../prompts/19b41a8b6928d113.md) | 视频框架与程序化成片 | joeseesun/opus-video-prompts |
-| [App 宣传片（Remotion，第 2 支）](../../prompts/16ed4f19701eaba5.md) | 视频框架与程序化成片 | joeseesun/opus-video-prompts |
-| [DeepSeek 鲸鱼宣传片](../../prompts/6c719761282f509d.md) | 视频框架与程序化成片 | PDF / community |
-| [Opus 做动效 + Runway MCP 出画面](../../prompts/9a281d1584e6059d.md) | 视频框架与程序化成片 | PDF / community |
-| [Opus 家族史(Remotion,一句话)](../../prompts/89aa5ad3d7a27585.md) | 视频框架与程序化成片 | PDF / community |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

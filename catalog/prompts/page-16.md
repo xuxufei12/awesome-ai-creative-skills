@@ -4,6 +4,13 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [No. 81: Product Marketing - Art-Deco Evening Gown Prompt](../../prompts/2bed6b9a53ed8f64.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
+| [No. 82: Comic / Storyboard - Hand-Drawn Fashion Illustration Transformation](../../prompts/3ede989fd11418a1.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
+| [No. 82: Product Marketing - Origami Dreams Cyber Mirror Prompt](../../prompts/a011038fb398835a.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
+| [No. 83: Comic / Storyboard - Paper Cutout Illustration Prompt for GPT Image 2](../../prompts/b355de9d7afe03e1.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
+| [No. 83: Product Marketing - Full Armor Mecha Girl Concept Art](../../prompts/e62b24ed5b89c834.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
+| [No. 84: Comic / Storyboard - Aerial Steampunk Workshop Transformation](../../prompts/3cbaeb9baf2acf38.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
+| [No. 84: Product Marketing - Red Carpet Fashion Photo Prompt](../../prompts/33dabcc9087bda0e.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
 | [No. 85: Comic / Storyboard - Fantasy Cartographer & Dog](../../prompts/b84fdc9a13131627.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
 | [No. 85: Product Marketing - Luxury Fashion Editorial Photo](../../prompts/6b67e4cadc094dfd.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
 | [No. 86: Comic / Storyboard - Vintage Editorial Portrait Collage](../../prompts/2872e9bb82973c4e.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
@@ -77,12 +84,5 @@
 | [例 21: 角色等级进化（by @KanaWorks_AI）](../../prompts/319e3a6969766490.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 | [例 22: 人物换衣（by @skirano）](../../prompts/0d764973256e91ac.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 | [例 22: 递归图像（by @goodside）](../../prompts/3c9dcd40db65a586.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 23: 多视图结果生成（by @Error_HTTP_404）](../../prompts/8ba2a9600d594d38.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 23: 多角色串场漫画（by @canghecode）](../../prompts/41972bcaf9c30013.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 24: 手办白模上色（by @op7418）](../../prompts/8658e76656251df4.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 24: 电影分镜（by @GeminiApp）](../../prompts/d6720e4acc3ff045.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 25: 人物姿势修改（by @arrakis_ai）](../../prompts/061b0e84c9bad7dd.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 25: 金句卡片（by @stark_nico99）](../../prompts/19ddce8ca06dd679.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 26: 清明上河图风格图像（by @dotey）](../../prompts/dc9039604ac1de07.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

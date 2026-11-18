@@ -37,3 +37,5 @@
 - [DeepSeek 创作路由](../templates/template-16.md)
 - [知识大赏：从日常困惑到看懂原理](../templates/knowledge-hook-to-mechanism.md)
 - [人物传记：资料、转折与影像章节](../templates/biography-evidence-to-film.md)
+- [代码 MV：让每段歌词发生一件事](../templates/music-mv-lyric-story.md)
+- [AI 歌手 MV：先锁形象，再做演唱镜头](../templates/music-mv-generated-performer.md)

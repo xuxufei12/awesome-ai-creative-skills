@@ -4,6 +4,13 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [10 秒“自我介绍” MG 动画(13 美分,21 分钟)](../../prompts/ca2456c5ec3d5069.md) | 视频框架与程序化成片 | PDF / community |
+| [30 秒企业讲解片模板](../../prompts/eba14f8a437e909f.md) | 视频框架与程序化成片 | joeseesun/opus-video-prompts |
+| [App 宣传片（Remotion，第 1 支）](../../prompts/19b41a8b6928d113.md) | 视频框架与程序化成片 | joeseesun/opus-video-prompts |
+| [App 宣传片（Remotion，第 2 支）](../../prompts/16ed4f19701eaba5.md) | 视频框架与程序化成片 | joeseesun/opus-video-prompts |
+| [DeepSeek 鲸鱼宣传片](../../prompts/6c719761282f509d.md) | 视频框架与程序化成片 | PDF / community |
+| [Opus 做动效 + Runway MCP 出画面](../../prompts/9a281d1584e6059d.md) | 视频框架与程序化成片 | PDF / community |
+| [Opus 家族史(Remotion,一句话)](../../prompts/89aa5ad3d7a27585.md) | 视频框架与程序化成片 | PDF / community |
 | [UI 形态变换循环（1440×1440）](../../prompts/99861a38d4fc0d95.md) | 视频框架与程序化成片 | joeseesun/opus-video-prompts |
 | [一壶茶的 39 种画风 · 作者调用示例](../../prompts/c64684fd6e4dca51.md) | 视频框架与程序化成片 | deenukhan/animation-styles |
 | [一壶茶的 39 种画风 · 作者调用示例 2](../../prompts/ea0f966872b4a23a.md) | 视频框架与程序化成片 | deenukhan/animation-styles |

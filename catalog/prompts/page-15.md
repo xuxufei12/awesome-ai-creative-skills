@@ -4,6 +4,13 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [No. 49: Infographic / Edu Visual - Dark Fantasy Hell Hound Character Sheet](../../prompts/023fe578d96ab15f.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
+| [No. 49: YouTube Thumbnail - Cinematic Astronaut on Damaged Spacecraft](../../prompts/f5bd4ff042f250da.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
+| [No. 4: E-commerce Live Stream UI Mockup](../../prompts/9d554d64b2194f6e.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
+| [No. 4: Profile / Avatar - Cosplayer in Room Model Comparison](../../prompts/88608b43746e29c4.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
+| [No. 4: Profile / Avatar - Mediterranean Garden Portrait](../../prompts/3175a14e58d85a6d.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
+| [No. 4: Watercolor map of Germany with labeled states](../../prompts/f562097ff401e7e1.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
+| [No. 50: Infographic / Edu Visual - Anime Character Design Sheet: Traditional Hanfu Couple](../../prompts/eeda9e46bbedb607.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
 | [No. 50: YouTube Thumbnail - Double Exposure Motorcycle Sunset Portrait](../../prompts/b4036b3cd2e49bc7.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
 | [No. 51: Infographic / Edu Visual - Anime Character Design Sheet: Sword Queen](../../prompts/402e000d84ae0808.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
 | [No. 51: YouTube Thumbnail - High Definition Portrait Transformation](../../prompts/2fe6960e3de35988.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
@@ -77,12 +84,5 @@
 | [No. 80: Comic / Storyboard - Opus 5.5 vs Wife GPT Comic Strip](../../prompts/9f56de9db3db2e75.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
 | [No. 80: Comic / Storyboard - The Lighthouse Keeper Storyboard](../../prompts/c63e9cf965544744.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
 | [No. 81: Comic / Storyboard - Chun-Li Kicks Giant Monster](../../prompts/a8ccff2eb7b10931.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
-| [No. 81: Product Marketing - Art-Deco Evening Gown Prompt](../../prompts/2bed6b9a53ed8f64.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
-| [No. 82: Comic / Storyboard - Hand-Drawn Fashion Illustration Transformation](../../prompts/3ede989fd11418a1.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
-| [No. 82: Product Marketing - Origami Dreams Cyber Mirror Prompt](../../prompts/a011038fb398835a.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
-| [No. 83: Comic / Storyboard - Paper Cutout Illustration Prompt for GPT Image 2](../../prompts/b355de9d7afe03e1.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
-| [No. 83: Product Marketing - Full Armor Mecha Girl Concept Art](../../prompts/e62b24ed5b89c834.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
-| [No. 84: Comic / Storyboard - Aerial Steampunk Workshop Transformation](../../prompts/3cbaeb9baf2acf38.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
-| [No. 84: Product Marketing - Red Carpet Fashion Photo Prompt](../../prompts/33dabcc9087bda0e.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

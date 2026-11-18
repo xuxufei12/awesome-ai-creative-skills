@@ -13,9 +13,32 @@ Explore ways to create imaginative images, videos, motion graphics and 3D scenes
 
 **See the effect, then find the method.** GIFs play inline. Open any preview or its Skill / Prompt link to see how it is made.
 
-[Knowledge and lives told through motion](#knowledge-and-biography) · [Explain a concept, play with a page](#knowledge-and-play) · [Films made with code: from a sample to its scene](#code-video-lab) · [November II: moon phases, crayon diagrams and sticker grids](#november-picks-2) · [November picks: paper films, candid photos and reaction GIFs](#november-picks) · [Animated previews](#animated) · [Creative images & design](#images) · [Art animation & styles](#animation) · [3D worlds & product visuals](#worlds) · [Ads & commercial films](#ads) · [Cinematic & story films](#films)
+[Turn a song into a story-driven music video](#music-mv-lab) · [Knowledge and lives told through motion](#knowledge-and-biography) · [Explain a concept, play with a page](#knowledge-and-play) · [Films made with code: from a sample to its scene](#code-video-lab) · [November II: moon phases, crayon diagrams and sticker grids](#november-picks-2) · [November picks: paper films, candid photos and reaction GIFs](#november-picks) · [Animated previews](#animated) · [Creative images & design](#images) · [Art animation & styles](#animation) · [3D worlds & product visuals](#worlds) · [Ads & commercial films](#ads) · [Cinematic & story films](#films)
 
-[Browse all 2,103 visual previews →](gallery/README.md) · [Find tools](#find-tools) · [Make a style your own](#custom-styles)
+[Browse all 2,109 visual previews →](gallery/README.md) · [Find tools](#find-tools) · [Make a style your own](#custom-styles)
+
+<a id="music-mv-lab"></a>
+
+## Turn a song into a story-driven music video
+
+[Explore all 14 additions by use case →](docs/new-2026-11-18-music-mv.md)
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/qspang--music-mv.md"><img src="https://raw.githubusercontent.com/qspang/music-mv/2af452d65ded9da86de3ad765d4d9a99b9deac8c/examples/pixel-v2/cover-landscape.png" width="300" alt="A full-song pixel story" loading="lazy"></a><br><a href="projects/qspang--music-mv.md"><b>A full-song pixel story</b></a><br><sub><a href="projects/qspang--music-mv.md">Skill pack</a> · <a href="https://raw.githubusercontent.com/qspang/music-mv/2af452d65ded9da86de3ad765d4d9a99b9deac8c/examples/pixel-v2/music-video.mp4">▶ Film</a> · <a href="projects/qspang--music-mv.md">How to make it</a></sub><br><sub><a href="https://github.com/qspang/music-mv/blob/2af452d65ded9da86de3ad765d4d9a99b9deac8c/README.md">qspang/music-mv</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/am-will--music-video-reimagined.md"><img src="https://raw.githubusercontent.com/am-will/music-video-reimagined/7d6b7b22caf08c6e330e1abb869953d8e4f2cc1a/docs/horse-dance.gif" width="300" alt="Beat-locked painted horse dance" loading="lazy"></a><br><a href="projects/am-will--music-video-reimagined.md"><b>Beat-locked painted horse dance</b></a><br><sub><a href="skills/5e8069257511d6c5.md">Skill</a> · <a href="https://raw.githubusercontent.com/am-will/music-video-reimagined/7d6b7b22caf08c6e330e1abb869953d8e4f2cc1a/docs/horse-dance.gif">GIF</a> · <a href="projects/am-will--music-video-reimagined.md">How to make it</a></sub><br><sub><a href="https://github.com/am-will/music-video-reimagined/blob/7d6b7b22caf08c6e330e1abb869953d8e4f2cc1a/README.md">am-will/music-video-reimagined</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/boom-vitt--bbn-video-studio.md"><img src="https://raw.githubusercontent.com/Boom-Vitt/bbn-video-studio/f54a5d6ab94defa2b238e0931cf7986b67f3b7b1/plugins/bbn-video-studio/skills/music-video/examples/noted/cover.jpg" width="300" alt="A 3D kinetic-typography MV" loading="lazy"></a><br><a href="projects/boom-vitt--bbn-video-studio.md"><b>A 3D kinetic-typography MV</b></a><br><sub><a href="skills/57f5133533ecd5b6.md">Skill</a> · <a href="projects/boom-vitt--bbn-video-studio.md">How to make it</a></sub><br><sub><a href="https://github.com/Boom-Vitt/bbn-video-studio/blob/f54a5d6ab94defa2b238e0931cf7986b67f3b7b1/README.md">Boom-Vitt/bbn-video-studio</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/leeween--pixel-song-mv.md"><img src="https://raw.githubusercontent.com/leeween/pixel-song-mv/fd447feaa8c8941c938b0b62b07b7dd9c766ecff/docs/minimal-preview.png" width="300" alt="Turn a song into an RPG adventure" loading="lazy"></a><br><a href="projects/leeween--pixel-song-mv.md"><b>Turn a song into an RPG adventure</b></a><br><sub><a href="skills/3f7a5b0627d64090.md">Skill</a> · <a href="projects/leeween--pixel-song-mv.md">How to make it</a></sub><br><sub><a href="https://github.com/leeween/pixel-song-mv/blob/fd447feaa8c8941c938b0b62b07b7dd9c766ecff/README.md">leeween/pixel-song-mv</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/obie--slopcore.md"><img src="https://raw.githubusercontent.com/obie/slopcore/2d026ecd999b0543ada360dd006faa6cb8cc4d15/skills/music-video/examples/queso/stills/frame-0.0.jpg" width="300" alt="AI performers and coded graphics" loading="lazy"></a><br><a href="projects/obie--slopcore.md"><b>AI performers and coded graphics</b></a><br><sub><a href="skills/11d900566d671f33.md">Skill</a> · <a href="https://www.youtube.com/watch?v=RoLiSWH3dqc">▶ Film</a> · <a href="projects/obie--slopcore.md">How to make it</a></sub><br><sub><a href="https://github.com/obie/slopcore/blob/2d026ecd999b0543ada360dd006faa6cb8cc4d15/README.md">obie/slopcore</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/kreycin--ton-sea.md"><img src="https://raw.githubusercontent.com/Kreycin/ton-sea/9543e948e30e9a3ca5cc5df18573f2f16909591e/docs/img/shots.jpg" width="300" alt="Acting reference: Ton and the Sea" loading="lazy"></a><br><a href="projects/kreycin--ton-sea.md"><b>Acting reference: Ton and the Sea</b></a><br><sub><a href="skills/ada871324c09636a.md">Skill</a> · <a href="projects/kreycin--ton-sea.md">How to make it</a></sub><br><sub><a href="https://github.com/Kreycin/ton-sea/blob/9543e948e30e9a3ca5cc5df18573f2f16909591e/README.md">Kreycin/ton-sea</a></sub></td>
+</tr>
+</table>
+
+[Keep exploring visually →](gallery/README.md)
 
 <a id="knowledge-and-biography"></a>
 
@@ -336,7 +359,7 @@ The creator’s example keeps the Swiss grid, beat and typography, turning flat 
 
 ## Found an effect you like? Start creating
 
-**In the collection** · **504** projects · **832** Skills · **1868** prompt / style texts · **2204** cases
+**In the collection** · **518** projects · **847** Skills · **1875** prompt / style texts · **2204** cases
 
 | Entry | Contents |
 |---|---|
@@ -375,7 +398,7 @@ The creator’s example keeps the Swiss grid, beat and typography, turning flat 
 |---|---:|
 | [Education & hand-drawn explainers](catalog/education.md) | 74 |
 | [Editing, captions & avatars](catalog/editing.md) | 94 |
-| [Storytelling, animation & music videos](catalog/storytelling.md) | 30 |
+| [Storytelling, animation & music videos](catalog/storytelling.md) | 44 |
 | [Video frameworks & code rendering](catalog/video-frameworks.md) | 88 |
 | [Ads & product demos](catalog/product-videos.md) | 69 |
 | [SVG & motion graphics](catalog/motion-graphics.md) | 30 |

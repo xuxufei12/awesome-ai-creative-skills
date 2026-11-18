@@ -201,6 +201,36 @@ def featured_update(zh):
 # Date-stamped additions retain their individual upstream timestamps.
 for edition in sorted({r['edition'] for r in projects if r.get('edition')}):
  batch=[r for r in projects if r.get('edition')==edition]
+ if edition=='2026-11-18-music-mv':
+  page=backlink()+'# 音乐 MV：从歌曲到画面 / Music videos: from song to screen\n\n'
+  page+='本期新增 14 个项目、15 个精选技能入口：像素故事、贴纸拼贴、水彩舞蹈、三维动态歌词、AI 歌手与卡点混剪。先选想做的画面，再打开对应方法。 / Fourteen projects and fifteen selected entries for pixel stories, collage, painted dance, kinetic lyrics, generated performers and beat-driven edits.\n\n'
+  for group,heading in [('C','代码绘制与歌词叙事 / Code-rendered and lyric-led stories'),('G','AI 生成镜头与演唱口型 / Generated shots and singing lip-sync'),('L','波形与歌词可视化 / Waveforms and lyric visualizers'),('E','MV 导演与素材剪辑 / Direction and footage editing')]:
+   page+='## '+heading+'\n\n| 想做的效果 / Result | 技能与入口 / Skill & entry | 看效果 / Preview | 上游推送 / Push |\n|---|---|---|---|\n'
+   for r in sorted([r for r in batch if r['collection_kind']==group],key=lambda r:r['upstream_pushed_at'],reverse=True):
+    selected=related(skills,r['repo'])
+    links=' · '.join(f"[{esc(s['name'])}]({s['sources'][0]['url']})" for s in selected)
+    links+=f"<br>[{esc(r['example_label'])}]({r['example_entry']})"
+    a=next((a for a in r['preview_assets'] if a['type'] in ('video','page')),next(iter(r['preview_assets']),None))
+    demo=f"[作者示例 / Preview]({a['url']})" if a else '源码 / 规范入口，未收集成片预览 / Source or guide; no film preview collected'
+    if r['repo']=='Kreycin/ton-sea':demo+='（叙事短片，非歌曲 MV / narrative short）'
+    page+=f"| [{esc(r['title'])}](../projects/{r['id']}.md) | {links} | {demo} | {r['upstream_pushed_at'][:10]} |\n"
+   page+='\n'
+  page+='## 怎么选 / Choose your route\n\n'
+  page+='- **已有歌曲，想让画面讲故事**：qspang 的像素/贴纸两条路线、leeween 的 RPG 叙事、sagearbor 的手绘/动态图形。 / Existing song → pixel, collage, RPG or painted storytelling.\n'
+  page+='- **想做 AI 歌手唱跳**：slopcore、ai-mv-production 与 varg-music-video；需要生成服务与预算。 / Generated performers → shot generation and a separate lip-sync pass.\n'
+  page+='- **想少搭工具、用云端成片**：BizMuse 官方 Skill；依赖账号与生成额度。 / Cloud workflow → BizMuse, with an account and credits.\n'
+  page+='- **已有视频素材，只需剪成 MV**：mv-director；先歌曲分析，再修改 EDL 剪辑表。 / Existing footage → mv-director and an editable EDL.\n'
+  page+='- **只需波形和歌词**：ACE-Step 的 acestep-simplemv；它不是完整人物叙事 MV。 / Waveforms and lyrics → acestep-simplemv.\n\n'
+  page+='## 可以复制的制作提示词 / Copyable briefs\n\n'
+  page+='- [代码 MV：歌词到事件](../templates/music-mv-lyric-story.md)\n- [AI 歌手：形象、口型与镜头](../templates/music-mv-generated-performer.md)\n\n'
+  page+='## 已有收录也值得看 / Previously collected\n\n'
+  for repo in ['Win-Hao/music-mv','seeyouintokyo/music-mv-skill','lintsinghua/paint-mv-skills','Joker-chichi/claude-mv-skill','BuzyOwl/song-video-director','makevoid/motion-graphics-music-video-skill']:
+   page+='- '+projectlink(repo)+'\n'
+  page+='\n选用时请阅读项目依赖：部分工作流针对 macOS，云端镜头与本地代码渲染的费用结构不同；原曲和示例素材的许可也不等同于代码许可。qspang 的贴纸 Skill 本次没有独立成片示例，展示的是像素版本。 / Check platform, service and media requirements. The qspang preview demonstrates its pixel skill, not its sticker skill.\n\n'
+  page+='本轮核对固定提交、技能入口、配套文件与媒体文件头；外部成片链接按作者 README 记录，未验证外部播放或执行制作。上表日期是上游仓库推送日期。 / Sources and media signatures checked; external film links are author references, not playback or runtime tests. Dates are repository push dates.\n\n'
+  page+='[来源核对记录 / Source checks](../data/updates/2026-11-18-music-mv.json)\n'
+  write('docs/new-'+edition+'.md',page)
+  continue
  if edition=='2026-11-18-knowledge-biography':
   page=backlink()+'# 知识大赏与人物传记 / Knowledge explainers & biographies\n\n'
   page+='从一个日常疑问出发，把原理演给观众看；也从一个人的选择与转折出发，把生平讲成有画面的故事。本期新增 12 个项目、12 个精选 Skill 入口，按制作环节选用。 / Twelve projects and selected skills for explaining mechanisms and telling the stories of people.\n\n'

@@ -1,0 +1,510 @@
+{
+  "date": "2026-11-18",
+  "added_projects": 14,
+  "selected_skills": 15,
+  "author_excerpts": 7,
+  "editorial_templates": 2,
+  "runtime_reproduction": false,
+  "method": "Canonical/alias and exact Skill SHA-256 deduplication; pinned source checks; media signature checks; external video URLs matched to pinned README",
+  "excluded": [
+    {
+      "repo": "Arnon-hs/music-video",
+      "reason": "GitHub repository API returned HTTP 404 at collection"
+    },
+    {
+      "repo": "encoXJH/Pixel-style-MV",
+      "reason": "README targets Trae; prefer explicit Claude/Codex workflows this round"
+    }
+  ],
+  "projects": [
+    {
+      "repo": "sagearbor/claude-music-video-skill",
+      "commit": "c764e18b8927dca5ea219fa42b78194fde28214f",
+      "checked_at": "2026-11-18T07:00:47.516716+00:00",
+      "upstream_pushed_at": "2026-11-17T05:28:22Z",
+      "sources": [
+        {
+          "url": "https://github.com/sagearbor/claude-music-video-skill/blob/c764e18b8927dca5ea219fa42b78194fde28214f/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:00:47.516716+00:00"
+        },
+        {
+          "url": "https://github.com/sagearbor/claude-music-video-skill/blob/c764e18b8927dca5ea219fa42b78194fde28214f/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:00:47.516716+00:00"
+        },
+        {
+          "url": "https://github.com/sagearbor/claude-music-video-skill/blob/c764e18b8927dca5ea219fa42b78194fde28214f/examples/zoo2/scenes/c00_intro.js",
+          "type": "Example scene / 示例场景",
+          "checked_at": "2026-11-18T07:00:47.516716+00:00"
+        },
+        {
+          "url": "https://github.com/sagearbor/claude-music-video-skill/blob/c764e18b8927dca5ea219fa42b78194fde28214f/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": []
+    },
+    {
+      "repo": "qspang/music-mv",
+      "commit": "2af452d65ded9da86de3ad765d4d9a99b9deac8c",
+      "checked_at": "2026-11-18T07:00:47.517754+00:00",
+      "upstream_pushed_at": "2026-10-30T15:57:25Z",
+      "sources": [
+        {
+          "url": "https://github.com/qspang/music-mv/blob/2af452d65ded9da86de3ad765d4d9a99b9deac8c/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:00:47.517754+00:00"
+        },
+        {
+          "url": "https://github.com/qspang/music-mv/blob/2af452d65ded9da86de3ad765d4d9a99b9deac8c/skills/lyric-led-pixel-mv/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:00:47.517754+00:00"
+        },
+        {
+          "url": "https://github.com/qspang/music-mv/blob/2af452d65ded9da86de3ad765d4d9a99b9deac8c/skills/lyric-led-sticker-mv/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:00:47.517754+00:00"
+        },
+        {
+          "url": "https://github.com/qspang/music-mv/blob/2af452d65ded9da86de3ad765d4d9a99b9deac8c/skills/lyric-led-pixel-mv/references/character-and-semantics.md",
+          "type": "Narrative design guide / 叙事设计指南",
+          "checked_at": "2026-11-18T07:00:47.517754+00:00"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/qspang/music-mv/2af452d65ded9da86de3ad765d4d9a99b9deac8c/examples/pixel-v2/cover-landscape.png",
+          "type": "image",
+          "label": "Author sample cover, not a video frame",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/qspang/music-mv/2af452d65ded9da86de3ad765d4d9a99b9deac8c/examples/pixel-v2/music-video.mp4",
+          "type": "video",
+          "label": "music-video.mp4",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        }
+      ]
+    },
+    {
+      "repo": "leeween/pixel-song-mv",
+      "commit": "fd447feaa8c8941c938b0b62b07b7dd9c766ecff",
+      "checked_at": "2026-11-18T07:00:47.520258+00:00",
+      "upstream_pushed_at": "2026-10-15T16:04:31Z",
+      "sources": [
+        {
+          "url": "https://github.com/leeween/pixel-song-mv/blob/fd447feaa8c8941c938b0b62b07b7dd9c766ecff/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:00:47.520258+00:00"
+        },
+        {
+          "url": "https://github.com/leeween/pixel-song-mv/blob/fd447feaa8c8941c938b0b62b07b7dd9c766ecff/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:00:47.520258+00:00"
+        },
+        {
+          "url": "https://github.com/leeween/pixel-song-mv/blob/fd447feaa8c8941c938b0b62b07b7dd9c766ecff/examples/minimal/scenes.js",
+          "type": "Original example scene / 原创示例场景",
+          "checked_at": "2026-11-18T07:00:47.520258+00:00"
+        },
+        {
+          "url": "https://github.com/leeween/pixel-song-mv/blob/fd447feaa8c8941c938b0b62b07b7dd9c766ecff/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/leeween/pixel-song-mv/fd447feaa8c8941c938b0b62b07b7dd9c766ecff/docs/minimal-preview.png",
+          "type": "image",
+          "label": "minimal-preview.png",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        }
+      ]
+    },
+    {
+      "repo": "am-will/music-video-reimagined",
+      "commit": "7d6b7b22caf08c6e330e1abb869953d8e4f2cc1a",
+      "checked_at": "2026-11-18T07:00:47.519851+00:00",
+      "upstream_pushed_at": "2026-09-28T19:36:07Z",
+      "sources": [
+        {
+          "url": "https://github.com/am-will/music-video-reimagined/blob/7d6b7b22caf08c6e330e1abb869953d8e4f2cc1a/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:00:47.519851+00:00"
+        },
+        {
+          "url": "https://github.com/am-will/music-video-reimagined/blob/7d6b7b22caf08c6e330e1abb869953d8e4f2cc1a/skills/music-video-reimagined/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:00:47.519851+00:00"
+        },
+        {
+          "url": "https://github.com/am-will/music-video-reimagined/blob/7d6b7b22caf08c6e330e1abb869953d8e4f2cc1a/skills/music-video-reimagined/assets/dance/dance.js",
+          "type": "Dance motion library / 舞蹈动作库",
+          "checked_at": "2026-11-18T07:00:47.519851+00:00"
+        },
+        {
+          "url": "https://github.com/am-will/music-video-reimagined/blob/7d6b7b22caf08c6e330e1abb869953d8e4f2cc1a/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/am-will/music-video-reimagined/7d6b7b22caf08c6e330e1abb869953d8e4f2cc1a/docs/horse-dance.gif",
+          "type": "image",
+          "label": "horse-dance.gif",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/am-will/music-video-reimagined/7d6b7b22caf08c6e330e1abb869953d8e4f2cc1a/docs/papercut.jpg",
+          "type": "image",
+          "label": "papercut.jpg",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        }
+      ]
+    },
+    {
+      "repo": "Kreycin/ton-sea",
+      "commit": "9543e948e30e9a3ca5cc5df18573f2f16909591e",
+      "checked_at": "2026-11-18T07:00:47.520776+00:00",
+      "upstream_pushed_at": "2026-10-15T13:49:59Z",
+      "sources": [
+        {
+          "url": "https://github.com/Kreycin/ton-sea/blob/9543e948e30e9a3ca5cc5df18573f2f16909591e/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:00:47.520776+00:00"
+        },
+        {
+          "url": "https://github.com/Kreycin/ton-sea/blob/9543e948e30e9a3ca5cc5df18573f2f16909591e/.claude/skills/code-video/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:00:47.520776+00:00"
+        },
+        {
+          "url": "https://github.com/Kreycin/ton-sea/blob/9543e948e30e9a3ca5cc5df18573f2f16909591e/src/cast.js",
+          "type": "Character source / 角色源码",
+          "checked_at": "2026-11-18T07:00:47.520776+00:00"
+        },
+        {
+          "url": "https://github.com/Kreycin/ton-sea/blob/9543e948e30e9a3ca5cc5df18573f2f16909591e/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/Kreycin/ton-sea/9543e948e30e9a3ca5cc5df18573f2f16909591e/docs/img/shots.jpg",
+          "type": "image",
+          "label": "Author narrative short, not a finished song MV",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Kreycin/ton-sea/9543e948e30e9a3ca5cc5df18573f2f16909591e/docs/img/lipsync.jpg",
+          "type": "image",
+          "label": "Author narrative short, not a finished song MV",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        }
+      ]
+    },
+    {
+      "repo": "Boom-Vitt/bbn-video-studio",
+      "commit": "f54a5d6ab94defa2b238e0931cf7986b67f3b7b1",
+      "checked_at": "2026-11-18T07:00:55.715954+00:00",
+      "upstream_pushed_at": "2026-10-22T13:06:53Z",
+      "sources": [
+        {
+          "url": "https://github.com/Boom-Vitt/bbn-video-studio/blob/f54a5d6ab94defa2b238e0931cf7986b67f3b7b1/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:00:55.715954+00:00"
+        },
+        {
+          "url": "https://github.com/Boom-Vitt/bbn-video-studio/blob/f54a5d6ab94defa2b238e0931cf7986b67f3b7b1/plugins/bbn-video-studio/skills/music-video/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:00:55.715954+00:00"
+        },
+        {
+          "url": "https://github.com/Boom-Vitt/bbn-video-studio/blob/f54a5d6ab94defa2b238e0931cf7986b67f3b7b1/plugins/bbn-video-studio/skills/music-video/examples/noted/scenes/intro-chat.ts",
+          "type": "Example scene / 示例场景",
+          "checked_at": "2026-11-18T07:00:55.715954+00:00"
+        },
+        {
+          "url": "https://github.com/Boom-Vitt/bbn-video-studio/blob/f54a5d6ab94defa2b238e0931cf7986b67f3b7b1/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/Boom-Vitt/bbn-video-studio/f54a5d6ab94defa2b238e0931cf7986b67f3b7b1/plugins/bbn-video-studio/skills/music-video/examples/noted/cover.jpg",
+          "type": "image",
+          "label": "cover.jpg",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Boom-Vitt/bbn-video-studio/f54a5d6ab94defa2b238e0931cf7986b67f3b7b1/plugins/bbn-video-studio/skills/music-video/examples/noted/overview.jpg",
+          "type": "image",
+          "label": "overview.jpg",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        }
+      ]
+    },
+    {
+      "repo": "a252937166/claude-video-studio",
+      "commit": "8be28db576a6a0e8d9c9750eefc4fa2ccec06429",
+      "checked_at": "2026-11-18T07:00:57.646499+00:00",
+      "upstream_pushed_at": "2026-10-10T15:22:17Z",
+      "sources": [
+        {
+          "url": "https://github.com/a252937166/claude-video-studio/blob/8be28db576a6a0e8d9c9750eefc4fa2ccec06429/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:00:57.646499+00:00"
+        },
+        {
+          "url": "https://github.com/a252937166/claude-video-studio/blob/8be28db576a6a0e8d9c9750eefc4fa2ccec06429/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:00:57.646499+00:00"
+        },
+        {
+          "url": "https://github.com/a252937166/claude-video-studio/blob/8be28db576a6a0e8d9c9750eefc4fa2ccec06429/scripts/timed_lyrics.py",
+          "type": "Lyric timing helper / 歌词计时脚本",
+          "checked_at": "2026-11-18T07:00:57.646499+00:00"
+        },
+        {
+          "url": "https://github.com/a252937166/claude-video-studio/blob/8be28db576a6a0e8d9c9750eefc4fa2ccec06429/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": []
+    },
+    {
+      "repo": "obie/slopcore",
+      "commit": "2d026ecd999b0543ada360dd006faa6cb8cc4d15",
+      "checked_at": "2026-11-18T07:01:03.016193+00:00",
+      "upstream_pushed_at": "2026-10-28T10:19:33Z",
+      "sources": [
+        {
+          "url": "https://github.com/obie/slopcore/blob/2d026ecd999b0543ada360dd006faa6cb8cc4d15/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:01:03.016193+00:00"
+        },
+        {
+          "url": "https://github.com/obie/slopcore/blob/2d026ecd999b0543ada360dd006faa6cb8cc4d15/skills/music-video/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:01:03.016193+00:00"
+        },
+        {
+          "url": "https://github.com/obie/slopcore/blob/2d026ecd999b0543ada360dd006faa6cb8cc4d15/skills/music-video/examples/queso/PROMPTS.md",
+          "type": "Shot prompt book / 镜头提示词册",
+          "checked_at": "2026-11-18T07:01:03.016193+00:00"
+        },
+        {
+          "url": "https://github.com/obie/slopcore/blob/2d026ecd999b0543ada360dd006faa6cb8cc4d15/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/obie/slopcore/2d026ecd999b0543ada360dd006faa6cb8cc4d15/skills/music-video/examples/queso/stills/frame-0.0.jpg",
+          "type": "image",
+          "label": "frame-0.0.jpg",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/obie/slopcore/2d026ecd999b0543ada360dd006faa6cb8cc4d15/skills/music-video/examples/queso/stills/frame-124.0.jpg",
+          "type": "image",
+          "label": "frame-124.0.jpg",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=RoLiSWH3dqc",
+          "type": "page",
+          "label": "Author-linked full music video / 作者成片链接",
+          "verification": "Exact URL checked in pinned author README; external playback not verified"
+        }
+      ]
+    },
+    {
+      "repo": "motoy3d/ai-mv-production-skill",
+      "commit": "19928499b711cfaf2c0b5a8b97f46607627cd96d",
+      "checked_at": "2026-11-18T07:01:04.080578+00:00",
+      "upstream_pushed_at": "2026-09-27T02:01:41Z",
+      "sources": [
+        {
+          "url": "https://github.com/motoy3d/ai-mv-production-skill/blob/19928499b711cfaf2c0b5a8b97f46607627cd96d/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:01:04.080578+00:00"
+        },
+        {
+          "url": "https://github.com/motoy3d/ai-mv-production-skill/blob/19928499b711cfaf2c0b5a8b97f46607627cd96d/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:01:04.080578+00:00"
+        },
+        {
+          "url": "https://github.com/motoy3d/ai-mv-production-skill/blob/19928499b711cfaf2c0b5a8b97f46607627cd96d/references/04-lipsync.md",
+          "type": "Lip-sync production guide / 演唱口型指南",
+          "checked_at": "2026-11-18T07:01:04.080578+00:00"
+        },
+        {
+          "url": "https://github.com/motoy3d/ai-mv-production-skill/blob/19928499b711cfaf2c0b5a8b97f46607627cd96d/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://youtu.be/Z8HbQFWfGG0",
+          "type": "page",
+          "label": "Author-linked full music video / 作者成片链接",
+          "verification": "Exact URL checked in pinned author README; external playback not verified"
+        }
+      ]
+    },
+    {
+      "repo": "BizMuse-AI/skills",
+      "commit": "135a363512de1547a1288526598b2c94fc4e9020",
+      "checked_at": "2026-11-18T07:01:04.139995+00:00",
+      "upstream_pushed_at": "2026-07-20T13:41:41Z",
+      "sources": [
+        {
+          "url": "https://github.com/BizMuse-AI/skills/blob/135a363512de1547a1288526598b2c94fc4e9020/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:01:04.139995+00:00"
+        },
+        {
+          "url": "https://github.com/BizMuse-AI/skills/blob/135a363512de1547a1288526598b2c94fc4e9020/skills/bizmuse-music-video/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:01:04.139995+00:00"
+        },
+        {
+          "url": "https://github.com/BizMuse-AI/skills/blob/135a363512de1547a1288526598b2c94fc4e9020/skills/bizmuse-music-video/scripts/generate-mv.sh",
+          "type": "Generation helper / 生成辅助脚本",
+          "checked_at": "2026-11-18T07:01:04.139995+00:00"
+        },
+        {
+          "url": "https://github.com/BizMuse-AI/skills/blob/135a363512de1547a1288526598b2c94fc4e9020/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": []
+    },
+    {
+      "repo": "vargHQ/skills",
+      "commit": "55ac28d4b4f336f9235df38d1d7aa639e4bec942",
+      "checked_at": "2026-11-18T07:01:09.643968+00:00",
+      "upstream_pushed_at": "2026-11-18T06:47:15Z",
+      "sources": [
+        {
+          "url": "https://github.com/vargHQ/skills/blob/55ac28d4b4f336f9235df38d1d7aa639e4bec942/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:01:09.643968+00:00"
+        },
+        {
+          "url": "https://github.com/vargHQ/skills/blob/55ac28d4b4f336f9235df38d1d7aa639e4bec942/varg-music-video/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:01:09.643968+00:00"
+        },
+        {
+          "url": "https://github.com/vargHQ/skills/blob/55ac28d4b4f336f9235df38d1d7aa639e4bec942/varg-music-video/references/anime-case-study.md",
+          "type": "Case study / 案例说明",
+          "checked_at": "2026-11-18T07:01:09.643968+00:00"
+        },
+        {
+          "url": "https://github.com/vargHQ/skills/blob/55ac28d4b4f336f9235df38d1d7aa639e4bec942/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": []
+    },
+    {
+      "repo": "ace-step/ACE-Step-1.5",
+      "commit": "ca1e85fe9430179831e6bc6be790c332190a3866",
+      "checked_at": "2026-11-18T07:01:11.056918+00:00",
+      "upstream_pushed_at": "2026-11-08T16:58:40Z",
+      "sources": [
+        {
+          "url": "https://github.com/ace-step/ACE-Step-1.5/blob/ca1e85fe9430179831e6bc6be790c332190a3866/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:01:11.056918+00:00"
+        },
+        {
+          "url": "https://github.com/ace-step/ACE-Step-1.5/blob/ca1e85fe9430179831e6bc6be790c332190a3866/.claude/skills/acestep-simplemv/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:01:11.056918+00:00"
+        },
+        {
+          "url": "https://github.com/ace-step/ACE-Step-1.5/blob/ca1e85fe9430179831e6bc6be790c332190a3866/.claude/skills/acestep-simplemv/scripts/src/AudioVisualization.tsx",
+          "type": "Waveform composition / 波形画面源码",
+          "checked_at": "2026-11-18T07:01:11.056918+00:00"
+        },
+        {
+          "url": "https://github.com/ace-step/ACE-Step-1.5/blob/ca1e85fe9430179831e6bc6be790c332190a3866/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": []
+    },
+    {
+      "repo": "guigulaoshi/music-video-director-skill",
+      "commit": "66de7f0dcc8d714c4f6cd9988a4d214387caee36",
+      "checked_at": "2026-11-18T07:01:11.157423+00:00",
+      "upstream_pushed_at": "2026-09-25T12:36:42Z",
+      "sources": [
+        {
+          "url": "https://github.com/guigulaoshi/music-video-director-skill/blob/66de7f0dcc8d714c4f6cd9988a4d214387caee36/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:01:11.157423+00:00"
+        },
+        {
+          "url": "https://github.com/guigulaoshi/music-video-director-skill/blob/66de7f0dcc8d714c4f6cd9988a4d214387caee36/skill.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:01:11.157423+00:00"
+        },
+        {
+          "url": "https://github.com/guigulaoshi/music-video-director-skill/blob/66de7f0dcc8d714c4f6cd9988a4d214387caee36/mvd/renderer.py",
+          "type": "Edit renderer / 剪辑渲染器",
+          "checked_at": "2026-11-18T07:01:11.157423+00:00"
+        },
+        {
+          "url": "https://github.com/guigulaoshi/music-video-director-skill/blob/66de7f0dcc8d714c4f6cd9988a4d214387caee36/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": []
+    },
+    {
+      "repo": "Zhxsnd/pixel-mv-director",
+      "commit": "854b94537daae7edeff7b2ea6fd38bd794107408",
+      "checked_at": "2026-11-18T07:01:11.164927+00:00",
+      "upstream_pushed_at": "2026-10-28T06:14:54Z",
+      "sources": [
+        {
+          "url": "https://github.com/Zhxsnd/pixel-mv-director/blob/854b94537daae7edeff7b2ea6fd38bd794107408/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T07:01:11.164927+00:00"
+        },
+        {
+          "url": "https://github.com/Zhxsnd/pixel-mv-director/blob/854b94537daae7edeff7b2ea6fd38bd794107408/SKILL.md",
+          "type": "Selected Skill entry",
+          "checked_at": "2026-11-18T07:01:11.164927+00:00"
+        },
+        {
+          "url": "https://github.com/Zhxsnd/pixel-mv-director/blob/854b94537daae7edeff7b2ea6fd38bd794107408/examples/script.example.json",
+          "type": "Storyboard template / 分镜模板",
+          "checked_at": "2026-11-18T07:01:11.164927+00:00"
+        },
+        {
+          "url": "https://github.com/Zhxsnd/pixel-mv-director/blob/854b94537daae7edeff7b2ea6fd38bd794107408/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": []
+    }
+  ]
+}

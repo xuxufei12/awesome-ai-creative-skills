@@ -2,21 +2,21 @@
 
 [Home / 首页](../README.md)
 
-Checked / 检查时间: 2026-11-18T06:52:35.985762+00:00
+Checked / 检查时间: 2026-11-18T07:04:08.792657+00:00
 
-- Local navigation links checked / 已检查本地链接: **43822**
+- Local navigation links checked / 已检查本地链接: **44173**
 - PDF main entries / PDF 正文条目: **45**
 - Appendix prompt files / 附录提示词文件: **18**
 - Structural / link / publication-hygiene errors: **0**
 
 | Record type | Count |
 |---|---:|
-| projects | 504 |
-| skills | 832 |
-| prompts | 1868 |
+| projects | 518 |
+| skills | 847 |
+| prompts | 1875 |
 | cases | 2204 |
 | guides | 12 |
-| templates | 18 |
+| templates | 20 |
 
 Source and catalogue checks are distinct from running or reproducing upstream creative tools. No media quality or cross-model compatibility test is claimed. / 资料与目录检查不等于上游工具运行复现；未声称媒体质量或跨模型兼容性实测。
 

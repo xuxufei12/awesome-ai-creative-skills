@@ -57,8 +57,23 @@
 | [video-use](../../skills/d3bbeb19bc0e81e1.md) | 剪辑字幕与数字人 | browser-use/video-use |
 | [vox](../../skills/2222155f4d83ae2a.md) | 剪辑字幕与数字人 | Melvynx/video-agent-skills |
 | [youtube-clipper](../../skills/1039e3c3ac3028ec.md) | 剪辑字幕与数字人 | op7418/Youtube-clipper-skill |
+| [acestep-simplemv](../../skills/797c751f14200b8c.md) | 叙事动画与音乐视频 | ace-step/ACE-Step-1.5 |
+| [ai-mv-production](../../skills/a7b56e15a1e6a744.md) | 叙事动画与音乐视频 | motoy3d/ai-mv-production-skill |
+| [bizmuse-music-video](../../skills/df208a4acd0b06d8.md) | 叙事动画与音乐视频 | BizMuse-AI/skills |
+| [claude-video-studio](../../skills/b2f4efc0762914a3.md) | 叙事动画与音乐视频 | a252937166/claude-video-studio |
+| [code-video](../../skills/ada871324c09636a.md) | 叙事动画与音乐视频 | Kreycin/ton-sea |
 | [hand-drawn](../../skills/bbe4f9af2b819fd4.md) | 叙事动画与音乐视频 | threerocks/hand-drawn-styles |
+| [lyric-led-pixel-mv](../../skills/e6ce3d3909bcbee5.md) | 叙事动画与音乐视频 | qspang/music-mv |
+| [lyric-led-sticker-mv](../../skills/9731d34b34a93fcb.md) | 叙事动画与音乐视频 | qspang/music-mv |
 | [motion-graphics-music-video](../../skills/b29b9ca9eb7b9a8c.md) | 叙事动画与音乐视频 | makevoid/motion-graphics-music-video-skill |
+| [music-video](../../skills/67d3920cd9619c40.md) | 叙事动画与音乐视频 | sagearbor/claude-music-video-skill |
+| [music-video](../../skills/57f5133533ecd5b6.md) | 叙事动画与音乐视频 | Boom-Vitt/bbn-video-studio |
+| [music-video](../../skills/11d900566d671f33.md) | 叙事动画与音乐视频 | obie/slopcore |
+| [music-video-reimagined](../../skills/5e8069257511d6c5.md) | 叙事动画与音乐视频 | am-will/music-video-reimagined |
+| [mv-director (skill.md / Claude command)](../../skills/18d10ee9c9731e94.md) | 叙事动画与音乐视频 | guigulaoshi/music-video-director-skill |
+| [pixel-mv-director](../../skills/f196c973226362fb.md) | 叙事动画与音乐视频 | Zhxsnd/pixel-mv-director |
+| [pixel-song-mv](../../skills/3f7a5b0627d64090.md) | 叙事动画与音乐视频 | leeween/pixel-song-mv |
+| [varg-music-video](../../skills/ce8eff3618f2e056.md) | 叙事动画与音乐视频 | vargHQ/skills |
 | [algorithmic-art](../../skills/3bc4092c09804853.md) | 合集与创作案例 | anthropics/skills |
 | [canvas-design](../../skills/a1f288079624402f.md) | 合集与创作案例 | anthropics/skills |
 | [dsh-topic-curator](../../skills/6fd918f22685502a.md) | 合集与创作案例 | cccakeee/awesome-dsh-plugins |
@@ -69,20 +84,5 @@
 | [slack-gif-creator](../../skills/2efca615ce55a3ed.md) | 合集与创作案例 | anthropics/skills |
 | [speech](../../skills/d6120efc03ea0e80.md) | 合集与创作案例 | openai/skills |
 | [theme-factory](../../skills/c35893e221e28895.md) | 合集与创作案例 | anthropics/skills |
-| [transcribe](../../skills/f530021da9f37736.md) | 合集与创作案例 | openai/skills |
-| [baoyu-article-illustrator](../../skills/ce1c7bfe9b93e5af.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
-| [baoyu-comic](../../skills/98d5de8650a3401c.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
-| [baoyu-compress-image](../../skills/b14b2ac50b798aa7.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
-| [baoyu-cover-image](../../skills/36804fce98bcb9eb.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
-| [baoyu-danger-gemini-web](../../skills/290c0f8b3957a21d.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
-| [baoyu-danger-x-to-markdown](../../skills/2b34a2e4d50cd201.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
-| [baoyu-design](../../skills/b3203e3da713688c.md) | 图像生成与商业视觉 | JimLiu/baoyu-design |
-| [baoyu-diagram](../../skills/55a2d050c3a2faea.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
-| [baoyu-electron-extract](../../skills/3f8714f3030dd12e.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
-| [baoyu-format-markdown](../../skills/39bd9eeb5373365c.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
-| [baoyu-image-gen](../../skills/212ce2f9c4b49b16.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
-| [baoyu-infographic](../../skills/1572aaa294c5f754.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
-| [baoyu-markdown-to-html](../../skills/f4a5bb1697f93875.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
-| [baoyu-post-to-wechat](../../skills/e15f1b5a51b8443e.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md)

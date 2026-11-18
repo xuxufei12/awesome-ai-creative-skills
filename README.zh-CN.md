@@ -12,9 +12,32 @@
 
 **先看效果，再找做法。** 动图直接播放；点击喜欢的画面或卡片下方的「Skill」「提示词」，就能找到对应方法。
 
-[先看知识与人物如何变成影像](#knowledge-and-biography) · [知识讲清楚，网页玩起来](#knowledge-and-play) · [代码做视频：从样片打开场景源码](#code-video-lab) · [11 月第二辑：月相、蜡笔图与九宫格表情](#november-picks-2) · [11 月精选：剪纸短片、生活感照片与聊天表情](#november-picks) · [直接看动图](#animated) · [创意图片与设计](#images) · [艺术动画与风格](#animation) · [3D 世界与产品视觉](#worlds) · [广告与商业短片](#ads) · [电影感与叙事短片](#films)
+[让歌曲变成有故事的 MV](#music-mv-lab) · [先看知识与人物如何变成影像](#knowledge-and-biography) · [知识讲清楚，网页玩起来](#knowledge-and-play) · [代码做视频：从样片打开场景源码](#code-video-lab) · [11 月第二辑：月相、蜡笔图与九宫格表情](#november-picks-2) · [11 月精选：剪纸短片、生活感照片与聊天表情](#november-picks) · [直接看动图](#animated) · [创意图片与设计](#images) · [艺术动画与风格](#animation) · [3D 世界与产品视觉](#worlds) · [广告与商业短片](#ads) · [电影感与叙事短片](#films)
 
-[浏览全部 2,103 个效果预览 →](gallery/README.md) · [按工具检索](#find-tools) · [自定义风格新玩法](#custom-styles)
+[浏览全部 2,109 个效果预览 →](gallery/README.md) · [按工具检索](#find-tools) · [自定义风格新玩法](#custom-styles)
+
+<a id="music-mv-lab"></a>
+
+## 让歌曲变成有故事的 MV
+
+[本期新增 14 个项目，按用途浏览 →](docs/new-2026-11-18-music-mv.md)
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/qspang--music-mv.md"><img src="https://raw.githubusercontent.com/qspang/music-mv/2af452d65ded9da86de3ad765d4d9a99b9deac8c/examples/pixel-v2/cover-landscape.png" width="300" alt="像素人物演绎整首歌曲" loading="lazy"></a><br><a href="projects/qspang--music-mv.md"><b>像素人物演绎整首歌曲</b></a><br><sub><a href="projects/qspang--music-mv.md">Skill 包</a> · <a href="https://raw.githubusercontent.com/qspang/music-mv/2af452d65ded9da86de3ad765d4d9a99b9deac8c/examples/pixel-v2/music-video.mp4">▶ 视频</a> · <a href="projects/qspang--music-mv.md">制作方法</a></sub><br><sub><a href="https://github.com/qspang/music-mv/blob/2af452d65ded9da86de3ad765d4d9a99b9deac8c/README.md">qspang/music-mv</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/am-will--music-video-reimagined.md"><img src="https://raw.githubusercontent.com/am-will/music-video-reimagined/7d6b7b22caf08c6e330e1abb869953d8e4f2cc1a/docs/horse-dance.gif" width="300" alt="卡着节拍跳水彩骑马舞" loading="lazy"></a><br><a href="projects/am-will--music-video-reimagined.md"><b>卡着节拍跳水彩骑马舞</b></a><br><sub><a href="skills/5e8069257511d6c5.md">Skill</a> · <a href="https://raw.githubusercontent.com/am-will/music-video-reimagined/7d6b7b22caf08c6e330e1abb869953d8e4f2cc1a/docs/horse-dance.gif">原动图</a> · <a href="projects/am-will--music-video-reimagined.md">制作方法</a></sub><br><sub><a href="https://github.com/am-will/music-video-reimagined/blob/7d6b7b22caf08c6e330e1abb869953d8e4f2cc1a/README.md">am-will/music-video-reimagined</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/boom-vitt--bbn-video-studio.md"><img src="https://raw.githubusercontent.com/Boom-Vitt/bbn-video-studio/f54a5d6ab94defa2b238e0931cf7986b67f3b7b1/plugins/bbn-video-studio/skills/music-video/examples/noted/cover.jpg" width="300" alt="三维动态歌词 MV" loading="lazy"></a><br><a href="projects/boom-vitt--bbn-video-studio.md"><b>三维动态歌词 MV</b></a><br><sub><a href="skills/57f5133533ecd5b6.md">Skill</a> · <a href="projects/boom-vitt--bbn-video-studio.md">制作方法</a></sub><br><sub><a href="https://github.com/Boom-Vitt/bbn-video-studio/blob/f54a5d6ab94defa2b238e0931cf7986b67f3b7b1/README.md">Boom-Vitt/bbn-video-studio</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/leeween--pixel-song-mv.md"><img src="https://raw.githubusercontent.com/leeween/pixel-song-mv/fd447feaa8c8941c938b0b62b07b7dd9c766ecff/docs/minimal-preview.png" width="300" alt="把歌曲做成 RPG 小冒险" loading="lazy"></a><br><a href="projects/leeween--pixel-song-mv.md"><b>把歌曲做成 RPG 小冒险</b></a><br><sub><a href="skills/3f7a5b0627d64090.md">Skill</a> · <a href="projects/leeween--pixel-song-mv.md">制作方法</a></sub><br><sub><a href="https://github.com/leeween/pixel-song-mv/blob/fd447feaa8c8941c938b0b62b07b7dd9c766ecff/README.md">leeween/pixel-song-mv</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/obie--slopcore.md"><img src="https://raw.githubusercontent.com/obie/slopcore/2d026ecd999b0543ada360dd006faa6cb8cc4d15/skills/music-video/examples/queso/stills/frame-0.0.jpg" width="300" alt="AI 歌手与代码视觉包装" loading="lazy"></a><br><a href="projects/obie--slopcore.md"><b>AI 歌手与代码视觉包装</b></a><br><sub><a href="skills/11d900566d671f33.md">Skill</a> · <a href="https://www.youtube.com/watch?v=RoLiSWH3dqc">▶ 视频</a> · <a href="projects/obie--slopcore.md">制作方法</a></sub><br><sub><a href="https://github.com/obie/slopcore/blob/2d026ecd999b0543ada360dd006faa6cb8cc4d15/README.md">obie/slopcore</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/kreycin--ton-sea.md"><img src="https://raw.githubusercontent.com/Kreycin/ton-sea/9543e948e30e9a3ca5cc5df18573f2f16909591e/docs/img/shots.jpg" width="300" alt="手绘角色表演参考：海边茶店" loading="lazy"></a><br><a href="projects/kreycin--ton-sea.md"><b>手绘角色表演参考：海边茶店</b></a><br><sub><a href="skills/ada871324c09636a.md">Skill</a> · <a href="projects/kreycin--ton-sea.md">制作方法</a></sub><br><sub><a href="https://github.com/Kreycin/ton-sea/blob/9543e948e30e9a3ca5cc5df18573f2f16909591e/README.md">Kreycin/ton-sea</a></sub></td>
+</tr>
+</table>
+
+[继续按效果挑选 →](gallery/README.md)
 
 <a id="knowledge-and-biography"></a>
 
@@ -335,7 +358,7 @@ Lemo-Opuscar 已更新到 **59 种影片风格**，新增 **8 种剪辑与纪实
 
 ## 找到喜欢的效果，开始制作
 
-**收录概览** · **504** 项目 · **832** Skills · **1868** 提示词／风格文本 · **2204** 案例
+**收录概览** · **518** 项目 · **847** Skills · **1875** 提示词／风格文本 · **2204** 案例
 
 | 入口 | 内容 |
 |---|---|
@@ -374,7 +397,7 @@ Lemo-Opuscar 已更新到 **59 种影片风格**，新增 **8 种剪辑与纪实
 |---|---:|
 | [教学科普与手绘](catalog/education.md) | 74 |
 | [剪辑字幕与数字人](catalog/editing.md) | 94 |
-| [叙事动画与音乐视频](catalog/storytelling.md) | 30 |
+| [叙事动画与音乐视频](catalog/storytelling.md) | 44 |
 | [视频框架与程序化成片](catalog/video-frameworks.md) | 88 |
 | [广告与产品演示](catalog/product-videos.md) | 69 |
 | [SVG 与动态图形](catalog/motion-graphics.md) | 30 |

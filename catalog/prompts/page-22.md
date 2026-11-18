@@ -4,6 +4,13 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [九宫格角色动图 · 作者调用示例](../../prompts/c759c962c62f860b.md) | 表情包与动态贴纸 | daaihq/da-motion-sticker-skill |
+| [科研打工人表情包 / Research-life sticker pack](../../prompts/7de58ac0e96150dd.md) | 表情包与动态贴纸 | lisamsung/agent-meme-forge |
+| [3pm Crash, Lit Desk](../../prompts/905ec5cdedc717a5.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
+| [Absorption Time-Lapse: Hydrating Serum](../../prompts/9636598ae88ac95a.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
+| [Adidas Football Boot Assembly Timelapse](../../prompts/ff2e39f86a98058c.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Anime Cleaning Transformation Video Prompt](../../prompts/8ddbb9052e9b80c2.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Asteroid Field Space Battle](../../prompts/5b5f5e728ae6bc4d.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [Baby Dragon and Woman in Stone Courtyard](../../prompts/2ff5cb0883983316.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [Bathroom Mirror Skincare Truth](../../prompts/b02e9575f0fd6675.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
 | [Black Serum, Cold Marble](../../prompts/9cf7ae167c55538d.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
@@ -77,12 +84,5 @@
 | [K-Pop Micro MV Subway Window Reflection](../../prompts/5d6fbd8f0207b5ec.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [Keys Floor Renovation Time-lapse](../../prompts/5e4dc54b48628957.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [Kid Animation Cloud Scene](../../prompts/6a9276dc44b29ec9.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [Knitted Wool Creature Rainy Rooftop](../../prompts/aaf145b82f627d9d.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [Knitting Night Sky Transformation](../../prompts/5c50e3ce876fb51b.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [Korean Coastal Village Vlog Prompt](../../prompts/b83d2e06504caa5f.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [Korean Drama Silent Encounter Scene](../../prompts/482ac3a122e0c767.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [Korean Woman Action Sequence in City Chaos](../../prompts/ca63ef4127ca435b.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [Late-Night Korean Convenience Store Ramen Scene](../../prompts/48fb9b05d9931047.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [Luxury Beauty Commercial Video Prompt](../../prompts/eb200a4ddef4c794.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

@@ -4,6 +4,13 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [案例 45：3D Q版大学拟人化形象 (by @dotey)](../../prompts/21df93ab78fbda06.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
+| [案例 46：快乐胶囊制作 (by @ZHO_ZHO_ZHO)](../../prompts/fa67806ecc661b81.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
+| [案例 47：键盘ESC 键帽微型立体模型 (by @egeberkina)](../../prompts/96acd0fac64cf169.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
+| [案例 48：体素风格 3D 图标转换 (by @BrettFromDJ)](../../prompts/3127d474b88d060f.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
+| [案例 49：时尚杂志封面风格 (by @dotey)](../../prompts/78a36cc3394328cd.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
+| [案例 4：3D Q版中式婚礼图 (by @balconychy)](../../prompts/d60ad9efc4939682.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
+| [案例 50：物理破坏效果卡片 (劳拉) (by @op7418)](../../prompts/dd43f9e592c64f52.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
 | [案例 51：护照入境印章 (by @M_w14_)](../../prompts/b1a193e1e84720b8.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
 | [案例 52：纸艺风格 Emoji 图标 (by @egeberkina)](../../prompts/294945691d49141b.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
 | [案例 53：Emoji 充气感靠垫 (by @gizakdag)](../../prompts/6b5571d64b50a287.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
@@ -77,12 +84,5 @@
 | [8 个可直接复制的提示词(&#91; &#93; 换成你的内容) · 5](../../prompts/86a16f1df2144897.md) | 提示词与导演方法 | PDF / community |
 | [8 个可直接复制的提示词(&#91; &#93; 换成你的内容) · 6](../../prompts/e60e4168c22c56f4.md) | 提示词与导演方法 | PDF / community |
 | [8 个可直接复制的提示词(&#91; &#93; 换成你的内容) · 7](../../prompts/0a85cf7b594d4c3c.md) | 提示词与导演方法 | PDF / community |
-| [8 个可直接复制的提示词(&#91; &#93; 换成你的内容) · 8](../../prompts/03d35e7ffc291479.md) | 提示词与导演方法 | PDF / community |
-| [AI 猫咪短片全套提示词(选题 → 角色卡 → 分镜 → 图片提示词 → 图生视频提示词 → 声音 → 发布)](../../prompts/b95029a06e7d3f9a.md) | 提示词与导演方法 | PDF / community |
-| [Make a style your own / 创建并保存个人风格](../../prompts/f84d2595fed3fce8.md) | 提示词与导演方法 | lemomo-ai/lemo-opuscar |
-| [Seedance 2.5 中文提示词:长城武打喜剧 30 秒(25 个镜头)](../../prompts/abb7cf454f9ca056.md) | 提示词与导演方法 | PDF / community |
-| [Across Product Demo Video](../../prompts/03d66bdd07af479f.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [After Effect Style Kinetic Text Explainer](../../prompts/991c77707e903a7c.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [Animated Explainer Video Generator](../../prompts/4fbb929252f509ef.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

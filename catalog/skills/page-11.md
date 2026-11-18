@@ -4,6 +4,21 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [video-edit](../../skills/25a8a985c4ecc4ad.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [video-explainer](../../skills/be1e2308a3012dd2.md) | 视频框架与程序化成片 | xdis/opus-video-studio |
+| [video-floorplan](../../skills/81ccce5cfe121998.md) | 视频框架与程序化成片 | xdis/opus-video-studio |
+| [video-generate](../../skills/a5a6dabf07bf5b22.md) | 视频框架与程序化成片 | fengyungithub/dsh-short-video-studio |
+| [video-idea](../../skills/b281b4d200c8d4cb.md) | 视频框架与程序化成片 | xdis/opus-video-studio |
+| [video-lineart](../../skills/f3400d317ae9fe92.md) | 视频框架与程序化成片 | xdis/opus-video-studio |
+| [video-quote](../../skills/3a36c7e2207b7b01.md) | 视频框架与程序化成片 | xdis/opus-video-studio |
+| [video-skit](../../skills/1fb0f1d6d6ada615.md) | 视频框架与程序化成片 | xdis/opus-video-studio |
+| [video-talk](../../skills/5cd3b9089bac8a7b.md) | 视频框架与程序化成片 | xdis/opus-video-studio |
+| [video-toolkit](../../skills/4b815f9b94e0330f.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [video-translate](../../skills/3114c2b5e23e40e2.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [video-understand](../../skills/3ae2a42d7eaec84b.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [video_toolkit](../../skills/645cb0620cb5cb2a.md) | 视频框架与程序化成片 | digitalsamba/claude-code-video-toolkit |
+| [visual-style](../../skills/4d6b51fa9b4e6111.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [voice-direction](../../skills/61b5eac96e9c6c94.md) | 视频框架与程序化成片 | salomonMuriel/media-production-skills |
 | [web-design-guidelines](../../skills/f4647ca866a3accf.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [website-to-video](../../skills/034276ce1b67aa7f.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [wireframe-portal-title](../../skills/553d548c2316b249.md) | 视频框架与程序化成片 | heygen-com/hyperframes |

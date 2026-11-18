@@ -4,6 +4,13 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [explainer · @cboyack · 407181](../../prompts/7311b2f0450b4870.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
+| [explainer · @charlesmendez · 476517](../../prompts/2fe54282da0437d0.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
+| [explainer · @chudry223 · 081860](../../prompts/0328f108d87c0d36.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
+| [explainer · @cyrilXBT · 149036](../../prompts/257af19bd32e76b1.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
+| [explainer · @emollick · 019567](../../prompts/70cc9ae7e4b3ba6f.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
+| [explainer · @explorations_iq · 921682](../../prompts/d85bbc3bbf7cb465.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
+| [explainer · @eyadnour · 172216](../../prompts/8e14c7693c7c49b2.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [explainer · @garmdotcom · 987439](../../prompts/76fabf4652788444.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [explainer · @henkvaness · 975279](../../prompts/a25aba37f6ddf3aa.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [explainer · @hunzai · 842605](../../prompts/e61bdd4d8dc8cf48.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
@@ -77,12 +84,5 @@
 | [模型想象中的短视频信息流](../../prompts/d01bc784981e5e95.md) | 短动效 | guanmo-ai/awesome-ai-motion |
 | [物理之美一镜到底动效](../../prompts/2e557be62e69a579.md) | 短动效 | guanmo-ai/awesome-ai-motion |
 | [让海报冲破自己的边框](../../prompts/be2a5be0f8e86c5d.md) | 短动效 | guanmo-ai/awesome-ai-motion |
-| [九宫格角色动图 · 作者调用示例](../../prompts/c759c962c62f860b.md) | 表情包与动态贴纸 | daaihq/da-motion-sticker-skill |
-| [科研打工人表情包 / Research-life sticker pack](../../prompts/7de58ac0e96150dd.md) | 表情包与动态贴纸 | lisamsung/agent-meme-forge |
-| [3pm Crash, Lit Desk](../../prompts/905ec5cdedc717a5.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
-| [Absorption Time-Lapse: Hydrating Serum](../../prompts/9636598ae88ac95a.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
-| [Adidas Football Boot Assembly Timelapse](../../prompts/ff2e39f86a98058c.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [Anime Cleaning Transformation Video Prompt](../../prompts/8ddbb9052e9b80c2.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [Asteroid Field Space Battle](../../prompts/5b5f5e728ae6bc4d.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

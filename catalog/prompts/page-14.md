@@ -4,6 +4,13 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [No. 15: Profile / Avatar - Overhead Shot of Person Sleeping on Sofa](../../prompts/07483c8b800cba4f.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
+| [No. 15: Profile / Avatar - Realistic Portrait of South Asian Man at Twilight](../../prompts/2843467f96936231.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
+| [No. 16: Profile / Avatar - Japanese Woman Model Comparison Prompt](../../prompts/56946fc516d3d407.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
+| [No. 16: Profile / Avatar - Multi-Symbol Composite Expression Portrait](../../prompts/da66670f6b53b698.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
+| [No. 17: Profile / Avatar - Anime Character Behind Real Subject Prompt](../../prompts/287bc3dff09fb5d9.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
+| [No. 17: Profile / Avatar - South Asian Woman Selfie Prompt](../../prompts/d5b087fbdb6215a7.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
+| [No. 18: Profile / Avatar - Nokia Phone Selfie with Ragdoll Cat Cosplay](../../prompts/878cba4a6faa3994.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
 | [No. 18: Profile / Avatar - South Asian Woman Portrait Prompt](../../prompts/5065b93a84a217d5.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
 | [No. 19: Profile / Avatar - Athletic Korean Woman Tennis Pose](../../prompts/b332a9264e4aabf4.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
 | [No. 19: Profile / Avatar - Yellow Horned Braids Portrait](../../prompts/aa10356169b0623e.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
@@ -77,12 +84,5 @@
 | [No. 47: YouTube Thumbnail - YouTube Thumbnail Design Prompt with Text Overlay](../../prompts/1489a072906ec234.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
 | [No. 48: Infographic / Edu Visual - Manga Infographic: AI Prompt Engineering](../../prompts/4658d3cf417804bf.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
 | [No. 48: YouTube Thumbnail - Steam Locomotive Collapsing Bridge Storm](../../prompts/b8d337329bfa4df4.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
-| [No. 49: Infographic / Edu Visual - Dark Fantasy Hell Hound Character Sheet](../../prompts/023fe578d96ab15f.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
-| [No. 49: YouTube Thumbnail - Cinematic Astronaut on Damaged Spacecraft](../../prompts/f5bd4ff042f250da.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
-| [No. 4: E-commerce Live Stream UI Mockup](../../prompts/9d554d64b2194f6e.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
-| [No. 4: Profile / Avatar - Cosplayer in Room Model Comparison](../../prompts/88608b43746e29c4.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
-| [No. 4: Profile / Avatar - Mediterranean Garden Portrait](../../prompts/3175a14e58d85a6d.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
-| [No. 4: Watercolor map of Germany with labeled states](../../prompts/f562097ff401e7e1.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
-| [No. 50: Infographic / Edu Visual - Anime Character Design Sheet: Traditional Hanfu Couple](../../prompts/eeda9e46bbedb607.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

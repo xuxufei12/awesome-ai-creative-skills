@@ -1,6 +1,6 @@
 [全部效果 / All effects](README.md) · [首页 / Home](../README.zh-CN.md)
 
-# Skill 与工具效果 / Skill & tool demos · 7/14
+# Skill 与工具效果 / Skill & tool demos · 7/15
 
 <table>
 <tr>
@@ -53,4 +53,4 @@
 </tr>
 </table>
 
-[Page 1](tools-01.md) · [Page 2](tools-02.md) · [Page 3](tools-03.md) · [Page 4](tools-04.md) · [Page 5](tools-05.md) · [Page 6](tools-06.md) · [Page 7](tools-07.md) · [Page 8](tools-08.md) · [Page 9](tools-09.md) · [Page 10](tools-10.md) · [Page 11](tools-11.md) · [Page 12](tools-12.md) · [Page 13](tools-13.md) · [Page 14](tools-14.md)
+[Page 1](tools-01.md) · [Page 2](tools-02.md) · [Page 3](tools-03.md) · [Page 4](tools-04.md) · [Page 5](tools-05.md) · [Page 6](tools-06.md) · [Page 7](tools-07.md) · [Page 8](tools-08.md) · [Page 9](tools-09.md) · [Page 10](tools-10.md) · [Page 11](tools-11.md) · [Page 12](tools-12.md) · [Page 13](tools-13.md) · [Page 14](tools-14.md) · [Page 15](tools-15.md)

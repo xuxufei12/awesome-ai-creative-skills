@@ -4,6 +4,13 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [例 66: 分割对照样式照片（by @fofrAI）](../../prompts/dc62514fb463d763.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例 67: 珠宝首饰设计（by @Gdgtify）](../../prompts/1a07faae742878a4.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例 68: 周边设计（by @0xFramer）](../../prompts/9e0b7c85cb2ffd5e.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例 6: 人物拆解（by @cheerselflin）](../../prompts/53b5a96754e57ccc.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例 6: 多参考图像生成（by @MrDavids1）](../../prompts/3279b1fb93d4d5f2.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例 7: 物品制作幕后（by @ZHO_ZHO_ZHO）](../../prompts/e5bad30233f9d10c.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例 7: 自动修图（by @op7418）](../../prompts/08b9b97c98517d74.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 | [例 8: 儿童识字小报（by @lxfater）](../../prompts/d09dc3aa51a0dad6.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 | [例 8: 手绘图控制多角色姿态（by @op7418）](../../prompts/33ecfdd283531099.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 | [例 93: 切割带有卡通爆炸效果的物体（by @Arminn_Ai）](../../prompts/c77862970b1683f5.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
@@ -77,12 +84,5 @@
 | [案例 42：3D Q版情侣水晶球 (by @balconychy)](../../prompts/16699b0783a97978.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
 | [案例 43：Q版可爱俄罗斯套娃 (戴珍珠耳环的少女) (by @ZHO_ZHO_ZHO)](../../prompts/ff19285c948cd649.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
 | [案例 44：RPG 风格角色卡片制作 (by @berryxia_ai)](../../prompts/520bb5fdecef80a8.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
-| [案例 45：3D Q版大学拟人化形象 (by @dotey)](../../prompts/21df93ab78fbda06.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
-| [案例 46：快乐胶囊制作 (by @ZHO_ZHO_ZHO)](../../prompts/fa67806ecc661b81.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
-| [案例 47：键盘ESC 键帽微型立体模型 (by @egeberkina)](../../prompts/96acd0fac64cf169.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
-| [案例 48：体素风格 3D 图标转换 (by @BrettFromDJ)](../../prompts/3127d474b88d060f.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
-| [案例 49：时尚杂志封面风格 (by @dotey)](../../prompts/78a36cc3394328cd.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
-| [案例 4：3D Q版中式婚礼图 (by @balconychy)](../../prompts/d60ad9efc4939682.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
-| [案例 50：物理破坏效果卡片 (劳拉) (by @op7418)](../../prompts/dd43f9e592c64f52.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

@@ -81,8 +81,8 @@
 | [夜色像素风音乐演示](../../prompts/10e750429b71db2b.md) | 像素与角色 | guanmo-ai/awesome-ai-motion |
 | [基于 Claude Code 的视频自动化剪辑指南(交付清单式指令)](../../prompts/19906e953784d3c7.md) | 剪辑字幕与数字人 | PDF / community |
 | [大气环流科普（带 TTS 旁白与双语字幕）](../../prompts/702d32c634e11fcd.md) | 剪辑字幕与数字人 | joeseesun/opus-video-prompts |
+| [AI 歌手、多镜头与逐字视觉设计 · 作者调用/方向示例](../../prompts/a48e68b19d811fb3.md) | 叙事动画与音乐视频 | obie/slopcore |
 | [caption-news](../../prompts/d2d98bb775f1ded5.md) | 叙事动画与音乐视频 | lemomo-ai/lemo-opuscar |
 | [city-symphony](../../prompts/6a22542ef7e65065.md) | 叙事动画与音乐视频 | lemomo-ai/lemo-opuscar |
-| [countdown](../../prompts/001acc34b17fbc9d.md) | 叙事动画与音乐视频 | lemomo-ai/lemo-opuscar |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

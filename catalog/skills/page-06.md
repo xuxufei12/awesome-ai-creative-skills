@@ -4,6 +4,21 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [weilanx-creator-distill-video](../../skills/7e7b2e9d65945147.md) | 教学科普与手绘 | Azure12355/weilanx-claude-videos |
+| [weilanx-creator-fps-video](../../skills/87267a27b959fe82.md) | 教学科普与手绘 | Azure12355/weilanx-claude-videos |
+| [weilanx-creator-gilded-video](../../skills/a9a63c186cd953f7.md) | 教学科普与手绘 | Azure12355/weilanx-claude-videos |
+| [weilanx-creator-lamplight-video](../../skills/171f772898012ee1.md) | 教学科普与手绘 | Azure12355/weilanx-claude-videos |
+| [weilanx-creator-pixel-video](../../skills/6a674a62cb25b09c.md) | 教学科普与手绘 | Azure12355/weilanx-claude-videos |
+| [weilanx-creator-vox-video](../../skills/00aaf1ae3795fc8d.md) | 教学科普与手绘 | Azure12355/weilanx-claude-videos |
+| [3d-asset-quality](../../skills/27a763535923a3d3.md) | 游戏资产与像素画 | RemakeBench/skills |
+| [Pixel Art Animator](../../skills/3a1cc500b59e6a88.md) | 游戏资产与像素画 | willibrandon/pixel-plugin |
+| [Pixel Art Exporter](../../skills/5fe7f9f80ab16b07.md) | 游戏资产与像素画 | willibrandon/pixel-plugin |
+| [Pixel Art Professional](../../skills/92d99a1328d543ce.md) | 游戏资产与像素画 | willibrandon/pixel-plugin |
+| [Skill Development](../../skills/d40080c45d652dd3.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [alpha-scene-gen](../../skills/4281d9837c6dbb52.md) | 游戏资产与像素画 | ig-shadow-walker/BlenderXAlpha-3DGenSkill |
+| [asset-judge-loop](../../skills/cfc42ddac666bc4e.md) | 游戏资产与像素画 | RemakeBench/skills |
+| [codex-subagent](../../skills/e6a60b8fdf791db9.md) | 游戏资产与像素画 | RemakeBench/skills |
+| [game-production-stages](../../skills/5a721858ec95b5e3.md) | 游戏资产与像素画 | RemakeBench/skills |
 | [grok-subagent](../../skills/cb26b5cb1636d304.md) | 游戏资产与像素画 | RemakeBench/skills |
 | [image-to-3d-modular-kit](../../skills/80d4f16ede37129a.md) | 游戏资产与像素画 | RemakeBench/skills |
 | [meshy-3d-generation](../../skills/0dbb0212a3f147e7.md) | 游戏资产与像素画 | meshy-dev/meshy-3d-agent |
@@ -69,20 +84,5 @@
 | [scenario-gpt-image](../../skills/db968c30272a170e.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-grok-imagine-image](../../skills/19c1803e90ce95f2.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-grok-imagine-video](../../skills/8ff75ab25e8bba2f.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-identity-library](../../skills/686ca20080a8e4fa.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-ideogram](../../skills/c5f3fb4e6a1b57cc.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-image](../../skills/e1ba064d5e46b769.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-image-editing](../../skills/ae0179c515cfe44b.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-inspiration](../../skills/fc45e63c56983c9f.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-kinetic-music-video](../../skills/1a8b599b4ce66fea.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-kling](../../skills/9e61dc0b2ab638b6.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-luma-image](../../skills/aa3749b8a5eca7b2.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-luma-video](../../skills/f018ddb36705ca72.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-mai-image](../../skills/42853d83c6d2ea8a.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-maya-animation](../../skills/617d7b3dc15d6875.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-maya-deformation](../../skills/c76c0240d8050dce.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-maya-expert](../../skills/fb3beb06b09928ea.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-maya-fx](../../skills/70a687dfcde0bed7.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-maya-groom](../../skills/04b847dd0635b74c.md) | 游戏资产与像素画 | scenario-labs/skills |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md)
