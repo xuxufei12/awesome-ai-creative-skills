@@ -4,6 +4,12 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [Man in Movie Theater](../../prompts/257d3a4ad8d3ad0e.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Mannequin Horror Escape in Mall](../../prompts/880e114e87aa61bc.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Maple Leaf Epoxy Floor Renovation Video Prompt](../../prompts/f14cf7e5dc88244d.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Medieval Coronation Comedy Interruption](../../prompts/cb5de993e453276f.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Medieval Fantasy Archer Riding Through Misty Forest](../../prompts/752a7161cd0e44df.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
+| [Melancholic Beauty Film with Sheet Music](../../prompts/0f145e18b4aa7549.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [Night Alley Thriller Fight Scene](../../prompts/9cadcbda2524e254.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [No. 1: Seedance 2.0: 15-Second Cinematic Japanese Romance Short Film](../../prompts/02e262bd0cfc2f80.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [No. 2: Hollywood Haute Couture Fantasy Video Prompt](../../prompts/3335c428672bc971.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
@@ -78,11 +84,5 @@
 | [DeepSeek 鲸鱼宣传片](../../prompts/6c719761282f509d.md) | 视频框架与程序化成片 | PDF / community |
 | [Opus 做动效 + Runway MCP 出画面](../../prompts/9a281d1584e6059d.md) | 视频框架与程序化成片 | PDF / community |
 | [Opus 家族史(Remotion,一句话)](../../prompts/89aa5ad3d7a27585.md) | 视频框架与程序化成片 | PDF / community |
-| [UI 形态变换循环（1440×1440）](../../prompts/99861a38d4fc0d95.md) | 视频框架与程序化成片 | joeseesun/opus-video-prompts |
-| [一壶茶的 39 种画风 · 作者调用示例](../../prompts/c64684fd6e4dca51.md) | 视频框架与程序化成片 | deenukhan/animation-styles |
-| [一壶茶的 39 种画风 · 作者调用示例 2](../../prompts/ea0f966872b4a23a.md) | 视频框架与程序化成片 | deenukhan/animation-styles |
-| [中华五千年历史(线稿风)](../../prompts/e6466dac504d4a40.md) | 视频框架与程序化成片 | PDF / community |
-| [中华五千年历史速览（线稿动画）](../../prompts/b96b0e7a1909a5fd.md) | 视频框架与程序化成片 | joeseesun/opus-video-prompts |
-| [从家到健身房的路线动画 · 作者调用示例](../../prompts/5dbe147f1e98b967.md) | 视频框架与程序化成片 | artemnovitckii/claude-animation-skills |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

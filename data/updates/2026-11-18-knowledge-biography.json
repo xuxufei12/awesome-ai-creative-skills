@@ -1,0 +1,464 @@
+{
+  "date": "2026-11-18",
+  "added_projects": 12,
+  "selected_skills": 12,
+  "groups": {
+    "knowledge_video": 6,
+    "historical_visual_chapters": 3,
+    "research_storyboard_interview": 3
+  },
+  "author_invocations": 6,
+  "editorial_templates": 2,
+  "runtime_reproduction": false,
+  "method": "Canonical and alias deduplication; exact Skill SHA-256 deduplication; pinned source and media header verification",
+  "excluded": [
+    {
+      "repo": "lixiaoxiao9888-create/manju-laoli-skill",
+      "reason": "Current V7.5.0-SLIM removed sd-jieshuo-engine; search index is stale"
+    },
+    {
+      "repo": "LyonYrd/CodexSkillsGUI",
+      "reason": "No standalone Skill entry found; GUI rather than requested skill"
+    }
+  ],
+  "projects": [
+    {
+      "repo": "andyhuo520/vibe-knowledge",
+      "commit": "c3a13a85f7cc560e5d396f063baecea4b2748e1e",
+      "checked_at": "2026-11-18T06:49:40.873187+00:00",
+      "upstream_pushed_at": "2026-10-28T15:30:54Z",
+      "sources": [
+        {
+          "url": "https://github.com/andyhuo520/vibe-knowledge/blob/c3a13a85f7cc560e5d396f063baecea4b2748e1e/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:40.873187+00:00"
+        },
+        {
+          "url": "https://github.com/andyhuo520/vibe-knowledge/blob/c3a13a85f7cc560e5d396f063baecea4b2748e1e/skills/vibe-knowledge/SKILL.md",
+          "type": "Selected original Skill entry",
+          "checked_at": "2026-11-18T06:49:40.873187+00:00"
+        },
+        {
+          "url": "https://github.com/andyhuo520/vibe-knowledge/blob/c3a13a85f7cc560e5d396f063baecea4b2748e1e/skills/vibe-knowledge/styles/_samples/styles_film.js",
+          "type": "Style sample source / 风格样片源码",
+          "checked_at": "2026-11-18T06:49:40.873187+00:00"
+        },
+        {
+          "url": "https://github.com/andyhuo520/vibe-knowledge/blob/c3a13a85f7cc560e5d396f063baecea4b2748e1e/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/andyhuo520/vibe-knowledge/c3a13a85f7cc560e5d396f063baecea4b2748e1e/docs/posters/ep01-shangyang.jpg",
+          "type": "image",
+          "label": "ep01-shangyang.jpg",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/andyhuo520/vibe-knowledge/c3a13a85f7cc560e5d396f063baecea4b2748e1e/docs/style-flash.gif",
+          "type": "image",
+          "label": "style-flash.gif",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://github.com/andyhuo520/vibe-knowledge/releases/download/v1.0.0/ep01-shangyang.mp4",
+          "type": "video",
+          "label": "Author example film",
+          "verification": "MP4 signature checked; release asset URL is version-tagged, not content-addressed"
+        }
+      ]
+    },
+    {
+      "repo": "gui-lin/vibe-knowledge-studio",
+      "commit": "326691a863fd4eddbd487ae8e6786bf1d87d5e03",
+      "checked_at": "2026-11-18T06:49:40.873187+00:00",
+      "upstream_pushed_at": "2026-11-06T03:11:28Z",
+      "sources": [
+        {
+          "url": "https://github.com/gui-lin/vibe-knowledge-studio/blob/326691a863fd4eddbd487ae8e6786bf1d87d5e03/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:40.873187+00:00"
+        },
+        {
+          "url": "https://github.com/gui-lin/vibe-knowledge-studio/blob/326691a863fd4eddbd487ae8e6786bf1d87d5e03/SKILL.md",
+          "type": "Selected original Skill entry",
+          "checked_at": "2026-11-18T06:49:40.873187+00:00"
+        },
+        {
+          "url": "https://github.com/gui-lin/vibe-knowledge-studio/blob/326691a863fd4eddbd487ae8e6786bf1d87d5e03/examples/birthday/film.js",
+          "type": "Example scene / 示例场景",
+          "checked_at": "2026-11-18T06:49:40.873187+00:00"
+        },
+        {
+          "url": "https://github.com/gui-lin/vibe-knowledge-studio/blob/326691a863fd4eddbd487ae8e6786bf1d87d5e03/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/gui-lin/vibe-knowledge-studio/326691a863fd4eddbd487ae8e6786bf1d87d5e03/docs/demo-sheet.jpg",
+          "type": "image",
+          "label": "demo-sheet.jpg",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/gui-lin/vibe-knowledge-studio/326691a863fd4eddbd487ae8e6786bf1d87d5e03/docs/demo-title.jpg",
+          "type": "image",
+          "label": "demo-title.jpg",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        }
+      ]
+    },
+    {
+      "repo": "wchhywizd/vibe-knowledge-interactive",
+      "commit": "240ec579c7b86d110ee7b6ad4bfc35193b0de52a",
+      "checked_at": "2026-11-18T06:49:40.874186+00:00",
+      "upstream_pushed_at": "2026-10-21T03:42:42Z",
+      "sources": [
+        {
+          "url": "https://github.com/wchhywizd/vibe-knowledge-interactive/blob/240ec579c7b86d110ee7b6ad4bfc35193b0de52a/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:40.874186+00:00"
+        },
+        {
+          "url": "https://github.com/wchhywizd/vibe-knowledge-interactive/blob/240ec579c7b86d110ee7b6ad4bfc35193b0de52a/skill/vibe-explainer-video/SKILL.md",
+          "type": "Selected original Skill entry",
+          "checked_at": "2026-11-18T06:49:40.874186+00:00"
+        },
+        {
+          "url": "https://github.com/wchhywizd/vibe-knowledge-interactive/blob/240ec579c7b86d110ee7b6ad4bfc35193b0de52a/samples/src/pilotC-birthday.html",
+          "type": "Example scene / 示例场景",
+          "checked_at": "2026-11-18T06:49:40.874186+00:00"
+        },
+        {
+          "url": "https://github.com/wchhywizd/vibe-knowledge-interactive/blob/240ec579c7b86d110ee7b6ad4bfc35193b0de52a/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/wchhywizd/vibe-knowledge-interactive/240ec579c7b86d110ee7b6ad4bfc35193b0de52a/assets/hook-birthday.gif",
+          "type": "image",
+          "label": "hook-birthday.gif",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/wchhywizd/vibe-knowledge-interactive/240ec579c7b86d110ee7b6ad4bfc35193b0de52a/assets/hook-dunbar.gif",
+          "type": "image",
+          "label": "hook-dunbar.gif",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/wchhywizd/vibe-knowledge-interactive/240ec579c7b86d110ee7b6ad4bfc35193b0de52a/samples/%E8%AF%95%E7%89%87C-v2-%E5%90%8C%E4%B8%80%E5%A4%A9%E7%94%9F%E6%97%A5.mp4",
+          "type": "video",
+          "label": "Author example film",
+          "verification": "Pinned MP4 signature checked"
+        }
+      ]
+    },
+    {
+      "repo": "aliangSSS/aliang-knowledge-video",
+      "commit": "1687e5e87539b98a25289d76e1f935ea48787929",
+      "checked_at": "2026-11-18T06:49:40.875185+00:00",
+      "upstream_pushed_at": "2026-10-18T04:13:25Z",
+      "sources": [
+        {
+          "url": "https://github.com/aliangSSS/aliang-knowledge-video/blob/1687e5e87539b98a25289d76e1f935ea48787929/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:40.875185+00:00"
+        },
+        {
+          "url": "https://github.com/aliangSSS/aliang-knowledge-video/blob/1687e5e87539b98a25289d76e1f935ea48787929/SKILL.md",
+          "type": "Selected original Skill entry",
+          "checked_at": "2026-11-18T06:49:40.875185+00:00"
+        },
+        {
+          "url": "https://github.com/aliangSSS/aliang-knowledge-video/blob/1687e5e87539b98a25289d76e1f935ea48787929/examples/murphys-law/src/World.tsx",
+          "type": "Example scene / 示例场景",
+          "checked_at": "2026-11-18T06:49:40.875185+00:00"
+        },
+        {
+          "url": "https://github.com/aliangSSS/aliang-knowledge-video/blob/1687e5e87539b98a25289d76e1f935ea48787929/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/aliangSSS/aliang-knowledge-video/1687e5e87539b98a25289d76e1f935ea48787929/docs/images/02-case-wall.jpg",
+          "type": "image",
+          "label": "02-case-wall.jpg",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/aliangSSS/aliang-knowledge-video/1687e5e87539b98a25289d76e1f935ea48787929/docs/images/04-culprit-formula.jpg",
+          "type": "image",
+          "label": "04-culprit-formula.jpg",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        }
+      ]
+    },
+    {
+      "repo": "GuanLi22/vibe-knowledge-video-skill",
+      "commit": "688a88c4cd6104920bc97c2f5e23b75161f900bf",
+      "checked_at": "2026-11-18T06:49:40.875185+00:00",
+      "upstream_pushed_at": "2026-10-31T06:29:12Z",
+      "sources": [
+        {
+          "url": "https://github.com/GuanLi22/vibe-knowledge-video-skill/blob/688a88c4cd6104920bc97c2f5e23b75161f900bf/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:40.875185+00:00"
+        },
+        {
+          "url": "https://github.com/GuanLi22/vibe-knowledge-video-skill/blob/688a88c4cd6104920bc97c2f5e23b75161f900bf/vibe-knowledge-video/SKILL.md",
+          "type": "Selected original Skill entry",
+          "checked_at": "2026-11-18T06:49:40.875185+00:00"
+        },
+        {
+          "url": "https://github.com/GuanLi22/vibe-knowledge-video-skill/blob/688a88c4cd6104920bc97c2f5e23b75161f900bf/examples/butterfly/src/Butterfly.tsx",
+          "type": "Example source; no rendered preview / 示例源码，未收集渲染预览",
+          "checked_at": "2026-11-18T06:49:40.875185+00:00"
+        },
+        {
+          "url": "https://github.com/GuanLi22/vibe-knowledge-video-skill/blob/688a88c4cd6104920bc97c2f5e23b75161f900bf/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": []
+    },
+    {
+      "repo": "AuroraBarista/vibe-knowledge-skill",
+      "commit": "46158ca8d015f356f144aef700842b718a7b713f",
+      "checked_at": "2026-11-18T06:49:47.439944+00:00",
+      "upstream_pushed_at": "2026-10-16T00:39:09Z",
+      "sources": [
+        {
+          "url": "https://github.com/AuroraBarista/vibe-knowledge-skill/blob/46158ca8d015f356f144aef700842b718a7b713f/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:47.439944+00:00"
+        },
+        {
+          "url": "https://github.com/AuroraBarista/vibe-knowledge-skill/blob/46158ca8d015f356f144aef700842b718a7b713f/SKILL.md",
+          "type": "Selected original Skill entry",
+          "checked_at": "2026-11-18T06:49:47.439944+00:00"
+        },
+        {
+          "url": "https://github.com/AuroraBarista/vibe-knowledge-skill/blob/46158ca8d015f356f144aef700842b718a7b713f/scripts/deliver.py",
+          "type": "Delivery helper / 交付辅助脚本",
+          "checked_at": "2026-11-18T06:49:47.439944+00:00"
+        }
+      ],
+      "preview_assets": []
+    },
+    {
+      "repo": "bangbuilds/code-doc-film",
+      "commit": "d3078a857fbc70f78121ed0f919aa9d15c854e57",
+      "checked_at": "2026-11-18T06:49:51.112331+00:00",
+      "upstream_pushed_at": "2026-10-03T04:53:56Z",
+      "sources": [
+        {
+          "url": "https://github.com/bangbuilds/code-doc-film/blob/d3078a857fbc70f78121ed0f919aa9d15c854e57/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:51.112331+00:00"
+        },
+        {
+          "url": "https://github.com/bangbuilds/code-doc-film/blob/d3078a857fbc70f78121ed0f919aa9d15c854e57/SKILL.md",
+          "type": "Selected original Skill entry",
+          "checked_at": "2026-11-18T06:49:51.112331+00:00"
+        },
+        {
+          "url": "https://github.com/bangbuilds/code-doc-film/blob/d3078a857fbc70f78121ed0f919aa9d15c854e57/examples/zheng-he/scenes/f01_hook.js",
+          "type": "Example scene / 示例场景",
+          "checked_at": "2026-11-18T06:49:51.112331+00:00"
+        },
+        {
+          "url": "https://github.com/bangbuilds/code-doc-film/blob/d3078a857fbc70f78121ed0f919aa9d15c854e57/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": []
+    },
+    {
+      "repo": "bangbuilds/code-poem-film",
+      "commit": "8530dafb2786cdd724451f5503934507624b18c1",
+      "checked_at": "2026-11-18T06:49:52.084687+00:00",
+      "upstream_pushed_at": "2026-10-03T11:25:50Z",
+      "sources": [
+        {
+          "url": "https://github.com/bangbuilds/code-poem-film/blob/8530dafb2786cdd724451f5503934507624b18c1/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:52.084687+00:00"
+        },
+        {
+          "url": "https://github.com/bangbuilds/code-poem-film/blob/8530dafb2786cdd724451f5503934507624b18c1/SKILL.md",
+          "type": "Selected original Skill entry",
+          "checked_at": "2026-11-18T06:49:52.084687+00:00"
+        },
+        {
+          "url": "https://github.com/bangbuilds/code-poem-film/blob/8530dafb2786cdd724451f5503934507624b18c1/examples/chibi/film/scenes.js",
+          "type": "Poem animation source / 诗词动画源码",
+          "checked_at": "2026-11-18T06:49:52.084687+00:00"
+        },
+        {
+          "url": "https://github.com/bangbuilds/code-poem-film/blob/8530dafb2786cdd724451f5503934507624b18c1/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/bangbuilds/code-poem-film/8530dafb2786cdd724451f5503934507624b18c1/examples/chibi/cover.jpg",
+          "type": "image",
+          "label": "cover.jpg",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/bangbuilds/code-poem-film/8530dafb2786cdd724451f5503934507624b18c1/examples/qingzhou/cover.jpg",
+          "type": "image",
+          "label": "cover.jpg",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        }
+      ]
+    },
+    {
+      "repo": "Nailcore/create-chinese-ink-video",
+      "commit": "e2318a55343f91247037f23aba4534cd14d435b4",
+      "checked_at": "2026-11-18T06:49:52.450848+00:00",
+      "upstream_pushed_at": "2026-08-12T08:17:43Z",
+      "sources": [
+        {
+          "url": "https://github.com/Nailcore/create-chinese-ink-video/blob/e2318a55343f91247037f23aba4534cd14d435b4/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:52.450848+00:00"
+        },
+        {
+          "url": "https://github.com/Nailcore/create-chinese-ink-video/blob/e2318a55343f91247037f23aba4534cd14d435b4/skill/create-chinese-ink-video/SKILL.md",
+          "type": "Selected original Skill entry",
+          "checked_at": "2026-11-18T06:49:52.450848+00:00"
+        },
+        {
+          "url": "https://github.com/Nailcore/create-chinese-ink-video/blob/e2318a55343f91247037f23aba4534cd14d435b4/skill/create-chinese-ink-video/scripts/render_fibrous_ink_bloom.py",
+          "type": "Effect renderer / 特效渲染脚本",
+          "checked_at": "2026-11-18T06:49:52.450848+00:00"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/Nailcore/create-chinese-ink-video/e2318a55343f91247037f23aba4534cd14d435b4/examples/musk-fluid-ink/demo.gif",
+          "type": "image",
+          "label": "demo.gif",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Nailcore/create-chinese-ink-video/e2318a55343f91247037f23aba4534cd14d435b4/examples/musk-fluid-ink/musk-fluid-ink-v11.mp4",
+          "type": "video",
+          "label": "musk-fluid-ink-v11.mp4",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        }
+      ]
+    },
+    {
+      "repo": "WoodyXu/history-story-video",
+      "commit": "d5ba8d457cf3d9223d3e53b285e8240897b6c860",
+      "checked_at": "2026-11-18T06:49:52.453645+00:00",
+      "upstream_pushed_at": "2026-04-14T12:47:51Z",
+      "sources": [
+        {
+          "url": "https://github.com/WoodyXu/history-story-video/blob/d5ba8d457cf3d9223d3e53b285e8240897b6c860/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:52.453645+00:00"
+        },
+        {
+          "url": "https://github.com/WoodyXu/history-story-video/blob/d5ba8d457cf3d9223d3e53b285e8240897b6c860/skills/history-story-video/SKILL.md",
+          "type": "Selected original Skill entry",
+          "checked_at": "2026-11-18T06:49:52.453645+00:00"
+        },
+        {
+          "url": "https://github.com/WoodyXu/history-story-video/blob/d5ba8d457cf3d9223d3e53b285e8240897b6c860/skills/history-story-video/references/output-structure.md",
+          "type": "Output specification / 输出结构",
+          "checked_at": "2026-11-18T06:49:52.453645+00:00"
+        },
+        {
+          "url": "https://github.com/WoodyXu/history-story-video/blob/d5ba8d457cf3d9223d3e53b285e8240897b6c860/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": []
+    },
+    {
+      "repo": "sanshengai/sansheng-distill",
+      "commit": "a411cc2c923eee070f0e77a44239ee58164a335c",
+      "checked_at": "2026-11-18T06:49:52.780064+00:00",
+      "upstream_pushed_at": "2026-10-24T01:13:13Z",
+      "sources": [
+        {
+          "url": "https://github.com/sanshengai/sansheng-distill/blob/a411cc2c923eee070f0e77a44239ee58164a335c/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:52.780064+00:00"
+        },
+        {
+          "url": "https://github.com/sanshengai/sansheng-distill/blob/a411cc2c923eee070f0e77a44239ee58164a335c/SKILL.md",
+          "type": "Selected original Skill entry",
+          "checked_at": "2026-11-18T06:49:52.780064+00:00"
+        },
+        {
+          "url": "https://github.com/sanshengai/sansheng-distill/blob/a411cc2c923eee070f0e77a44239ee58164a335c/references/biography-craft.md",
+          "type": "Biography workflow / 人物资料流程",
+          "checked_at": "2026-11-18T06:49:52.780064+00:00"
+        },
+        {
+          "url": "https://github.com/sanshengai/sansheng-distill/blob/a411cc2c923eee070f0e77a44239ee58164a335c/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/sanshengai/sansheng-distill/a411cc2c923eee070f0e77a44239ee58164a335c/assets/demo.gif",
+          "type": "image",
+          "label": "Author book/works research page; not a biography film",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        }
+      ]
+    },
+    {
+      "repo": "anbeime/skill",
+      "commit": "ec48389bb805dfd860f00e5167e277aaf8bcd660",
+      "checked_at": "2026-11-18T06:49:56.658520+00:00",
+      "upstream_pushed_at": "2026-11-18T03:55:22Z",
+      "sources": [
+        {
+          "url": "https://github.com/anbeime/skill/blob/ec48389bb805dfd860f00e5167e277aaf8bcd660/README.md",
+          "type": "Collection README; only historical-interview-scripts selected",
+          "checked_at": "2026-11-18T06:49:56.658520+00:00"
+        },
+        {
+          "url": "https://github.com/anbeime/skill/blob/ec48389bb805dfd860f00e5167e277aaf8bcd660/skills/historical-interview-scripts/historical-interview-scripts/SKILL.md",
+          "type": "Selected original Skill entry",
+          "checked_at": "2026-11-18T06:49:56.658520+00:00"
+        },
+        {
+          "url": "https://github.com/anbeime/skill/blob/ec48389bb805dfd860f00e5167e277aaf8bcd660/skills/historical-interview-scripts/historical-interview-scripts/references/script-examples.md",
+          "type": "Script examples / 文案示例",
+          "checked_at": "2026-11-18T06:49:56.658520+00:00"
+        },
+        {
+          "url": "https://github.com/anbeime/skill/blob/ec48389bb805dfd860f00e5167e277aaf8bcd660/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": []
+    }
+  ]
+}

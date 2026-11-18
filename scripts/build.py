@@ -31,6 +31,7 @@ def preview(assets,limit=None):
 categories=[('教学科普与手绘','education','Education & hand-drawn explainers'),('剪辑字幕与数字人','editing','Editing, captions & avatars'),('叙事动画与音乐视频','storytelling','Storytelling, animation & music videos'),('视频框架与程序化成片','video-frameworks','Video frameworks & code rendering'),('广告与产品演示','product-videos','Ads & product demos'),('SVG 与动态图形','motion-graphics','SVG & motion graphics'),('提示词与导演方法','directing','Prompts & directing'),('Blender 与三维建模','blender','Blender & 3D modelling'),('Three.js 与 WebGPU','web-3d','Three.js & WebGPU'),('图像生成与商业视觉','image-generation','Image generation & visual design'),('合集与创作案例','collections','Collections & inspiration'),('ComfyUI 与模型编排','comfyui','ComfyUI & model workflows'),('游戏资产与像素画','game-assets','Game assets & pixel art'),('高斯泼溅与仿真','simulation','Gaussian splatting & simulation')]
 categories.append(('表情包与动态贴纸','stickers','Reaction GIFs & sticker packs'))
 categories.append(('HTML 互动与可玩解释','interactive-html','Interactive HTML & explorable explanations'))
+categories.append(('人物传记与历史叙事','biography-history','Biography & historical storytelling'))
 catmap={c:(s,e) for c,s,e in categories}
 projects=DATA['projects'];prompts=DATA['prompts'];skills=DATA['skills'];cases=DATA['cases'];guides=DATA['guides'];templates=DATA['templates']
 rmap={r['repo'].lower():r for r in projects}
@@ -200,6 +201,32 @@ def featured_update(zh):
 # Date-stamped additions retain their individual upstream timestamps.
 for edition in sorted({r['edition'] for r in projects if r.get('edition')}):
  batch=[r for r in projects if r.get('edition')==edition]
+ if edition=='2026-11-18-knowledge-biography':
+  page=backlink()+'# 知识大赏与人物传记 / Knowledge explainers & biographies\n\n'
+  page+='从一个日常疑问出发，把原理演给观众看；也从一个人的选择与转折出发，把生平讲成有画面的故事。本期新增 12 个项目、12 个精选 Skill 入口，按制作环节选用。 / Twelve projects and selected skills for explaining mechanisms and telling the stories of people.\n\n'
+  for group,heading in [('K','知识大赏：代码讲清原理 / Code-rendered explainers'),('B','人物与历史：纪录片和视觉章节 / Historical films & visual chapters'),('S','传记前期：证据、分镜与访谈脚本 / Evidence, storyboards & interview scripts')]:
+   page+='## '+heading+'\n\n| 目标 / Result | Skill 与素材 / Skill & source | 示例与交付 / Preview & deliverable | 上游推送 / Push |\n|---|---|---|---|\n'
+   for r in sorted([r for r in batch if r['collection_kind']==group],key=lambda r:r['upstream_pushed_at'],reverse=True):
+    ss=skillmap.get(r['repo'].lower(),[]);skill_url=r['sources'][1]['url']
+    links=f"[SKILL.md]({skill_url}) · [{r['example_label']}]({r['example_entry']})"
+    a=next((a for a in r['preview_assets'] if a['type']=='video'),next(iter(r['preview_assets']),None))
+    demo=(f"[作者示例 / Preview]({a['url']})" if a else '源码或文案入口，暂无嵌入成片 / Source or script; no embedded film')
+    if r['repo']=='sanshengai/sansheng-distill':demo+='（作品资料页，非传记成片 / works research page）'
+    page+=f"| [{esc(r['title'])}](../projects/{r['id']}.md) | {links} | {demo} | {r['upstream_pushed_at'][:10]} |\n"
+   page+='\n'
+  page+='## 按目标搭配 / Choose a route\n\n'
+  page+='- **日常原理**：AuroraBarista 组织开头，gui-lin 或 aliangSSS 承担动画；观众先猜的镜头可参考 wchhywizd。 / Structure the hook, animate the mechanism, and invite a prediction.\n'
+  page+='- **历史人物纪录片**：sansheng-distill 整理材料 → history-story-video 拆分镜 → code-doc-film 表现路线与事件。 / Research → storyboard → geographic and event scenes.\n'
+  page+='- **诗人或人物视觉章节**：code-poem-film 表现作品，create-chinese-ink-video 做人物显影；这些片段需要接入完整的生平叙事。 / Use poem animation or ink reveals as chapters within a larger biography.\n'
+  page+='- **历史访谈**：historical-interview-scripts 提供虚构娱乐脚本，勿当真实引语。 / Fictional interviews belong to entertainment, not historical testimony.\n\n'
+  page+='以上搭配为本目录编辑建议，尚未联调。 / These combinations are editorial suggestions, not an integrated tested pipeline.\n\n'
+  page+='## 可复制的起步提示词 / Copyable starting prompts\n\n'
+  page+='- [知识大赏：钩子到机制](../templates/knowledge-hook-to-mechanism.md)\n- [人物传记：资料到影像](../templates/biography-evidence-to-film.md)\n\n'
+  page+='作者明确提供 Claude/Codex 双入口的有 AuroraBarista、WoodyXu；bangbuilds 两项提供 Codex 迁移说明，但作者未实测该路线。请保留 Skill 的配套脚本与 references。部分项目自带的 BGM 不属于代码开源许可，具体见项目依赖说明。 / AuroraBarista and WoodyXu document both hosts; bangbuilds documents an untested Codex route. Keep companion scripts and references, and check separate media licenses.\n\n'
+  page+='已核对固定提交、Skill、源码和媒体文件头，未运行上游制作流程；日期为采集时的上游推送日期。 / Pinned sources and media signatures checked; upstream workflows not executed. Dates refer to upstream repository pushes.\n\n'
+  page+='[来源核对记录 / Source checks](../data/updates/2026-11-18-knowledge-biography.json)\n'
+  write('docs/new-'+edition+'.md',page)
+  continue
  if edition=='2026-11-18-knowledge-html':
   page=backlink()+'# 知识大赏视频与互动 HTML / Knowledge films & playful HTML · 2026-11-18\n\n'
   page+='先选目标：把原理讲成短片，或让读者在网页里拖动、点击、拆解与观察。每条保留作者源文件和上游更新日期。 / Choose a film that explains a mechanism, or a page that invites exploration. Each entry links to its author’s files and records the upstream push date.\n\n'

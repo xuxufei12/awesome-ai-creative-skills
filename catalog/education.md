@@ -7,13 +7,19 @@
 | [adithya-s-k/manim_skill](../projects/adithya-s-k--manim_skill.md) | 将概念转为可执行的数学／科学动画技能。 | 3 | 0 |
 | [albertobarnabo/manim-craft](../projects/albertobarnabo--manim-craft.md) | 将教学表达和 Manim 制作拆为配套工作，并提供比较方法。 | 1 | 0 |
 | [alchaincyf/huashu-art-motion](../projects/alchaincyf--huashu-art-motion.md) | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 | 1 | 0 |
+| [aliangSSS/aliang-knowledge-video](../projects/aliangsss--aliang-knowledge-video.md) | 通过案件墙、证物与公式构成连续解释空间；附 Remotion 场景、分镜和事实来源。 / Murphy's law as a detective story | 1 | 1 |
+| [andyhuo520/vibe-knowledge](../projects/andyhuo520--vibe-knowledge.md) | 从选题、事实清单到旁白与逐帧渲染；商鞅立木示例可比较代码插画基础档与生成素材增强档。 / Shang Yang and illustrated explainers | 1 | 0 |
+| [AuroraBarista/vibe-knowledge-skill](../projects/aurorabarista--vibe-knowledge-skill.md) | 明确提供 Claude Code 与 Codex 入口，强调前五秒、事实核对、关键帧和最终 MP4 检查；动画场景由代理编写。 / A traffic-jam hook for an explainer | 1 | 1 |
 | [av-simi2/claude-manim-skill](../projects/av-simi2--claude-manim-skill.md) | 围绕 manimgl 的模板、参考和示例。 | 1 | 0 |
 | [Azure12355/weilanx-claude-videos](../projects/azure12355--weilanx-claude-videos.md) | Hand-drawn and pixel-art explainer videos written entirely in code — Remotion + React + SVG, procedural music & SFX, subtitle-driven timing | 8 | 0 |
 | [Everett406/code-explainer-video](../projects/everett406--code-explainer-video.md) | 规定知识讲解的策划、编码、检查和 MP4 交付流程；仓库有媒体检查脚本，尚未发现成品样片。 / Code explainers with Kimi | 1 | 0 |
+| [GuanLi22/vibe-knowledge-video-skill](../projects/guanli22--vibe-knowledge-video-skill.md) | 以 Remotion 时间轴组织代码动画，附节拍检测、声音合成、质检脚本和十三秒开场源码。 / Butterfly particles and folding paper | 1 | 0 |
+| [gui-lin/vibe-knowledge-studio](../projects/gui-lin--vibe-knowledge-studio.md) | 用 Canvas 绘制概率试验与曲线，film.js 组织字幕、镜头和事件音；附生日悖论工程。 / Animate the birthday paradox | 1 | 1 |
 | [shiyan688/evidence-video](../projects/shiyan688--evidence-video.md) | 基于来源材料制作中文解说，提供 Skill 和宿主适配。 | 1 | 0 |
 | [steseven/vibe-make](../projects/steseven--vibe-make.md) | 把生活问题拆成调查、字幕、镜头与时间轴；附历史科普工程和成片拼板。 / How people brushed teeth in the past | 1 | 1 |
 | [thiernoyunus/stick-reel](../projects/thiernoyunus--stick-reel.md) | 用角色动作而非装饰性摆动表达概念，再配合旁白时间线输出竖屏讲解；附完整作者示例。 / Purposeful stick-figure explainers | 1 | 0 |
 | [threerocks/sweety-handdraw-video](../projects/threerocks--sweety-handdraw-video.md) | 从主题或文章走到配音、分镜、逐笔绘制和成片。 | 1 | 0 |
+| [wchhywizd/vibe-knowledge-interactive](../projects/wchhywizd--vibe-knowledge-interactive.md) | 先给选择与倒计时，再让连线揭晓答案；附生日悖论、邓巴数及认知主题的样片与源码。 / Guess before the reveal | 1 | 0 |
 | [worlds3/vibe-knowledge](../projects/worlds3--vibe-knowledge.md) | 用 Canvas 时间函数演示最优停止理论；HTML 自带播放和逐帧导出 MP4 的入口。 / When should you stop searching? | 1 | 1 |
 | [xiaotian-freedom/vibe-knowledge-awards-skill](../projects/xiaotian-freedom--vibe-knowledge-awards-skill.md) | 用逐镜计划组织无口播知识短片，附竖屏 HTML 起始工程、边缘和运动量检查脚本。 / Beat-timed knowledge shorts | 1 | 0 |
 | [YT-smart/vibe-knowledge-video](../projects/yt-smart--vibe-knowledge-video.md) | 以落珠、硬币和点阵说明概率，用字幕和代码动画代替旁白；作者提供 Claude、Codex、豆包与 WorkBuddy 样片。 / Galton-board luck explainer | 1 | 1 |

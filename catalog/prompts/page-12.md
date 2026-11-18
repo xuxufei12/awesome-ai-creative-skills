@@ -22,6 +22,9 @@
 | [用真实网页素材介绍分析产品](../../prompts/950741dfce982fe0.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
 | [节拍同步的产品动效广告](../../prompts/d3ddad37a0494460.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
 | [阅读应用的双语宣传片](../../prompts/a4e3411ab134ac00.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
+| [人物生平与引语的证据库 · 作者调用示例](../../prompts/f8e388282025b38e.md) | 人物传记与历史叙事 | sanshengai/sansheng-distill |
+| [用苏轼与李白的作品讲人物 · 作者调用示例](../../prompts/43bf3c0985564832.md) | 人物传记与历史叙事 | bangbuilds/code-poem-film |
+| [郑和下西洋的三维纪录短片 · 作者调用示例](../../prompts/ed4ff34cc3b8a771.md) | 人物传记与历史叙事 | bangbuilds/code-doc-film |
 | [archive-lighttable](../../prompts/ea790b0d3671566d.md) | 代码动画风格配方 | lemomo-ai/lemo-opuscar |
 | [art-deco](../../prompts/ec021497bb2bd1fe.md) | 代码动画风格配方 | lemomo-ai/lemo-opuscar |
 | [ascii-crt](../../prompts/e929af9d5b0fd050.md) | 代码动画风格配方 | lemomo-ai/lemo-opuscar |
@@ -81,8 +84,5 @@
 | [caption-news](../../prompts/d2d98bb775f1ded5.md) | 叙事动画与音乐视频 | lemomo-ai/lemo-opuscar |
 | [city-symphony](../../prompts/6a22542ef7e65065.md) | 叙事动画与音乐视频 | lemomo-ai/lemo-opuscar |
 | [countdown](../../prompts/001acc34b17fbc9d.md) | 叙事动画与音乐视频 | lemomo-ai/lemo-opuscar |
-| [kino-montage](../../prompts/5b6a2f2b57301ea2.md) | 叙事动画与音乐视频 | lemomo-ai/lemo-opuscar |
-| [news-package](../../prompts/1e31455b7f91ce83.md) | 叙事动画与音乐视频 | lemomo-ai/lemo-opuscar |
-| [newsreel](../../prompts/13762156918b1753.md) | 叙事动画与音乐视频 | lemomo-ai/lemo-opuscar |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

@@ -35,3 +35,5 @@
 - [SVG 角色微动画](../templates/template-14.md)
 - [长视频变知识短片](../templates/template-15.md)
 - [DeepSeek 创作路由](../templates/template-16.md)
+- [知识大赏：从日常困惑到看懂原理](../templates/knowledge-hook-to-mechanism.md)
+- [人物传记：资料、转折与影像章节](../templates/biography-evidence-to-film.md)

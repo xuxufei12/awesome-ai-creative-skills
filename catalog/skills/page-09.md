@@ -4,6 +4,18 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [fish-audio-tts](../../skills/3a873b2e65c1c90f.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [flux-best-practices](../../skills/6c2fca51bbe6885b.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [framer-motion](../../skills/8428007eea0cd4f1.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [frontend-design](../../skills/8bf9905dbcd9b1ed.md) | 视频框架与程序化成片 | digitalsamba/claude-code-video-toolkit |
+| [frost-sequence-camera-orbit](../../skills/e579e7f870a9be0a.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
+| [gemini-omni](../../skills/dfbc74ff0312a960.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [general-video](../../skills/4d7c52972a800c14.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
+| [glass-shard-title](../../skills/7c4c3c98a4f9cd5a.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
+| [grok-media](../../skills/a5b968d1069a6f70.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [gsap-core](../../skills/3887b47e050ab5af.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [gsap-frameworks](../../skills/1e14f96aa6cfeb4d.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [gsap-performance](../../skills/cb5408d6fba707aa.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [gsap-plugins](../../skills/ef2d7cdaaf066fc0.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [gsap-react](../../skills/88e2a5312b45e8cc.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [gsap-scrolltrigger](../../skills/9351b6666a4749c0.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
@@ -72,17 +84,5 @@
 | [remotion-best-practices](../../skills/23c5c52d379ccca7.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
 | [remotion-canvas-director](../../skills/46058153dddf5b01.md) | 视频框架与程序化成片 | shenwang2/remotion-canvas-director |
 | [remotion-captions](../../skills/87e458cb6d0a0428.md) | 视频框架与程序化成片 | remotion-dev/skills |
-| [remotion-captions](../../skills/8d08dc238f3df6c6.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
-| [remotion-create](../../skills/c2f66b109091d349.md) | 视频框架与程序化成片 | remotion-dev/skills |
-| [remotion-create](../../skills/db5b956b0308ecf6.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
-| [remotion-docs](../../skills/ef63997023b875d6.md) | 视频框架与程序化成片 | remotion-dev/skills |
-| [remotion-docs](../../skills/201b9f500a824c31.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
-| [remotion-ffmpeg-video](../../skills/d561347116bc89f2.md) | 视频框架与程序化成片 | albertpikkop/remotion-ffmpeg-video-skill |
-| [remotion-interactivity](../../skills/0e34a676fe184b27.md) | 视频框架与程序化成片 | remotion-dev/skills |
-| [remotion-interactivity](../../skills/17effa2e5c589391.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
-| [remotion-maps](../../skills/f607e882c6e7c102.md) | 视频框架与程序化成片 | remotion-dev/skills |
-| [remotion-maps](../../skills/da116f9bf15fed3e.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
-| [remotion-markup](../../skills/399a8f21821ee720.md) | 视频框架与程序化成片 | remotion-dev/skills |
-| [remotion-markup](../../skills/4b93ba32451e84fb.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md)

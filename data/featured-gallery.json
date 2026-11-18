@@ -1,5 +1,61 @@
 [
   {
+    "slug": "knowledge-and-biography",
+    "title_zh": "先看知识与人物如何变成影像",
+    "title_en": "Knowledge and lives told through motion",
+    "edition": "2026-11-18-knowledge-biography",
+    "items": [
+      {
+        "kind": "project",
+        "project_id": "andyhuo520--vibe-knowledge",
+        "title_zh": "商鞅立木：你会搬吗？",
+        "title_en": "Would you move Shang Yang’s log?",
+        "media_url": "https://raw.githubusercontent.com/andyhuo520/vibe-knowledge/c3a13a85f7cc560e5d396f063baecea4b2748e1e/docs/posters/ep01-shangyang.jpg",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "wchhywizd--vibe-knowledge-interactive",
+        "title_zh": "生日悖论：先猜，再揭晓",
+        "title_en": "Guess before the birthday reveal",
+        "media_url": "https://raw.githubusercontent.com/wchhywizd/vibe-knowledge-interactive/240ec579c7b86d110ee7b6ad4bfc35193b0de52a/assets/hook-birthday.gif",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "aliangsss--aliang-knowledge-video",
+        "title_zh": "墨菲定律的案件墙",
+        "title_en": "Investigating Murphy’s law",
+        "media_url": "https://raw.githubusercontent.com/aliangSSS/aliang-knowledge-video/1687e5e87539b98a25289d76e1f935ea48787929/docs/images/02-case-wall.jpg",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "gui-lin--vibe-knowledge-studio",
+        "title_zh": "概率在眼前形成",
+        "title_en": "Watch probability take shape",
+        "media_url": "https://raw.githubusercontent.com/gui-lin/vibe-knowledge-studio/326691a863fd4eddbd487ae8e6786bf1d87d5e03/docs/demo-sheet.jpg",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "nailcore--create-chinese-ink-video",
+        "title_zh": "水墨人物显影片段",
+        "title_en": "A flowing-ink portrait reveal",
+        "media_url": "https://raw.githubusercontent.com/Nailcore/create-chinese-ink-video/e2318a55343f91247037f23aba4534cd14d435b4/examples/musk-fluid-ink/demo.gif",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "bangbuilds--code-poem-film",
+        "title_zh": "苏轼词作的动画章节",
+        "title_en": "Animate a chapter from Su Shi’s poem",
+        "media_url": "https://raw.githubusercontent.com/bangbuilds/code-poem-film/8530dafb2786cdd724451f5503934507624b18c1/examples/chibi/cover.jpg",
+        "width": 300
+      }
+    ]
+  },
+  {
     "slug": "knowledge-and-play",
     "title_zh": "知识讲清楚，网页玩起来",
     "title_en": "Explain a concept, play with a page",

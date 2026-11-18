@@ -4,6 +4,12 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [baoyu-post-to-weibo](../../skills/afc5eb6d748f8d4f.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
+| [baoyu-post-to-x](../../skills/6eca9de552dd0b7b.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
+| [baoyu-slide-deck](../../skills/0e988f065a188622.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
+| [baoyu-translate](../../skills/772f7170a61f1246.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
+| [baoyu-url-to-markdown](../../skills/40913749b0e95165.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
+| [baoyu-wechat-summary](../../skills/6fe746670aedb195.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
 | [baoyu-xhs-images](../../skills/17bf5498641cc60c.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
 | [baoyu-youtube-transcript](../../skills/b7085574c6bf72e0.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
 | [bride-series](../../skills/a83c5352d036dbb0.md) | 图像生成与商业视觉 | kers701/bride-series-skill |
@@ -78,11 +84,5 @@
 | [story-deslop](../../skills/a7b1c01496938a53.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
 | [story-import](../../skills/b3b3f8db7e83666d.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
 | [story-long-analyze](../../skills/f84fbae845160938.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
-| [story-long-scan](../../skills/5b56a6c0b3307614.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
-| [story-long-write](../../skills/7fef8dc0e33b625b.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
-| [story-review](../../skills/eed14be28c865520.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
-| [story-setup](../../skills/2504129415f695bf.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
-| [story-short-analyze](../../skills/3c9ccd95a5a8b4ff.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
-| [story-short-scan](../../skills/10a656d50c02278f.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md)

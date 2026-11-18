@@ -4,6 +4,9 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [案例 51：护照入境印章 (by @M_w14_)](../../prompts/b1a193e1e84720b8.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
+| [案例 52：纸艺风格 Emoji 图标 (by @egeberkina)](../../prompts/294945691d49141b.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
+| [案例 53：Emoji 充气感靠垫 (by @gizakdag)](../../prompts/6b5571d64b50a287.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
 | [案例 54：“极其平凡”的iPhone自拍 (by @jiamimaodashu)](../../prompts/9f22b40cb241608e.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
 | [案例 55：创意绿植花盆 (by @azed_ai)](../../prompts/de13b9866df6d182.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
 | [案例 56：迷你 3D 建筑 (by @dotey)](../../prompts/5952846d57e64b16.md) | 图像 | jamez-bondos/awesome-gpt4o-images |
@@ -81,8 +84,5 @@
 | [Across Product Demo Video](../../prompts/03d66bdd07af479f.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [After Effect Style Kinetic Text Explainer](../../prompts/991c77707e903a7c.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [Animated Explainer Video Generator](../../prompts/4fbb929252f509ef.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [Animated Explainer Video Prompts for Opus 5.5](../../prompts/cc120c1b5d896fc6.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [Another World Style Animation Player](../../prompts/d3df8fcbabdff1c3.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
-| [App Explainer Animation](../../prompts/c094550d2ebec4ba.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

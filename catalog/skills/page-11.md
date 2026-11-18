@@ -4,6 +4,18 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [web-design-guidelines](../../skills/f4647ca866a3accf.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [website-to-video](../../skills/034276ce1b67aa7f.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [wireframe-portal-title](../../skills/553d548c2316b249.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
+| [xiaolin-explainer-packaging](../../skills/f651b783efaab55e.md) | 视频框架与程序化成片 | howoneai/xiaolin-explainer-packaging |
+| [3dgs-articulated-reasoner](../../skills/739fbf8e80b5878f.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
+| [3dgs-code-reviewer](../../skills/b9b9a54405ac2287.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
+| [3dgs-compression-deploy](../../skills/bb4b4e79495b96b0.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
+| [3dgs-engineering-guide](../../skills/8c00239b9ad7d4d8.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
+| [3dgs-experiment-planner](../../skills/ade7d42c3fddf182.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
+| [3dgs-mcp-renderer](../../skills/0d9861b480153bcc.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
+| [3dgs-method-compare](../../skills/c1380cec14410dfa.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
+| [3dgs-paper-reader](../../skills/fb7275aef9686899.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
 | [3dgs-spatial-agent](../../skills/78a1ceffe4a6a36a.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
 | [3dgs-training-debugger](../../skills/492bc4b5254b14a3.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
 | [3dgs-visualizer](../../skills/f7c25df73987b7c6.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |

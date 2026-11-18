@@ -4,6 +4,18 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [scenario-maya-lighting-rendering](../../skills/9f225300b627f1f4.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-maya-lookdev](../../skills/07f490a429405c3c.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-maya-modeling](../../skills/591eecf4ef3a7b50.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-maya-pipeline-scripting](../../skills/3356747478974bd9.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-maya-retopology-uv](../../skills/f71ee82458877819.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-maya-rigging](../../skills/b9615887a00d94b6.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-meshy](../../skills/276f77046378e339.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-minimax-music](../../skills/44ad105be4d5b965.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-minimax-video](../../skills/7e7cbb84af24edb7.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-model-comparison](../../skills/b009a465cda732ad.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-model-training](../../skills/c8bfc181ac08966f.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-moderation](../../skills/39da67496382db09.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-motion-loops](../../skills/ab82d5dfb7ab2c15.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-multi-reference](../../skills/22daebfc5c3a4b06.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-orbit-views](../../skills/823d3869a2e5229f.md) | 游戏资产与像素画 | scenario-labs/skills |
@@ -72,17 +84,5 @@
 | [scenario-unreal-world-building](../../skills/7133ab443909e446.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-veo](../../skills/6c1884ca0166b736.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-video](../../skills/ad394337e79df6a6.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-video-ads](../../skills/35c5fe9b3017545a.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-video-assembly](../../skills/bf56606b5a9a09e8.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-video-color-grade](../../skills/09610574793071b3.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-video-editing](../../skills/fd88a33bf2e74bdc.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-vidu](../../skills/49802c826ab7d04e.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-walkable-room](../../skills/5ce0238ae6be65b2.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-wan](../../skills/50b5083f41b10b02.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-workflow-authoring](../../skills/3aa912dc65b3d637.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-workflows](../../skills/7ce7ad6f8dfbd996.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-zbrush-automation](../../skills/31140e4c3d50bb21.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-zbrush-character-creature](../../skills/202b20f012155d5c.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-zbrush-expert](../../skills/5edc860fe25142b3.md) | 游戏资产与像素画 | scenario-labs/skills |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md)

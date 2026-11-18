@@ -4,6 +4,18 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [remotion-captions](../../skills/8d08dc238f3df6c6.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
+| [remotion-create](../../skills/c2f66b109091d349.md) | 视频框架与程序化成片 | remotion-dev/skills |
+| [remotion-create](../../skills/db5b956b0308ecf6.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
+| [remotion-docs](../../skills/ef63997023b875d6.md) | 视频框架与程序化成片 | remotion-dev/skills |
+| [remotion-docs](../../skills/201b9f500a824c31.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
+| [remotion-ffmpeg-video](../../skills/d561347116bc89f2.md) | 视频框架与程序化成片 | albertpikkop/remotion-ffmpeg-video-skill |
+| [remotion-interactivity](../../skills/0e34a676fe184b27.md) | 视频框架与程序化成片 | remotion-dev/skills |
+| [remotion-interactivity](../../skills/17effa2e5c589391.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
+| [remotion-maps](../../skills/f607e882c6e7c102.md) | 视频框架与程序化成片 | remotion-dev/skills |
+| [remotion-maps](../../skills/da116f9bf15fed3e.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
+| [remotion-markup](../../skills/399a8f21821ee720.md) | 视频框架与程序化成片 | remotion-dev/skills |
+| [remotion-markup](../../skills/4b93ba32451e84fb.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
 | [remotion-multimedia](../../skills/53641e3ca9e3c9bd.md) | 视频框架与程序化成片 | remotion-dev/skills |
 | [remotion-multimedia](../../skills/259db7738731b3cc.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
 | [remotion-render](../../skills/395f10011d0ebc5b.md) | 视频框架与程序化成片 | remotion-dev/skills |
@@ -72,17 +84,5 @@
 | [video_toolkit](../../skills/645cb0620cb5cb2a.md) | 视频框架与程序化成片 | digitalsamba/claude-code-video-toolkit |
 | [visual-style](../../skills/4d6b51fa9b4e6111.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [voice-direction](../../skills/61b5eac96e9c6c94.md) | 视频框架与程序化成片 | salomonMuriel/media-production-skills |
-| [web-design-guidelines](../../skills/f4647ca866a3accf.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [website-to-video](../../skills/034276ce1b67aa7f.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [wireframe-portal-title](../../skills/553d548c2316b249.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
-| [xiaolin-explainer-packaging](../../skills/f651b783efaab55e.md) | 视频框架与程序化成片 | howoneai/xiaolin-explainer-packaging |
-| [3dgs-articulated-reasoner](../../skills/739fbf8e80b5878f.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
-| [3dgs-code-reviewer](../../skills/b9b9a54405ac2287.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
-| [3dgs-compression-deploy](../../skills/bb4b4e79495b96b0.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
-| [3dgs-engineering-guide](../../skills/8c00239b9ad7d4d8.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
-| [3dgs-experiment-planner](../../skills/ade7d42c3fddf182.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
-| [3dgs-mcp-renderer](../../skills/0d9861b480153bcc.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
-| [3dgs-method-compare](../../skills/c1380cec14410dfa.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
-| [3dgs-paper-reader](../../skills/fb7275aef9686899.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md)

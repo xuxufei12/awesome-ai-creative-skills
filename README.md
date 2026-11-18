@@ -13,9 +13,32 @@ Explore ways to create imaginative images, videos, motion graphics and 3D scenes
 
 **See the effect, then find the method.** GIFs play inline. Open any preview or its Skill / Prompt link to see how it is made.
 
-[Explain a concept, play with a page](#knowledge-and-play) · [Films made with code: from a sample to its scene](#code-video-lab) · [November II: moon phases, crayon diagrams and sticker grids](#november-picks-2) · [November picks: paper films, candid photos and reaction GIFs](#november-picks) · [Animated previews](#animated) · [Creative images & design](#images) · [Art animation & styles](#animation) · [3D worlds & product visuals](#worlds) · [Ads & commercial films](#ads) · [Cinematic & story films](#films)
+[Knowledge and lives told through motion](#knowledge-and-biography) · [Explain a concept, play with a page](#knowledge-and-play) · [Films made with code: from a sample to its scene](#code-video-lab) · [November II: moon phases, crayon diagrams and sticker grids](#november-picks-2) · [November picks: paper films, candid photos and reaction GIFs](#november-picks) · [Animated previews](#animated) · [Creative images & design](#images) · [Art animation & styles](#animation) · [3D worlds & product visuals](#worlds) · [Ads & commercial films](#ads) · [Cinematic & story films](#films)
 
-[Browse all 2,096 visual previews →](gallery/README.md) · [Find tools](#find-tools) · [Make a style your own](#custom-styles)
+[Browse all 2,103 visual previews →](gallery/README.md) · [Find tools](#find-tools) · [Make a style your own](#custom-styles)
+
+<a id="knowledge-and-biography"></a>
+
+## Knowledge and lives told through motion
+
+[Explore all 12 additions by use case →](docs/new-2026-11-18-knowledge-biography.md)
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/andyhuo520--vibe-knowledge.md"><img src="https://raw.githubusercontent.com/andyhuo520/vibe-knowledge/c3a13a85f7cc560e5d396f063baecea4b2748e1e/docs/posters/ep01-shangyang.jpg" width="300" alt="Would you move Shang Yang’s log?" loading="lazy"></a><br><a href="projects/andyhuo520--vibe-knowledge.md"><b>Would you move Shang Yang’s log?</b></a><br><sub><a href="skills/572b94ce66f6c0e0.md">Skill</a> · <a href="https://github.com/andyhuo520/vibe-knowledge/releases/download/v1.0.0/ep01-shangyang.mp4">▶ Film</a> · <a href="projects/andyhuo520--vibe-knowledge.md">How to make it</a></sub><br><sub><a href="https://github.com/andyhuo520/vibe-knowledge/blob/c3a13a85f7cc560e5d396f063baecea4b2748e1e/README.md">andyhuo520/vibe-knowledge</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/wchhywizd--vibe-knowledge-interactive.md"><img src="https://raw.githubusercontent.com/wchhywizd/vibe-knowledge-interactive/240ec579c7b86d110ee7b6ad4bfc35193b0de52a/assets/hook-birthday.gif" width="300" alt="Guess before the birthday reveal" loading="lazy"></a><br><a href="projects/wchhywizd--vibe-knowledge-interactive.md"><b>Guess before the birthday reveal</b></a><br><sub><a href="skills/26b0183dc1744676.md">Skill</a> · <a href="https://raw.githubusercontent.com/wchhywizd/vibe-knowledge-interactive/240ec579c7b86d110ee7b6ad4bfc35193b0de52a/samples/%E8%AF%95%E7%89%87C-v2-%E5%90%8C%E4%B8%80%E5%A4%A9%E7%94%9F%E6%97%A5.mp4">▶ Film</a> · <a href="projects/wchhywizd--vibe-knowledge-interactive.md">How to make it</a></sub><br><sub><a href="https://github.com/wchhywizd/vibe-knowledge-interactive/blob/240ec579c7b86d110ee7b6ad4bfc35193b0de52a/README.md">wchhywizd/vibe-knowledge-interactive</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/aliangsss--aliang-knowledge-video.md"><img src="https://raw.githubusercontent.com/aliangSSS/aliang-knowledge-video/1687e5e87539b98a25289d76e1f935ea48787929/docs/images/02-case-wall.jpg" width="300" alt="Investigating Murphy’s law" loading="lazy"></a><br><a href="projects/aliangsss--aliang-knowledge-video.md"><b>Investigating Murphy’s law</b></a><br><sub><a href="skills/03f8500000acf000.md">Skill</a> · <a href="projects/aliangsss--aliang-knowledge-video.md">How to make it</a></sub><br><sub><a href="https://github.com/aliangSSS/aliang-knowledge-video/blob/1687e5e87539b98a25289d76e1f935ea48787929/README.md">aliangSSS/aliang-knowledge-video</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/gui-lin--vibe-knowledge-studio.md"><img src="https://raw.githubusercontent.com/gui-lin/vibe-knowledge-studio/326691a863fd4eddbd487ae8e6786bf1d87d5e03/docs/demo-sheet.jpg" width="300" alt="Watch probability take shape" loading="lazy"></a><br><a href="projects/gui-lin--vibe-knowledge-studio.md"><b>Watch probability take shape</b></a><br><sub><a href="skills/2d1feb612f950602.md">Skill</a> · <a href="projects/gui-lin--vibe-knowledge-studio.md">How to make it</a></sub><br><sub><a href="https://github.com/gui-lin/vibe-knowledge-studio/blob/326691a863fd4eddbd487ae8e6786bf1d87d5e03/README.md">gui-lin/vibe-knowledge-studio</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/nailcore--create-chinese-ink-video.md"><img src="https://raw.githubusercontent.com/Nailcore/create-chinese-ink-video/e2318a55343f91247037f23aba4534cd14d435b4/examples/musk-fluid-ink/demo.gif" width="300" alt="A flowing-ink portrait reveal" loading="lazy"></a><br><a href="projects/nailcore--create-chinese-ink-video.md"><b>A flowing-ink portrait reveal</b></a><br><sub><a href="skills/22da64673847e4ed.md">Skill</a> · <a href="https://raw.githubusercontent.com/Nailcore/create-chinese-ink-video/e2318a55343f91247037f23aba4534cd14d435b4/examples/musk-fluid-ink/musk-fluid-ink-v11.mp4">▶ Film</a> · <a href="projects/nailcore--create-chinese-ink-video.md">How to make it</a></sub><br><sub><a href="https://github.com/Nailcore/create-chinese-ink-video/blob/e2318a55343f91247037f23aba4534cd14d435b4/README.md">Nailcore/create-chinese-ink-video</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/bangbuilds--code-poem-film.md"><img src="https://raw.githubusercontent.com/bangbuilds/code-poem-film/8530dafb2786cdd724451f5503934507624b18c1/examples/chibi/cover.jpg" width="300" alt="Animate a chapter from Su Shi’s poem" loading="lazy"></a><br><a href="projects/bangbuilds--code-poem-film.md"><b>Animate a chapter from Su Shi’s poem</b></a><br><sub><a href="skills/a493671b951221d4.md">Skill</a> · <a href="projects/bangbuilds--code-poem-film.md">How to make it</a></sub><br><sub><a href="https://github.com/bangbuilds/code-poem-film/blob/8530dafb2786cdd724451f5503934507624b18c1/README.md">bangbuilds/code-poem-film</a></sub></td>
+</tr>
+</table>
+
+[Keep exploring visually →](gallery/README.md)
 
 <a id="knowledge-and-play"></a>
 
@@ -313,12 +336,12 @@ The creator’s example keeps the Swiss grid, beat and typography, turning flat 
 
 ## Found an effect you like? Start creating
 
-**In the collection** · **492** projects · **820** Skills · **1862** prompt / style texts · **2204** cases
+**In the collection** · **504** projects · **832** Skills · **1868** prompt / style texts · **2204** cases
 
 | Entry | Contents |
 |---|---|
 | [Visual catalogue](gallery/README.md) | Browse more image, video and tool previews |
-| [Complete catalogue](catalog/README.md) | 16 creative categories |
+| [Complete catalogue](catalog/README.md) | 17 creative categories |
 | [Prompt text](catalog/prompts/README.md) | Copyable text, sources and corresponding effects |
 | [Skill text](catalog/skills/README.md) | Individual Skill pages and upstream dependencies |
 | [Cases & effects](catalog/cases/README.md) | Posters, videos and prompt availability |
@@ -350,7 +373,7 @@ The creator’s example keeps the Swiss grid, beat and typography, turning flat 
 
 | Category | Projects |
 |---|---:|
-| [Education & hand-drawn explainers](catalog/education.md) | 68 |
+| [Education & hand-drawn explainers](catalog/education.md) | 74 |
 | [Editing, captions & avatars](catalog/editing.md) | 94 |
 | [Storytelling, animation & music videos](catalog/storytelling.md) | 30 |
 | [Video frameworks & code rendering](catalog/video-frameworks.md) | 88 |
@@ -366,6 +389,7 @@ The creator’s example keeps the Swiss grid, beat and typography, turning flat 
 | [Gaussian splatting & simulation](catalog/simulation.md) | 2 |
 | [Reaction GIFs & sticker packs](catalog/stickers.md) | 8 |
 | [Interactive HTML & explorable explanations](catalog/interactive-html.md) | 8 |
+| [Biography & historical storytelling](catalog/biography-history.md) | 6 |
 
 ## How to use
 

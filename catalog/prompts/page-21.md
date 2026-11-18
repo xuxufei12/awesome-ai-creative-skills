@@ -4,6 +4,9 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [explainer · @garmdotcom · 987439](../../prompts/76fabf4652788444.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
+| [explainer · @henkvaness · 975279](../../prompts/a25aba37f6ddf3aa.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
+| [explainer · @hunzai · 842605](../../prompts/e61bdd4d8dc8cf48.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [explainer · @iTakahashikun · 990109](../../prompts/a587bf9bc1681a79.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [explainer · @imthatcarlos · 133592](../../prompts/d04d312881d7e1d6.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [explainer · @iniyanai · 856596](../../prompts/6066aedf60ed6c2d.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
@@ -27,8 +30,11 @@
 | [explainer · @tetsu_tetsu333 · 576886](../../prompts/831a300389f1e60c.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [explainer · @verbove · 268381](../../prompts/4b5ea33388d803ef.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [explainer · @xamfonos_ · 004331](../../prompts/0ee262ba46030982.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
+| [从堵车反转开始讲原理 · 作者调用示例](../../prompts/b4967944eca2866c.md) | 教学科普与手绘 | AuroraBarista/vibe-knowledge-skill |
 | [古人怎么刷牙 · 作者调用示例](../../prompts/ce6ccd578ffe392a.md) | 教学科普与手绘 | steseven/vibe-make |
 | [忒修斯之船科普(Claude CLI 接 DeepSeek)](../../prompts/8589e6f3b13f496e.md) | 教学科普与手绘 | PDF / community |
+| [把墨菲定律拍成侦探调查 · 作者调用示例](../../prompts/8c57dfe4194b192a.md) | 教学科普与手绘 | aliangSSS/aliang-knowledge-video |
+| [生日悖论：让概率动起来 · 作者调用示例](../../prompts/ccfdcafb4ccf0fc8.md) | 教学科普与手绘 | gui-lin/vibe-knowledge-studio |
 | [落珠如何堆出运气的形状 · 作者调用示例](../../prompts/063755b72b3e8036.md) | 教学科普与手绘 | YT-smart/vibe-knowledge-video |
 | [让 Opus 先上网研究做法、再做一部教学动画](../../prompts/e453242d1957eaef.md) | 教学科普与手绘 | PDF / community |
 | [遇到第几个人该停下 · 作者调用示例](../../prompts/395af3946afe1012.md) | 教学科普与手绘 | worlds3/vibe-knowledge |
@@ -78,11 +84,5 @@
 | [Adidas Football Boot Assembly Timelapse](../../prompts/ff2e39f86a98058c.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [Anime Cleaning Transformation Video Prompt](../../prompts/8ddbb9052e9b80c2.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [Asteroid Field Space Battle](../../prompts/5b5f5e728ae6bc4d.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [Baby Dragon and Woman in Stone Courtyard](../../prompts/2ff5cb0883983316.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [Bathroom Mirror Skincare Truth](../../prompts/b02e9575f0fd6675.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
-| [Black Serum, Cold Marble](../../prompts/9cf7ae167c55538d.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
-| [Bleach Bypass Cinema Projectionist](../../prompts/00b7a641ce32dcc6.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [Boardwalk Eyewear Heat-Haze](../../prompts/11dc41f63f194ac6.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
-| [Burnt Tongue, Steady Sip](../../prompts/a12cd7a61a879695.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

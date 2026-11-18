@@ -12,9 +12,32 @@
 
 **先看效果，再找做法。** 动图直接播放；点击喜欢的画面或卡片下方的「Skill」「提示词」，就能找到对应方法。
 
-[知识讲清楚，网页玩起来](#knowledge-and-play) · [代码做视频：从样片打开场景源码](#code-video-lab) · [11 月第二辑：月相、蜡笔图与九宫格表情](#november-picks-2) · [11 月精选：剪纸短片、生活感照片与聊天表情](#november-picks) · [直接看动图](#animated) · [创意图片与设计](#images) · [艺术动画与风格](#animation) · [3D 世界与产品视觉](#worlds) · [广告与商业短片](#ads) · [电影感与叙事短片](#films)
+[先看知识与人物如何变成影像](#knowledge-and-biography) · [知识讲清楚，网页玩起来](#knowledge-and-play) · [代码做视频：从样片打开场景源码](#code-video-lab) · [11 月第二辑：月相、蜡笔图与九宫格表情](#november-picks-2) · [11 月精选：剪纸短片、生活感照片与聊天表情](#november-picks) · [直接看动图](#animated) · [创意图片与设计](#images) · [艺术动画与风格](#animation) · [3D 世界与产品视觉](#worlds) · [广告与商业短片](#ads) · [电影感与叙事短片](#films)
 
-[浏览全部 2,096 个效果预览 →](gallery/README.md) · [按工具检索](#find-tools) · [自定义风格新玩法](#custom-styles)
+[浏览全部 2,103 个效果预览 →](gallery/README.md) · [按工具检索](#find-tools) · [自定义风格新玩法](#custom-styles)
+
+<a id="knowledge-and-biography"></a>
+
+## 先看知识与人物如何变成影像
+
+[本期新增 12 个项目，按用途浏览 →](docs/new-2026-11-18-knowledge-biography.md)
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/andyhuo520--vibe-knowledge.md"><img src="https://raw.githubusercontent.com/andyhuo520/vibe-knowledge/c3a13a85f7cc560e5d396f063baecea4b2748e1e/docs/posters/ep01-shangyang.jpg" width="300" alt="商鞅立木：你会搬吗？" loading="lazy"></a><br><a href="projects/andyhuo520--vibe-knowledge.md"><b>商鞅立木：你会搬吗？</b></a><br><sub><a href="skills/572b94ce66f6c0e0.md">Skill</a> · <a href="https://github.com/andyhuo520/vibe-knowledge/releases/download/v1.0.0/ep01-shangyang.mp4">▶ 视频</a> · <a href="projects/andyhuo520--vibe-knowledge.md">制作方法</a></sub><br><sub><a href="https://github.com/andyhuo520/vibe-knowledge/blob/c3a13a85f7cc560e5d396f063baecea4b2748e1e/README.md">andyhuo520/vibe-knowledge</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/wchhywizd--vibe-knowledge-interactive.md"><img src="https://raw.githubusercontent.com/wchhywizd/vibe-knowledge-interactive/240ec579c7b86d110ee7b6ad4bfc35193b0de52a/assets/hook-birthday.gif" width="300" alt="生日悖论：先猜，再揭晓" loading="lazy"></a><br><a href="projects/wchhywizd--vibe-knowledge-interactive.md"><b>生日悖论：先猜，再揭晓</b></a><br><sub><a href="skills/26b0183dc1744676.md">Skill</a> · <a href="https://raw.githubusercontent.com/wchhywizd/vibe-knowledge-interactive/240ec579c7b86d110ee7b6ad4bfc35193b0de52a/samples/%E8%AF%95%E7%89%87C-v2-%E5%90%8C%E4%B8%80%E5%A4%A9%E7%94%9F%E6%97%A5.mp4">▶ 视频</a> · <a href="projects/wchhywizd--vibe-knowledge-interactive.md">制作方法</a></sub><br><sub><a href="https://github.com/wchhywizd/vibe-knowledge-interactive/blob/240ec579c7b86d110ee7b6ad4bfc35193b0de52a/README.md">wchhywizd/vibe-knowledge-interactive</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/aliangsss--aliang-knowledge-video.md"><img src="https://raw.githubusercontent.com/aliangSSS/aliang-knowledge-video/1687e5e87539b98a25289d76e1f935ea48787929/docs/images/02-case-wall.jpg" width="300" alt="墨菲定律的案件墙" loading="lazy"></a><br><a href="projects/aliangsss--aliang-knowledge-video.md"><b>墨菲定律的案件墙</b></a><br><sub><a href="skills/03f8500000acf000.md">Skill</a> · <a href="projects/aliangsss--aliang-knowledge-video.md">制作方法</a></sub><br><sub><a href="https://github.com/aliangSSS/aliang-knowledge-video/blob/1687e5e87539b98a25289d76e1f935ea48787929/README.md">aliangSSS/aliang-knowledge-video</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/gui-lin--vibe-knowledge-studio.md"><img src="https://raw.githubusercontent.com/gui-lin/vibe-knowledge-studio/326691a863fd4eddbd487ae8e6786bf1d87d5e03/docs/demo-sheet.jpg" width="300" alt="概率在眼前形成" loading="lazy"></a><br><a href="projects/gui-lin--vibe-knowledge-studio.md"><b>概率在眼前形成</b></a><br><sub><a href="skills/2d1feb612f950602.md">Skill</a> · <a href="projects/gui-lin--vibe-knowledge-studio.md">制作方法</a></sub><br><sub><a href="https://github.com/gui-lin/vibe-knowledge-studio/blob/326691a863fd4eddbd487ae8e6786bf1d87d5e03/README.md">gui-lin/vibe-knowledge-studio</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/nailcore--create-chinese-ink-video.md"><img src="https://raw.githubusercontent.com/Nailcore/create-chinese-ink-video/e2318a55343f91247037f23aba4534cd14d435b4/examples/musk-fluid-ink/demo.gif" width="300" alt="水墨人物显影片段" loading="lazy"></a><br><a href="projects/nailcore--create-chinese-ink-video.md"><b>水墨人物显影片段</b></a><br><sub><a href="skills/22da64673847e4ed.md">Skill</a> · <a href="https://raw.githubusercontent.com/Nailcore/create-chinese-ink-video/e2318a55343f91247037f23aba4534cd14d435b4/examples/musk-fluid-ink/musk-fluid-ink-v11.mp4">▶ 视频</a> · <a href="projects/nailcore--create-chinese-ink-video.md">制作方法</a></sub><br><sub><a href="https://github.com/Nailcore/create-chinese-ink-video/blob/e2318a55343f91247037f23aba4534cd14d435b4/README.md">Nailcore/create-chinese-ink-video</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/bangbuilds--code-poem-film.md"><img src="https://raw.githubusercontent.com/bangbuilds/code-poem-film/8530dafb2786cdd724451f5503934507624b18c1/examples/chibi/cover.jpg" width="300" alt="苏轼词作的动画章节" loading="lazy"></a><br><a href="projects/bangbuilds--code-poem-film.md"><b>苏轼词作的动画章节</b></a><br><sub><a href="skills/a493671b951221d4.md">Skill</a> · <a href="projects/bangbuilds--code-poem-film.md">制作方法</a></sub><br><sub><a href="https://github.com/bangbuilds/code-poem-film/blob/8530dafb2786cdd724451f5503934507624b18c1/README.md">bangbuilds/code-poem-film</a></sub></td>
+</tr>
+</table>
+
+[继续按效果挑选 →](gallery/README.md)
 
 <a id="knowledge-and-play"></a>
 
@@ -312,12 +335,12 @@ Lemo-Opuscar 已更新到 **59 种影片风格**，新增 **8 种剪辑与纪实
 
 ## 找到喜欢的效果，开始制作
 
-**收录概览** · **492** 项目 · **820** Skills · **1862** 提示词／风格文本 · **2204** 案例
+**收录概览** · **504** 项目 · **832** Skills · **1868** 提示词／风格文本 · **2204** 案例
 
 | 入口 | 内容 |
 |---|---|
 | [视觉目录](gallery/README.md) | 分页浏览更多图片、视频与工具效果 |
-| [完整分类目录](catalog/README.md) | 16 个创作方向 |
+| [完整分类目录](catalog/README.md) | 17 个创作方向 |
 | [提示词正文](catalog/prompts/README.md) | 可复制正文、来源与对应效果 |
 | [Skill 原文](catalog/skills/README.md) | 独立 Skill 页面与上游安装依赖 |
 | [案例与效果](catalog/cases/README.md) | 预览图、视频与公开提示词状态 |
@@ -349,7 +372,7 @@ Lemo-Opuscar 已更新到 **59 种影片风格**，新增 **8 种剪辑与纪实
 
 | 方向 | 项目数 |
 |---|---:|
-| [教学科普与手绘](catalog/education.md) | 68 |
+| [教学科普与手绘](catalog/education.md) | 74 |
 | [剪辑字幕与数字人](catalog/editing.md) | 94 |
 | [叙事动画与音乐视频](catalog/storytelling.md) | 30 |
 | [视频框架与程序化成片](catalog/video-frameworks.md) | 88 |
@@ -365,6 +388,7 @@ Lemo-Opuscar 已更新到 **59 种影片风格**，新增 **8 种剪辑与纪实
 | [高斯泼溅与仿真](catalog/simulation.md) | 2 |
 | [表情包与动态贴纸](catalog/stickers.md) | 8 |
 | [HTML 互动与可玩解释](catalog/interactive-html.md) | 8 |
+| [人物传记与历史叙事](catalog/biography-history.md) | 6 |
 
 ## 如何使用
 

@@ -4,6 +4,12 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [UI 形态变换循环（1440×1440）](../../prompts/99861a38d4fc0d95.md) | 视频框架与程序化成片 | joeseesun/opus-video-prompts |
+| [一壶茶的 39 种画风 · 作者调用示例](../../prompts/c64684fd6e4dca51.md) | 视频框架与程序化成片 | deenukhan/animation-styles |
+| [一壶茶的 39 种画风 · 作者调用示例 2](../../prompts/ea0f966872b4a23a.md) | 视频框架与程序化成片 | deenukhan/animation-styles |
+| [中华五千年历史(线稿风)](../../prompts/e6466dac504d4a40.md) | 视频框架与程序化成片 | PDF / community |
+| [中华五千年历史速览（线稿动画）](../../prompts/b96b0e7a1909a5fd.md) | 视频框架与程序化成片 | joeseesun/opus-video-prompts |
+| [从家到健身房的路线动画 · 作者调用示例](../../prompts/5dbe147f1e98b967.md) | 视频框架与程序化成片 | artemnovitckii/claude-animation-skills |
 | [从房间一路放大到夸克](../../prompts/6c0bcc7e0c27b235.md) | 视频框架与程序化成片 | joeseesun/opus-video-prompts |
 | [仿 Ray Dalio《经济机器》风格讲关系型数据库(5-10 分钟)](../../prompts/58d9b672e3d20064.md) | 视频框架与程序化成片 | PDF / community |
 | [你问 AI 一句话之后的 3 秒钟(公众号作者实战)](../../prompts/1509d2058f571475.md) | 视频框架与程序化成片 | PDF / community |

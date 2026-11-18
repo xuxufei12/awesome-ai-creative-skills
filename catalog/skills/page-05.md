@@ -4,6 +4,12 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [story-long-scan](../../skills/5b56a6c0b3307614.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
+| [story-long-write](../../skills/7fef8dc0e33b625b.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
+| [story-review](../../skills/eed14be28c865520.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
+| [story-setup](../../skills/2504129415f695bf.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
+| [story-short-analyze](../../skills/3c9ccd95a5a8b4ff.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
+| [story-short-scan](../../skills/10a656d50c02278f.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
 | [story-short-write](../../skills/d41caefb4e33788e.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
 | [storytelling](../../skills/84db669934671807.md) | 图像生成与商业视觉 | fal-ai-community/skills |
 | [tiled-image-upscale](../../skills/867ea02acf1932f8.md) | 图像生成与商业视觉 | vvcc0101/tiled-image-upscale |
@@ -39,6 +45,7 @@
 | [travel-photo-to-video](../../skills/cde2df38fa635c15.md) | 提示词与导演方法 | kangarooking/director-skills |
 | [travel-skill](../../skills/125d105b200e1c74.md) | 提示词与导演方法 | kangarooking/director-skills |
 | [3b1b-scientific-explanation](../../skills/4f62a8361f84c6f5.md) | 教学科普与手绘 | KhalilOthmanEng/3b1b-scientific-explanation |
+| [aliang-knowledge-video](../../skills/03f8500000acf000.md) | 教学科普与手绘 | aliangSSS/aliang-knowledge-video |
 | [code-explainer-video](../../skills/45e9566707754e81.md) | 教学科普与手绘 | Everett406/code-explainer-video |
 | [evidence-video](../../skills/152fd7ebb284f11d.md) | 教学科普与手绘 | shiyan688/evidence-video |
 | [explainer](../../skills/063f2f61c08179b1.md) | 教学科普与手绘 | jdrurka/explainer-skill |
@@ -51,9 +58,14 @@
 | [manimgl-best-practices](../../skills/acb89023c69fca1f.md) | 教学科普与手绘 | adithya-s-k/manim_skill |
 | [stick-reel](../../skills/c12fbba6da0d967d.md) | 教学科普与手绘 | thiernoyunus/stick-reel |
 | [sweety-handdraw-video](../../skills/f04ae296fc68e9d7.md) | 教学科普与手绘 | threerocks/sweety-handdraw-video |
+| [vibe-explainer-video](../../skills/26b0183dc1744676.md) | 教学科普与手绘 | wchhywizd/vibe-knowledge-interactive |
 | [vibe-knowledge](../../skills/f26fc97ebdb729eb.md) | 教学科普与手绘 | worlds3/vibe-knowledge |
+| [vibe-knowledge](../../skills/572b94ce66f6c0e0.md) | 教学科普与手绘 | andyhuo520/vibe-knowledge |
+| [vibe-knowledge](../../skills/d32999876e26a7b9.md) | 教学科普与手绘 | AuroraBarista/vibe-knowledge-skill |
 | [vibe-knowledge-awards](../../skills/9ebccb544de2eb2c.md) | 教学科普与手绘 | xiaotian-freedom/vibe-knowledge-awards-skill |
+| [vibe-knowledge-studio](../../skills/2d1feb612f950602.md) | 教学科普与手绘 | gui-lin/vibe-knowledge-studio |
 | [vibe-knowledge-video](../../skills/e5ea1b0ae74c7020.md) | 教学科普与手绘 | YT-smart/vibe-knowledge-video |
+| [vibe-knowledge-video](../../skills/04f8d5078fb4e4e6.md) | 教学科普与手绘 | GuanLi22/vibe-knowledge-video-skill |
 | [vibe-make](../../skills/cb86d81387640163.md) | 教学科普与手绘 | steseven/vibe-make |
 | [weilanx-creator-blackgold-video](../../skills/4e580050bc52bca0.md) | 教学科普与手绘 | Azure12355/weilanx-claude-videos |
 | [weilanx-creator-desk-video](../../skills/d46ee0039bee03b5.md) | 教学科普与手绘 | Azure12355/weilanx-claude-videos |
@@ -72,17 +84,5 @@
 | [asset-judge-loop](../../skills/cfc42ddac666bc4e.md) | 游戏资产与像素画 | RemakeBench/skills |
 | [codex-subagent](../../skills/e6a60b8fdf791db9.md) | 游戏资产与像素画 | RemakeBench/skills |
 | [game-production-stages](../../skills/5a721858ec95b5e3.md) | 游戏资产与像素画 | RemakeBench/skills |
-| [grok-subagent](../../skills/cb26b5cb1636d304.md) | 游戏资产与像素画 | RemakeBench/skills |
-| [image-to-3d-modular-kit](../../skills/80d4f16ede37129a.md) | 游戏资产与像素画 | RemakeBench/skills |
-| [meshy-3d-generation](../../skills/0dbb0212a3f147e7.md) | 游戏资产与像素画 | meshy-dev/meshy-3d-agent |
-| [meshy-3d-printing](../../skills/efe39f5190dfb107.md) | 游戏资产与像素画 | meshy-dev/meshy-3d-agent |
-| [meshy-openclaw](../../skills/1accde635d05d1ea.md) | 游戏资产与像素画 | meshy-dev/meshy-3d-agent |
-| [pixel-art-creator](../../skills/e9397f23c4905f3a.md) | 游戏资产与像素画 | willibrandon/pixel-plugin |
-| [pixel-art-studio](../../skills/3aea3d2fb63a1027.md) | 游戏资产与像素画 | Gamezxz/pixel-art-studio |
-| [pr-handle-comments](../../skills/ad1f2d43c8820dd0.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [pr-squash-message](../../skills/28ae2e237d35ba7d.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [pr-summary](../../skills/3c162715785f46cb.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [pyxel](../../skills/59eea1fb126cd478.md) | 游戏资产与像素画 | kitao/pyxel-skill |
-| [reference-pack-authority](../../skills/ca37f86090ed2be9.md) | 游戏资产与像素画 | RemakeBench/skills |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md)

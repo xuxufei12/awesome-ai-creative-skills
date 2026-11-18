@@ -27,6 +27,12 @@
 | [threejs-volumetric-clouds](../../skills/c3f4c66d7d863921.md) | Three.js 与 WebGPU | linegel/threejs-complete-set-of-skill |
 | [threejs-water-optics](../../skills/a057e97e34d98793.md) | Three.js 与 WebGPU | linegel/threejs-complete-set-of-skill |
 | [threejs-xr](../../skills/30200497f2644b43.md) | Three.js 与 WebGPU | alton47/threejs-skills |
+| [code-doc-film](../../skills/76ed75df7a482a82.md) | 人物传记与历史叙事 | bangbuilds/code-doc-film |
+| [code-poem-film](../../skills/a493671b951221d4.md) | 人物传记与历史叙事 | bangbuilds/code-poem-film |
+| [create-chinese-ink-video](../../skills/22da64673847e4ed.md) | 人物传记与历史叙事 | Nailcore/create-chinese-ink-video |
+| [historical-interview-scripts](../../skills/0927aceedf957242.md) | 人物传记与历史叙事 | anbeime/skill |
+| [history-story-video](../../skills/b634fe4866326e87.md) | 人物传记与历史叙事 | WoodyXu/history-story-video |
+| [sansheng-distill](../../skills/7522b21cb6af9467.md) | 人物传记与历史叙事 | sanshengai/sansheng-distill |
 | [broll](../../skills/21e0547b17282562.md) | 剪辑字幕与数字人 | Melvynx/video-agent-skills |
 | [clips](../../skills/ab3f228f95e270d5.md) | 剪辑字幕与数字人 | Melvynx/video-agent-skills |
 | [codex-images](../../skills/c8c56ebbf5a016b4.md) | 剪辑字幕与数字人 | Melvynx/video-agent-skills |
@@ -78,11 +84,5 @@
 | [baoyu-infographic](../../skills/1572aaa294c5f754.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
 | [baoyu-markdown-to-html](../../skills/f4a5bb1697f93875.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
 | [baoyu-post-to-wechat](../../skills/e15f1b5a51b8443e.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
-| [baoyu-post-to-weibo](../../skills/afc5eb6d748f8d4f.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
-| [baoyu-post-to-x](../../skills/6eca9de552dd0b7b.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
-| [baoyu-slide-deck](../../skills/0e988f065a188622.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
-| [baoyu-translate](../../skills/772f7170a61f1246.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
-| [baoyu-url-to-markdown](../../skills/40913749b0e95165.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
-| [baoyu-wechat-summary](../../skills/6fe746670aedb195.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md)

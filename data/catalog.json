@@ -29368,6 +29368,753 @@
       "example_entry": "https://github.com/asashades/asa-slides/blob/f153f6b54286af87e58119066b22dc943ac6d281/docs/galeri-explainer.html",
       "experience_url": "https://asashades.github.io/asa-slides/galeri-explainer.html",
       "example_label": "Example source / 示例源码"
+    },
+    {
+      "id": "andyhuo520--vibe-knowledge",
+      "repo": "andyhuo520/vibe-knowledge",
+      "title": "商鞅立木与多风格知识短片 / Shang Yang and illustrated explainers",
+      "url": "https://github.com/andyhuo520/vibe-knowledge",
+      "summary": "从选题、事实清单到旁白与逐帧渲染；商鞅立木示例可比较代码插画基础档与生成素材增强档。 / Shang Yang and illustrated explainers",
+      "category": "教学科普与手绘",
+      "type": "Agent Skill / Knowledge video",
+      "hosts": [
+        "Claude",
+        "Codex",
+        "WorkBuddy"
+      ],
+      "status": "已核验固定版本与选定 Skill",
+      "curated": true,
+      "requirements": "Claude Code；配音需对应服务，增强镜头另需 Renoise。",
+      "limits": "已核对源文件与示例引用；未执行上游创作流程。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 709,
+      "commit": "c3a13a85f7cc560e5d396f063baecea4b2748e1e",
+      "checked_at": "2026-11-18T06:49:40.873187+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "andyhuo520/vibe-knowledge"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/andyhuo520/vibe-knowledge/blob/c3a13a85f7cc560e5d396f063baecea4b2748e1e/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:40.873187+00:00"
+        },
+        {
+          "url": "https://github.com/andyhuo520/vibe-knowledge/blob/c3a13a85f7cc560e5d396f063baecea4b2748e1e/skills/vibe-knowledge/SKILL.md",
+          "type": "Selected original Skill entry",
+          "checked_at": "2026-11-18T06:49:40.873187+00:00"
+        },
+        {
+          "url": "https://github.com/andyhuo520/vibe-knowledge/blob/c3a13a85f7cc560e5d396f063baecea4b2748e1e/skills/vibe-knowledge/styles/_samples/styles_film.js",
+          "type": "Style sample source / 风格样片源码",
+          "checked_at": "2026-11-18T06:49:40.873187+00:00"
+        },
+        {
+          "url": "https://github.com/andyhuo520/vibe-knowledge/blob/c3a13a85f7cc560e5d396f063baecea4b2748e1e/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/andyhuo520/vibe-knowledge/c3a13a85f7cc560e5d396f063baecea4b2748e1e/docs/posters/ep01-shangyang.jpg",
+          "type": "image",
+          "label": "ep01-shangyang.jpg",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/andyhuo520/vibe-knowledge/c3a13a85f7cc560e5d396f063baecea4b2748e1e/docs/style-flash.gif",
+          "type": "image",
+          "label": "style-flash.gif",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://github.com/andyhuo520/vibe-knowledge/releases/download/v1.0.0/ep01-shangyang.mp4",
+          "type": "video",
+          "label": "Author example film",
+          "verification": "MP4 signature checked; release asset URL is version-tagged, not content-addressed"
+        }
+      ],
+      "upstream_created_at": "2026-10-28T09:37:45Z",
+      "upstream_pushed_at": "2026-10-28T15:30:54Z",
+      "edition": "2026-11-18-knowledge-biography",
+      "collection_kind": "K",
+      "example_entry": "https://github.com/andyhuo520/vibe-knowledge/blob/c3a13a85f7cc560e5d396f063baecea4b2748e1e/skills/vibe-knowledge/styles/_samples/styles_film.js",
+      "example_label": "Style sample source / 风格样片源码",
+      "experience_url": "https://github.com/andyhuo520/vibe-knowledge/releases/download/v1.0.0/ep01-shangyang.mp4"
+    },
+    {
+      "id": "gui-lin--vibe-knowledge-studio",
+      "repo": "gui-lin/vibe-knowledge-studio",
+      "title": "生日悖论：让概率动起来 / Animate the birthday paradox",
+      "url": "https://github.com/gui-lin/vibe-knowledge-studio",
+      "summary": "用 Canvas 绘制概率试验与曲线，film.js 组织字幕、镜头和事件音；附生日悖论工程。 / Animate the birthday paradox",
+      "category": "教学科普与手绘",
+      "type": "Agent Skill / Knowledge video",
+      "hosts": [
+        "Claude"
+      ],
+      "status": "已核验固定版本与选定 Skill",
+      "curated": true,
+      "requirements": "Node 18+、FFmpeg、Chrome 或 Playwright Chromium。",
+      "limits": "已核对源文件与示例引用；未执行上游创作流程。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 2,
+      "commit": "326691a863fd4eddbd487ae8e6786bf1d87d5e03",
+      "checked_at": "2026-11-18T06:49:40.873187+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "gui-lin/vibe-knowledge-studio"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/gui-lin/vibe-knowledge-studio/blob/326691a863fd4eddbd487ae8e6786bf1d87d5e03/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:40.873187+00:00"
+        },
+        {
+          "url": "https://github.com/gui-lin/vibe-knowledge-studio/blob/326691a863fd4eddbd487ae8e6786bf1d87d5e03/SKILL.md",
+          "type": "Selected original Skill entry",
+          "checked_at": "2026-11-18T06:49:40.873187+00:00"
+        },
+        {
+          "url": "https://github.com/gui-lin/vibe-knowledge-studio/blob/326691a863fd4eddbd487ae8e6786bf1d87d5e03/examples/birthday/film.js",
+          "type": "Example scene / 示例场景",
+          "checked_at": "2026-11-18T06:49:40.873187+00:00"
+        },
+        {
+          "url": "https://github.com/gui-lin/vibe-knowledge-studio/blob/326691a863fd4eddbd487ae8e6786bf1d87d5e03/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/gui-lin/vibe-knowledge-studio/326691a863fd4eddbd487ae8e6786bf1d87d5e03/docs/demo-sheet.jpg",
+          "type": "image",
+          "label": "demo-sheet.jpg",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/gui-lin/vibe-knowledge-studio/326691a863fd4eddbd487ae8e6786bf1d87d5e03/docs/demo-title.jpg",
+          "type": "image",
+          "label": "demo-title.jpg",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        }
+      ],
+      "upstream_created_at": "2026-10-26T06:50:25Z",
+      "upstream_pushed_at": "2026-11-06T03:11:28Z",
+      "edition": "2026-11-18-knowledge-biography",
+      "collection_kind": "K",
+      "example_entry": "https://github.com/gui-lin/vibe-knowledge-studio/blob/326691a863fd4eddbd487ae8e6786bf1d87d5e03/examples/birthday/film.js",
+      "example_label": "Example scene / 示例场景"
+    },
+    {
+      "id": "wchhywizd--vibe-knowledge-interactive",
+      "repo": "wchhywizd/vibe-knowledge-interactive",
+      "title": "先下注，再揭晓生日悖论 / Guess before the reveal",
+      "url": "https://github.com/wchhywizd/vibe-knowledge-interactive",
+      "summary": "先给选择与倒计时，再让连线揭晓答案；附生日悖论、邓巴数及认知主题的样片与源码。 / Guess before the reveal",
+      "category": "教学科普与手绘",
+      "type": "Agent Skill / Knowledge video",
+      "hosts": [
+        "Claude",
+        "WorkBuddy"
+      ],
+      "status": "已核验固定版本与选定 Skill",
+      "curated": true,
+      "requirements": "Python 3.11+、Playwright、NumPy、SciPy、FFmpeg；默认 BGM 不在代码许可内，公开使用需替换或取得授权。",
+      "limits": "已核对源文件与示例引用；未执行上游创作流程。",
+      "license": "Code: MIT; docs: CC BY 4.0; bundled BGM excluded",
+      "archived": false,
+      "stars": 32,
+      "commit": "240ec579c7b86d110ee7b6ad4bfc35193b0de52a",
+      "checked_at": "2026-11-18T06:49:40.874186+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "wchhywizd/vibe-knowledge-interactive"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/wchhywizd/vibe-knowledge-interactive/blob/240ec579c7b86d110ee7b6ad4bfc35193b0de52a/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:40.874186+00:00"
+        },
+        {
+          "url": "https://github.com/wchhywizd/vibe-knowledge-interactive/blob/240ec579c7b86d110ee7b6ad4bfc35193b0de52a/skill/vibe-explainer-video/SKILL.md",
+          "type": "Selected original Skill entry",
+          "checked_at": "2026-11-18T06:49:40.874186+00:00"
+        },
+        {
+          "url": "https://github.com/wchhywizd/vibe-knowledge-interactive/blob/240ec579c7b86d110ee7b6ad4bfc35193b0de52a/samples/src/pilotC-birthday.html",
+          "type": "Example scene / 示例场景",
+          "checked_at": "2026-11-18T06:49:40.874186+00:00"
+        },
+        {
+          "url": "https://github.com/wchhywizd/vibe-knowledge-interactive/blob/240ec579c7b86d110ee7b6ad4bfc35193b0de52a/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/wchhywizd/vibe-knowledge-interactive/240ec579c7b86d110ee7b6ad4bfc35193b0de52a/assets/hook-birthday.gif",
+          "type": "image",
+          "label": "hook-birthday.gif",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/wchhywizd/vibe-knowledge-interactive/240ec579c7b86d110ee7b6ad4bfc35193b0de52a/assets/hook-dunbar.gif",
+          "type": "image",
+          "label": "hook-dunbar.gif",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/wchhywizd/vibe-knowledge-interactive/240ec579c7b86d110ee7b6ad4bfc35193b0de52a/samples/%E8%AF%95%E7%89%87C-v2-%E5%90%8C%E4%B8%80%E5%A4%A9%E7%94%9F%E6%97%A5.mp4",
+          "type": "video",
+          "label": "Author example film",
+          "verification": "Pinned MP4 signature checked"
+        }
+      ],
+      "upstream_created_at": "2026-10-21T03:12:55Z",
+      "upstream_pushed_at": "2026-10-21T03:42:42Z",
+      "edition": "2026-11-18-knowledge-biography",
+      "collection_kind": "K",
+      "example_entry": "https://github.com/wchhywizd/vibe-knowledge-interactive/blob/240ec579c7b86d110ee7b6ad4bfc35193b0de52a/samples/src/pilotC-birthday.html",
+      "example_label": "Example scene / 示例场景",
+      "experience_url": "https://raw.githubusercontent.com/wchhywizd/vibe-knowledge-interactive/240ec579c7b86d110ee7b6ad4bfc35193b0de52a/samples/%E8%AF%95%E7%89%87C-v2-%E5%90%8C%E4%B8%80%E5%A4%A9%E7%94%9F%E6%97%A5.mp4"
+    },
+    {
+      "id": "aliangsss--aliang-knowledge-video",
+      "repo": "aliangSSS/aliang-knowledge-video",
+      "title": "把墨菲定律拍成侦探调查 / Murphy's law as a detective story",
+      "url": "https://github.com/aliangSSS/aliang-knowledge-video",
+      "summary": "通过案件墙、证物与公式构成连续解释空间；附 Remotion 场景、分镜和事实来源。 / Murphy's law as a detective story",
+      "category": "教学科普与手绘",
+      "type": "Agent Skill / Knowledge video",
+      "hosts": [
+        "Claude"
+      ],
+      "status": "已核验固定版本与选定 Skill",
+      "curated": true,
+      "requirements": "Claude Code、Node 18+、Python 3.9+、Remotion；默认 BGM 不属于 MIT 授权。",
+      "limits": "已核对源文件与示例引用；未执行上游创作流程。",
+      "license": "参见上游许可原文",
+      "archived": false,
+      "stars": 7,
+      "commit": "1687e5e87539b98a25289d76e1f935ea48787929",
+      "checked_at": "2026-11-18T06:49:40.875185+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "aliangSSS/aliang-knowledge-video"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/aliangSSS/aliang-knowledge-video/blob/1687e5e87539b98a25289d76e1f935ea48787929/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:40.875185+00:00"
+        },
+        {
+          "url": "https://github.com/aliangSSS/aliang-knowledge-video/blob/1687e5e87539b98a25289d76e1f935ea48787929/SKILL.md",
+          "type": "Selected original Skill entry",
+          "checked_at": "2026-11-18T06:49:40.875185+00:00"
+        },
+        {
+          "url": "https://github.com/aliangSSS/aliang-knowledge-video/blob/1687e5e87539b98a25289d76e1f935ea48787929/examples/murphys-law/src/World.tsx",
+          "type": "Example scene / 示例场景",
+          "checked_at": "2026-11-18T06:49:40.875185+00:00"
+        },
+        {
+          "url": "https://github.com/aliangSSS/aliang-knowledge-video/blob/1687e5e87539b98a25289d76e1f935ea48787929/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/aliangSSS/aliang-knowledge-video/1687e5e87539b98a25289d76e1f935ea48787929/docs/images/02-case-wall.jpg",
+          "type": "image",
+          "label": "02-case-wall.jpg",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/aliangSSS/aliang-knowledge-video/1687e5e87539b98a25289d76e1f935ea48787929/docs/images/04-culprit-formula.jpg",
+          "type": "image",
+          "label": "04-culprit-formula.jpg",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        }
+      ],
+      "upstream_created_at": "2026-10-18T04:04:17Z",
+      "upstream_pushed_at": "2026-10-18T04:13:25Z",
+      "edition": "2026-11-18-knowledge-biography",
+      "collection_kind": "K",
+      "example_entry": "https://github.com/aliangSSS/aliang-knowledge-video/blob/1687e5e87539b98a25289d76e1f935ea48787929/examples/murphys-law/src/World.tsx",
+      "example_label": "Example scene / 示例场景"
+    },
+    {
+      "id": "guanli22--vibe-knowledge-video-skill",
+      "repo": "GuanLi22/vibe-knowledge-video-skill",
+      "title": "粒子蝴蝶与折纸到月球 / Butterfly particles and folding paper",
+      "url": "https://github.com/GuanLi22/vibe-knowledge-video-skill",
+      "summary": "以 Remotion 时间轴组织代码动画，附节拍检测、声音合成、质检脚本和十三秒开场源码。 / Butterfly particles and folding paper",
+      "category": "教学科普与手绘",
+      "type": "Agent Skill / Knowledge video",
+      "hosts": [
+        "Claude"
+      ],
+      "status": "已核验固定版本与选定 Skill",
+      "curated": true,
+      "requirements": "Remotion、Python 3、NumPy、FFmpeg；音乐自备或用附带脚本合成。",
+      "limits": "已核对源文件与示例引用；未执行上游创作流程。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 3,
+      "commit": "688a88c4cd6104920bc97c2f5e23b75161f900bf",
+      "checked_at": "2026-11-18T06:49:40.875185+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "GuanLi22/vibe-knowledge-video-skill"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/GuanLi22/vibe-knowledge-video-skill/blob/688a88c4cd6104920bc97c2f5e23b75161f900bf/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:40.875185+00:00"
+        },
+        {
+          "url": "https://github.com/GuanLi22/vibe-knowledge-video-skill/blob/688a88c4cd6104920bc97c2f5e23b75161f900bf/vibe-knowledge-video/SKILL.md",
+          "type": "Selected original Skill entry",
+          "checked_at": "2026-11-18T06:49:40.875185+00:00"
+        },
+        {
+          "url": "https://github.com/GuanLi22/vibe-knowledge-video-skill/blob/688a88c4cd6104920bc97c2f5e23b75161f900bf/examples/butterfly/src/Butterfly.tsx",
+          "type": "Example source; no rendered preview / 示例源码，未收集渲染预览",
+          "checked_at": "2026-11-18T06:49:40.875185+00:00"
+        },
+        {
+          "url": "https://github.com/GuanLi22/vibe-knowledge-video-skill/blob/688a88c4cd6104920bc97c2f5e23b75161f900bf/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [],
+      "upstream_created_at": "2026-10-22T07:58:56Z",
+      "upstream_pushed_at": "2026-10-31T06:29:12Z",
+      "edition": "2026-11-18-knowledge-biography",
+      "collection_kind": "K",
+      "example_entry": "https://github.com/GuanLi22/vibe-knowledge-video-skill/blob/688a88c4cd6104920bc97c2f5e23b75161f900bf/examples/butterfly/src/Butterfly.tsx",
+      "example_label": "Example source; no rendered preview / 示例源码，未收集渲染预览"
+    },
+    {
+      "id": "aurorabarista--vibe-knowledge-skill",
+      "repo": "AuroraBarista/vibe-knowledge-skill",
+      "title": "从堵车反转开始讲原理 / A traffic-jam hook for an explainer",
+      "url": "https://github.com/AuroraBarista/vibe-knowledge-skill",
+      "summary": "明确提供 Claude Code 与 Codex 入口，强调前五秒、事实核对、关键帧和最终 MP4 检查；动画场景由代理编写。 / A traffic-jam hook for an explainer",
+      "category": "教学科普与手绘",
+      "type": "Agent Skill / Knowledge video",
+      "hosts": [
+        "Claude",
+        "Codex"
+      ],
+      "status": "已核验固定版本与选定 Skill",
+      "curated": true,
+      "requirements": "Python 3.10+、Node/npm、FFmpeg、HyperFrames；仓库没有完整动画引擎与成片。",
+      "limits": "已核对源文件与示例引用；未执行上游创作流程。",
+      "license": "未发现明确仓库许可",
+      "archived": false,
+      "stars": 1,
+      "commit": "46158ca8d015f356f144aef700842b718a7b713f",
+      "checked_at": "2026-11-18T06:49:47.439944+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "AuroraBarista/vibe-knowledge-skill"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/AuroraBarista/vibe-knowledge-skill/blob/46158ca8d015f356f144aef700842b718a7b713f/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:47.439944+00:00"
+        },
+        {
+          "url": "https://github.com/AuroraBarista/vibe-knowledge-skill/blob/46158ca8d015f356f144aef700842b718a7b713f/SKILL.md",
+          "type": "Selected original Skill entry",
+          "checked_at": "2026-11-18T06:49:47.439944+00:00"
+        },
+        {
+          "url": "https://github.com/AuroraBarista/vibe-knowledge-skill/blob/46158ca8d015f356f144aef700842b718a7b713f/scripts/deliver.py",
+          "type": "Delivery helper / 交付辅助脚本",
+          "checked_at": "2026-11-18T06:49:47.439944+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "upstream_created_at": "2026-10-16T00:39:04Z",
+      "upstream_pushed_at": "2026-10-16T00:39:09Z",
+      "edition": "2026-11-18-knowledge-biography",
+      "collection_kind": "K",
+      "example_entry": "https://github.com/AuroraBarista/vibe-knowledge-skill/blob/46158ca8d015f356f144aef700842b718a7b713f/scripts/deliver.py",
+      "example_label": "Delivery helper / 交付辅助脚本"
+    },
+    {
+      "id": "bangbuilds--code-doc-film",
+      "repo": "bangbuilds/code-doc-film",
+      "title": "郑和下西洋的三维纪录短片 / Zheng He's voyages in 3D",
+      "url": "https://github.com/bangbuilds/code-doc-film",
+      "summary": "用 Three.js、真实地形与船队场景讲历史行动路线；旁白句子绑定镜头，附郑和完整工程。 / Zheng He's voyages in 3D",
+      "category": "人物传记与历史叙事",
+      "type": "Agent Skill / Historical film or visual chapter",
+      "hosts": [
+        "Claude",
+        "Codex"
+      ],
+      "status": "已核验固定版本与选定 Skill",
+      "curated": true,
+      "requirements": "Node 20+、Python 3.10+、NumPy、Pillow、FFmpeg、HyperFrames；作者测试环境为 macOS，Codex 路线未实测。",
+      "limits": "已核对源文件与示例引用；未执行上游创作流程。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 20,
+      "commit": "d3078a857fbc70f78121ed0f919aa9d15c854e57",
+      "checked_at": "2026-11-18T06:49:51.112331+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "bangbuilds/code-doc-film"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/bangbuilds/code-doc-film/blob/d3078a857fbc70f78121ed0f919aa9d15c854e57/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:51.112331+00:00"
+        },
+        {
+          "url": "https://github.com/bangbuilds/code-doc-film/blob/d3078a857fbc70f78121ed0f919aa9d15c854e57/SKILL.md",
+          "type": "Selected original Skill entry",
+          "checked_at": "2026-11-18T06:49:51.112331+00:00"
+        },
+        {
+          "url": "https://github.com/bangbuilds/code-doc-film/blob/d3078a857fbc70f78121ed0f919aa9d15c854e57/examples/zheng-he/scenes/f01_hook.js",
+          "type": "Example scene / 示例场景",
+          "checked_at": "2026-11-18T06:49:51.112331+00:00"
+        },
+        {
+          "url": "https://github.com/bangbuilds/code-doc-film/blob/d3078a857fbc70f78121ed0f919aa9d15c854e57/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [],
+      "upstream_created_at": "2026-10-03T04:22:26Z",
+      "upstream_pushed_at": "2026-10-03T04:53:56Z",
+      "edition": "2026-11-18-knowledge-biography",
+      "collection_kind": "B",
+      "example_entry": "https://github.com/bangbuilds/code-doc-film/blob/d3078a857fbc70f78121ed0f919aa9d15c854e57/examples/zheng-he/scenes/f01_hook.js",
+      "example_label": "Example scene / 示例场景"
+    },
+    {
+      "id": "bangbuilds--code-poem-film",
+      "repo": "bangbuilds/code-poem-film",
+      "title": "用苏轼与李白的作品讲人物 / Poems as chapters in a poet's story",
+      "url": "https://github.com/bangbuilds/code-poem-film",
+      "summary": "代码绘制水墨山水、逐字书写和诗句意象，附早发白帝城与赤壁怀古工程；适合作为诗人生平短片的作品章节。 / Poems as chapters in a poet's story",
+      "category": "人物传记与历史叙事",
+      "type": "Agent Skill / Historical film or visual chapter",
+      "hosts": [
+        "Claude",
+        "Codex"
+      ],
+      "status": "已核验固定版本与选定 Skill",
+      "curated": true,
+      "requirements": "Node 20+、Python 3.10+、NumPy、Pillow、FFmpeg、HyperFrames；作者仅测试 macOS/Claude，Codex 路线未实测。",
+      "limits": "已核对源文件与示例引用；未执行上游创作流程。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 65,
+      "commit": "8530dafb2786cdd724451f5503934507624b18c1",
+      "checked_at": "2026-11-18T06:49:52.084687+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "bangbuilds/code-poem-film"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/bangbuilds/code-poem-film/blob/8530dafb2786cdd724451f5503934507624b18c1/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:52.084687+00:00"
+        },
+        {
+          "url": "https://github.com/bangbuilds/code-poem-film/blob/8530dafb2786cdd724451f5503934507624b18c1/SKILL.md",
+          "type": "Selected original Skill entry",
+          "checked_at": "2026-11-18T06:49:52.084687+00:00"
+        },
+        {
+          "url": "https://github.com/bangbuilds/code-poem-film/blob/8530dafb2786cdd724451f5503934507624b18c1/examples/chibi/film/scenes.js",
+          "type": "Poem animation source / 诗词动画源码",
+          "checked_at": "2026-11-18T06:49:52.084687+00:00"
+        },
+        {
+          "url": "https://github.com/bangbuilds/code-poem-film/blob/8530dafb2786cdd724451f5503934507624b18c1/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/bangbuilds/code-poem-film/8530dafb2786cdd724451f5503934507624b18c1/examples/chibi/cover.jpg",
+          "type": "image",
+          "label": "cover.jpg",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/bangbuilds/code-poem-film/8530dafb2786cdd724451f5503934507624b18c1/examples/qingzhou/cover.jpg",
+          "type": "image",
+          "label": "cover.jpg",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        }
+      ],
+      "upstream_created_at": "2026-10-03T11:22:42Z",
+      "upstream_pushed_at": "2026-10-03T11:25:50Z",
+      "edition": "2026-11-18-knowledge-biography",
+      "collection_kind": "B",
+      "example_entry": "https://github.com/bangbuilds/code-poem-film/blob/8530dafb2786cdd724451f5503934507624b18c1/examples/chibi/film/scenes.js",
+      "example_label": "Poem animation source / 诗词动画源码"
+    },
+    {
+      "id": "nailcore--create-chinese-ink-video",
+      "repo": "Nailcore/create-chinese-ink-video",
+      "title": "人物、火箭与车辆从水墨中形成 / Reveal a person through flowing ink",
+      "url": "https://github.com/Nailcore/create-chinese-ink-video",
+      "summary": "Codex 水墨视觉工作流；将关键帧拆层，再以流体和纤维墨团显影。示例是马斯克主题视觉段落，可用于人物片包装。 / Reveal a person through flowing ink",
+      "category": "人物传记与历史叙事",
+      "type": "Agent Skill / Historical film or visual chapter",
+      "hosts": [
+        "Codex"
+      ],
+      "status": "已核验固定版本与选定 Skill",
+      "curated": true,
+      "requirements": "Codex、图像生成能力、Python/Pillow/NumPy、FFmpeg、Node、HyperFrames；不包含完整人物生平考据流程。",
+      "limits": "已核对源文件与示例引用；未执行上游创作流程。",
+      "license": "未发现明确仓库许可",
+      "archived": false,
+      "stars": 1,
+      "commit": "e2318a55343f91247037f23aba4534cd14d435b4",
+      "checked_at": "2026-11-18T06:49:52.450848+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "Nailcore/create-chinese-ink-video",
+        "gxwangpai007-ops/create-chinese-ink-video"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/Nailcore/create-chinese-ink-video/blob/e2318a55343f91247037f23aba4534cd14d435b4/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:52.450848+00:00"
+        },
+        {
+          "url": "https://github.com/Nailcore/create-chinese-ink-video/blob/e2318a55343f91247037f23aba4534cd14d435b4/skill/create-chinese-ink-video/SKILL.md",
+          "type": "Selected original Skill entry",
+          "checked_at": "2026-11-18T06:49:52.450848+00:00"
+        },
+        {
+          "url": "https://github.com/Nailcore/create-chinese-ink-video/blob/e2318a55343f91247037f23aba4534cd14d435b4/skill/create-chinese-ink-video/scripts/render_fibrous_ink_bloom.py",
+          "type": "Effect renderer / 特效渲染脚本",
+          "checked_at": "2026-11-18T06:49:52.450848+00:00"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/Nailcore/create-chinese-ink-video/e2318a55343f91247037f23aba4534cd14d435b4/examples/musk-fluid-ink/demo.gif",
+          "type": "image",
+          "label": "demo.gif",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Nailcore/create-chinese-ink-video/e2318a55343f91247037f23aba4534cd14d435b4/examples/musk-fluid-ink/musk-fluid-ink-v11.mp4",
+          "type": "video",
+          "label": "musk-fluid-ink-v11.mp4",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        }
+      ],
+      "upstream_created_at": "2026-07-28T03:53:09Z",
+      "upstream_pushed_at": "2026-08-12T08:17:43Z",
+      "edition": "2026-11-18-knowledge-biography",
+      "collection_kind": "B",
+      "example_entry": "https://github.com/Nailcore/create-chinese-ink-video/blob/e2318a55343f91247037f23aba4534cd14d435b4/skill/create-chinese-ink-video/scripts/render_fibrous_ink_bloom.py",
+      "example_label": "Effect renderer / 特效渲染脚本",
+      "experience_url": "https://raw.githubusercontent.com/Nailcore/create-chinese-ink-video/e2318a55343f91247037f23aba4534cd14d435b4/examples/musk-fluid-ink/musk-fluid-ink-v11.mp4"
+    },
+    {
+      "id": "woodyxu--history-story-video",
+      "repo": "WoodyXu/history-story-video",
+      "title": "人物传记片段到分镜素材包 / Biography episode to storyboard pack",
+      "url": "https://github.com/WoodyXu/history-story-video",
+      "summary": "提炼人物冲突与转折，统一角色视角和形象，输出角色四视图提示词、三到五镜首尾帧提示词与解说词。 / Biography episode to storyboard pack",
+      "category": "人物传记与历史叙事",
+      "type": "Agent Skill / Biography research or script",
+      "hosts": [
+        "Claude",
+        "Codex"
+      ],
+      "status": "已核验固定版本与选定 Skill",
+      "curated": true,
+      "requirements": "作者明确支持 Claude Code 与 Codex；交付分镜和提示词，图像、视频及配音需接后续工具。",
+      "limits": "已核对源文件与示例引用；未执行上游创作流程。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 5,
+      "commit": "d5ba8d457cf3d9223d3e53b285e8240897b6c860",
+      "checked_at": "2026-11-18T06:49:52.453645+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "WoodyXu/history-story-video"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/WoodyXu/history-story-video/blob/d5ba8d457cf3d9223d3e53b285e8240897b6c860/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:52.453645+00:00"
+        },
+        {
+          "url": "https://github.com/WoodyXu/history-story-video/blob/d5ba8d457cf3d9223d3e53b285e8240897b6c860/skills/history-story-video/SKILL.md",
+          "type": "Selected original Skill entry",
+          "checked_at": "2026-11-18T06:49:52.453645+00:00"
+        },
+        {
+          "url": "https://github.com/WoodyXu/history-story-video/blob/d5ba8d457cf3d9223d3e53b285e8240897b6c860/skills/history-story-video/references/output-structure.md",
+          "type": "Output specification / 输出结构",
+          "checked_at": "2026-11-18T06:49:52.453645+00:00"
+        },
+        {
+          "url": "https://github.com/WoodyXu/history-story-video/blob/d5ba8d457cf3d9223d3e53b285e8240897b6c860/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [],
+      "upstream_created_at": "2026-04-14T12:43:54Z",
+      "upstream_pushed_at": "2026-04-14T12:47:51Z",
+      "edition": "2026-11-18-knowledge-biography",
+      "collection_kind": "S",
+      "example_entry": "https://github.com/WoodyXu/history-story-video/blob/d5ba8d457cf3d9223d3e53b285e8240897b6c860/skills/history-story-video/references/output-structure.md",
+      "example_label": "Output specification / 输出结构"
+    },
+    {
+      "id": "sanshengai--sansheng-distill",
+      "repo": "sanshengai/sansheng-distill",
+      "title": "人物生平与引语的证据库 / An evidence base for a biography",
+      "url": "https://github.com/sanshengai/sansheng-distill",
+      "summary": "以出版传记为骨架，整理人物生平、来源、争议和可回查事实，为传记文稿提供资料基础。 / An evidence base for a biography",
+      "category": "人物传记与历史叙事",
+      "type": "Agent Skill / Biography research or script",
+      "hosts": [
+        "Claude"
+      ],
+      "status": "已核验固定版本与选定 Skill",
+      "curated": true,
+      "requirements": "Claude Code 与文档处理环境；人物资料路线不负责剪辑视频。展示动图是作者赫拉利作品资料页，并非传记成片。",
+      "limits": "已核对源文件与示例引用；未执行上游创作流程。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 68,
+      "commit": "a411cc2c923eee070f0e77a44239ee58164a335c",
+      "checked_at": "2026-11-18T06:49:52.780064+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "sanshengai/sansheng-distill"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/sanshengai/sansheng-distill/blob/a411cc2c923eee070f0e77a44239ee58164a335c/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:52.780064+00:00"
+        },
+        {
+          "url": "https://github.com/sanshengai/sansheng-distill/blob/a411cc2c923eee070f0e77a44239ee58164a335c/SKILL.md",
+          "type": "Selected original Skill entry",
+          "checked_at": "2026-11-18T06:49:52.780064+00:00"
+        },
+        {
+          "url": "https://github.com/sanshengai/sansheng-distill/blob/a411cc2c923eee070f0e77a44239ee58164a335c/references/biography-craft.md",
+          "type": "Biography workflow / 人物资料流程",
+          "checked_at": "2026-11-18T06:49:52.780064+00:00"
+        },
+        {
+          "url": "https://github.com/sanshengai/sansheng-distill/blob/a411cc2c923eee070f0e77a44239ee58164a335c/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/sanshengai/sansheng-distill/a411cc2c923eee070f0e77a44239ee58164a335c/assets/demo.gif",
+          "type": "image",
+          "label": "Author book/works research page; not a biography film",
+          "relationship": "Upstream example; not reproduced by this catalogue",
+          "verification": "Pinned media signature checked"
+        }
+      ],
+      "upstream_created_at": "2026-07-30T05:17:47Z",
+      "upstream_pushed_at": "2026-10-24T01:13:13Z",
+      "edition": "2026-11-18-knowledge-biography",
+      "collection_kind": "S",
+      "example_entry": "https://github.com/sanshengai/sansheng-distill/blob/a411cc2c923eee070f0e77a44239ee58164a335c/references/biography-craft.md",
+      "example_label": "Biography workflow / 人物资料流程"
+    },
+    {
+      "id": "anbeime--skill",
+      "repo": "anbeime/skill",
+      "title": "假如历史名人来到访谈秀 / A fictional interview with a historical figure",
+      "url": "https://github.com/anbeime/skill",
+      "summary": "选取合集中的 historical-interview-scripts：把历史人物特点转成主持串词、问答与镜头提示；属于虚构娱乐访谈脚本。 / A fictional interview with a historical figure",
+      "category": "人物传记与历史叙事",
+      "type": "Agent Skill / Biography research or script",
+      "hosts": [],
+      "status": "已核验固定版本与选定 Skill",
+      "curated": true,
+      "requirements": "可读取 Skill 的代理；这里只索引该子技能，后续音画生成需另接工具；不将虚构问答当历史原话。",
+      "limits": "已核对源文件与示例引用；未执行上游创作流程。",
+      "license": "参见上游许可原文",
+      "archived": false,
+      "stars": 9672,
+      "commit": "ec48389bb805dfd860f00e5167e277aaf8bcd660",
+      "checked_at": "2026-11-18T06:49:56.658520+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "anbeime/skill"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/anbeime/skill/blob/ec48389bb805dfd860f00e5167e277aaf8bcd660/README.md",
+          "type": "Collection README; only historical-interview-scripts selected",
+          "checked_at": "2026-11-18T06:49:56.658520+00:00"
+        },
+        {
+          "url": "https://github.com/anbeime/skill/blob/ec48389bb805dfd860f00e5167e277aaf8bcd660/skills/historical-interview-scripts/historical-interview-scripts/SKILL.md",
+          "type": "Selected original Skill entry",
+          "checked_at": "2026-11-18T06:49:56.658520+00:00"
+        },
+        {
+          "url": "https://github.com/anbeime/skill/blob/ec48389bb805dfd860f00e5167e277aaf8bcd660/skills/historical-interview-scripts/historical-interview-scripts/references/script-examples.md",
+          "type": "Script examples / 文案示例",
+          "checked_at": "2026-11-18T06:49:56.658520+00:00"
+        },
+        {
+          "url": "https://github.com/anbeime/skill/blob/ec48389bb805dfd860f00e5167e277aaf8bcd660/LICENSE",
+          "type": "License"
+        }
+      ],
+      "preview_assets": [],
+      "upstream_created_at": "2026-02-02T09:12:57Z",
+      "upstream_pushed_at": "2026-11-18T03:55:22Z",
+      "edition": "2026-11-18-knowledge-biography",
+      "collection_kind": "S",
+      "example_entry": "https://github.com/anbeime/skill/blob/ec48389bb805dfd860f00e5167e277aaf8bcd660/skills/historical-interview-scripts/historical-interview-scripts/references/script-examples.md",
+      "example_label": "Script examples / 文案示例"
     }
   ],
   "skills": [
@@ -44231,6 +44978,234 @@
           "repo": "asashades/asa-slides",
           "path": "SKILL.md",
           "url": "https://github.com/asashades/asa-slides/blob/f153f6b54286af87e58119066b22dc943ac6d281/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "572b94ce66f6c0e0",
+      "repo": "andyhuo520/vibe-knowledge",
+      "name": "vibe-knowledge",
+      "description": "从选题、事实清单到旁白与逐帧渲染；商鞅立木示例可比较代码插画基础档与生成素材增强档。",
+      "category": "教学科普与手绘",
+      "sha256": "572b94ce66f6c0e091ebd7b93cf2195ec5f4ba99880405d4343d5bdd00d2be2e",
+      "sources": [
+        {
+          "repo": "andyhuo520/vibe-knowledge",
+          "path": "skills/vibe-knowledge/SKILL.md",
+          "url": "https://github.com/andyhuo520/vibe-knowledge/blob/c3a13a85f7cc560e5d396f063baecea4b2748e1e/skills/vibe-knowledge/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "2d1feb612f950602",
+      "repo": "gui-lin/vibe-knowledge-studio",
+      "name": "vibe-knowledge-studio",
+      "description": "用 Canvas 绘制概率试验与曲线，film.js 组织字幕、镜头和事件音；附生日悖论工程。",
+      "category": "教学科普与手绘",
+      "sha256": "2d1feb612f95060282179e13e0e25d5eb775cc329828cb96cd3e84e124c83544",
+      "sources": [
+        {
+          "repo": "gui-lin/vibe-knowledge-studio",
+          "path": "SKILL.md",
+          "url": "https://github.com/gui-lin/vibe-knowledge-studio/blob/326691a863fd4eddbd487ae8e6786bf1d87d5e03/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "26b0183dc1744676",
+      "repo": "wchhywizd/vibe-knowledge-interactive",
+      "name": "vibe-explainer-video",
+      "description": "先给选择与倒计时，再让连线揭晓答案；附生日悖论、邓巴数及认知主题的样片与源码。",
+      "category": "教学科普与手绘",
+      "sha256": "26b0183dc174467634d304716f7706449c8033fd1cfe5500d168cf5d7f494e74",
+      "sources": [
+        {
+          "repo": "wchhywizd/vibe-knowledge-interactive",
+          "path": "skill/vibe-explainer-video/SKILL.md",
+          "url": "https://github.com/wchhywizd/vibe-knowledge-interactive/blob/240ec579c7b86d110ee7b6ad4bfc35193b0de52a/skill/vibe-explainer-video/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "03f8500000acf000",
+      "repo": "aliangSSS/aliang-knowledge-video",
+      "name": "aliang-knowledge-video",
+      "description": "通过案件墙、证物与公式构成连续解释空间；附 Remotion 场景、分镜和事实来源。",
+      "category": "教学科普与手绘",
+      "sha256": "03f8500000acf00046ba63be48630a09fbb43a879cb73bb2c8b663f9d3d711b1",
+      "sources": [
+        {
+          "repo": "aliangSSS/aliang-knowledge-video",
+          "path": "SKILL.md",
+          "url": "https://github.com/aliangSSS/aliang-knowledge-video/blob/1687e5e87539b98a25289d76e1f935ea48787929/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "04f8d5078fb4e4e6",
+      "repo": "GuanLi22/vibe-knowledge-video-skill",
+      "name": "vibe-knowledge-video",
+      "description": "以 Remotion 时间轴组织代码动画，附节拍检测、声音合成、质检脚本和十三秒开场源码。",
+      "category": "教学科普与手绘",
+      "sha256": "04f8d5078fb4e4e6bbca88d5c810d61a32e5f5e795c27c92ea24e57961af0521",
+      "sources": [
+        {
+          "repo": "GuanLi22/vibe-knowledge-video-skill",
+          "path": "vibe-knowledge-video/SKILL.md",
+          "url": "https://github.com/GuanLi22/vibe-knowledge-video-skill/blob/688a88c4cd6104920bc97c2f5e23b75161f900bf/vibe-knowledge-video/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "d32999876e26a7b9",
+      "repo": "AuroraBarista/vibe-knowledge-skill",
+      "name": "vibe-knowledge",
+      "description": "明确提供 Claude Code 与 Codex 入口，强调前五秒、事实核对、关键帧和最终 MP4 检查；动画场景由代理编写。",
+      "category": "教学科普与手绘",
+      "sha256": "d32999876e26a7b918499f9f0d81ec2048c1eecca72b76931fed481e477bd94c",
+      "sources": [
+        {
+          "repo": "AuroraBarista/vibe-knowledge-skill",
+          "path": "SKILL.md",
+          "url": "https://github.com/AuroraBarista/vibe-knowledge-skill/blob/46158ca8d015f356f144aef700842b718a7b713f/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "76ed75df7a482a82",
+      "repo": "bangbuilds/code-doc-film",
+      "name": "code-doc-film",
+      "description": "用 Three.js、真实地形与船队场景讲历史行动路线；旁白句子绑定镜头，附郑和完整工程。",
+      "category": "人物传记与历史叙事",
+      "sha256": "76ed75df7a482a82301974629c15296a033e8ff4277bd3a9e7bf8379a9e64482",
+      "sources": [
+        {
+          "repo": "bangbuilds/code-doc-film",
+          "path": "SKILL.md",
+          "url": "https://github.com/bangbuilds/code-doc-film/blob/d3078a857fbc70f78121ed0f919aa9d15c854e57/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "a493671b951221d4",
+      "repo": "bangbuilds/code-poem-film",
+      "name": "code-poem-film",
+      "description": "代码绘制水墨山水、逐字书写和诗句意象，附早发白帝城与赤壁怀古工程；适合作为诗人生平短片的作品章节。",
+      "category": "人物传记与历史叙事",
+      "sha256": "a493671b951221d49ba0cdfcf24098638c359c64bebd0d108b7173f87fbb3cf5",
+      "sources": [
+        {
+          "repo": "bangbuilds/code-poem-film",
+          "path": "SKILL.md",
+          "url": "https://github.com/bangbuilds/code-poem-film/blob/8530dafb2786cdd724451f5503934507624b18c1/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "22da64673847e4ed",
+      "repo": "Nailcore/create-chinese-ink-video",
+      "name": "create-chinese-ink-video",
+      "description": "Codex 水墨视觉工作流；将关键帧拆层，再以流体和纤维墨团显影。示例是马斯克主题视觉段落，可用于人物片包装。",
+      "category": "人物传记与历史叙事",
+      "sha256": "22da64673847e4edcf9a197c2a7fc7bc9aae04823f126605ab9046e9a89260f5",
+      "sources": [
+        {
+          "repo": "Nailcore/create-chinese-ink-video",
+          "path": "skill/create-chinese-ink-video/SKILL.md",
+          "url": "https://github.com/Nailcore/create-chinese-ink-video/blob/e2318a55343f91247037f23aba4534cd14d435b4/skill/create-chinese-ink-video/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "b634fe4866326e87",
+      "repo": "WoodyXu/history-story-video",
+      "name": "history-story-video",
+      "description": "提炼人物冲突与转折，统一角色视角和形象，输出角色四视图提示词、三到五镜首尾帧提示词与解说词。",
+      "category": "人物传记与历史叙事",
+      "sha256": "b634fe4866326e874f6d8314a8149356a32621e28bff06c4b094ae5a9589a71c",
+      "sources": [
+        {
+          "repo": "WoodyXu/history-story-video",
+          "path": "skills/history-story-video/SKILL.md",
+          "url": "https://github.com/WoodyXu/history-story-video/blob/d5ba8d457cf3d9223d3e53b285e8240897b6c860/skills/history-story-video/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "7522b21cb6af9467",
+      "repo": "sanshengai/sansheng-distill",
+      "name": "sansheng-distill",
+      "description": "以出版传记为骨架，整理人物生平、来源、争议和可回查事实，为传记文稿提供资料基础。",
+      "category": "人物传记与历史叙事",
+      "sha256": "7522b21cb6af94671c50f70a96b74e59a799b15649f8f6df21f9a61424da2de1",
+      "sources": [
+        {
+          "repo": "sanshengai/sansheng-distill",
+          "path": "SKILL.md",
+          "url": "https://github.com/sanshengai/sansheng-distill/blob/a411cc2c923eee070f0e77a44239ee58164a335c/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "0927aceedf957242",
+      "repo": "anbeime/skill",
+      "name": "historical-interview-scripts",
+      "description": "选取合集中的 historical-interview-scripts：把历史人物特点转成主持串词、问答与镜头提示；属于虚构娱乐访谈脚本。",
+      "category": "人物传记与历史叙事",
+      "sha256": "0927aceedf957242131035483c2f589ab93c37fd94bfe148f74bcb5401e36b2f",
+      "sources": [
+        {
+          "repo": "anbeime/skill",
+          "path": "skills/historical-interview-scripts/historical-interview-scripts/SKILL.md",
+          "url": "https://github.com/anbeime/skill/blob/ec48389bb805dfd860f00e5167e277aaf8bcd660/skills/historical-interview-scripts/historical-interview-scripts/SKILL.md"
         }
       ],
       "text": "",
@@ -113373,6 +114348,135 @@
         "Codex"
       ],
       "text": "turn this into an interactive HTML file",
+      "text_status": "Author invocation excerpt / 作者调用语句节选"
+    },
+    {
+      "id": "ccfdcafb4ccf0fc8",
+      "repo": "gui-lin/vibe-knowledge-studio",
+      "title": "生日悖论：让概率动起来 · 作者调用示例",
+      "category": "教学科普与手绘",
+      "origin": "Author README / 作者 README",
+      "review": "调用语句节选；项目示例不自动归为该语句的直接生成结果。",
+      "sources": [
+        {
+          "url": "https://github.com/gui-lin/vibe-knowledge-studio/blob/326691a863fd4eddbd487ae8e6786bf1d87d5e03/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:40.873187+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Claude"
+      ],
+      "text": "用 vibe-knowledge-studio 做一条讲「幸存者偏差」的视频，竖屏",
+      "text_status": "Author invocation excerpt / 作者调用语句节选"
+    },
+    {
+      "id": "8c57dfe4194b192a",
+      "repo": "aliangSSS/aliang-knowledge-video",
+      "title": "把墨菲定律拍成侦探调查 · 作者调用示例",
+      "category": "教学科普与手绘",
+      "origin": "Author README / 作者 README",
+      "review": "调用语句节选；项目示例不自动归为该语句的直接生成结果。",
+      "sources": [
+        {
+          "url": "https://github.com/aliangSSS/aliang-knowledge-video/blob/1687e5e87539b98a25289d76e1f935ea48787929/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:40.875185+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Claude"
+      ],
+      "text": "/aliang-knowledge-video 贝叶斯定理",
+      "text_status": "Author invocation excerpt / 作者调用语句节选"
+    },
+    {
+      "id": "b4967944eca2866c",
+      "repo": "AuroraBarista/vibe-knowledge-skill",
+      "title": "从堵车反转开始讲原理 · 作者调用示例",
+      "category": "教学科普与手绘",
+      "origin": "Author README / 作者 README",
+      "review": "调用语句节选；项目示例不自动归为该语句的直接生成结果。",
+      "sources": [
+        {
+          "url": "https://github.com/AuroraBarista/vibe-knowledge-skill/blob/46158ca8d015f356f144aef700842b718a7b713f/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:47.439944+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Claude",
+        "Codex"
+      ],
+      "text": "使用 vibe-knowledge，做一期布雷斯悖论。前 2 秒让观众进入堵车现场，前 5 秒出现反转。先给方案和关键帧。",
+      "text_status": "Author invocation excerpt / 作者调用语句节选"
+    },
+    {
+      "id": "ed4ff34cc3b8a771",
+      "repo": "bangbuilds/code-doc-film",
+      "title": "郑和下西洋的三维纪录短片 · 作者调用示例",
+      "category": "人物传记与历史叙事",
+      "origin": "Author README / 作者 README",
+      "review": "调用语句节选；项目示例不自动归为该语句的直接生成结果。",
+      "sources": [
+        {
+          "url": "https://github.com/bangbuilds/code-doc-film/blob/d3078a857fbc70f78121ed0f919aa9d15c854e57/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:51.112331+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Claude",
+        "Codex"
+      ],
+      "text": "做一条郑和下西洋的 3D 视频",
+      "text_status": "Author invocation excerpt / 作者调用语句节选"
+    },
+    {
+      "id": "43bf3c0985564832",
+      "repo": "bangbuilds/code-poem-film",
+      "title": "用苏轼与李白的作品讲人物 · 作者调用示例",
+      "category": "人物传记与历史叙事",
+      "origin": "Author README / 作者 README",
+      "review": "调用语句节选；项目示例不自动归为该语句的直接生成结果。",
+      "sources": [
+        {
+          "url": "https://github.com/bangbuilds/code-poem-film/blob/8530dafb2786cdd724451f5503934507624b18c1/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:52.084687+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Claude",
+        "Codex"
+      ],
+      "text": "把《登鹳雀楼》做成动画",
+      "text_status": "Author invocation excerpt / 作者调用语句节选"
+    },
+    {
+      "id": "f8e388282025b38e",
+      "repo": "sanshengai/sansheng-distill",
+      "title": "人物生平与引语的证据库 · 作者调用示例",
+      "category": "人物传记与历史叙事",
+      "origin": "Author README / 作者 README",
+      "review": "调用语句节选；项目示例不自动归为该语句的直接生成结果。",
+      "sources": [
+        {
+          "url": "https://github.com/sanshengai/sansheng-distill/blob/a411cc2c923eee070f0e77a44239ee58164a335c/README.md",
+          "type": "Repository README",
+          "checked_at": "2026-11-18T06:49:52.780064+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Claude"
+      ],
+      "text": "建立人物传记证据库",
       "text_status": "Author invocation excerpt / 作者调用语句节选"
     }
   ],
@@ -193307,6 +194411,31 @@
         "pearjelly/deep-blend"
       ],
       "origin": "本次原创整理模板；不是 GitHub 原文，不代表已经执行"
+    },
+    {
+      "id": "knowledge-hook-to-mechanism",
+      "title": "知识大赏：从日常困惑到看懂原理",
+      "category": "知识视频创作",
+      "sources": [
+        "AuroraBarista/vibe-knowledge-skill",
+        "gui-lin/vibe-knowledge-studio",
+        "wchhywizd/vibe-knowledge-interactive"
+      ],
+      "text": "使用当前选定的知识视频 Skill，把【日常问题】做成约 90 秒的代码动画短片。开头 3 秒呈现观众熟悉的场景，第 5 秒前让观众预测一个结果。先列事实来源与适用条件；把核心机制拆成 3 个可见因果步骤，每一步都用同一组对象展示状态变化。先制作最难讲清的一镜，再扩展全片。提供逐帧可复现的场景代码、关键帧和 MP4；默认无配乐，旁白按我的要求配置。不要把示意值冒充实验数据。",
+      "origin": "本目录原创组合模板；不是上游原文或实测结果"
+    },
+    {
+      "id": "biography-evidence-to-film",
+      "title": "人物传记：资料、转折与影像章节",
+      "category": "人物传记创作",
+      "sources": [
+        "sanshengai/sansheng-distill",
+        "WoodyXu/history-story-video",
+        "bangbuilds/code-doc-film",
+        "bangbuilds/code-poem-film"
+      ],
+      "text": "为【人物】制作约 3 分钟的人物传记。先用资料 Skill 整理生平时间线、关键作品、3 次命运转折与原文出处，明确争议和不确定信息。用一个有据可查的关键时刻开场，再交代背景。把每次转折写成处境、选择、代价和后续影响；原话必须可追溯，重构场景标为示意。用分镜 Skill 输出人物设定、镜头画面、解说词和首尾帧提示词。路线与时代空间可交给 code-doc-film；诗人作品章节可交给 code-poem-film。先选一种画面路线做 10 秒样片，再制作全片；不把静态画像的缩放当作全部叙事。",
+      "origin": "本目录原创组合模板；不是上游原文或实测结果"
     }
   ],
   "external_catalogues": [

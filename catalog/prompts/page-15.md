@@ -4,6 +4,9 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [No. 50: YouTube Thumbnail - Double Exposure Motorcycle Sunset Portrait](../../prompts/b4036b3cd2e49bc7.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
+| [No. 51: Infographic / Edu Visual - Anime Character Design Sheet: Sword Queen](../../prompts/402e000d84ae0808.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
+| [No. 51: YouTube Thumbnail - High Definition Portrait Transformation](../../prompts/2fe6960e3de35988.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
 | [No. 52: Infographic / Edu Visual - Folk Art Cafe Study Illustration Prompt](../../prompts/6c3e986a52fc7392.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
 | [No. 52: YouTube Thumbnail - Premium Dark Fantasy Anime Cinematic](../../prompts/748d5be47ce655c7.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
 | [No. 53: Infographic / Edu Visual - Mid-Autumn Festival Typography Poster Prompt](../../prompts/f4395dc725bb283e.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
@@ -81,8 +84,5 @@
 | [No. 83: Product Marketing - Full Armor Mecha Girl Concept Art](../../prompts/e62b24ed5b89c834.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
 | [No. 84: Comic / Storyboard - Aerial Steampunk Workshop Transformation](../../prompts/3cbaeb9baf2acf38.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
 | [No. 84: Product Marketing - Red Carpet Fashion Photo Prompt](../../prompts/33dabcc9087bda0e.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
-| [No. 85: Comic / Storyboard - Fantasy Cartographer & Dog](../../prompts/b84fdc9a13131627.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
-| [No. 85: Product Marketing - Luxury Fashion Editorial Photo](../../prompts/6b67e4cadc094dfd.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
-| [No. 86: Comic / Storyboard - Vintage Editorial Portrait Collage](../../prompts/2872e9bb82973c4e.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)
