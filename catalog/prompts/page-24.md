@@ -4,6 +4,12 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [从房间一路放大到夸克](../../prompts/6c0bcc7e0c27b235.md) | 视频框架与程序化成片 | joeseesun/opus-video-prompts |
+| [仿 Ray Dalio《经济机器》风格讲关系型数据库(5-10 分钟)](../../prompts/58d9b672e3d20064.md) | 视频框架与程序化成片 | PDF / community |
+| [你问 AI 一句话之后的 3 秒钟(公众号作者实战)](../../prompts/1509d2058f571475.md) | 视频框架与程序化成片 | PDF / community |
+| [像素巫师施法动画](../../prompts/17cd6d2a90495f95.md) | 视频框架与程序化成片 | joeseesun/opus-video-prompts |
+| [奥斯特里茨战役历史电影（4 到 5 分钟）](../../prompts/aeb844cd1c093d80.md) | 视频框架与程序化成片 | joeseesun/opus-video-prompts |
+| [推理创业公司发布视频](../../prompts/b886432061694505.md) | 视频框架与程序化成片 | joeseesun/opus-video-prompts |
 | [时钟史版画短片 / Engraved history of clocks](../../prompts/6e0a562859d0183b.md) | 视频框架与程序化成片 | kiselas/every-frame-is-code |
 | [歌词与鼓点驱动的竖屏 MV · 作者调用示例](../../prompts/f138a99e3c13e27e.md) | 视频框架与程序化成片 | seeyouintokyo/music-mv-skill |
 | [真人口播改成线稿动画讲解](../../prompts/3b14914d452e1970.md) | 视频框架与程序化成片 | joeseesun/opus-video-prompts |

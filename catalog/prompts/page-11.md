@@ -4,6 +4,9 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [Sleepy Morning Light Through the Window](../../prompts/118e72d5f9526519.md) | portrait | ych-chen/awesome-nano-banana-prompts |
+| [Soaking in the Saturday Sunshine](../../prompts/3f63da42cc38d40e.md) | portrait | ych-chen/awesome-nano-banana-prompts |
+| [Soft Floral Selfie in Natural Light](../../prompts/2cf206f9c556b68f.md) | portrait | ych-chen/awesome-nano-banana-prompts |
 | [Soft Glam Portrait of Jenna Ortega](../../prompts/b70d3ebcb46b6b6a.md) | portrait | ych-chen/awesome-nano-banana-prompts |
 | [Soft-Focus Cinematic Golden Portrait](../../prompts/ea77cda8d5de9a9f.md) | portrait | ych-chen/awesome-nano-banana-prompts |
 | [Solitude in the Subway Car](../../prompts/c30bb5987f3e79e9.md) | portrait | ych-chen/awesome-nano-banana-prompts |
@@ -81,8 +84,5 @@
 | [Supercar on the Moon](../../prompts/31417ded743b4be3.md) | scene-space | ych-chen/awesome-nano-banana-prompts |
 | [30 秒产品动效简报](../../prompts/901176172bc6b3a0.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
 | [Claude 帮助小镇居民的发布动画](../../prompts/f4f2fdf6976ec400.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
-| [Hoplite 功能发布动效](../../prompts/1020116b61e557cc.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
-| [MakerMap 的连续产品旅程](../../prompts/408e6be8c37b03b3.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
-| [Moonshoot 产品发布片](../../prompts/26b57fa8ffe10305.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

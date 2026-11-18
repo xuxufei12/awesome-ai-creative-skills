@@ -24,6 +24,9 @@
 | [韶山8机车与可驾驶环形铁路](../../prompts/126185407e4f4dec.md) | 3D 与交互 | guanmo-ai/awesome-ai-motion |
 | [龙纹帆船的程序化场景](../../prompts/2b942d0f016c6055.md) | 3D 与交互 | guanmo-ai/awesome-ai-motion |
 | [3D 过山车视频(DSH 自己调用 Blender)](../../prompts/c02bf60436ba7c55.md) | Blender 与三维建模 | PDF / community |
+| [在网页里研究涡扇发动机 · 作者调用示例](../../prompts/070acc6028405b8a.md) | HTML 互动与可玩解释 | AirsupHQ/machine-skill |
+| [坐车逛懂互联网 · 作者调用示例](../../prompts/6de8e1dd2ad8a327.md) | HTML 互动与可玩解释 | aruneshvv/edu-by-llm |
+| [把文档变成可以摆弄的网页 · 作者调用示例](../../prompts/3b83bdad50289b68.md) | HTML 互动与可玩解释 | twidtwid/render-as-html |
 | [Claude 的 20 页手绘速写本](../../prompts/49e84a8ac1b7a7c3.md) | Opus 案例公开提示／片段 | chuspeeism/awesome-opus-5-5-videos |
 | [Deckuse 产品宣传动画](../../prompts/597f8d784d45d2ae.md) | Opus 案例公开提示／片段 | chuspeeism/awesome-opus-5-5-videos |
 | [Distilbook产品宣传片](../../prompts/b999dd84fd1c5cad.md) | Opus 案例公开提示／片段 | chuspeeism/awesome-opus-5-5-videos |
@@ -81,8 +84,5 @@
 | [Cheese Camera Concept Animation](../../prompts/8e8f051fc000171e.md) | SVG 与动态图形 | yihui-dev/awesome-opus5-5-videos |
 | [Cinematic 3D rocket launch](../../prompts/e547c1ece3b31da4.md) | SVG 与动态图形 | yihui-dev/awesome-opus5-5-videos |
 | [Claude Code Multi-Agent Setup](../../prompts/a4fcacf9011c09a5.md) | SVG 与动态图形 | yihui-dev/awesome-opus5-5-videos |
-| [Claude Motion: Opus 5.5 Animated Story](../../prompts/d773594b4b82bfc8.md) | SVG 与动态图形 | yihui-dev/awesome-opus5-5-videos |
-| [Claude Self-Introduction Motion Graphics](../../prompts/a29496b620da6348.md) | SVG 与动态图形 | yihui-dev/awesome-opus5-5-videos |
-| [Clawd Moves In Fan-Film Recreation](../../prompts/be5fd8280f7846a5.md) | SVG 与动态图形 | yihui-dev/awesome-opus5-5-videos |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

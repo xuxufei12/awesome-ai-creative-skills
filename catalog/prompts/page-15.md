@@ -4,6 +4,9 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [No. 52: Infographic / Edu Visual - Folk Art Cafe Study Illustration Prompt](../../prompts/6c3e986a52fc7392.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
+| [No. 52: YouTube Thumbnail - Premium Dark Fantasy Anime Cinematic](../../prompts/748d5be47ce655c7.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
+| [No. 53: Infographic / Edu Visual - Mid-Autumn Festival Typography Poster Prompt](../../prompts/f4395dc725bb283e.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
 | [No. 53: YouTube Thumbnail - Koshien Baseball Broadcast Screen](../../prompts/76f411afea0304e0.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
 | [No. 54: YouTube Thumbnail - Cinematic Fried Chicken Food Advertisement](../../prompts/873e54e09cd47629.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
 | [No. 54: YouTube Thumbnail - Typographic Emergence Movie Poster Grid](../../prompts/ec6d5c7e1e035063.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
@@ -81,8 +84,5 @@
 | [No. 85: Comic / Storyboard - Fantasy Cartographer & Dog](../../prompts/b84fdc9a13131627.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
 | [No. 85: Product Marketing - Luxury Fashion Editorial Photo](../../prompts/6b67e4cadc094dfd.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
 | [No. 86: Comic / Storyboard - Vintage Editorial Portrait Collage](../../prompts/2872e9bb82973c4e.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
-| [No. 86: Product Marketing - Surreal Candy Doll Character Prompt](../../prompts/a34426d17d13dd76.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
-| [No. 87: Comic / Storyboard - Transparent Rose Court Lady](../../prompts/f4e9ce07dd66c03f.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
-| [No. 87: Product Marketing - Luxury Bathtub Fashion Portrait](../../prompts/26884be053ef7f3a.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

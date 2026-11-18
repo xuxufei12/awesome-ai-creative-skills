@@ -4,6 +4,9 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [3d · @myonisto · 923578](../../prompts/c6920b6e06124bcd.md) | Three.js 与 WebGPU | yihui-dev/awesome-opus5-5-videos |
+| [3d · @per_simmons_ · 944727](../../prompts/fa83924a7adf1585.md) | Three.js 与 WebGPU | yihui-dev/awesome-opus5-5-videos |
+| [3d · @sanjay_khadka07 · 620029](../../prompts/1d0c6e412464190f.md) | Three.js 与 WebGPU | yihui-dev/awesome-opus5-5-videos |
 | [3d · @techartist_ · 786274](../../prompts/3e364300704fbd2f.md) | Three.js 与 WebGPU | yihui-dev/awesome-opus5-5-videos |
 | [3d · @thebuggeddev · 482912](../../prompts/d6b89a51f40b174a.md) | Three.js 与 WebGPU | yihui-dev/awesome-opus5-5-videos |
 | [3d · @truenyl · 447745](../../prompts/d10134646ae9902f.md) | Three.js 与 WebGPU | yihui-dev/awesome-opus5-5-videos |
@@ -81,8 +84,5 @@
 | [Dreamy Chibi Collage Portrait](../../prompts/f75e71304f502522.md) | character-art | ych-chen/awesome-nano-banana-prompts |
 | [Engraving-Style Semi-Realistic Digital Painting](../../prompts/53d74cff57b5f00c.md) | character-art | ych-chen/awesome-nano-banana-prompts |
 | [Expressive Oil Portrait with Bold Brushwork](../../prompts/4afc381883b788aa.md) | character-art | ych-chen/awesome-nano-banana-prompts |
-| [Fire and Ice: Forged Power](../../prompts/278032ef547de9f8.md) | character-art | ych-chen/awesome-nano-banana-prompts |
-| [Grace in a Cobblestone Alley](../../prompts/3c002d09c3712973.md) | character-art | ych-chen/awesome-nano-banana-prompts |
-| [Half-Peeled Banana Sauropod Plushie](../../prompts/c1d2527f552ef0fb.md) | character-art | ych-chen/awesome-nano-banana-prompts |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

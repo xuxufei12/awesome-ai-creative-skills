@@ -4,6 +4,9 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [Fire and Ice: Forged Power](../../prompts/278032ef547de9f8.md) | character-art | ych-chen/awesome-nano-banana-prompts |
+| [Grace in a Cobblestone Alley](../../prompts/3c002d09c3712973.md) | character-art | ych-chen/awesome-nano-banana-prompts |
+| [Half-Peeled Banana Sauropod Plushie](../../prompts/c1d2527f552ef0fb.md) | character-art | ych-chen/awesome-nano-banana-prompts |
 | [Impossible Dreams Take Flight](../../prompts/ac06bb639c2f016c.md) | character-art | ych-chen/awesome-nano-banana-prompts |
 | [Isometric Diorama of a Floating Country Map](../../prompts/ec772c0352332bc9.md) | character-art | ych-chen/awesome-nano-banana-prompts |
 | [LEGO Minifigure Mirror Selfie 3D Render](../../prompts/c6ec26f1c510b9dc.md) | character-art | ych-chen/awesome-nano-banana-prompts |
@@ -81,8 +84,5 @@
 | [Angelic Gaze: Sadie Sink in Icy Blue](../../prompts/48b5277ee5c028cc.md) | portrait | ych-chen/awesome-nano-banana-prompts |
 | [Architectural Ink Dissolution Portrait](../../prompts/780fc00ab01636be.md) | portrait | ych-chen/awesome-nano-banana-prompts |
 | [Atelier-Style Digital Oil Portrait](../../prompts/e4f05760c54b897a.md) | portrait | ych-chen/awesome-nano-banana-prompts |
-| [Athletic Woman With Energy Drink at Sunlit Track](../../prompts/30c28609469bbc5a.md) | portrait | ych-chen/awesome-nano-banana-prompts |
-| [Billie Eilish Amidst Crimson Roses](../../prompts/f1ac7621ba181e98.md) | portrait | ych-chen/awesome-nano-banana-prompts |
-| [Billie Eilish's Ethereal Blue-Gray Gaze](../../prompts/af1aae4635de5d44.md) | portrait | ych-chen/awesome-nano-banana-prompts |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

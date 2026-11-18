@@ -4,6 +4,20 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [scenario-zbrush-hard-surface](../../skills/75319219b89790ca.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-zbrush-paint-render](../../skills/fdca3a06ecb875b8.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-zbrush-pose-print](../../skills/bb28f52de1c2d152.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-zbrush-retopology-export](../../skills/6260b67fb15d73be.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-zbrush-sculpting](../../skills/35e170515be07220.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-zbrush-stylized](../../skills/9a681945e13ac907.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [skill-creator](../../skills/dcd4803e61e913e6.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [skills-pr-handle](../../skills/737e9473fb264f67.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [skills-validate](../../skills/0d571437a633e65c.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [spritecook-animate-assets](../../skills/b47fb5338223c7b2.md) | 游戏资产与像素画 | SpriteCook/skills |
+| [spritecook-build-ui-kits](../../skills/ac9fc0da9011b43d.md) | 游戏资产与像素画 | SpriteCook/skills |
+| [spritecook-generate-sprites](../../skills/6cfadce3e919bca2.md) | 游戏资产与像素画 | SpriteCook/skills |
+| [spritecook-generate-tilesets](../../skills/e5b64e6cbe8831cb.md) | 游戏资产与像素画 | SpriteCook/skills |
+| [spritecook-polish-sprites](../../skills/bd93b4b31f6abf3c.md) | 游戏资产与像素画 | SpriteCook/skills |
 | [spritecook-upload-assets](../../skills/4b1f25f4a7c4f376.md) | 游戏资产与像素画 | SpriteCook/skills |
 | [spritecook-use-assets-in-godot](../../skills/b1ccc121378947c7.md) | 游戏资产与像素画 | SpriteCook/skills |
 | [spritecook-use-dual-grid-tilesets](../../skills/7364a1b91538c31b.md) | 游戏资产与像素画 | SpriteCook/skills |
@@ -70,19 +84,5 @@
 | [gsap-core](../../skills/3887b47e050ab5af.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [gsap-frameworks](../../skills/1e14f96aa6cfeb4d.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [gsap-performance](../../skills/cb5408d6fba707aa.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [gsap-plugins](../../skills/ef2d7cdaaf066fc0.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [gsap-react](../../skills/88e2a5312b45e8cc.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [gsap-scrolltrigger](../../skills/9351b6666a4749c0.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [gsap-timeline](../../skills/1a8b0f39cc4be3ed.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [gsap-utils](../../skills/1927bcc4ea95b382.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [h3-prompt-writing](../../skills/4c3caa49ddaa4fd7.md) | 视频框架与程序化成片 | fengyungithub/dsh-short-video-studio |
-| [heygen](../../skills/eb5d021c7e0ea1f6.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [hyperframes](../../skills/cae375ffe84cb58b.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [hyperframes](../../skills/180ce4eea5f33f16.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
-| [hyperframes](../../skills/78200a2e1ac102c2.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
-| [hyperframes-animation](../../skills/785cacfa594627f4.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [hyperframes-animation](../../skills/c16fed4153a9ec22.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
-| [hyperframes-audio](../../skills/70fedc7b32e6fe1d.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
-| [hyperframes-cli](../../skills/53b6de9aca72b3b8.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md)

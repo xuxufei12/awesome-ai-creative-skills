@@ -4,6 +4,14 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [story-short-write](../../skills/d41caefb4e33788e.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
+| [storytelling](../../skills/84db669934671807.md) | 图像生成与商业视觉 | fal-ai-community/skills |
+| [tiled-image-upscale](../../skills/867ea02acf1932f8.md) | 图像生成与商业视觉 | vvcc0101/tiled-image-upscale |
+| [ugc](../../skills/a70d5de3b17aebad.md) | 图像生成与商业视觉 | fal-ai-community/skills |
+| [video](../../skills/a9c0b2b00eadd1c6.md) | 图像生成与商业视觉 | smixs/visual-skills |
+| [video-assemble](../../skills/e0771facf681f6a5.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
+| [video-cut](../../skills/6ac561990a6eb89d.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
+| [video-recap](../../skills/217913bc6f9e47e0.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
 | [video-script](../../skills/58d03a784e81589a.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
 | [video-understanding](../../skills/86c395f032d934f6.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
 | [video-voiceover](../../skills/e726cda155ae10de.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
@@ -31,6 +39,7 @@
 | [travel-photo-to-video](../../skills/cde2df38fa635c15.md) | 提示词与导演方法 | kangarooking/director-skills |
 | [travel-skill](../../skills/125d105b200e1c74.md) | 提示词与导演方法 | kangarooking/director-skills |
 | [3b1b-scientific-explanation](../../skills/4f62a8361f84c6f5.md) | 教学科普与手绘 | KhalilOthmanEng/3b1b-scientific-explanation |
+| [code-explainer-video](../../skills/45e9566707754e81.md) | 教学科普与手绘 | Everett406/code-explainer-video |
 | [evidence-video](../../skills/152fd7ebb284f11d.md) | 教学科普与手绘 | shiyan688/evidence-video |
 | [explainer](../../skills/063f2f61c08179b1.md) | 教学科普与手绘 | jdrurka/explainer-skill |
 | [huashu-art-motion](../../skills/df73e57c621425a8.md) | 教学科普与手绘 | alchaincyf/huashu-art-motion |
@@ -40,7 +49,12 @@
 | [manim-skill](../../skills/40ffbd7dc500a0e4.md) | 教学科普与手绘 | Yusuke710/manim-skill |
 | [manimce-best-practices](../../skills/ae09751ec9e3e938.md) | 教学科普与手绘 | adithya-s-k/manim_skill |
 | [manimgl-best-practices](../../skills/acb89023c69fca1f.md) | 教学科普与手绘 | adithya-s-k/manim_skill |
+| [stick-reel](../../skills/c12fbba6da0d967d.md) | 教学科普与手绘 | thiernoyunus/stick-reel |
 | [sweety-handdraw-video](../../skills/f04ae296fc68e9d7.md) | 教学科普与手绘 | threerocks/sweety-handdraw-video |
+| [vibe-knowledge](../../skills/f26fc97ebdb729eb.md) | 教学科普与手绘 | worlds3/vibe-knowledge |
+| [vibe-knowledge-awards](../../skills/9ebccb544de2eb2c.md) | 教学科普与手绘 | xiaotian-freedom/vibe-knowledge-awards-skill |
+| [vibe-knowledge-video](../../skills/e5ea1b0ae74c7020.md) | 教学科普与手绘 | YT-smart/vibe-knowledge-video |
+| [vibe-make](../../skills/cb86d81387640163.md) | 教学科普与手绘 | steseven/vibe-make |
 | [weilanx-creator-blackgold-video](../../skills/4e580050bc52bca0.md) | 教学科普与手绘 | Azure12355/weilanx-claude-videos |
 | [weilanx-creator-desk-video](../../skills/d46ee0039bee03b5.md) | 教学科普与手绘 | Azure12355/weilanx-claude-videos |
 | [weilanx-creator-distill-video](../../skills/7e7b2e9d65945147.md) | 教学科普与手绘 | Azure12355/weilanx-claude-videos |
@@ -70,19 +84,5 @@
 | [pr-summary](../../skills/3c162715785f46cb.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [pyxel](../../skills/59eea1fb126cd478.md) | 游戏资产与像素画 | kitao/pyxel-skill |
 | [reference-pack-authority](../../skills/ca37f86090ed2be9.md) | 游戏资产与像素画 | RemakeBench/skills |
-| [scenario](../../skills/c9829cbd9d935494.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-3d](../../skills/666c47010d5de48d.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-3d-worlds](../../skills/b8445b809ff60259.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-ace-step](../../skills/e807fc4e3c498e9d.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-ad-variants](../../skills/fc925184242e259c.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-admin-analytics](../../skills/bef9d808bbc28501.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-asset-analysis](../../skills/65e93591985c7ba2.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-audio](../../skills/57aaa605f4d0a484.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-blender](../../skills/4296ef5a8bf03543.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-blender-2d-animation](../../skills/0bc8708f6851f10d.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-blender-animation](../../skills/a384ba772cb712ba.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-blender-blockout](../../skills/966d792b085e57b2.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-blender-expert](../../skills/15139d52aa6c0f41.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-blender-export](../../skills/2c306189b1546a71.md) | 游戏资产与像素画 | scenario-labs/skills |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md)

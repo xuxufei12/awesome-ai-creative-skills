@@ -4,6 +4,20 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [remotion-multimedia](../../skills/53641e3ca9e3c9bd.md) | 视频框架与程序化成片 | remotion-dev/skills |
+| [remotion-multimedia](../../skills/259db7738731b3cc.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
+| [remotion-render](../../skills/395f10011d0ebc5b.md) | 视频框架与程序化成片 | remotion-dev/skills |
+| [remotion-render](../../skills/e63ccad00121c09c.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
+| [remotion-saas](../../skills/e5a697b3a0bf76c6.md) | 视频框架与程序化成片 | remotion-dev/skills |
+| [remotion-saas](../../skills/3a39b08776b794f5.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
+| [remotion-shorts-skill](../../skills/dc804426db3c052e.md) | 视频框架与程序化成片 | social-media-skills/remotion-shorts-skill |
+| [remotion-studio](../../skills/7bcfd01480867e04.md) | 视频框架与程序化成片 | remotion-dev/skills |
+| [remotion-studio](../../skills/10f6c2c0bccf1186.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
+| [remotion-to-hyperframes](../../skills/6cf906c4491b9a32.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [remotion-to-hyperframes](../../skills/b0ca685894ce06df.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
+| [remotion-to-hyperframes](../../skills/dadbc7d7775b80e3.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
+| [remotion-upgrade](../../skills/4839f7d851364d1b.md) | 视频框架与程序化成片 | remotion-dev/skills |
+| [remotion-upgrade](../../skills/0445e0d1a1355dd3.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
 | [runpod](../../skills/a61ea498acd0f2c8.md) | 视频框架与程序化成片 | digitalsamba/claude-code-video-toolkit |
 | [scriptwriting](../../skills/ef1e8ea98f6c10d0.md) | 视频框架与程序化成片 | salomonMuriel/media-production-skills |
 | [seam-craft](../../skills/c5aa27c6d6c088fa.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
@@ -70,19 +84,5 @@
 | [3dgs-mcp-renderer](../../skills/0d9861b480153bcc.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
 | [3dgs-method-compare](../../skills/c1380cec14410dfa.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
 | [3dgs-paper-reader](../../skills/fb7275aef9686899.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
-| [3dgs-spatial-agent](../../skills/78a1ceffe4a6a36a.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
-| [3dgs-training-debugger](../../skills/492bc4b5254b14a3.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
-| [3dgs-visualizer](../../skills/f7c25df73987b7c6.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
-| [awesome-gaussian-skills](../../skills/feb3b4e943782899.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
-| [cad-mesh-3dgs](../../skills/8997dc34a7efcce8.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
-| [cg-paper-writing](../../skills/499921f470fe5478.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
-| [deepstream-run-mv3dt](../../skills/59bcaeffec5f8e25.md) | 高斯泼溅与仿真 | NVIDIA/skills |
-| [nerf-to-3dgs-migrator](../../skills/258481ad6707a54d.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
-| [omniverse-cad-to-simready](../../skills/a7f60b0452e3324d.md) | 高斯泼溅与仿真 | NVIDIA/skills |
-| [omniverse-realtime-viewer](../../skills/19ffbd179e7a5873.md) | 高斯泼溅与仿真 | NVIDIA/skills |
-| [omniverse-usd-performance-tuning](../../skills/8510299d8ec9b9a9.md) | 高斯泼溅与仿真 | NVIDIA/skills |
-| [ontology](../../skills/7dde5049cb1e74bb.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
-| [paidf-cosmos-predict](../../skills/3df325c66066bda0.md) | 高斯泼溅与仿真 | NVIDIA/skills |
-| [patent-software-ip](../../skills/6ca42e672d5a6d99.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md)

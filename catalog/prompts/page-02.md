@@ -4,6 +4,9 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [Claude Motion: Opus 5.5 Animated Story](../../prompts/d773594b4b82bfc8.md) | SVG 与动态图形 | yihui-dev/awesome-opus5-5-videos |
+| [Claude Self-Introduction Motion Graphics](../../prompts/a29496b620da6348.md) | SVG 与动态图形 | yihui-dev/awesome-opus5-5-videos |
+| [Clawd Moves In Fan-Film Recreation](../../prompts/be5fd8280f7846a5.md) | SVG 与动态图形 | yihui-dev/awesome-opus5-5-videos |
 | [Code-Built Brand Promo Motion Graphics](../../prompts/6754db7c86d01d5e.md) | SVG 与动态图形 | yihui-dev/awesome-opus5-5-videos |
 | [Code-Drawn Product Launch Video](../../prompts/271dfb706ce81745.md) | SVG 与动态图形 | yihui-dev/awesome-opus5-5-videos |
 | [Code-Generated Motion Design Showreel](../../prompts/0003550e7b724d8a.md) | SVG 与动态图形 | yihui-dev/awesome-opus5-5-videos |
@@ -81,8 +84,5 @@
 | [Opus 5.5 Product Demo](../../prompts/2c843e650a8e5f66.md) | SVG 与动态图形 | yihui-dev/awesome-opus5-5-videos |
 | [Opus 5.5 Promo Video Animation](../../prompts/930d203b5e4b5a70.md) | SVG 与动态图形 | yihui-dev/awesome-opus5-5-videos |
 | [Opus 5.5 Remotion](../../prompts/9befdca1514fd86b.md) | SVG 与动态图形 | yihui-dev/awesome-opus5-5-videos |
-| [Opus 5.5 Remotion Product Promo Video](../../prompts/eac348e795b3702c.md) | SVG 与动态图形 | yihui-dev/awesome-opus5-5-videos |
-| [Opus 5.5 UI Motion Loop](../../prompts/210e350188988e3b.md) | SVG 与动态图形 | yihui-dev/awesome-opus5-5-videos |
-| [Orbital Lounge Lofi Stream Loop](../../prompts/a1fe00d565531c71.md) | SVG 与动态图形 | yihui-dev/awesome-opus5-5-videos |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

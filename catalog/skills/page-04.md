@@ -4,6 +4,14 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [baoyu-xhs-images](../../skills/17bf5498641cc60c.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
+| [baoyu-youtube-transcript](../../skills/b7085574c6bf72e0.md) | 图像生成与商业视觉 | JimLiu/baoyu-skills |
+| [bride-series](../../skills/a83c5352d036dbb0.md) | 图像生成与商业视觉 | kers701/bride-series-skill |
+| [browser-cdp](../../skills/aa594fbec8ba42f0.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
+| [character-design](../../skills/1f62641d84b3dc0f.md) | 图像生成与商业视觉 | fal-ai-community/skills |
+| [cinematography](../../skills/8d23b4836a7621e1.md) | 图像生成与商业视觉 | fal-ai-community/skills |
+| [codex-image](../../skills/85f064754e26021f.md) | 图像生成与商业视觉 | lgdy88/codex-image |
+| [codex-image-gen](../../skills/9ebb4338b486d372.md) | 图像生成与商业视觉 | zazencodes/skills |
 | [codex-imagegen](../../skills/7a9d391313909054.md) | 图像生成与商业视觉 | JunSeo99/claude-skill-codex-imagegen |
 | [commercial](../../skills/be01bc3eabf0cd10.md) | 图像生成与商业视觉 | fal-ai-community/skills |
 | [crayon-diagrams](../../skills/56b76e62a6e5e753.md) | 图像生成与商业视觉 | deer-flow/crayon-diagrams |
@@ -76,13 +84,5 @@
 | [story-setup](../../skills/2504129415f695bf.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
 | [story-short-analyze](../../skills/3c9ccd95a5a8b4ff.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
 | [story-short-scan](../../skills/10a656d50c02278f.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
-| [story-short-write](../../skills/d41caefb4e33788e.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
-| [storytelling](../../skills/84db669934671807.md) | 图像生成与商业视觉 | fal-ai-community/skills |
-| [tiled-image-upscale](../../skills/867ea02acf1932f8.md) | 图像生成与商业视觉 | vvcc0101/tiled-image-upscale |
-| [ugc](../../skills/a70d5de3b17aebad.md) | 图像生成与商业视觉 | fal-ai-community/skills |
-| [video](../../skills/a9c0b2b00eadd1c6.md) | 图像生成与商业视觉 | smixs/visual-skills |
-| [video-assemble](../../skills/e0771facf681f6a5.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
-| [video-cut](../../skills/6ac561990a6eb89d.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
-| [video-recap](../../skills/217913bc6f9e47e0.md) | 图像生成与商业视觉 | zmm863-commits/dsh-agnes-studio |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md)

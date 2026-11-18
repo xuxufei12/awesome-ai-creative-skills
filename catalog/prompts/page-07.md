@@ -4,6 +4,9 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [motion · @supremebeme · 306746](../../prompts/d56d6155b4491e5d.md) | SVG 与动态图形 | yihui-dev/awesome-opus5-5-videos |
+| [motion · @tankazunori0914 · 156748](../../prompts/b626d7109099f655.md) | SVG 与动态图形 | yihui-dev/awesome-opus5-5-videos |
+| [motion · @techhalla · 498547](../../prompts/037b245316ca1297.md) | SVG 与动态图形 | yihui-dev/awesome-opus5-5-videos |
 | [motion · @techtactician · 144474](../../prompts/55a8f122bdb366bd.md) | SVG 与动态图形 | yihui-dev/awesome-opus5-5-videos |
 | [motion · @techyoutbe · 588678](../../prompts/e1a16812f751f9e9.md) | SVG 与动态图形 | yihui-dev/awesome-opus5-5-videos |
 | [motion · @thallisribeiro · 829318](../../prompts/62638df03cc53249.md) | SVG 与动态图形 | yihui-dev/awesome-opus5-5-videos |
@@ -81,8 +84,5 @@
 | [3d · @kum1ta · 740521](../../prompts/7d021cc844753d88.md) | Three.js 与 WebGPU | yihui-dev/awesome-opus5-5-videos |
 | [3d · @lribes4 · 742305](../../prompts/562336d37b6e3e88.md) | Three.js 与 WebGPU | yihui-dev/awesome-opus5-5-videos |
 | [3d · @mdaman010 · 111079](../../prompts/f82dfb3be718b7aa.md) | Three.js 与 WebGPU | yihui-dev/awesome-opus5-5-videos |
-| [3d · @myonisto · 923578](../../prompts/c6920b6e06124bcd.md) | Three.js 与 WebGPU | yihui-dev/awesome-opus5-5-videos |
-| [3d · @per_simmons_ · 944727](../../prompts/fa83924a7adf1585.md) | Three.js 与 WebGPU | yihui-dev/awesome-opus5-5-videos |
-| [3d · @sanjay_khadka07 · 620029](../../prompts/1d0c6e412464190f.md) | Three.js 与 WebGPU | yihui-dev/awesome-opus5-5-videos |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

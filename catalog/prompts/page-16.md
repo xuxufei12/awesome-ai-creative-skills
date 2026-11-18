@@ -4,6 +4,9 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [No. 86: Product Marketing - Surreal Candy Doll Character Prompt](../../prompts/a34426d17d13dd76.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
+| [No. 87: Comic / Storyboard - Transparent Rose Court Lady](../../prompts/f4e9ce07dd66c03f.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
+| [No. 87: Product Marketing - Luxury Bathtub Fashion Portrait](../../prompts/26884be053ef7f3a.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
 | [No. 88: Comic / Storyboard - Anime Train at Dusk with Mount Fuji](../../prompts/ed7b07510a7947c6.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
 | [No. 88: Product Marketing - Luxury Fashion Editorial with Sports Sedan](../../prompts/7c5206ee184f8be7.md) | 图像 | YouMind-OpenLab/awesome-nano-banana-pro-prompts |
 | [No. 89: Comic / Storyboard - Cloud Friend Scrapbook Poster](../../prompts/d07356153f365ade.md) | 图像 | YouMind-OpenLab/awesome-gpt-image-2 |
@@ -81,8 +84,5 @@
 | [例 26: 线稿图生成图像（by @ZHO_ZHO_ZHO）](../../prompts/4313240f5ff47932.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 | [例 27: 为图像添加水印（by @AiMachete）](../../prompts/fb870e7616991e87.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 | [例 27: 电影分镜制作（by @jamesyeung18）](../../prompts/eeff93f5e9ef2a92.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 28: 知识推理生成图像（by @icreatelife）](../../prompts/4dfdcaaf4a19709f.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 28: 黑板粉笔画（by @TlanoAI）](../../prompts/2ad3f7d9ba621915.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 29: 微型自画像（by @TechieBySA）](../../prompts/8105492bfdec4438.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

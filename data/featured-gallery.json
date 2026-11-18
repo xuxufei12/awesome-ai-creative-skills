@@ -1,5 +1,77 @@
 [
   {
+    "slug": "knowledge-and-play",
+    "title_zh": "知识讲清楚，网页玩起来",
+    "title_en": "Explain a concept, play with a page",
+    "edition": "2026-11-18-knowledge-html",
+    "items": [
+      {
+        "kind": "project",
+        "project_id": "yt-smart--vibe-knowledge-video",
+        "title_zh": "落珠如何堆出运气的形状",
+        "title_en": "Galton-board luck explainer",
+        "media_url": "https://raw.githubusercontent.com/YT-smart/vibe-knowledge-video/6dddf51ad112f5533f4d474c6641a6cdeca36689/demos/claude.gif",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "steseven--vibe-make",
+        "title_zh": "古人怎么刷牙",
+        "title_en": "How people brushed teeth in the past",
+        "media_url": "https://raw.githubusercontent.com/steseven/vibe-make/cea769d015ba31a46c85ec8237454b4465e78386/examples/%E5%8F%A4%E4%BA%BA%E5%88%B7%E7%89%99/%E6%88%90%E7%89%87%E6%8B%BC%E6%9D%BF_1.jpg",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "thiernoyunus--stick-reel",
+        "title_zh": "让火柴人真的参与解释",
+        "title_en": "Purposeful stick-figure explainers",
+        "media_url": "https://raw.githubusercontent.com/thiernoyunus/stick-reel/1fff5db51376e4415aab7505c5cf60c9612e3a0d/examples/adraka-yudrika/output/cover.png",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "mantou2046--onepager-explainer",
+        "title_zh": "拖动滑杆读懂 LoRA",
+        "title_en": "Explore LoRA with a slider",
+        "media_url": "https://raw.githubusercontent.com/mantou2046/onepager-explainer/948e1560c5a4279ee0ac5492b4e198aa6cda27e8/docs/assets/lora.png",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "d-sup--sim-diorama-skill",
+        "title_zh": "夜景赛车与像素小镇",
+        "title_en": "Tiny worlds with simulated rules",
+        "media_url": "https://raw.githubusercontent.com/D-Sup/sim-diorama-skill/aa6413bf78d6ca6e49e523dc65ebc1ffe9c37278/media/marina-gp.gif",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "airsuphq--machine-skill",
+        "title_zh": "在网页里研究涡扇发动机",
+        "title_en": "Explore a turbofan in the browser",
+        "media_url": "https://raw.githubusercontent.com/AirsupHQ/machine-skill/e0bd066ac5beaf48512935de2fc0f0e55636853a/.github/assets/turbofan.jpg",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "asashades--asa-slides",
+        "title_zh": "按方向键拆开三维物件",
+        "title_en": "Step through a 3D explanation",
+        "media_url": "https://raw.githubusercontent.com/asashades/asa-slides/f153f6b54286af87e58119066b22dc943ac6d281/docs/media/explainers/e01-take-it-apart-3d.gif",
+        "width": 300
+      },
+      {
+        "kind": "project",
+        "project_id": "k-sandhu--visual-explainer-skills",
+        "title_zh": "先猜结果，再调参数",
+        "title_en": "Predict, reveal and explore",
+        "media_url": "https://raw.githubusercontent.com/k-sandhu/visual-explainer-skills/807d99e619233f37a6e1519ddb88a2c77f33bcb6/examples/27-adaptive-knowledge-rollouts/explainer.gif",
+        "width": 300
+      }
+    ]
+  },
+  {
     "slug": "code-video-lab",
     "title_zh": "代码做视频：从样片打开场景源码",
     "title_en": "Films made with code: from a sample to its scene",

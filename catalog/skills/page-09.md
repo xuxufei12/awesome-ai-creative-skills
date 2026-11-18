@@ -4,6 +4,20 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [gsap-plugins](../../skills/ef2d7cdaaf066fc0.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [gsap-react](../../skills/88e2a5312b45e8cc.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [gsap-scrolltrigger](../../skills/9351b6666a4749c0.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [gsap-timeline](../../skills/1a8b0f39cc4be3ed.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [gsap-utils](../../skills/1927bcc4ea95b382.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [h3-prompt-writing](../../skills/4c3caa49ddaa4fd7.md) | 视频框架与程序化成片 | fengyungithub/dsh-short-video-studio |
+| [heygen](../../skills/eb5d021c7e0ea1f6.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [hyperframes](../../skills/cae375ffe84cb58b.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [hyperframes](../../skills/180ce4eea5f33f16.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
+| [hyperframes](../../skills/78200a2e1ac102c2.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
+| [hyperframes-animation](../../skills/785cacfa594627f4.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
+| [hyperframes-animation](../../skills/c16fed4153a9ec22.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
+| [hyperframes-audio](../../skills/70fedc7b32e6fe1d.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
+| [hyperframes-cli](../../skills/53b6de9aca72b3b8.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
 | [hyperframes-cli](../../skills/44a48ccfa4cbd4f4.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
 | [hyperframes-cli](../../skills/ae4a81fca82d1b04.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
 | [hyperframes-core](../../skills/689de1f94e682ee3.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
@@ -70,19 +84,5 @@
 | [remotion-maps](../../skills/da116f9bf15fed3e.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
 | [remotion-markup](../../skills/399a8f21821ee720.md) | 视频框架与程序化成片 | remotion-dev/skills |
 | [remotion-markup](../../skills/4b93ba32451e84fb.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
-| [remotion-multimedia](../../skills/53641e3ca9e3c9bd.md) | 视频框架与程序化成片 | remotion-dev/skills |
-| [remotion-multimedia](../../skills/259db7738731b3cc.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
-| [remotion-render](../../skills/395f10011d0ebc5b.md) | 视频框架与程序化成片 | remotion-dev/skills |
-| [remotion-render](../../skills/e63ccad00121c09c.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
-| [remotion-saas](../../skills/e5a697b3a0bf76c6.md) | 视频框架与程序化成片 | remotion-dev/skills |
-| [remotion-saas](../../skills/3a39b08776b794f5.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
-| [remotion-shorts-skill](../../skills/dc804426db3c052e.md) | 视频框架与程序化成片 | social-media-skills/remotion-shorts-skill |
-| [remotion-studio](../../skills/7bcfd01480867e04.md) | 视频框架与程序化成片 | remotion-dev/skills |
-| [remotion-studio](../../skills/10f6c2c0bccf1186.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
-| [remotion-to-hyperframes](../../skills/6cf906c4491b9a32.md) | 视频框架与程序化成片 | calesthio/OpenMontage |
-| [remotion-to-hyperframes](../../skills/b0ca685894ce06df.md) | 视频框架与程序化成片 | heygen-com/hyperframes |
-| [remotion-to-hyperframes](../../skills/dadbc7d7775b80e3.md) | 视频框架与程序化成片 | STARDUSTLC666/dsh-hyperframes |
-| [remotion-upgrade](../../skills/4839f7d851364d1b.md) | 视频框架与程序化成片 | remotion-dev/skills |
-| [remotion-upgrade](../../skills/0445e0d1a1355dd3.md) | 视频框架与程序化成片 | remotion-dev/claude-code-plugin |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md)

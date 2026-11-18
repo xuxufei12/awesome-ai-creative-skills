@@ -12,9 +12,36 @@
 
 **先看效果，再找做法。** 动图直接播放；点击喜欢的画面或卡片下方的「Skill」「提示词」，就能找到对应方法。
 
-[代码做视频：从样片打开场景源码](#code-video-lab) · [11 月第二辑：月相、蜡笔图与九宫格表情](#november-picks-2) · [11 月精选：剪纸短片、生活感照片与聊天表情](#november-picks) · [直接看动图](#animated) · [创意图片与设计](#images) · [艺术动画与风格](#animation) · [3D 世界与产品视觉](#worlds) · [广告与商业短片](#ads) · [电影感与叙事短片](#films)
+[知识讲清楚，网页玩起来](#knowledge-and-play) · [代码做视频：从样片打开场景源码](#code-video-lab) · [11 月第二辑：月相、蜡笔图与九宫格表情](#november-picks-2) · [11 月精选：剪纸短片、生活感照片与聊天表情](#november-picks) · [直接看动图](#animated) · [创意图片与设计](#images) · [艺术动画与风格](#animation) · [3D 世界与产品视觉](#worlds) · [广告与商业短片](#ads) · [电影感与叙事短片](#films)
 
-[浏览全部 2,087 个效果预览 →](gallery/README.md) · [按工具检索](#find-tools) · [自定义风格新玩法](#custom-styles)
+[浏览全部 2,096 个效果预览 →](gallery/README.md) · [按工具检索](#find-tools) · [自定义风格新玩法](#custom-styles)
+
+<a id="knowledge-and-play"></a>
+
+## 知识讲清楚，网页玩起来
+
+[本期新增 14 个项目，按用途浏览 →](docs/new-2026-11-18-knowledge-html.md)
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/yt-smart--vibe-knowledge-video.md"><img src="https://raw.githubusercontent.com/YT-smart/vibe-knowledge-video/6dddf51ad112f5533f4d474c6641a6cdeca36689/demos/claude.gif" width="300" alt="落珠如何堆出运气的形状" loading="lazy"></a><br><a href="projects/yt-smart--vibe-knowledge-video.md"><b>落珠如何堆出运气的形状</b></a><br><sub><a href="skills/e5ea1b0ae74c7020.md">Skill</a> · <a href="https://raw.githubusercontent.com/YT-smart/vibe-knowledge-video/6dddf51ad112f5533f4d474c6641a6cdeca36689/demos/claude.gif">原动图</a> · <a href="projects/yt-smart--vibe-knowledge-video.md">制作方法</a></sub><br><sub><a href="https://github.com/YT-smart/vibe-knowledge-video/blob/6dddf51ad112f5533f4d474c6641a6cdeca36689/README.md">YT-smart/vibe-knowledge-video</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/steseven--vibe-make.md"><img src="https://raw.githubusercontent.com/steseven/vibe-make/cea769d015ba31a46c85ec8237454b4465e78386/examples/%E5%8F%A4%E4%BA%BA%E5%88%B7%E7%89%99/%E6%88%90%E7%89%87%E6%8B%BC%E6%9D%BF_1.jpg" width="300" alt="古人怎么刷牙" loading="lazy"></a><br><a href="projects/steseven--vibe-make.md"><b>古人怎么刷牙</b></a><br><sub><a href="skills/cb86d81387640163.md">Skill</a> · <a href="projects/steseven--vibe-make.md">制作方法</a></sub><br><sub><a href="https://github.com/steseven/vibe-make/blob/cea769d015ba31a46c85ec8237454b4465e78386/README.md">steseven/vibe-make</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/thiernoyunus--stick-reel.md"><img src="https://raw.githubusercontent.com/thiernoyunus/stick-reel/1fff5db51376e4415aab7505c5cf60c9612e3a0d/examples/adraka-yudrika/output/cover.png" width="300" alt="让火柴人真的参与解释" loading="lazy"></a><br><a href="projects/thiernoyunus--stick-reel.md"><b>让火柴人真的参与解释</b></a><br><sub><a href="skills/c12fbba6da0d967d.md">Skill</a> · <a href="projects/thiernoyunus--stick-reel.md">制作方法</a></sub><br><sub><a href="https://github.com/thiernoyunus/stick-reel/blob/1fff5db51376e4415aab7505c5cf60c9612e3a0d/README.md">thiernoyunus/stick-reel</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/mantou2046--onepager-explainer.md"><img src="https://raw.githubusercontent.com/mantou2046/onepager-explainer/948e1560c5a4279ee0ac5492b4e198aa6cda27e8/docs/assets/lora.png" width="300" alt="拖动滑杆读懂 LoRA" loading="lazy"></a><br><a href="projects/mantou2046--onepager-explainer.md"><b>拖动滑杆读懂 LoRA</b></a><br><sub><a href="skills/c873e0151c6ef290.md">Skill</a> · <a href="projects/mantou2046--onepager-explainer.md">制作方法</a></sub><br><sub><a href="https://github.com/mantou2046/onepager-explainer/blob/948e1560c5a4279ee0ac5492b4e198aa6cda27e8/README.md">mantou2046/onepager-explainer</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/d-sup--sim-diorama-skill.md"><img src="https://raw.githubusercontent.com/D-Sup/sim-diorama-skill/aa6413bf78d6ca6e49e523dc65ebc1ffe9c37278/media/marina-gp.gif" width="300" alt="夜景赛车与像素小镇" loading="lazy"></a><br><a href="projects/d-sup--sim-diorama-skill.md"><b>夜景赛车与像素小镇</b></a><br><sub><a href="skills/0c6873c7877069c3.md">Skill</a> · <a href="https://raw.githubusercontent.com/D-Sup/sim-diorama-skill/aa6413bf78d6ca6e49e523dc65ebc1ffe9c37278/media/marina-gp.gif">原动图</a> · <a href="projects/d-sup--sim-diorama-skill.md">制作方法</a></sub><br><sub><a href="https://github.com/D-Sup/sim-diorama-skill/blob/aa6413bf78d6ca6e49e523dc65ebc1ffe9c37278/README.md">D-Sup/sim-diorama-skill</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/airsuphq--machine-skill.md"><img src="https://raw.githubusercontent.com/AirsupHQ/machine-skill/e0bd066ac5beaf48512935de2fc0f0e55636853a/.github/assets/turbofan.jpg" width="300" alt="在网页里研究涡扇发动机" loading="lazy"></a><br><a href="projects/airsuphq--machine-skill.md"><b>在网页里研究涡扇发动机</b></a><br><sub><a href="skills/1f71d2c90c9b1c0c.md">Skill</a> · <a href="projects/airsuphq--machine-skill.md">制作方法</a></sub><br><sub><a href="https://github.com/AirsupHQ/machine-skill/blob/e0bd066ac5beaf48512935de2fc0f0e55636853a/README.md">AirsupHQ/machine-skill</a></sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><a href="projects/asashades--asa-slides.md"><img src="https://raw.githubusercontent.com/asashades/asa-slides/f153f6b54286af87e58119066b22dc943ac6d281/docs/media/explainers/e01-take-it-apart-3d.gif" width="300" alt="按方向键拆开三维物件" loading="lazy"></a><br><a href="projects/asashades--asa-slides.md"><b>按方向键拆开三维物件</b></a><br><sub><a href="skills/f4389b704306b898.md">Skill</a> · <a href="https://asashades.github.io/asa-slides/galeri-explainer.html">在线体验</a> · <a href="projects/asashades--asa-slides.md">制作方法</a></sub><br><sub><a href="https://github.com/asashades/asa-slides/blob/f153f6b54286af87e58119066b22dc943ac6d281/README.md">asashades/asa-slides</a></sub></td>
+<td width="50%" valign="top" align="center"><a href="projects/k-sandhu--visual-explainer-skills.md"><img src="https://raw.githubusercontent.com/k-sandhu/visual-explainer-skills/807d99e619233f37a6e1519ddb88a2c77f33bcb6/examples/27-adaptive-knowledge-rollouts/explainer.gif" width="300" alt="先猜结果，再调参数" loading="lazy"></a><br><a href="projects/k-sandhu--visual-explainer-skills.md"><b>先猜结果，再调参数</b></a><br><sub><a href="skills/b69d7441a1d8d051.md">Skill</a> · <a href="https://raw.githubusercontent.com/k-sandhu/visual-explainer-skills/807d99e619233f37a6e1519ddb88a2c77f33bcb6/examples/27-adaptive-knowledge-rollouts/explainer.gif">原动图</a> · <a href="projects/k-sandhu--visual-explainer-skills.md">制作方法</a></sub><br><sub><a href="https://github.com/k-sandhu/visual-explainer-skills/blob/807d99e619233f37a6e1519ddb88a2c77f33bcb6/README.md">k-sandhu/visual-explainer-skills</a></sub></td>
+</tr>
+</table>
+
+[继续按效果挑选 →](gallery/README.md)
 
 <a id="code-video-lab"></a>
 
@@ -285,12 +312,12 @@ Lemo-Opuscar 已更新到 **59 种影片风格**，新增 **8 种剪辑与纪实
 
 ## 找到喜欢的效果，开始制作
 
-**收录概览** · **478** 项目 · **806** Skills · **1856** 提示词／风格文本 · **2204** 案例
+**收录概览** · **492** 项目 · **820** Skills · **1862** 提示词／风格文本 · **2204** 案例
 
 | 入口 | 内容 |
 |---|---|
 | [视觉目录](gallery/README.md) | 分页浏览更多图片、视频与工具效果 |
-| [完整分类目录](catalog/README.md) | 15 个创作方向 |
+| [完整分类目录](catalog/README.md) | 16 个创作方向 |
 | [提示词正文](catalog/prompts/README.md) | 可复制正文、来源与对应效果 |
 | [Skill 原文](catalog/skills/README.md) | 独立 Skill 页面与上游安装依赖 |
 | [案例与效果](catalog/cases/README.md) | 预览图、视频与公开提示词状态 |
@@ -322,7 +349,7 @@ Lemo-Opuscar 已更新到 **59 种影片风格**，新增 **8 种剪辑与纪实
 
 | 方向 | 项目数 |
 |---|---:|
-| [教学科普与手绘](catalog/education.md) | 62 |
+| [教学科普与手绘](catalog/education.md) | 68 |
 | [剪辑字幕与数字人](catalog/editing.md) | 94 |
 | [叙事动画与音乐视频](catalog/storytelling.md) | 30 |
 | [视频框架与程序化成片](catalog/video-frameworks.md) | 88 |
@@ -337,6 +364,7 @@ Lemo-Opuscar 已更新到 **59 种影片风格**，新增 **8 种剪辑与纪实
 | [游戏资产与像素画](catalog/game-assets.md) | 11 |
 | [高斯泼溅与仿真](catalog/simulation.md) | 2 |
 | [表情包与动态贴纸](catalog/stickers.md) | 8 |
+| [HTML 互动与可玩解释](catalog/interactive-html.md) | 8 |
 
 ## 如何使用
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "repository": "xuxufei12/awesome-ai-creative-skills",
-  "snapshot_date": "2026-11-13",
+  "snapshot_date": "2026-11-18",
   "projects": [
     {
       "repo": "0x68616F4C/auto-popsci",
@@ -28416,6 +28416,958 @@
       "upstream_pushed_at": "2026-11-10T19:57:10Z",
       "edition": "2026-11-13-code-video",
       "scene_source": "https://github.com/3b1b/videos/blob/31f8ffe785e860477a6051fde983c02c7d165bc2/_2024/manim_demo/lorenz.py"
+    },
+    {
+      "id": "yt-smart--vibe-knowledge-video",
+      "repo": "YT-smart/vibe-knowledge-video",
+      "title": "落珠如何堆出运气的形状 / Galton-board luck explainer",
+      "url": "https://github.com/YT-smart/vibe-knowledge-video",
+      "summary": "以落珠、硬币和点阵说明概率，用字幕和代码动画代替旁白；作者提供 Claude、Codex、豆包与 WorkBuddy 样片。 / Galton-board luck explainer",
+      "category": "教学科普与手绘",
+      "type": "Agent Skill / Code knowledge video",
+      "hosts": [
+        "Claude",
+        "Codex",
+        "WorkBuddy",
+        "Doubao"
+      ],
+      "status": "已核验固定版本 Skill 与入口",
+      "curated": true,
+      "requirements": "Python、Pillow、NumPy、FFmpeg；需要自行准备配乐。",
+      "limits": "作者示例与源码已核对；未在本目录运行创作工作流。",
+      "license": "未识别到明确仓库许可",
+      "archived": false,
+      "stars": 14,
+      "commit": "6dddf51ad112f5533f4d474c6641a6cdeca36689",
+      "checked_at": "2026-11-18T06:37:17.226054+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "YT-smart/vibe-knowledge-video"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/YT-smart/vibe-knowledge-video/blob/6dddf51ad112f5533f4d474c6641a6cdeca36689/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-18T06:37:17.226054+00:00"
+        },
+        {
+          "url": "https://github.com/YT-smart/vibe-knowledge-video/blob/6dddf51ad112f5533f4d474c6641a6cdeca36689/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-18T06:37:17.226054+00:00"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/YT-smart/vibe-knowledge-video/6dddf51ad112f5533f4d474c6641a6cdeca36689/demos/claude.gif",
+          "type": "image",
+          "label": "claude.gif",
+          "relationship": "Author-provided project example; not our output",
+          "verification": "Pinned source and media signature verified"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/YT-smart/vibe-knowledge-video/6dddf51ad112f5533f4d474c6641a6cdeca36689/demos/claude.mp4",
+          "type": "video",
+          "label": "claude.mp4",
+          "relationship": "Author-provided project example; not our output",
+          "verification": "Pinned source and media signature verified"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/YT-smart/vibe-knowledge-video/6dddf51ad112f5533f4d474c6641a6cdeca36689/demos/codex.gif",
+          "type": "image",
+          "label": "codex.gif",
+          "relationship": "Author-provided project example; not our output",
+          "verification": "Pinned source and media signature verified"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/YT-smart/vibe-knowledge-video/6dddf51ad112f5533f4d474c6641a6cdeca36689/demos/codex.mp4",
+          "type": "video",
+          "label": "codex.mp4",
+          "relationship": "Author-provided project example; not our output",
+          "verification": "Pinned source and media signature verified"
+        }
+      ],
+      "upstream_created_at": "2026-10-17T11:32:24Z",
+      "upstream_pushed_at": "2026-10-17T13:45:26Z",
+      "edition": "2026-11-18-knowledge-html",
+      "collection_kind": "V",
+      "example_entry": "",
+      "experience_url": "",
+      "example_label": "Example source / 示例源码"
+    },
+    {
+      "id": "steseven--vibe-make",
+      "repo": "steseven/vibe-make",
+      "title": "古人怎么刷牙 / How people brushed teeth in the past",
+      "url": "https://github.com/steseven/vibe-make",
+      "summary": "把生活问题拆成调查、字幕、镜头与时间轴；附历史科普工程和成片拼板。 / How people brushed teeth in the past",
+      "category": "教学科普与手绘",
+      "type": "Agent Skill / Code knowledge video",
+      "hosts": [
+        "Claude",
+        "Codex",
+        "DeepSeek"
+      ],
+      "status": "已核验固定版本 Skill 与入口",
+      "curated": true,
+      "requirements": "HyperFrames、Node、Python 3.10+、NumPy、FFmpeg；包含第三方方法与工具署名。",
+      "limits": "作者示例与源码已核对；未在本目录运行创作工作流。",
+      "license": "参见上游许可原文",
+      "archived": false,
+      "stars": 1,
+      "commit": "cea769d015ba31a46c85ec8237454b4465e78386",
+      "checked_at": "2026-11-18T06:37:17.228055+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "steseven/vibe-make"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/steseven/vibe-make/blob/cea769d015ba31a46c85ec8237454b4465e78386/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-18T06:37:17.228055+00:00"
+        },
+        {
+          "url": "https://github.com/steseven/vibe-make/blob/cea769d015ba31a46c85ec8237454b4465e78386/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-18T06:37:17.228055+00:00"
+        },
+        {
+          "url": "https://github.com/steseven/vibe-make/blob/cea769d015ba31a46c85ec8237454b4465e78386/examples/%E5%8F%A4%E4%BA%BA%E5%88%B7%E7%89%99/code/scenes.js",
+          "type": "Example or template source",
+          "checked_at": "2026-11-18T06:37:17.228055+00:00"
+        },
+        {
+          "url": "https://github.com/steseven/vibe-make/blob/cea769d015ba31a46c85ec8237454b4465e78386/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/steseven/vibe-make/cea769d015ba31a46c85ec8237454b4465e78386/examples/%E5%8F%A4%E4%BA%BA%E5%88%B7%E7%89%99/%E6%88%90%E7%89%87%E6%8B%BC%E6%9D%BF_1.jpg",
+          "type": "image",
+          "label": "成片拼板_1.jpg",
+          "relationship": "Author-provided project example; not our output",
+          "verification": "Pinned source and media signature verified"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/steseven/vibe-make/cea769d015ba31a46c85ec8237454b4465e78386/examples/%E5%8F%A4%E4%BA%BA%E5%88%B7%E7%89%99/%E6%88%90%E7%89%87%E6%8B%BC%E6%9D%BF_2.jpg",
+          "type": "image",
+          "label": "成片拼板_2.jpg",
+          "relationship": "Author-provided project example; not our output",
+          "verification": "Pinned source and media signature verified"
+        }
+      ],
+      "upstream_created_at": "2026-10-21T09:50:40Z",
+      "upstream_pushed_at": "2026-10-21T09:50:51Z",
+      "edition": "2026-11-18-knowledge-html",
+      "collection_kind": "V",
+      "example_entry": "https://github.com/steseven/vibe-make/blob/cea769d015ba31a46c85ec8237454b4465e78386/examples/%E5%8F%A4%E4%BA%BA%E5%88%B7%E7%89%99/code/scenes.js",
+      "experience_url": "",
+      "example_label": "Example source / 示例源码"
+    },
+    {
+      "id": "worlds3--vibe-knowledge",
+      "repo": "worlds3/vibe-knowledge",
+      "title": "遇到第几个人该停下 / When should you stop searching?",
+      "url": "https://github.com/worlds3/vibe-knowledge",
+      "summary": "用 Canvas 时间函数演示最优停止理论；HTML 自带播放和逐帧导出 MP4 的入口。 / When should you stop searching?",
+      "category": "教学科普与手绘",
+      "type": "Agent Skill / Code knowledge video",
+      "hosts": [
+        "Claude"
+      ],
+      "status": "已核验固定版本 Skill 与入口",
+      "curated": true,
+      "requirements": "Chrome 或 Edge；通过本地 HTTP 服务加载音频，导出时保持标签页前台。",
+      "limits": "作者示例与源码已核对；未在本目录运行创作工作流。",
+      "license": "未识别到明确仓库许可",
+      "archived": false,
+      "stars": 26,
+      "commit": "0d0249f3713a10051a01709dbf7844c6b1d376f7",
+      "checked_at": "2026-11-18T06:37:17.229056+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "worlds3/vibe-knowledge"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/worlds3/vibe-knowledge/blob/0d0249f3713a10051a01709dbf7844c6b1d376f7/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-18T06:37:17.229056+00:00"
+        },
+        {
+          "url": "https://github.com/worlds3/vibe-knowledge/blob/0d0249f3713a10051a01709dbf7844c6b1d376f7/skill/vibe-knowledge/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-18T06:37:17.229056+00:00"
+        },
+        {
+          "url": "https://github.com/worlds3/vibe-knowledge/blob/0d0249f3713a10051a01709dbf7844c6b1d376f7/stop-37/index.html",
+          "type": "Example or template source",
+          "checked_at": "2026-11-18T06:37:17.229056+00:00"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://github.com/worlds3/vibe-knowledge/blob/0d0249f3713a10051a01709dbf7844c6b1d376f7/stop-37/index.html",
+          "type": "page",
+          "label": "HTML source — download to run / HTML 源文件，下载后运行",
+          "verification": "Pinned HTML source checked"
+        }
+      ],
+      "upstream_created_at": "2026-10-15T06:11:39Z",
+      "upstream_pushed_at": "2026-10-15T06:11:55Z",
+      "edition": "2026-11-18-knowledge-html",
+      "collection_kind": "V",
+      "example_entry": "https://github.com/worlds3/vibe-knowledge/blob/0d0249f3713a10051a01709dbf7844c6b1d376f7/stop-37/index.html",
+      "experience_url": "",
+      "example_label": "Example source / 示例源码"
+    },
+    {
+      "id": "xiaotian-freedom--vibe-knowledge-awards-skill",
+      "repo": "xiaotian-freedom/vibe-knowledge-awards-skill",
+      "title": "字幕与动作卡点的知识短片 / Beat-timed knowledge shorts",
+      "url": "https://github.com/xiaotian-freedom/vibe-knowledge-awards-skill",
+      "summary": "用逐镜计划组织无口播知识短片，附竖屏 HTML 起始工程、边缘和运动量检查脚本。 / Beat-timed knowledge shorts",
+      "category": "教学科普与手绘",
+      "type": "Agent Skill / Code knowledge video",
+      "hosts": [],
+      "status": "已核验固定版本 Skill 与入口",
+      "curated": true,
+      "requirements": "代码执行与视频编码环境；依照模板准备文字、场景与音频。",
+      "limits": "作者示例与源码已核对；未在本目录运行创作工作流。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 1,
+      "commit": "0f98c3455978c746039f03993cee7d765df2e715",
+      "checked_at": "2026-11-18T06:37:17.229056+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "xiaotian-freedom/vibe-knowledge-awards-skill"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/xiaotian-freedom/vibe-knowledge-awards-skill/blob/0f98c3455978c746039f03993cee7d765df2e715/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-18T06:37:17.229056+00:00"
+        },
+        {
+          "url": "https://github.com/xiaotian-freedom/vibe-knowledge-awards-skill/blob/0f98c3455978c746039f03993cee7d765df2e715/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-18T06:37:17.229056+00:00"
+        },
+        {
+          "url": "https://github.com/xiaotian-freedom/vibe-knowledge-awards-skill/blob/0f98c3455978c746039f03993cee7d765df2e715/examples/vertical-1080x1920.html",
+          "type": "Example or template source",
+          "checked_at": "2026-11-18T06:37:17.229056+00:00"
+        },
+        {
+          "url": "https://github.com/xiaotian-freedom/vibe-knowledge-awards-skill/blob/0f98c3455978c746039f03993cee7d765df2e715/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://github.com/xiaotian-freedom/vibe-knowledge-awards-skill/blob/0f98c3455978c746039f03993cee7d765df2e715/examples/vertical-1080x1920.html",
+          "type": "page",
+          "label": "HTML source — download to run / HTML 源文件，下载后运行",
+          "verification": "Pinned HTML source checked"
+        }
+      ],
+      "upstream_created_at": "2026-10-22T14:53:16Z",
+      "upstream_pushed_at": "2026-10-22T14:53:22Z",
+      "edition": "2026-11-18-knowledge-html",
+      "collection_kind": "V",
+      "example_entry": "https://github.com/xiaotian-freedom/vibe-knowledge-awards-skill/blob/0f98c3455978c746039f03993cee7d765df2e715/examples/vertical-1080x1920.html",
+      "experience_url": "",
+      "example_label": "Example source / 示例源码"
+    },
+    {
+      "id": "thiernoyunus--stick-reel",
+      "repo": "thiernoyunus/stick-reel",
+      "title": "让火柴人真的参与解释 / Purposeful stick-figure explainers",
+      "url": "https://github.com/thiernoyunus/stick-reel",
+      "summary": "用角色动作而非装饰性摆动表达概念，再配合旁白时间线输出竖屏讲解；附完整作者示例。 / Purposeful stick-figure explainers",
+      "category": "教学科普与手绘",
+      "type": "Agent Skill / Code knowledge video",
+      "hosts": [
+        "Codex"
+      ],
+      "status": "已核验固定版本 Skill 与入口",
+      "curated": true,
+      "requirements": "Node 22+、FFmpeg、FFprobe；Linux 可能需补 Playwright 系统依赖。",
+      "limits": "作者示例与源码已核对；未在本目录运行创作工作流。",
+      "license": "参见上游许可原文",
+      "archived": false,
+      "stars": 0,
+      "commit": "1fff5db51376e4415aab7505c5cf60c9612e3a0d",
+      "checked_at": "2026-11-18T06:37:17.230055+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "thiernoyunus/stick-reel"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/thiernoyunus/stick-reel/blob/1fff5db51376e4415aab7505c5cf60c9612e3a0d/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-18T06:37:17.230055+00:00"
+        },
+        {
+          "url": "https://github.com/thiernoyunus/stick-reel/blob/1fff5db51376e4415aab7505c5cf60c9612e3a0d/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-18T06:37:17.230055+00:00"
+        },
+        {
+          "url": "https://github.com/thiernoyunus/stick-reel/blob/1fff5db51376e4415aab7505c5cf60c9612e3a0d/examples/adraka-yudrika/index.html",
+          "type": "Example or template source",
+          "checked_at": "2026-11-18T06:37:17.230055+00:00"
+        },
+        {
+          "url": "https://github.com/thiernoyunus/stick-reel/blob/1fff5db51376e4415aab7505c5cf60c9612e3a0d/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/thiernoyunus/stick-reel/1fff5db51376e4415aab7505c5cf60c9612e3a0d/examples/adraka-yudrika/output/cover.png",
+          "type": "image",
+          "label": "cover.png",
+          "relationship": "Author-provided project example; not our output",
+          "verification": "Pinned source and media signature verified"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/thiernoyunus/stick-reel/1fff5db51376e4415aab7505c5cf60c9612e3a0d/examples/adraka-yudrika/output/adraka-yudrika.mp4",
+          "type": "video",
+          "label": "adraka-yudrika.mp4",
+          "relationship": "Author-provided project example; not our output",
+          "verification": "Pinned source and media signature verified"
+        },
+        {
+          "url": "https://github.com/thiernoyunus/stick-reel/blob/1fff5db51376e4415aab7505c5cf60c9612e3a0d/examples/adraka-yudrika/index.html",
+          "type": "page",
+          "label": "HTML source — download to run / HTML 源文件，下载后运行",
+          "verification": "Pinned HTML source checked"
+        }
+      ],
+      "upstream_created_at": "2026-11-18T05:19:06Z",
+      "upstream_pushed_at": "2026-11-18T05:19:18Z",
+      "edition": "2026-11-18-knowledge-html",
+      "collection_kind": "V",
+      "example_entry": "https://github.com/thiernoyunus/stick-reel/blob/1fff5db51376e4415aab7505c5cf60c9612e3a0d/examples/adraka-yudrika/index.html",
+      "experience_url": "",
+      "example_label": "Example source / 示例源码"
+    },
+    {
+      "id": "everett406--code-explainer-video",
+      "repo": "Everett406/code-explainer-video",
+      "title": "Kimi 的代码讲解视频工作流 / Code explainers with Kimi",
+      "url": "https://github.com/Everett406/code-explainer-video",
+      "summary": "规定知识讲解的策划、编码、检查和 MP4 交付流程；仓库有媒体检查脚本，尚未发现成品样片。 / Code explainers with Kimi",
+      "category": "教学科普与手绘",
+      "type": "Agent Skill / Code knowledge video",
+      "hosts": [],
+      "status": "已核验固定版本 Skill 与入口",
+      "curated": true,
+      "requirements": "Kimi 或可执行代码的技能宿主；按照任务配置渲染器和 FFmpeg。",
+      "limits": "作者示例与源码已核对；未在本目录运行创作工作流。",
+      "license": "未识别到明确仓库许可",
+      "archived": false,
+      "stars": 0,
+      "commit": "c8522f61100c53284d770b260f188f84c454cc61",
+      "checked_at": "2026-11-18T06:37:27.242977+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "Everett406/code-explainer-video"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/Everett406/code-explainer-video/blob/c8522f61100c53284d770b260f188f84c454cc61/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-18T06:37:27.242977+00:00"
+        },
+        {
+          "url": "https://github.com/Everett406/code-explainer-video/blob/c8522f61100c53284d770b260f188f84c454cc61/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-18T06:37:27.242977+00:00"
+        },
+        {
+          "url": "https://github.com/Everett406/code-explainer-video/blob/c8522f61100c53284d770b260f188f84c454cc61/scripts/check_video.py",
+          "type": "Validation script",
+          "checked_at": "2026-11-18T06:37:27.242977+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "upstream_created_at": "2026-11-18T01:34:26Z",
+      "upstream_pushed_at": "2026-11-18T01:38:07Z",
+      "edition": "2026-11-18-knowledge-html",
+      "collection_kind": "V",
+      "example_entry": "https://github.com/Everett406/code-explainer-video/blob/c8522f61100c53284d770b260f188f84c454cc61/scripts/check_video.py",
+      "experience_url": "",
+      "example_label": "Validation script / 检查脚本"
+    },
+    {
+      "id": "mantou2046--onepager-explainer",
+      "repo": "mantou2046/onepager-explainer",
+      "title": "拖动滑杆读懂 LoRA / Explore LoRA with a slider",
+      "url": "https://github.com/mantou2046/onepager-explainer",
+      "summary": "把概念拆成原理、动手演示和速查；LoRA 示例用双路数据动画与滑杆呈现适配器参数变化。 / Explore LoRA with a slider",
+      "category": "HTML 互动与可玩解释",
+      "type": "Agent Skill / Interactive HTML",
+      "hosts": [
+        "Claude",
+        "WorkBuddy"
+      ],
+      "status": "已核验固定版本 Skill 与入口",
+      "curated": true,
+      "requirements": "单文件 HTML，可在浏览器打开；制作时需要支持技能的编程代理。",
+      "limits": "作者示例与源码已核对；未在本目录运行创作工作流。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 0,
+      "commit": "948e1560c5a4279ee0ac5492b4e198aa6cda27e8",
+      "checked_at": "2026-11-18T06:37:27.971259+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "mantou2046/onepager-explainer"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/mantou2046/onepager-explainer/blob/948e1560c5a4279ee0ac5492b4e198aa6cda27e8/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-18T06:37:27.971259+00:00"
+        },
+        {
+          "url": "https://github.com/mantou2046/onepager-explainer/blob/948e1560c5a4279ee0ac5492b4e198aa6cda27e8/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-18T06:37:27.971259+00:00"
+        },
+        {
+          "url": "https://github.com/mantou2046/onepager-explainer/blob/948e1560c5a4279ee0ac5492b4e198aa6cda27e8/examples/LoRA%20%C2%B7%20%E4%B8%80%E9%A1%B5%E8%AF%BB%E6%87%82.html",
+          "type": "Example or template source",
+          "checked_at": "2026-11-18T06:37:27.971259+00:00"
+        },
+        {
+          "url": "https://github.com/mantou2046/onepager-explainer/blob/948e1560c5a4279ee0ac5492b4e198aa6cda27e8/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/mantou2046/onepager-explainer/948e1560c5a4279ee0ac5492b4e198aa6cda27e8/docs/assets/lora.png",
+          "type": "image",
+          "label": "lora.png",
+          "relationship": "Author-provided project example; not our output",
+          "verification": "Pinned source and media signature verified"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/mantou2046/onepager-explainer/948e1560c5a4279ee0ac5492b4e198aa6cda27e8/docs/assets/BM25.png",
+          "type": "image",
+          "label": "BM25.png",
+          "relationship": "Author-provided project example; not our output",
+          "verification": "Pinned source and media signature verified"
+        },
+        {
+          "url": "https://github.com/mantou2046/onepager-explainer/blob/948e1560c5a4279ee0ac5492b4e198aa6cda27e8/examples/LoRA%20%C2%B7%20%E4%B8%80%E9%A1%B5%E8%AF%BB%E6%87%82.html",
+          "type": "page",
+          "label": "HTML source — download to run / HTML 源文件，下载后运行",
+          "verification": "Pinned HTML source checked"
+        }
+      ],
+      "upstream_created_at": "2026-11-18T02:36:32Z",
+      "upstream_pushed_at": "2026-11-18T03:22:54Z",
+      "edition": "2026-11-18-knowledge-html",
+      "collection_kind": "H",
+      "example_entry": "https://github.com/mantou2046/onepager-explainer/blob/948e1560c5a4279ee0ac5492b4e198aa6cda27e8/examples/LoRA%20%C2%B7%20%E4%B8%80%E9%A1%B5%E8%AF%BB%E6%87%82.html",
+      "experience_url": "",
+      "example_label": "Example source / 示例源码"
+    },
+    {
+      "id": "d-sup--sim-diorama-skill",
+      "repo": "D-Sup/sim-diorama-skill",
+      "title": "夜景赛车与像素小镇 / Tiny worlds with simulated rules",
+      "url": "https://github.com/D-Sup/sim-diorama-skill",
+      "summary": "把赛车、街区或小镇做成单页 3D 世界，让规则驱动可见状态变化；作者提供赛道动图及 HTML 示例。 / Tiny worlds with simulated rules",
+      "category": "HTML 互动与可玩解释",
+      "type": "Agent Skill / Interactive HTML",
+      "hosts": [
+        "Claude"
+      ],
+      "status": "已核验固定版本 Skill 与入口",
+      "curated": true,
+      "requirements": "Claude Code 与现代浏览器；按生成页面实际引用的依赖运行。",
+      "limits": "作者示例与源码已核对；未在本目录运行创作工作流。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 0,
+      "commit": "aa6413bf78d6ca6e49e523dc65ebc1ffe9c37278",
+      "checked_at": "2026-11-18T06:37:32.649547+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "D-Sup/sim-diorama-skill"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/D-Sup/sim-diorama-skill/blob/aa6413bf78d6ca6e49e523dc65ebc1ffe9c37278/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-18T06:37:32.649547+00:00"
+        },
+        {
+          "url": "https://github.com/D-Sup/sim-diorama-skill/blob/aa6413bf78d6ca6e49e523dc65ebc1ffe9c37278/sim-diorama/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-18T06:37:32.649547+00:00"
+        },
+        {
+          "url": "https://github.com/D-Sup/sim-diorama-skill/blob/aa6413bf78d6ca6e49e523dc65ebc1ffe9c37278/sim-diorama/references/example-marina-gp.html",
+          "type": "Example or template source",
+          "checked_at": "2026-11-18T06:37:32.649547+00:00"
+        },
+        {
+          "url": "https://github.com/D-Sup/sim-diorama-skill/blob/aa6413bf78d6ca6e49e523dc65ebc1ffe9c37278/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/D-Sup/sim-diorama-skill/aa6413bf78d6ca6e49e523dc65ebc1ffe9c37278/media/marina-gp.gif",
+          "type": "image",
+          "label": "marina-gp.gif",
+          "relationship": "Author-provided project example; not our output",
+          "verification": "Pinned source and media signature verified"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/D-Sup/sim-diorama-skill/aa6413bf78d6ca6e49e523dc65ebc1ffe9c37278/media/hollowmere.gif",
+          "type": "image",
+          "label": "hollowmere.gif",
+          "relationship": "Author-provided project example; not our output",
+          "verification": "Pinned source and media signature verified"
+        },
+        {
+          "url": "https://github.com/D-Sup/sim-diorama-skill/blob/aa6413bf78d6ca6e49e523dc65ebc1ffe9c37278/sim-diorama/references/example-marina-gp.html",
+          "type": "page",
+          "label": "HTML source — download to run / HTML 源文件，下载后运行",
+          "verification": "Pinned HTML source checked"
+        }
+      ],
+      "upstream_created_at": "2026-11-11T14:11:46Z",
+      "upstream_pushed_at": "2026-11-11T14:25:42Z",
+      "edition": "2026-11-18-knowledge-html",
+      "collection_kind": "H",
+      "example_entry": "https://github.com/D-Sup/sim-diorama-skill/blob/aa6413bf78d6ca6e49e523dc65ebc1ffe9c37278/sim-diorama/references/example-marina-gp.html",
+      "experience_url": "",
+      "example_label": "Example source / 示例源码"
+    },
+    {
+      "id": "scifieconomicslab--paperdolls",
+      "repo": "scifieconomicslab/paperdolls",
+      "title": "让城市模型变成可探索街区 / Walk through a simulated city",
+      "url": "https://github.com/scifieconomicslab/paperdolls",
+      "summary": "将 NetLogo 模型转为 TypeScript，再把运行状态绑定到等距城市画面；作者提供 Sonnet 与 DeepSeek 等不同代理的实验工程。 / Walk through a simulated city",
+      "category": "HTML 互动与可玩解释",
+      "type": "Agent Skill / Interactive HTML",
+      "hosts": [
+        "Claude",
+        "DeepSeek"
+      ],
+      "status": "已核验固定版本 Skill 与入口",
+      "curated": true,
+      "requirements": "代码代理、项目工具链与相应 NetLogo 模型；具体环境见固定提交 README。",
+      "limits": "作者示例与源码已核对；未在本目录运行创作工作流。",
+      "license": "CC-BY-4.0",
+      "archived": false,
+      "stars": 1,
+      "commit": "cff3484631a3e42441421766fa7e274b37cebf89",
+      "checked_at": "2026-11-18T06:37:34.590334+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "scifieconomicslab/paperdolls"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/scifieconomicslab/paperdolls/blob/cff3484631a3e42441421766fa7e274b37cebf89/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-18T06:37:34.590334+00:00"
+        },
+        {
+          "url": "https://github.com/scifieconomicslab/paperdolls/blob/cff3484631a3e42441421766fa7e274b37cebf89/skills/paperdolls-pipeline/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-18T06:37:34.590334+00:00"
+        },
+        {
+          "url": "https://github.com/scifieconomicslab/paperdolls/blob/cff3484631a3e42441421766fa7e274b37cebf89/worlds/developer%20tests/brussels-sonnet/visual/index.html",
+          "type": "Example or template source",
+          "checked_at": "2026-11-18T06:37:34.590334+00:00"
+        },
+        {
+          "url": "https://github.com/scifieconomicslab/paperdolls/blob/cff3484631a3e42441421766fa7e274b37cebf89/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/scifieconomicslab/paperdolls/cff3484631a3e42441421766fa7e274b37cebf89/docs/jette.jpg",
+          "type": "image",
+          "label": "jette.jpg",
+          "relationship": "Author-provided project example; not our output",
+          "verification": "Pinned source and media signature verified"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/scifieconomicslab/paperdolls/cff3484631a3e42441421766fa7e274b37cebf89/docs/dashboard.jpg",
+          "type": "image",
+          "label": "dashboard.jpg",
+          "relationship": "Author-provided project example; not our output",
+          "verification": "Pinned source and media signature verified"
+        },
+        {
+          "url": "https://github.com/scifieconomicslab/paperdolls/blob/cff3484631a3e42441421766fa7e274b37cebf89/worlds/developer%20tests/brussels-sonnet/visual/index.html",
+          "type": "page",
+          "label": "HTML source — download to run / HTML 源文件，下载后运行",
+          "verification": "Pinned HTML source checked"
+        }
+      ],
+      "upstream_created_at": "2026-11-11T15:45:01Z",
+      "upstream_pushed_at": "2026-11-17T15:30:19Z",
+      "edition": "2026-11-18-knowledge-html",
+      "collection_kind": "H",
+      "example_entry": "https://github.com/scifieconomicslab/paperdolls/blob/cff3484631a3e42441421766fa7e274b37cebf89/worlds/developer%20tests/brussels-sonnet/visual/index.html",
+      "experience_url": "",
+      "example_label": "Example source / 示例源码"
+    },
+    {
+      "id": "aruneshvv--edu-by-llm",
+      "repo": "aruneshvv/edu-by-llm",
+      "title": "坐车逛懂互联网 / Tour how the Internet works",
+      "url": "https://github.com/aruneshvv/edu-by-llm",
+      "summary": "让小车沿等距城镇逐站解释网络或 RAG；页面提供暂停、速度、缩放和建筑点击等操作。 / Tour how the Internet works",
+      "category": "HTML 互动与可玩解释",
+      "type": "Agent Skill / Interactive HTML",
+      "hosts": [
+        "Claude"
+      ],
+      "status": "已核验固定版本 Skill 与入口",
+      "curated": true,
+      "requirements": "生成结果是单文件 Canvas HTML；作者说明可离线打开。",
+      "limits": "作者示例与源码已核对；未在本目录运行创作工作流。",
+      "license": "未识别到明确仓库许可",
+      "archived": false,
+      "stars": 2,
+      "commit": "7f0b3cc4757a9b4457cfd3d6b83851b9fbdd4699",
+      "checked_at": "2026-11-18T06:37:34.665948+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "aruneshvv/edu-by-llm"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/aruneshvv/edu-by-llm/blob/7f0b3cc4757a9b4457cfd3d6b83851b9fbdd4699/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-18T06:37:34.665948+00:00"
+        },
+        {
+          "url": "https://github.com/aruneshvv/edu-by-llm/blob/7f0b3cc4757a9b4457cfd3d6b83851b9fbdd4699/.claude/skills/edu-sim/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-18T06:37:34.665948+00:00"
+        },
+        {
+          "url": "https://github.com/aruneshvv/edu-by-llm/blob/7f0b3cc4757a9b4457cfd3d6b83851b9fbdd4699/output/how-the-internet-works.html",
+          "type": "Example or template source",
+          "checked_at": "2026-11-18T06:37:34.665948+00:00"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://github.com/aruneshvv/edu-by-llm/blob/7f0b3cc4757a9b4457cfd3d6b83851b9fbdd4699/output/how-the-internet-works.html",
+          "type": "page",
+          "label": "HTML source — download to run / HTML 源文件，下载后运行",
+          "verification": "Pinned HTML source checked"
+        }
+      ],
+      "upstream_created_at": "2026-08-10T15:33:43Z",
+      "upstream_pushed_at": "2026-08-11T06:25:00Z",
+      "edition": "2026-11-18-knowledge-html",
+      "collection_kind": "H",
+      "example_entry": "https://github.com/aruneshvv/edu-by-llm/blob/7f0b3cc4757a9b4457cfd3d6b83851b9fbdd4699/output/how-the-internet-works.html",
+      "experience_url": "",
+      "example_label": "Example source / 示例源码"
+    },
+    {
+      "id": "twidtwid--render-as-html",
+      "repo": "twidtwid/render-as-html",
+      "title": "把文档变成可以摆弄的网页 / Documents you can manipulate",
+      "url": "https://github.com/twidtwid/render-as-html",
+      "summary": "用筛选、排序、拖拽看板与复制指令按钮，把静态材料变成可交互、可迭代的 HTML 成果。 / Documents you can manipulate",
+      "category": "HTML 互动与可玩解释",
+      "type": "Agent Skill / Interactive HTML",
+      "hosts": [
+        "Claude",
+        "Codex"
+      ],
+      "status": "已核验固定版本 Skill 与入口",
+      "curated": true,
+      "requirements": "Claude Code 或 Codex；直接打开 HTML，具体页面依赖按实例确认。",
+      "limits": "作者示例与源码已核对；未在本目录运行创作工作流。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 3,
+      "commit": "2aaabb185e6df940089a5c479df62e95ec4de48a",
+      "checked_at": "2026-11-18T06:37:38.437130+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "twidtwid/render-as-html"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/twidtwid/render-as-html/blob/2aaabb185e6df940089a5c479df62e95ec4de48a/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-18T06:37:38.437130+00:00"
+        },
+        {
+          "url": "https://github.com/twidtwid/render-as-html/blob/2aaabb185e6df940089a5c479df62e95ec4de48a/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-18T06:37:38.437130+00:00"
+        },
+        {
+          "url": "https://github.com/twidtwid/render-as-html/blob/2aaabb185e6df940089a5c479df62e95ec4de48a/examples/primitives.html",
+          "type": "Example or template source",
+          "checked_at": "2026-11-18T06:37:38.437130+00:00"
+        },
+        {
+          "url": "https://github.com/twidtwid/render-as-html/blob/2aaabb185e6df940089a5c479df62e95ec4de48a/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://twidtwid.github.io/render-as-html/examples/primitives.html",
+          "type": "page",
+          "label": "Interactive HTML demo / 在线互动",
+          "verification": "HTTP response checked; interactions not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-05-11T18:08:21Z",
+      "upstream_pushed_at": "2026-10-04T22:24:27Z",
+      "edition": "2026-11-18-knowledge-html",
+      "collection_kind": "H",
+      "example_entry": "https://github.com/twidtwid/render-as-html/blob/2aaabb185e6df940089a5c479df62e95ec4de48a/examples/primitives.html",
+      "experience_url": "https://twidtwid.github.io/render-as-html/examples/primitives.html",
+      "example_label": "Example source / 示例源码"
+    },
+    {
+      "id": "airsuphq--machine-skill",
+      "repo": "AirsupHQ/machine-skill",
+      "title": "在网页里研究涡扇发动机 / Explore a turbofan in the browser",
+      "url": "https://github.com/AirsupHQ/machine-skill",
+      "summary": "用机械 HTML 实例观察结构与运行，再通过附带录制工具制作分享视频；工程精度以作者实现为准。 / Explore a turbofan in the browser",
+      "category": "HTML 互动与可玩解释",
+      "type": "Agent Skill / Interactive HTML",
+      "hosts": [
+        "Claude",
+        "Codex"
+      ],
+      "status": "已核验固定版本 Skill 与入口",
+      "curated": true,
+      "requirements": "Claude Code、现代浏览器；录制视频另需作者说明的 Node 工具链。",
+      "limits": "作者示例与源码已核对；未在本目录运行创作工作流。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 707,
+      "commit": "e0bd066ac5beaf48512935de2fc0f0e55636853a",
+      "checked_at": "2026-11-18T06:37:41.793872+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "AirsupHQ/machine-skill"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/AirsupHQ/machine-skill/blob/e0bd066ac5beaf48512935de2fc0f0e55636853a/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-18T06:37:41.793872+00:00"
+        },
+        {
+          "url": "https://github.com/AirsupHQ/machine-skill/blob/e0bd066ac5beaf48512935de2fc0f0e55636853a/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-18T06:37:41.793872+00:00"
+        },
+        {
+          "url": "https://github.com/AirsupHQ/machine-skill/blob/e0bd066ac5beaf48512935de2fc0f0e55636853a/examples/turbofan.html",
+          "type": "Example or template source",
+          "checked_at": "2026-11-18T06:37:41.793872+00:00"
+        },
+        {
+          "url": "https://github.com/AirsupHQ/machine-skill/blob/e0bd066ac5beaf48512935de2fc0f0e55636853a/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/AirsupHQ/machine-skill/e0bd066ac5beaf48512935de2fc0f0e55636853a/.github/assets/turbofan.jpg",
+          "type": "image",
+          "label": "turbofan.jpg",
+          "relationship": "Author-provided project example; not our output",
+          "verification": "Pinned source and media signature verified"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/AirsupHQ/machine-skill/e0bd066ac5beaf48512935de2fc0f0e55636853a/.github/assets/compressor.jpg",
+          "type": "image",
+          "label": "compressor.jpg",
+          "relationship": "Author-provided project example; not our output",
+          "verification": "Pinned source and media signature verified"
+        },
+        {
+          "url": "https://github.com/AirsupHQ/machine-skill/blob/e0bd066ac5beaf48512935de2fc0f0e55636853a/examples/turbofan.html",
+          "type": "page",
+          "label": "HTML source — download to run / HTML 源文件，下载后运行",
+          "verification": "Pinned HTML source checked"
+        }
+      ],
+      "upstream_created_at": "2026-10-12T23:10:01Z",
+      "upstream_pushed_at": "2026-10-13T16:21:53Z",
+      "edition": "2026-11-18-knowledge-html",
+      "collection_kind": "H",
+      "example_entry": "https://github.com/AirsupHQ/machine-skill/blob/e0bd066ac5beaf48512935de2fc0f0e55636853a/examples/turbofan.html",
+      "experience_url": "",
+      "example_label": "Example source / 示例源码"
+    },
+    {
+      "id": "k-sandhu--visual-explainer-skills",
+      "repo": "k-sandhu/visual-explainer-skills",
+      "title": "先猜结果，再调参数 / Predict, reveal and explore",
+      "url": "https://github.com/k-sandhu/visual-explainer-skills",
+      "summary": "用分步讲解和可调整模型，让读者先预测再看结果；附探索式推理策略示例的 HTML 与动图。 / Predict, reveal and explore",
+      "category": "HTML 互动与可玩解释",
+      "type": "Agent Skill / Interactive HTML",
+      "hosts": [
+        "Claude"
+      ],
+      "status": "已核验固定版本 Skill 与入口",
+      "curated": true,
+      "requirements": "结果为 HTML；检查和录制使用 Python 3.10+、Playwright、Pillow、FFmpeg。",
+      "limits": "作者示例与源码已核对；未在本目录运行创作工作流。",
+      "license": "参见上游许可原文",
+      "archived": false,
+      "stars": 0,
+      "commit": "807d99e619233f37a6e1519ddb88a2c77f33bcb6",
+      "checked_at": "2026-11-18T06:37:41.969076+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "k-sandhu/visual-explainer-skills"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/k-sandhu/visual-explainer-skills/blob/807d99e619233f37a6e1519ddb88a2c77f33bcb6/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-18T06:37:41.969076+00:00"
+        },
+        {
+          "url": "https://github.com/k-sandhu/visual-explainer-skills/blob/807d99e619233f37a6e1519ddb88a2c77f33bcb6/skills/explorable-model/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-18T06:37:41.969076+00:00"
+        },
+        {
+          "url": "https://github.com/k-sandhu/visual-explainer-skills/blob/807d99e619233f37a6e1519ddb88a2c77f33bcb6/examples/27-adaptive-knowledge-rollouts/explainer.html",
+          "type": "Example or template source",
+          "checked_at": "2026-11-18T06:37:41.969076+00:00"
+        },
+        {
+          "url": "https://github.com/k-sandhu/visual-explainer-skills/blob/807d99e619233f37a6e1519ddb88a2c77f33bcb6/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/k-sandhu/visual-explainer-skills/807d99e619233f37a6e1519ddb88a2c77f33bcb6/examples/27-adaptive-knowledge-rollouts/explainer.gif",
+          "type": "image",
+          "label": "explainer.gif",
+          "relationship": "Author-provided project example; not our output",
+          "verification": "Pinned source and media signature verified"
+        },
+        {
+          "url": "https://github.com/k-sandhu/visual-explainer-skills/blob/807d99e619233f37a6e1519ddb88a2c77f33bcb6/examples/27-adaptive-knowledge-rollouts/explainer.html",
+          "type": "page",
+          "label": "HTML source — download to run / HTML 源文件，下载后运行",
+          "verification": "Pinned HTML source checked"
+        }
+      ],
+      "upstream_created_at": "2026-11-17T18:53:12Z",
+      "upstream_pushed_at": "2026-11-18T05:20:44Z",
+      "edition": "2026-11-18-knowledge-html",
+      "collection_kind": "H",
+      "example_entry": "https://github.com/k-sandhu/visual-explainer-skills/blob/807d99e619233f37a6e1519ddb88a2c77f33bcb6/examples/27-adaptive-knowledge-rollouts/explainer.html",
+      "experience_url": "",
+      "example_label": "Example source / 示例源码"
+    },
+    {
+      "id": "asashades--asa-slides",
+      "repo": "asashades/asa-slides",
+      "title": "按方向键拆开三维物件 / Step through a 3D explanation",
+      "url": "https://github.com/asashades/asa-slides",
+      "summary": "把材料变成有演示动作的 HTML 幻灯片；按键逐步观察拆解、分类、比例和重叠关系。 / Step through a 3D explanation",
+      "category": "HTML 互动与可玩解释",
+      "type": "Agent Skill / Interactive HTML",
+      "hosts": [
+        "Claude"
+      ],
+      "status": "已核验固定版本 Skill 与入口",
+      "curated": true,
+      "requirements": "现代浏览器；重新录制 GIF 需 FFmpeg 和仓库的脚本环境。",
+      "limits": "作者示例与源码已核对；未在本目录运行创作工作流。",
+      "license": "MIT",
+      "archived": false,
+      "stars": 1,
+      "commit": "f153f6b54286af87e58119066b22dc943ac6d281",
+      "checked_at": "2026-11-18T06:37:45.734979+00:00",
+      "runtime_tested": false,
+      "aliases": [
+        "asashades/asa-slides"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/asashades/asa-slides/blob/f153f6b54286af87e58119066b22dc943ac6d281/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-18T06:37:45.734979+00:00"
+        },
+        {
+          "url": "https://github.com/asashades/asa-slides/blob/f153f6b54286af87e58119066b22dc943ac6d281/SKILL.md",
+          "type": "Original SKILL.md",
+          "checked_at": "2026-11-18T06:37:45.734979+00:00"
+        },
+        {
+          "url": "https://github.com/asashades/asa-slides/blob/f153f6b54286af87e58119066b22dc943ac6d281/docs/galeri-explainer.html",
+          "type": "Example or template source",
+          "checked_at": "2026-11-18T06:37:45.734979+00:00"
+        },
+        {
+          "url": "https://github.com/asashades/asa-slides/blob/f153f6b54286af87e58119066b22dc943ac6d281/LICENSE",
+          "type": "Upstream license"
+        }
+      ],
+      "preview_assets": [
+        {
+          "url": "https://raw.githubusercontent.com/asashades/asa-slides/f153f6b54286af87e58119066b22dc943ac6d281/docs/media/explainers/e01-take-it-apart-3d.gif",
+          "type": "image",
+          "label": "e01-take-it-apart-3d.gif",
+          "relationship": "Author-provided project example; not our output",
+          "verification": "Pinned source and media signature verified"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/asashades/asa-slides/f153f6b54286af87e58119066b22dc943ac6d281/docs/media/hero.gif",
+          "type": "image",
+          "label": "hero.gif",
+          "relationship": "Author-provided project example; not our output",
+          "verification": "Pinned source and media signature verified"
+        },
+        {
+          "url": "https://asashades.github.io/asa-slides/galeri-explainer.html",
+          "type": "page",
+          "label": "Interactive HTML demo / 在线互动",
+          "verification": "HTTP response checked; interactions not reproduced"
+        }
+      ],
+      "upstream_created_at": "2026-11-17T11:10:30Z",
+      "upstream_pushed_at": "2026-11-17T11:10:38Z",
+      "edition": "2026-11-18-knowledge-html",
+      "collection_kind": "H",
+      "example_entry": "https://github.com/asashades/asa-slides/blob/f153f6b54286af87e58119066b22dc943ac6d281/docs/galeri-explainer.html",
+      "experience_url": "https://asashades.github.io/asa-slides/galeri-explainer.html",
+      "example_label": "Example source / 示例源码"
     }
   ],
   "skills": [
@@ -43013,6 +43965,272 @@
           "repo": "howznguyen/shorts-kit",
           "path": ".claude/skills/sk-render/SKILL.md",
           "url": "https://github.com/howznguyen/shorts-kit/blob/828e12000cdedf2eb3518e4328a0dacaaa3a3099/.claude/skills/sk-render/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "e5ea1b0ae74c7020",
+      "repo": "YT-smart/vibe-knowledge-video",
+      "name": "vibe-knowledge-video",
+      "description": "以落珠、硬币和点阵说明概率，用字幕和代码动画代替旁白；作者提供 Claude、Codex、豆包与 WorkBuddy 样片。",
+      "category": "教学科普与手绘",
+      "sha256": "e5ea1b0ae74c702054bb01c0951f59cb8101796a26952547b2bb19e49cc79025",
+      "sources": [
+        {
+          "repo": "YT-smart/vibe-knowledge-video",
+          "path": "SKILL.md",
+          "url": "https://github.com/YT-smart/vibe-knowledge-video/blob/6dddf51ad112f5533f4d474c6641a6cdeca36689/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "cb86d81387640163",
+      "repo": "steseven/vibe-make",
+      "name": "vibe-make",
+      "description": "把生活问题拆成调查、字幕、镜头与时间轴；附历史科普工程和成片拼板。",
+      "category": "教学科普与手绘",
+      "sha256": "cb86d81387640163c05165bfb8ebcbe55f0f15efbe70a3634ebc764e5ced045e",
+      "sources": [
+        {
+          "repo": "steseven/vibe-make",
+          "path": "SKILL.md",
+          "url": "https://github.com/steseven/vibe-make/blob/cea769d015ba31a46c85ec8237454b4465e78386/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "f26fc97ebdb729eb",
+      "repo": "worlds3/vibe-knowledge",
+      "name": "vibe-knowledge",
+      "description": "用 Canvas 时间函数演示最优停止理论；HTML 自带播放和逐帧导出 MP4 的入口。",
+      "category": "教学科普与手绘",
+      "sha256": "f26fc97ebdb729ebd4e9580446a501c04a6f02a995ef4b9916b38f21cfa83b05",
+      "sources": [
+        {
+          "repo": "worlds3/vibe-knowledge",
+          "path": "skill/vibe-knowledge/SKILL.md",
+          "url": "https://github.com/worlds3/vibe-knowledge/blob/0d0249f3713a10051a01709dbf7844c6b1d376f7/skill/vibe-knowledge/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "9ebccb544de2eb2c",
+      "repo": "xiaotian-freedom/vibe-knowledge-awards-skill",
+      "name": "vibe-knowledge-awards",
+      "description": "用逐镜计划组织无口播知识短片，附竖屏 HTML 起始工程、边缘和运动量检查脚本。",
+      "category": "教学科普与手绘",
+      "sha256": "9ebccb544de2eb2c3c869651b4332110bde66afea12f19c4505bc17dbd3af9eb",
+      "sources": [
+        {
+          "repo": "xiaotian-freedom/vibe-knowledge-awards-skill",
+          "path": "SKILL.md",
+          "url": "https://github.com/xiaotian-freedom/vibe-knowledge-awards-skill/blob/0f98c3455978c746039f03993cee7d765df2e715/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "c12fbba6da0d967d",
+      "repo": "thiernoyunus/stick-reel",
+      "name": "stick-reel",
+      "description": "用角色动作而非装饰性摆动表达概念，再配合旁白时间线输出竖屏讲解；附完整作者示例。",
+      "category": "教学科普与手绘",
+      "sha256": "c12fbba6da0d967d546e69230d6b21ce34a51bd831970b62675ea16709170810",
+      "sources": [
+        {
+          "repo": "thiernoyunus/stick-reel",
+          "path": "SKILL.md",
+          "url": "https://github.com/thiernoyunus/stick-reel/blob/1fff5db51376e4415aab7505c5cf60c9612e3a0d/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "45e9566707754e81",
+      "repo": "Everett406/code-explainer-video",
+      "name": "code-explainer-video",
+      "description": "规定知识讲解的策划、编码、检查和 MP4 交付流程；仓库有媒体检查脚本，尚未发现成品样片。",
+      "category": "教学科普与手绘",
+      "sha256": "45e9566707754e81f84585eed0c6d80e5359acf091da61a46f505f39e6d0b440",
+      "sources": [
+        {
+          "repo": "Everett406/code-explainer-video",
+          "path": "SKILL.md",
+          "url": "https://github.com/Everett406/code-explainer-video/blob/c8522f61100c53284d770b260f188f84c454cc61/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "c873e0151c6ef290",
+      "repo": "mantou2046/onepager-explainer",
+      "name": "onepager-explainer",
+      "description": "把概念拆成原理、动手演示和速查；LoRA 示例用双路数据动画与滑杆呈现适配器参数变化。",
+      "category": "HTML 互动与可玩解释",
+      "sha256": "c873e0151c6ef290c9814fa564a8035bb7c2a618a003bcc94cc8d990d8de2c94",
+      "sources": [
+        {
+          "repo": "mantou2046/onepager-explainer",
+          "path": "SKILL.md",
+          "url": "https://github.com/mantou2046/onepager-explainer/blob/948e1560c5a4279ee0ac5492b4e198aa6cda27e8/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "0c6873c7877069c3",
+      "repo": "D-Sup/sim-diorama-skill",
+      "name": "sim-diorama",
+      "description": "把赛车、街区或小镇做成单页 3D 世界，让规则驱动可见状态变化；作者提供赛道动图及 HTML 示例。",
+      "category": "HTML 互动与可玩解释",
+      "sha256": "0c6873c7877069c320cbcdb071a5d4f71145a7f6c7e2571e8f41c884d6c68f3b",
+      "sources": [
+        {
+          "repo": "D-Sup/sim-diorama-skill",
+          "path": "sim-diorama/SKILL.md",
+          "url": "https://github.com/D-Sup/sim-diorama-skill/blob/aa6413bf78d6ca6e49e523dc65ebc1ffe9c37278/sim-diorama/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "88203ec1a63d06b9",
+      "repo": "scifieconomicslab/paperdolls",
+      "name": "paperdolls-pipeline",
+      "description": "将 NetLogo 模型转为 TypeScript，再把运行状态绑定到等距城市画面；作者提供 Sonnet 与 DeepSeek 等不同代理的实验工程。",
+      "category": "HTML 互动与可玩解释",
+      "sha256": "88203ec1a63d06b9d3ceff30bbed5cd6326c12e61152f22743a4c56a546b9554",
+      "sources": [
+        {
+          "repo": "scifieconomicslab/paperdolls",
+          "path": "skills/paperdolls-pipeline/SKILL.md",
+          "url": "https://github.com/scifieconomicslab/paperdolls/blob/cff3484631a3e42441421766fa7e274b37cebf89/skills/paperdolls-pipeline/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "1f5d27b43366ecff",
+      "repo": "aruneshvv/edu-by-llm",
+      "name": "edu-sim",
+      "description": "让小车沿等距城镇逐站解释网络或 RAG；页面提供暂停、速度、缩放和建筑点击等操作。",
+      "category": "HTML 互动与可玩解释",
+      "sha256": "1f5d27b43366ecffb51e9f62d832678078f11bde01c4f0ca6a8d405fa23f75f4",
+      "sources": [
+        {
+          "repo": "aruneshvv/edu-by-llm",
+          "path": ".claude/skills/edu-sim/SKILL.md",
+          "url": "https://github.com/aruneshvv/edu-by-llm/blob/7f0b3cc4757a9b4457cfd3d6b83851b9fbdd4699/.claude/skills/edu-sim/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "3f4ed2758a972b29",
+      "repo": "twidtwid/render-as-html",
+      "name": "render-as-html",
+      "description": "用筛选、排序、拖拽看板与复制指令按钮，把静态材料变成可交互、可迭代的 HTML 成果。",
+      "category": "HTML 互动与可玩解释",
+      "sha256": "3f4ed2758a972b296801c3d295ca2876247c817efe0bd9f95a433b3963402987",
+      "sources": [
+        {
+          "repo": "twidtwid/render-as-html",
+          "path": "SKILL.md",
+          "url": "https://github.com/twidtwid/render-as-html/blob/2aaabb185e6df940089a5c479df62e95ec4de48a/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "1f71d2c90c9b1c0c",
+      "repo": "AirsupHQ/machine-skill",
+      "name": "machine",
+      "description": "用机械 HTML 实例观察结构与运行，再通过附带录制工具制作分享视频；工程精度以作者实现为准。",
+      "category": "HTML 互动与可玩解释",
+      "sha256": "1f71d2c90c9b1c0cca4b7af526b5a9721cb039638e872fb959173a5ec533611c",
+      "sources": [
+        {
+          "repo": "AirsupHQ/machine-skill",
+          "path": "SKILL.md",
+          "url": "https://github.com/AirsupHQ/machine-skill/blob/e0bd066ac5beaf48512935de2fc0f0e55636853a/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "b69d7441a1d8d051",
+      "repo": "k-sandhu/visual-explainer-skills",
+      "name": "explorable-model",
+      "description": "用分步讲解和可调整模型，让读者先预测再看结果；附探索式推理策略示例的 HTML 与动图。",
+      "category": "HTML 互动与可玩解释",
+      "sha256": "b69d7441a1d8d051fadd396a4b90db32f5fed4d5fe4d6aab8ff6b2da791c45a7",
+      "sources": [
+        {
+          "repo": "k-sandhu/visual-explainer-skills",
+          "path": "skills/explorable-model/SKILL.md",
+          "url": "https://github.com/k-sandhu/visual-explainer-skills/blob/807d99e619233f37a6e1519ddb88a2c77f33bcb6/skills/explorable-model/SKILL.md"
+        }
+      ],
+      "text": "",
+      "upstream_only": true,
+      "preview_assets": [],
+      "runtime_tested": false
+    },
+    {
+      "id": "f4389b704306b898",
+      "repo": "asashades/asa-slides",
+      "name": "slide-interaktif-animatif",
+      "description": "把材料变成有演示动作的 HTML 幻灯片；按键逐步观察拆解、分类、比例和重叠关系。",
+      "category": "HTML 互动与可玩解释",
+      "sha256": "f4389b704306b8983ca02d985275efb631b32b01660556f4ad30d6b09c97221d",
+      "sources": [
+        {
+          "repo": "asashades/asa-slides",
+          "path": "SKILL.md",
+          "url": "https://github.com/asashades/asa-slides/blob/f153f6b54286af87e58119066b22dc943ac6d281/SKILL.md"
         }
       ],
       "text": "",
@@ -112023,6 +113241,139 @@
         "Claude"
       ],
       "text_status": "Public invocation excerpt / 公开调用示例"
+    },
+    {
+      "id": "063755b72b3e8036",
+      "repo": "YT-smart/vibe-knowledge-video",
+      "title": "落珠如何堆出运气的形状 · 作者调用示例",
+      "category": "教学科普与手绘",
+      "origin": "Author README / 作者 README",
+      "review": "公开调用语句。项目展示的效果不自动归为此语句的直接输出。",
+      "sources": [
+        {
+          "url": "https://github.com/YT-smart/vibe-knowledge-video/blob/6dddf51ad112f5533f4d474c6641a6cdeca36689/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-18T06:37:17.226054+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Claude",
+        "Codex",
+        "WorkBuddy",
+        "Doubao"
+      ],
+      "text": "使用 vibe-knowledge-video skill，做一个《运气的形状》的知识科普视频。",
+      "text_status": "Author invocation excerpt / 作者调用语句节选"
+    },
+    {
+      "id": "ce6ccd578ffe392a",
+      "repo": "steseven/vibe-make",
+      "title": "古人怎么刷牙 · 作者调用示例",
+      "category": "教学科普与手绘",
+      "origin": "Author README / 作者 README",
+      "review": "公开调用语句。项目展示的效果不自动归为此语句的直接输出。",
+      "sources": [
+        {
+          "url": "https://github.com/steseven/vibe-make/blob/cea769d015ba31a46c85ec8237454b4465e78386/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-18T06:37:17.228055+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Claude",
+        "Codex",
+        "DeepSeek"
+      ],
+      "text": "用 vibe-make 做一条讲 XX 的知识视频",
+      "text_status": "Author invocation excerpt / 作者调用语句节选"
+    },
+    {
+      "id": "395af3946afe1012",
+      "repo": "worlds3/vibe-knowledge",
+      "title": "遇到第几个人该停下 · 作者调用示例",
+      "category": "教学科普与手绘",
+      "origin": "Author README / 作者 README",
+      "review": "公开调用语句。项目展示的效果不自动归为此语句的直接输出。",
+      "sources": [
+        {
+          "url": "https://github.com/worlds3/vibe-knowledge/blob/0d0249f3713a10051a01709dbf7844c6b1d376f7/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-18T06:37:17.229056+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Claude"
+      ],
+      "text": "做一期 Vibe 知识大赏，讲 XX",
+      "text_status": "Author invocation excerpt / 作者调用语句节选"
+    },
+    {
+      "id": "070acc6028405b8a",
+      "repo": "AirsupHQ/machine-skill",
+      "title": "在网页里研究涡扇发动机 · 作者调用示例",
+      "category": "HTML 互动与可玩解释",
+      "origin": "Author README / 作者 README",
+      "review": "公开调用语句。项目展示的效果不自动归为此语句的直接输出。",
+      "sources": [
+        {
+          "url": "https://github.com/AirsupHQ/machine-skill/blob/e0bd066ac5beaf48512935de2fc0f0e55636853a/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-18T06:37:41.793872+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Claude",
+        "Codex"
+      ],
+      "text": "/machine a mechanical watch movement, the escapement ticking",
+      "text_status": "Author invocation excerpt / 作者调用语句节选"
+    },
+    {
+      "id": "6de8e1dd2ad8a327",
+      "repo": "aruneshvv/edu-by-llm",
+      "title": "坐车逛懂互联网 · 作者调用示例",
+      "category": "HTML 互动与可玩解释",
+      "origin": "Author README / 作者 README",
+      "review": "公开调用语句。项目展示的效果不自动归为此语句的直接输出。",
+      "sources": [
+        {
+          "url": "https://github.com/aruneshvv/edu-by-llm/blob/7f0b3cc4757a9b4457cfd3d6b83851b9fbdd4699/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-18T06:37:34.665948+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Claude"
+      ],
+      "text": "/edu-sim how computer chips are made",
+      "text_status": "Author invocation excerpt / 作者调用语句节选"
+    },
+    {
+      "id": "3b83bdad50289b68",
+      "repo": "twidtwid/render-as-html",
+      "title": "把文档变成可以摆弄的网页 · 作者调用示例",
+      "category": "HTML 互动与可玩解释",
+      "origin": "Author README / 作者 README",
+      "review": "公开调用语句。项目展示的效果不自动归为此语句的直接输出。",
+      "sources": [
+        {
+          "url": "https://github.com/twidtwid/render-as-html/blob/2aaabb185e6df940089a5c479df62e95ec4de48a/README.md",
+          "type": "Author README",
+          "checked_at": "2026-11-18T06:37:38.437130+00:00"
+        }
+      ],
+      "preview_assets": [],
+      "models": [
+        "Claude",
+        "Codex"
+      ],
+      "text": "turn this into an interactive HTML file",
+      "text_status": "Author invocation excerpt / 作者调用语句节选"
     }
   ],
   "cases": [

@@ -4,6 +4,12 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [Candle Cozy Rainy Night](../../prompts/37b2912c871825d6.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
+| [Candle Wax Press](../../prompts/db3145a09008182f.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
+| [Candle, Ambient Slow Ignite](../../prompts/8c873baef8d51f11.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
+| [Candle, Midnight Library](../../prompts/a5ed97cab204d119.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
+| [Candlelit Vinyl Wind-Down](../../prompts/01d133002da8c4da.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
+| [Car Door Epoxy Floor Design](../../prompts/fb8a1a4cfbe07622.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [Car Vlog Supplement Confession](../../prompts/60fc616e250147e9.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
 | [Cherry Blossom Railway Walk](../../prompts/b3bf3c8d06953ab9.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [Childhood Street Football Match Prompt](../../prompts/979b5532a964d164.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
@@ -78,11 +84,5 @@
 | [Medieval Coronation Comedy Interruption](../../prompts/cb5de993e453276f.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [Medieval Fantasy Archer Riding Through Misty Forest](../../prompts/752a7161cd0e44df.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [Melancholic Beauty Film with Sheet Music](../../prompts/0f145e18b4aa7549.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [Night Alley Thriller Fight Scene](../../prompts/9cadcbda2524e254.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [No. 1: Seedance 2.0: 15-Second Cinematic Japanese Romance Short Film](../../prompts/02e262bd0cfc2f80.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [No. 2: Hollywood Haute Couture Fantasy Video Prompt](../../prompts/3335c428672bc971.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [No. 3: Modern Rural Aesthetics Healing Short Film Video Prompt](../../prompts/04e1ef76ef684cae.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [No. 4: Live-Action Anime Adaptation: Water vs. Thunder Breathing Duel](../../prompts/fe80b1bf21db08be.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
-| [No. 5: Seedance 2.0: 80-Year-Old Rapper MV](../../prompts/a9ed8cd3042c723a.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

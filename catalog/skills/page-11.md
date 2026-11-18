@@ -4,6 +4,20 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [3dgs-spatial-agent](../../skills/78a1ceffe4a6a36a.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
+| [3dgs-training-debugger](../../skills/492bc4b5254b14a3.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
+| [3dgs-visualizer](../../skills/f7c25df73987b7c6.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
+| [awesome-gaussian-skills](../../skills/feb3b4e943782899.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
+| [cad-mesh-3dgs](../../skills/8997dc34a7efcce8.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
+| [cg-paper-writing](../../skills/499921f470fe5478.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
+| [deepstream-run-mv3dt](../../skills/59bcaeffec5f8e25.md) | 高斯泼溅与仿真 | NVIDIA/skills |
+| [nerf-to-3dgs-migrator](../../skills/258481ad6707a54d.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
+| [omniverse-cad-to-simready](../../skills/a7f60b0452e3324d.md) | 高斯泼溅与仿真 | NVIDIA/skills |
+| [omniverse-realtime-viewer](../../skills/19ffbd179e7a5873.md) | 高斯泼溅与仿真 | NVIDIA/skills |
+| [omniverse-usd-performance-tuning](../../skills/8510299d8ec9b9a9.md) | 高斯泼溅与仿真 | NVIDIA/skills |
+| [ontology](../../skills/7dde5049cb1e74bb.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
+| [paidf-cosmos-predict](../../skills/3df325c66066bda0.md) | 高斯泼溅与仿真 | NVIDIA/skills |
+| [patent-software-ip](../../skills/6ca42e672d5a6d99.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
 | [research-expert-team](../../skills/e40eea81aa6183bf.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
 | [super-agent](../../skills/80cf2500d2d0cec8.md) | 高斯泼溅与仿真 | jaccen/Awesome-Gaussian-Skills |
 | [tao-finetune-cosmos-embed](../../skills/20a1d6cbe4d4e1cb.md) | 高斯泼溅与仿真 | NVIDIA/skills |

@@ -31,6 +31,14 @@
 | [wan-t2v-video](../../skills/6b76fa161ed06459.md) | ComfyUI 与模型编排 | artokun/comfyui-mcp |
 | [workflow-layout](../../skills/abf9127a79368db2.md) | ComfyUI 与模型编排 | artokun/comfyui-mcp |
 | [z-image-txt2img](../../skills/19aadbe2b4ddaddc.md) | ComfyUI 与模型编排 | artokun/comfyui-mcp |
+| [edu-sim](../../skills/1f5d27b43366ecff.md) | HTML 互动与可玩解释 | aruneshvv/edu-by-llm |
+| [explorable-model](../../skills/b69d7441a1d8d051.md) | HTML 互动与可玩解释 | k-sandhu/visual-explainer-skills |
+| [machine](../../skills/1f71d2c90c9b1c0c.md) | HTML 互动与可玩解释 | AirsupHQ/machine-skill |
+| [onepager-explainer](../../skills/c873e0151c6ef290.md) | HTML 互动与可玩解释 | mantou2046/onepager-explainer |
+| [paperdolls-pipeline](../../skills/88203ec1a63d06b9.md) | HTML 互动与可玩解释 | scifieconomicslab/paperdolls |
+| [render-as-html](../../skills/3f4ed2758a972b29.md) | HTML 互动与可玩解释 | twidtwid/render-as-html |
+| [sim-diorama](../../skills/0c6873c7877069c3.md) | HTML 互动与可玩解释 | D-Sup/sim-diorama-skill |
+| [slide-interaktif-animatif](../../skills/f4389b704306b898.md) | HTML 互动与可玩解释 | asashades/asa-slides |
 | [motion-design](../../skills/241b4949d4dfc5a4.md) | SVG 与动态图形 | whaleyxbt/claude-motion |
 | [review-loop](../../skills/2b313265d9d977f4.md) | SVG 与动态图形 | whaleyxbt/claude-motion |
 | [sound-design](../../skills/6f0da860ad05d0c0.md) | SVG 与动态图形 | whaleyxbt/claude-motion |
@@ -76,13 +84,5 @@
 | [threejs-materials](../../skills/b132c6e4bd678eff.md) | Three.js 与 WebGPU | alton47/threejs-skills |
 | [threejs-object-sculptor](../../skills/b6cf235a49be40f6.md) | Three.js 与 WebGPU | linegel/threejs-complete-set-of-skill |
 | [threejs-particles-trails-and-effects](../../skills/c8c7d3b34203fe98.md) | Three.js 与 WebGPU | linegel/threejs-complete-set-of-skill |
-| [threejs-performance](../../skills/9ec37cbf2a237f75.md) | Three.js 与 WebGPU | alton47/threejs-skills |
-| [threejs-physics](../../skills/2c1125e9b5e8fcb9.md) | Three.js 与 WebGPU | alton47/threejs-skills |
-| [threejs-postprocessing](../../skills/46a7eebee8e00409.md) | Three.js 与 WebGPU | alton47/threejs-skills |
-| [threejs-procedural-buildings-and-cities](../../skills/d9ba2057500a26de.md) | Three.js 与 WebGPU | linegel/threejs-complete-set-of-skill |
-| [threejs-procedural-creatures](../../skills/c145c4804692f0fd.md) | Three.js 与 WebGPU | linegel/threejs-complete-set-of-skill |
-| [threejs-procedural-fields](../../skills/cbc1590903d48543.md) | Three.js 与 WebGPU | linegel/threejs-complete-set-of-skill |
-| [threejs-procedural-geometry](../../skills/1cb96a5ee3173f92.md) | Three.js 与 WebGPU | linegel/threejs-complete-set-of-skill |
-| [threejs-procedural-materials](../../skills/7cff0e42569b5f3b.md) | Three.js 与 WebGPU | linegel/threejs-complete-set-of-skill |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md)

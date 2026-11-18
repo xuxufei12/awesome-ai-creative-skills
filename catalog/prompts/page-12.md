@@ -4,6 +4,9 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [Hoplite 功能发布动效](../../prompts/1020116b61e557cc.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
+| [MakerMap 的连续产品旅程](../../prompts/408e6be8c37b03b3.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
+| [Moonshoot 产品发布片](../../prompts/26b57fa8ffe10305.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
 | [Moveno 网站素材宣传片](../../prompts/e8235735e9e410ee.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
 | [Pocketsflow 角色产品讲解](../../prompts/edbcde0713744be0.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
 | [YouWare 发布片：Opus、Sol 与 Fable 对照](../../prompts/80d41733271ec811.md) | 产品宣传 | guanmo-ai/awesome-ai-motion |
@@ -81,8 +84,5 @@
 | [kino-montage](../../prompts/5b6a2f2b57301ea2.md) | 叙事动画与音乐视频 | lemomo-ai/lemo-opuscar |
 | [news-package](../../prompts/1e31455b7f91ce83.md) | 叙事动画与音乐视频 | lemomo-ai/lemo-opuscar |
 | [newsreel](../../prompts/13762156918b1753.md) | 叙事动画与音乐视频 | lemomo-ai/lemo-opuscar |
-| [telestrator](../../prompts/22ed500026640df7.md) | 叙事动画与音乐视频 | lemomo-ai/lemo-opuscar |
-| [visual-investigation](../../prompts/4ac817305beec172.md) | 叙事动画与音乐视频 | lemomo-ai/lemo-opuscar |
-| [小说改 AI 短剧:改编大纲 + 分镜表提示词 · 1](../../prompts/a6c9fc8d08175c67.md) | 叙事动画与音乐视频 | PDF / community |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

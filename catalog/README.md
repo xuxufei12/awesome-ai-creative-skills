@@ -2,7 +2,7 @@
 
 # Complete catalogue / 完整目录
 
-- [Education & hand-drawn explainers / 教学科普与手绘](education.md) — 62
+- [Education & hand-drawn explainers / 教学科普与手绘](education.md) — 68
 - [Editing, captions & avatars / 剪辑字幕与数字人](editing.md) — 94
 - [Storytelling, animation & music videos / 叙事动画与音乐视频](storytelling.md) — 30
 - [Video frameworks & code rendering / 视频框架与程序化成片](video-frameworks.md) — 88
@@ -17,6 +17,7 @@
 - [Game assets & pixel art / 游戏资产与像素画](game-assets.md) — 11
 - [Gaussian splatting & simulation / 高斯泼溅与仿真](simulation.md) — 2
 - [Reaction GIFs & sticker packs / 表情包与动态贴纸](stickers.md) — 8
+- [Interactive HTML & explorable explanations / HTML 互动与可玩解释](interactive-html.md) — 8
 
 ## Browse by record type / 按记录类型
 

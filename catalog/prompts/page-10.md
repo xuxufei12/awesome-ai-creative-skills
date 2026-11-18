@@ -4,6 +4,9 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [Athletic Woman With Energy Drink at Sunlit Track](../../prompts/30c28609469bbc5a.md) | portrait | ych-chen/awesome-nano-banana-prompts |
+| [Billie Eilish Amidst Crimson Roses](../../prompts/f1ac7621ba181e98.md) | portrait | ych-chen/awesome-nano-banana-prompts |
+| [Billie Eilish's Ethereal Blue-Gray Gaze](../../prompts/af1aae4635de5d44.md) | portrait | ych-chen/awesome-nano-banana-prompts |
 | [Billie Eilish, Madison Beer, and Iggy Azalea in Bikinis](../../prompts/dedd13e551ef2d2b.md) | portrait | ych-chen/awesome-nano-banana-prompts |
 | [Black Latex Corset Fashion Portrait](../../prompts/ef3a40b4e4fce2d3.md) | portrait | ych-chen/awesome-nano-banana-prompts |
 | [Blonde Beauty in Glasses at Night](../../prompts/f418c727548a6e0e.md) | portrait | ych-chen/awesome-nano-banana-prompts |
@@ -81,8 +84,5 @@
 | [Sadie Sink with Disco Ball in Pink](../../prompts/057c6149a6475eff.md) | portrait | ych-chen/awesome-nano-banana-prompts |
 | [Seated Portrait with Foreground Emphasis](../../prompts/1f1126cd9a552062.md) | portrait | ych-chen/awesome-nano-banana-prompts |
 | [Serene Fashion Editorial with Coffee and Phone](../../prompts/396854289c1dd970.md) | portrait | ych-chen/awesome-nano-banana-prompts |
-| [Sleepy Morning Light Through the Window](../../prompts/118e72d5f9526519.md) | portrait | ych-chen/awesome-nano-banana-prompts |
-| [Soaking in the Saturday Sunshine](../../prompts/3f63da42cc38d40e.md) | portrait | ych-chen/awesome-nano-banana-prompts |
-| [Soft Floral Selfie in Natural Light](../../prompts/2cf206f9c556b68f.md) | portrait | ych-chen/awesome-nano-banana-prompts |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

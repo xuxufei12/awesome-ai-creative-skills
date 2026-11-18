@@ -4,6 +4,20 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [scenario-motion-loops](../../skills/ab82d5dfb7ab2c15.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-multi-reference](../../skills/22daebfc5c3a4b06.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-orbit-views](../../skills/823d3869a2e5229f.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-patina-retexture](../../skills/cd521fdfa7b5f5bc.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-product-shots](../../skills/d33a570978f0836e.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-quality-gate](../../skills/3d9065d633217a88.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-reel-recast](../../skills/de0285da6691bda0.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-refine-loop](../../skills/bc4e259291be631c.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-report](../../skills/fc1f0db8e946d392.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-reve](../../skills/34a67fd319e35cb2.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-roblox-animation](../../skills/d0c90a7507bb75fd.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-roblox-architecture](../../skills/0dc10dd820bb1c18.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-roblox-assets](../../skills/9f029e7c085547fd.md) | 游戏资产与像素画 | scenario-labs/skills |
+| [scenario-roblox-data](../../skills/2c4bb487a9d3080a.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-roblox-environment](../../skills/0d0d866e4bcc3a8f.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-roblox-expert](../../skills/6c4c959fffcc6b5a.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-roblox-gameplay](../../skills/9f6768b71e98f41e.md) | 游戏资产与像素画 | scenario-labs/skills |
@@ -70,19 +84,5 @@
 | [scenario-zbrush-automation](../../skills/31140e4c3d50bb21.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-zbrush-character-creature](../../skills/202b20f012155d5c.md) | 游戏资产与像素画 | scenario-labs/skills |
 | [scenario-zbrush-expert](../../skills/5edc860fe25142b3.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-zbrush-hard-surface](../../skills/75319219b89790ca.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-zbrush-paint-render](../../skills/fdca3a06ecb875b8.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-zbrush-pose-print](../../skills/bb28f52de1c2d152.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-zbrush-retopology-export](../../skills/6260b67fb15d73be.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-zbrush-sculpting](../../skills/35e170515be07220.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [scenario-zbrush-stylized](../../skills/9a681945e13ac907.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [skill-creator](../../skills/dcd4803e61e913e6.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [skills-pr-handle](../../skills/737e9473fb264f67.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [skills-validate](../../skills/0d571437a633e65c.md) | 游戏资产与像素画 | scenario-labs/skills |
-| [spritecook-animate-assets](../../skills/b47fb5338223c7b2.md) | 游戏资产与像素画 | SpriteCook/skills |
-| [spritecook-build-ui-kits](../../skills/ac9fc0da9011b43d.md) | 游戏资产与像素画 | SpriteCook/skills |
-| [spritecook-generate-sprites](../../skills/6cfadce3e919bca2.md) | 游戏资产与像素画 | SpriteCook/skills |
-| [spritecook-generate-tilesets](../../skills/e5b64e6cbe8831cb.md) | 游戏资产与像素画 | SpriteCook/skills |
-| [spritecook-polish-sprites](../../skills/bd93b4b31f6abf3c.md) | 游戏资产与像素画 | SpriteCook/skills |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md)

@@ -30,6 +30,7 @@ def preview(assets,limit=None):
  return '\n\n'.join(chunks)+'\n\n*Upstream examples, not generated or reproduced by this catalogue. Some sections include input/reference images. / 上游示例，本项目未复现；部分示例同时含输入参考图。*\n'
 categories=[('教学科普与手绘','education','Education & hand-drawn explainers'),('剪辑字幕与数字人','editing','Editing, captions & avatars'),('叙事动画与音乐视频','storytelling','Storytelling, animation & music videos'),('视频框架与程序化成片','video-frameworks','Video frameworks & code rendering'),('广告与产品演示','product-videos','Ads & product demos'),('SVG 与动态图形','motion-graphics','SVG & motion graphics'),('提示词与导演方法','directing','Prompts & directing'),('Blender 与三维建模','blender','Blender & 3D modelling'),('Three.js 与 WebGPU','web-3d','Three.js & WebGPU'),('图像生成与商业视觉','image-generation','Image generation & visual design'),('合集与创作案例','collections','Collections & inspiration'),('ComfyUI 与模型编排','comfyui','ComfyUI & model workflows'),('游戏资产与像素画','game-assets','Game assets & pixel art'),('高斯泼溅与仿真','simulation','Gaussian splatting & simulation')]
 categories.append(('表情包与动态贴纸','stickers','Reaction GIFs & sticker packs'))
+categories.append(('HTML 互动与可玩解释','interactive-html','Interactive HTML & explorable explanations'))
 catmap={c:(s,e) for c,s,e in categories}
 projects=DATA['projects'];prompts=DATA['prompts'];skills=DATA['skills'];cases=DATA['cases'];guides=DATA['guides'];templates=DATA['templates']
 rmap={r['repo'].lower():r for r in projects}
@@ -121,7 +122,7 @@ def effect_record(item):
  if item.get('kind','prompt')=='project':
   r=projectmap[item['project_id']]
   media=item.get('media_url') or next(a['url'] for a in r['preview_assets'] if a['type']=='image')
-  return r, None, media, f"projects/{r['id']}.md", r['sources'][0]['url'], None
+  return r, None, media, f"projects/{r['id']}.md", r['sources'][0]['url'], r.get('experience_url') or None
  p=promptmap[item['prompt_id']];r=rmap.get((p.get('repo') or '').lower())
  media=item.get('media_url') or next(a['url'] for a in p['preview_assets'] if a['type']=='image')
  watch=next((a['url'] for a in p['preview_assets'] if a['type']=='page'),None) or next((a['url'] for a in p['preview_assets'] if a['type']=='video'),None)
@@ -139,7 +140,7 @@ def effect_table(items,zh,prefix=''):
   primary=next((s for s in ss if s['name']=='lemo-opuscar'),ss[0] if len(ss)==1 else None)
   if primary:links.append((prefix+f"skills/{primary['id']}.md",'Skill'))
   elif ss:links.append((prefix+f"projects/{r['id']}.md",'Skill 包' if zh else 'Skill pack'))
-  if watch:links.append((watch,'▶ 视频' if zh else '▶ Film'))
+  if watch:links.append((watch,('在线体验' if zh else 'Try it') if r and r.get('collection_kind')=='H' else ('▶ 视频' if zh else '▶ Film')))
   elif '.gif' in media.lower():links.append((media,'原动图' if zh else 'GIF'))
   if not p and r and r.get('scene_source'):links.append((r['scene_source'],'场景源码' if zh else 'Scene code'))
   if not p and r:links.append((prefix+target,'制作方法' if zh else 'How to make it'))
@@ -199,6 +200,28 @@ def featured_update(zh):
 # Date-stamped additions retain their individual upstream timestamps.
 for edition in sorted({r['edition'] for r in projects if r.get('edition')}):
  batch=[r for r in projects if r.get('edition')==edition]
+ if edition=='2026-11-18-knowledge-html':
+  page=backlink()+'# 知识大赏视频与互动 HTML / Knowledge films & playful HTML · 2026-11-18\n\n'
+  page+='先选目标：把原理讲成短片，或让读者在网页里拖动、点击、拆解与观察。每条保留作者源文件和上游更新日期。 / Choose a film that explains a mechanism, or a page that invites exploration. Each entry links to its author’s files and records the upstream push date.\n\n'
+  for group,heading in [('V','代码讲知识 / Code-rendered knowledge videos'),('H','HTML 有趣玩法 / Playful and explorable HTML')]:
+   page+='## '+heading+'\n\n| 玩法 / What to make | 技能与源码 / Method | 示例 / Example | 上游推送 / Push date |\n|---|---|---|---|\n'
+   for r in sorted([r for r in batch if r['collection_kind']==group],key=lambda r:r['upstream_pushed_at'],reverse=True):
+    links=f"[SKILL.md]({r['sources'][1]['url']})"
+    if r.get('example_entry'):links+=f" · [{r['example_label']}]({r['example_entry']})"
+    demo='未发现成品样例 / No finished demo collected'
+    if r.get('experience_url'):demo=f"[在线体验 / Try it]({r['experience_url']})"
+    elif r['preview_assets']:
+     a=next((a for a in r['preview_assets'] if a['type']=='video'),r['preview_assets'][0]);demo=f"[{'HTML 源文件 / HTML source' if a['type']=='page' else '作者示例 / Preview'}]({a['url']})"
+    page+=f"| [{esc(r['title'])}](../projects/{r['id']}.md) | {links} | {demo} | {r['upstream_pushed_at'][:10]} |\n"
+   page+='\n'
+  page+='## 开始创作 / Getting started\n\n'
+  page+='- 知识短片：先挑一个能用动作解释的具体问题，做最难的一镜，再扩展全片。 / Pick a concrete question, prototype the hardest explanatory shot, then expand the film.\n'
+  page+='- 互动 HTML：先打开作者实例，找到一个可变参数、一个可见结果，再改成自己的主题。 / Start with one editable parameter and one visible consequence.\n'
+  page+='- 制作依赖见各项目；GitHub 的 HTML 文件链接展示源码，不等于在线体验。 / See project dependencies. A GitHub HTML file link shows source, not a hosted demo.\n'
+  page+='- 媒体与源文件已核对，未运行上游创作流程。 / Source and media references checked; upstream production workflows were not executed.\n'
+  page+='\n[本期来源核对记录 / Source checks](../data/updates/2026-11-18-knowledge-html.json)\n'
+  write('docs/new-'+edition+'.md',page)
+  continue
  page=backlink()+f'# New creative skills / 本期新增 · {edition}\n\n'
  page+='**Choose by result / 按目标选：** code-rendered films, images and image prompts, or looping chat stickers. The date below is the upstream push date recorded on collection. / 下表列出采集时的上游推送日期，便于区分本月发布与本期补录。\n\n'
  if all(r.get('scene_source') for r in batch):

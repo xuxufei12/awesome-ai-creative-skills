@@ -9,8 +9,14 @@
 | [alchaincyf/huashu-art-motion](../projects/alchaincyf--huashu-art-motion.md) | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 | 1 | 0 |
 | [av-simi2/claude-manim-skill](../projects/av-simi2--claude-manim-skill.md) | 围绕 manimgl 的模板、参考和示例。 | 1 | 0 |
 | [Azure12355/weilanx-claude-videos](../projects/azure12355--weilanx-claude-videos.md) | Hand-drawn and pixel-art explainer videos written entirely in code — Remotion + React + SVG, procedural music & SFX, subtitle-driven timing | 8 | 0 |
+| [Everett406/code-explainer-video](../projects/everett406--code-explainer-video.md) | 规定知识讲解的策划、编码、检查和 MP4 交付流程；仓库有媒体检查脚本，尚未发现成品样片。 / Code explainers with Kimi | 1 | 0 |
 | [shiyan688/evidence-video](../projects/shiyan688--evidence-video.md) | 基于来源材料制作中文解说，提供 Skill 和宿主适配。 | 1 | 0 |
+| [steseven/vibe-make](../projects/steseven--vibe-make.md) | 把生活问题拆成调查、字幕、镜头与时间轴；附历史科普工程和成片拼板。 / How people brushed teeth in the past | 1 | 1 |
+| [thiernoyunus/stick-reel](../projects/thiernoyunus--stick-reel.md) | 用角色动作而非装饰性摆动表达概念，再配合旁白时间线输出竖屏讲解；附完整作者示例。 / Purposeful stick-figure explainers | 1 | 0 |
 | [threerocks/sweety-handdraw-video](../projects/threerocks--sweety-handdraw-video.md) | 从主题或文章走到配音、分镜、逐笔绘制和成片。 | 1 | 0 |
+| [worlds3/vibe-knowledge](../projects/worlds3--vibe-knowledge.md) | 用 Canvas 时间函数演示最优停止理论；HTML 自带播放和逐帧导出 MP4 的入口。 / When should you stop searching? | 1 | 1 |
+| [xiaotian-freedom/vibe-knowledge-awards-skill](../projects/xiaotian-freedom--vibe-knowledge-awards-skill.md) | 用逐镜计划组织无口播知识短片，附竖屏 HTML 起始工程、边缘和运动量检查脚本。 / Beat-timed knowledge shorts | 1 | 0 |
+| [YT-smart/vibe-knowledge-video](../projects/yt-smart--vibe-knowledge-video.md) | 以落珠、硬币和点阵说明概率，用字幕和代码动画代替旁白；作者提供 Claude、Codex、豆包与 WorkBuddy 样片。 / Galton-board luck explainer | 1 | 1 |
 | [0x68616F4C/auto-popsci](../projects/0x68616f4c--auto-popsci.md) | Agent Skill for generating math/science popularization videos with Manim + AI narration | 0 | 0 |
 | [124zhe/xigua-msvideo-skill](../projects/124zhe--xigua-msvideo-skill.md) | Codex skills for YouTube curiosity stories, MS Paint storyboards, narration, and video assembly. | 0 | 0 |
 | [Agentchengfeng/chengfeng-video-styles](../projects/agentchengfeng--chengfeng-video-styles.md) | 15 种代码视频风格 Skill：让 Claude Code / Codex 用纯代码做 10 秒知识讲解短片 | 0 | 0 |

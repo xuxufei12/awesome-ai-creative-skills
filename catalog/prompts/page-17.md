@@ -4,6 +4,9 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [例 28: 知识推理生成图像（by @icreatelife）](../../prompts/4dfdcaaf4a19709f.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例 28: 黑板粉笔画（by @TlanoAI）](../../prompts/2ad3f7d9ba621915.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
+| [例 29: 微型自画像（by @TechieBySA）](../../prompts/8105492bfdec4438.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 | [例 29: 红笔批注（by @AiMachete）](../../prompts/1f45167c02516c56.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 | [例 2: 根据地图箭头生成地面视角图片（by @tokumin）](../../prompts/7c1c8326b7b77f6c.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 | [例 2: 生成对应坐标的图片（by @TechieBySA）](../../prompts/ad40637c799587a3.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
@@ -81,8 +84,5 @@
 | [例 8: 儿童识字小报（by @lxfater）](../../prompts/d09dc3aa51a0dad6.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 | [例 8: 手绘图控制多角色姿态（by @op7418）](../../prompts/33ecfdd283531099.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 | [例 93: 切割带有卡通爆炸效果的物体（by @Arminn_Ai）](../../prompts/c77862970b1683f5.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 94: 卡通人物主题火车（by @tokyo_Valentine）](../../prompts/7ff5d67c41b3b470.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 95: 自定义主题公园（by @AI_Kei75）](../../prompts/5a3b4fdce7372651.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
-| [例 96: 创建星座图（by @AI_Kei75）](../../prompts/d10bd033254247ed.md) | 图像 | PicoTrex/Awesome-Nano-Banana-images |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)

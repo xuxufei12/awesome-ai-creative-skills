@@ -4,6 +4,9 @@
 
 | Entry / 条目 | Category / 分类 | Source / 来源 |
 |---|---|---|
+| [explainer · @iTakahashikun · 990109](../../prompts/a587bf9bc1681a79.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
+| [explainer · @imthatcarlos · 133592](../../prompts/d04d312881d7e1d6.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
+| [explainer · @iniyanai · 856596](../../prompts/6066aedf60ed6c2d.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [explainer · @irinatoxi · 962937](../../prompts/667868682a849a98.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [explainer · @itsahmedharoon · 544194](../../prompts/cd238b0ecf435297.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [explainer · @itsyashf · 692347](../../prompts/cb754939dc0f0146.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
@@ -24,8 +27,11 @@
 | [explainer · @tetsu_tetsu333 · 576886](../../prompts/831a300389f1e60c.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [explainer · @verbove · 268381](../../prompts/4b5ea33388d803ef.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
 | [explainer · @xamfonos_ · 004331](../../prompts/0ee262ba46030982.md) | 教学科普与手绘 | yihui-dev/awesome-opus5-5-videos |
+| [古人怎么刷牙 · 作者调用示例](../../prompts/ce6ccd578ffe392a.md) | 教学科普与手绘 | steseven/vibe-make |
 | [忒修斯之船科普(Claude CLI 接 DeepSeek)](../../prompts/8589e6f3b13f496e.md) | 教学科普与手绘 | PDF / community |
+| [落珠如何堆出运气的形状 · 作者调用示例](../../prompts/063755b72b3e8036.md) | 教学科普与手绘 | YT-smart/vibe-knowledge-video |
 | [让 Opus 先上网研究做法、再做一部教学动画](../../prompts/e453242d1957eaef.md) | 教学科普与手绘 | PDF / community |
+| [遇到第几个人该停下 · 作者调用示例](../../prompts/395af3946afe1012.md) | 教学科普与手绘 | worlds3/vibe-knowledge |
 | [15秒回顾三维计算机图形史](../../prompts/d8845db1fd822e57.md) | 知识讲解 | guanmo-ai/awesome-ai-motion |
 | [3D 细胞教学视频](../../prompts/3fed8d91dce6ce2a.md) | 知识讲解 | guanmo-ai/awesome-ai-motion |
 | [40秒解释 Coding Agent 如何工作](../../prompts/047956cef341cd2b.md) | 知识讲解 | guanmo-ai/awesome-ai-motion |
@@ -78,11 +84,5 @@
 | [Bleach Bypass Cinema Projectionist](../../prompts/00b7a641ce32dcc6.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 | [Boardwalk Eyewear Heat-Haze](../../prompts/11dc41f63f194ac6.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
 | [Burnt Tongue, Steady Sip](../../prompts/a12cd7a61a879695.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
-| [Candle Cozy Rainy Night](../../prompts/37b2912c871825d6.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
-| [Candle Wax Press](../../prompts/db3145a09008182f.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
-| [Candle, Ambient Slow Ignite](../../prompts/8c873baef8d51f11.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
-| [Candle, Midnight Library](../../prompts/a5ed97cab204d119.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
-| [Candlelit Vinyl Wind-Down](../../prompts/01d133002da8c4da.md) | 视频 | LichAmnesia/awesome-ad-video-prompts |
-| [Car Door Epoxy Floor Design](../../prompts/fb8a1a4cfbe07622.md) | 视频 | YouMind-OpenLab/awesome-seedance-2-prompts |
 
 [Page 1](page-01.md) · [Page 2](page-02.md) · [Page 3](page-03.md) · [Page 4](page-04.md) · [Page 5](page-05.md) · [Page 6](page-06.md) · [Page 7](page-07.md) · [Page 8](page-08.md) · [Page 9](page-09.md) · [Page 10](page-10.md) · [Page 11](page-11.md) · [Page 12](page-12.md) · [Page 13](page-13.md) · [Page 14](page-14.md) · [Page 15](page-15.md) · [Page 16](page-16.md) · [Page 17](page-17.md) · [Page 18](page-18.md) · [Page 19](page-19.md) · [Page 20](page-20.md) · [Page 21](page-21.md) · [Page 22](page-22.md) · [Page 23](page-23.md) · [Page 24](page-24.md)
